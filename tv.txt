@@ -25,33 +25,7 @@ BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
 香港频道,#genre#
-TVB J2,https://flv3948069e.live.126.net/live/19596aac67ab8fa10ff4eb6e2e4a5991.flv
-TVB J5,https://flv3948069e.live.126.net/live/8fd34e1a78781af716d29232ff84d782.flv
-有线新闻台,https://flv3948069e.live.126.net/live/c6c6acec83fa640570ca520611729dba.flv
-TVB翡翠台,https://flv3948069e.live.126.net/live/2c054524548b0e21347c3c22bba3b865.flv
-TVB新闻台,https://flv3948069e.live.126.net/live/d7b8ebac765c44494a526572993f32e6.flv
-TVB星河台,https://flv3948069e.live.126.net/live/c2ad95f2c5e61a3fc52bd7a014f527c7.flv
-VIUTV,https://flv3948069e.live.126.net/live/055fc6668d648b0b222ad791a9359844.flv
-星空台,https://flv3948069e.live.126.net/live/b551353e35df83ddf577da187cd8a231.flv
-美亚电影台,https://flv3948069e.live.126.net/live/1a05bfa79ed5393c8f4ec2d02636c16d.flv
-卫视电影,https://flv3948069e.live.126.net/live/088c8ddcc24b2c638b88f5e6883882eb.flv
-台湾频道,#genre#
-东森电影,https://flv3948069e.live.126.net/live/84156aaea0fe0754aa52c0582b2a7bde.flv
-东森洋片,https://flv3948069e.live.126.net/live/62b08239f07f3996b0bf4b386ca9df67.flv
-东森新闻,https://flv3948069e.live.126.net/live/60ba9a83135f2b51f9157eb80e3cbddf.flv
-东森综合,https://flv3948069e.live.126.net/live/0250dc225a4e4e457c54a05fe276f817.flv
-中天新闻,https://flv3948069e.live.126.net/live/4c86189ca537f423025f24801c728f4a.flv
-中天综合,https://flv3948069e.live.126.net/live/a1d3cab0e3b1b62ff02ce47262b5d5a6.flv
-中天亚洲,https://flv3948069e.live.126.net/live/111b48242396708a3ab652d7453c15dc.flv
-三立新闻,https://flv3948069e.live.126.net/live/8d2cbdf6e1ba1628ff763202889ca9a2.flv
-三立都会,https://flv3948069e.live.126.net/live/da50b16366521d359f0d5b56e7cb3cd9.flv
-非凡新闻,https://flv3948069e.live.126.net/live/957782957c8d4020fb440b9648ef9de2.flv
-年代新闻,https://flv3948069e.live.126.net/live/8594e002648e6a13cab5668b1c2eb337.flv
-民视新闻,https://flv3948069e.live.126.net/live/b21203aa659407febbdd7714744da03d.flv
-华视,https://flv3948069e.live.126.net/live/7d7174448fd5454b9936825394398ab6.flv
-中视,https://flv3948069e.live.126.net/live/d890e289396052efb8165b79772c5b75.flv
-民视,https://flv3948069e.live.126.net/live/884f4d5167e1c17c65e38531ceba3d7d.flv
-公视,https://flv3948069e.live.126.net/live/df699af5783da646d3135903a06573bc.flv
+黑超,https://r4---sn-i3belnl7.googlevideo.com/videoplayback?expire=1636298034&ei=0piHYaGPA8Ow4gKhsYrYCA&ip=20.205.96.168&id=o-AC9ZXCf2XuJgcPvQVH7-y1lFN-suM06JPO7_40ghvuTB&itag=18&source=youtube&requiressl=yes&mh=nR&mm=31%2C26&mn=sn-i3belnl7%2Csn-ogul7nez&ms=au%2Conr&mv=m&mvi=4&pl=19&initcwndbps=2062500&vprv=1&mime=video%2Fmp4&ns=32zsLVHKfjFH21fOOI1aB4MG&gir=yes&clen=16068377&ratebypass=yes&dur=435.049&lmt=1636265319051300&mt=1636276131&fvip=4&fexp=24001373%2C24007246&c=MWEB&txp=6310222&n=FhV7de11bcnbvg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJ2XQpmOr1Q73m78jsLRcdE_YdrU6Oei8gzpVx31WeVzAiEA_jUtWrbKVh6gLpme1jHS8GD2pGRm30vcHwq7WfjI8NI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOw1Og9MG822VVpmG_fZ0vzPzU2jHky3T2CYFaECZsjzAiAdq9dpFB0OZ2srvZeyskFslREIUDhaTEnvHQQe8nq8ZQ%3D%3D&cpn=86Ayfe9e188skMPa&cver=2.20211103.00.00&ptk=youtube_single&oid=_nmtzzkBGRygD6A4QHAvwQ&ptchn=bSj5vM3ctjI7_OaKckMqDQ&pltype=content
 红人馆_918,#genre#
 松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
