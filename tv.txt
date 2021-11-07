@@ -24,6 +24,16 @@ BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
+港澳频道,#genre#
+TVB J2,https://flv3948069e.live.126.net/live/19596aac67ab8fa10ff4eb6e2e4a5991.flv
+TVB J5,https://flv3948069e.live.126.net/live/8fd34e1a78781af716d29232ff84d782.flv
+有线新闻台,https://flv3948069e.live.126.net/live/c6c6acec83fa640570ca520611729dba.flv
+TVB翡翠台,https://flv3948069e.live.126.net/live/2c054524548b0e21347c3c22bba3b865.flv
+TVB新闻台,https://flv3948069e.live.126.net/live/d7b8ebac765c44494a526572993f32e6.flv
+TVB星河台,https://flv3948069e.live.126.net/live/c2ad95f2c5e61a3fc52bd7a014f527c7.flv
+VIUTV,https://flv3948069e.live.126.net/live/055fc6668d648b0b222ad791a9359844.flv
+星空台,https://flv3948069e.live.126.net/live/b551353e35df83ddf577da187cd8a231.flv
+美亚电影台,https://flv3948069e.live.126.net/live/1a05bfa79ed5393c8f4ec2d02636c16d.flv
 红人馆_918,#genre#
 松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
