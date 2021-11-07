@@ -14,7 +14,6 @@ ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-
 美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -30,7 +29,6 @@ HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松视4台,http://zhiboyuan.cf:2021/gctv.php?id=173 
 天美传媒_918,#genre#
 天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
 天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
@@ -70,11 +68,8 @@ HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 日韩9,https://vip4.ddyunbo.com/20210222/HkzYbN40/index.m3u8?skipl=1
 日韩10,https://vip4.ddyunbo.com/20210222/T8jUItC4/index.m3u8?skipl=1
 黑肥新片,#genre#
-
 怒火重案,https://shortv.cdp.qq.com/gzc_1000102_0b53nmaaaaaaliahbucsmfq4a26dabtqabca.f10218.mp4?vkey=7164168BD3578D5F66FBC911EEB7A33E3983BB324C24441CDC1EF5255C3108F0229274E75E8D752AB17449F2BBDCCC27F8001341488A7077A672208751EF3C27B141506259487373C57F930E1CB1A4EFFBB1F362FE0DA5EAF5DCAB8F34086EB5579BBE5E91A6715924771D69D0407BB16797B0351C1E6927&uid=xmflv
-
 长津湖,https://cdn7.ywxxzb.com:65/20211005/zhFxXFfh/index.m3u8
-
 中国医生,https://shortv.cdp.qq.com/gzc_1000102_0b53caaaaaaavuapd6b5xnq4aegdaaoaabca.f10218.mp4?vkey=919584C0E1C80F5E516580A80418E7AF9C43AAD9EF1F5D8F591D6EC11AA10A1954590024A3F897512EDD3360C7186FD03809B0BC803D0615B4A3FBF214B4A734301AE559DFEBF3D7D5E7E0655ED037B349584EA0FED11CDF5A7FC0D3841C49A7FDD43EB489026117D09444A34B73A58E600339C585B7F87E&uid=xmflv
 电影频道,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rQOL4akKz2_2000.flv?wsAuth=c26bd1cbc42015624e84f7b5c5c829f6&token=cpn-androidmpro-0-252802-536492a84fc6fe0c1fc9e758f0fbf71b6cdc048355adc779&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
