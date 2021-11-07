@@ -30,12 +30,6 @@ HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 松视4台,http://zhiboyuan.cf:2021/abc.php?id=173
 潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-红人馆._918,#genre#
-松视1台,http://zhiboyuan.cf:2021/abc.php?id=170
-松视2台,http://zhiboyuan.cf:2021/abc.php?id=171
-松视3台,http://zhiboyuan.cf:2021/abc.php?id=172
-松视4台,http://zhiboyuan.cf:2021/abc.php?id=173
-潘多拉完美,http://zhiboyuan.cf:2021/abc.php?id=174
 天美传媒_918,#genre#
 天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
 天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
