@@ -36,7 +36,7 @@ VIUTV,https://flv3948069e.live.126.net/live/055fc6668d648b0b222ad791a9359844.flv
 美亚电影台,https://flv3948069e.live.126.net/live/1a05bfa79ed5393c8f4ec2d02636c16d.flv
 卫视电影,https://flv3948069e.live.126.net/live/088c8ddcc24b2c638b88f5e6883882eb.flv
 台湾频道,#genre#
-f东森电影,https://flv3948069e.live.126.net/live/84156aaea0fe0754aa52c0582b2a7bde.flv
+东森电影,https://flv3948069e.live.126.net/live/84156aaea0fe0754aa52c0582b2a7bde.flv
 东森洋片,https://flv3948069e.live.126.net/live/62b08239f07f3996b0bf4b386ca9df67.flv
 东森新闻,https://flv3948069e.live.126.net/live/60ba9a83135f2b51f9157eb80e3cbddf.flv
 东森综合,https://flv3948069e.live.126.net/live/0250dc225a4e4e457c54a05fe276f817.flv
