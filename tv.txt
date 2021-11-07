@@ -29,6 +29,7 @@ HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+松视4台,http://zhiboyuan.cf:2021/abc.php?id=173
 天美传媒_918,#genre#
 天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
 天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
