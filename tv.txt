@@ -25,6 +25,8 @@ BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
 香港频道,#genre#
+TVB翡翠台,http://113.64.147.251:808:808/hls/67/index.m3u8?times=0
+Mytv18,http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 18台,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 J2,https://p2.weizan.cn/1646497941/241849434346185861/live.m3u8
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8
