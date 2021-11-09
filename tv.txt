@@ -1,29 +1,3 @@
-地波港澳,#genre#
-TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-TVB新聞台,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8
-TVB J2台,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
-TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-TVB明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8,tvming-XGMingZhu
-TVB明珠台(粵語),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-TVB財經資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
-天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-全佳频道HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
-翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
 香港频道,#genre#
 J2,https://vip:vip930@vip.hkdtmb.com/hls/82/index.m3u8
 J5,https://vip:vip930@vip.hkdtmb.com/hls/85/index.m3u8
@@ -40,15 +14,17 @@ RTHK31,https://vip:vip930@vip.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://vip:vip930@vip.hkdtmb.com/hls/32/index.m3u8
 RTHK33,https://vip:vip930@vip.hkdtmb.com/hls/33/index.m3u8
 香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w722142972.m3u8
-C+频道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
+天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+全佳频道HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-凤凰资讯台,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
-凤凰资讯台,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-凤凰中文台,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
 香港临时,#genre#
 TVB翡翠台,http://113.64.147.251:808:808/hls/67/index.m3u8?times=0
 Mytv18,http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
