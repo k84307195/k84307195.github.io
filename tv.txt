@@ -49,7 +49,6 @@ TVB翡翠台2,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid
 凤凰资讯台,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 凤凰中文台,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-
 香港频道,#genre#
 TVB翡翠台,http://113.64.147.251:808:808/hls/67/index.m3u8?times=0
 Mytv18,http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
