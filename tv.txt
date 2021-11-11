@@ -2,7 +2,6 @@
 J2,https://vip:vip930@vip.hkdtmb.com/hls/82/index.m3u8
 J5,https://vip:vip930@vip.hkdtmb.com/hls/85/index.m3u8
 翡翠台（内地）,#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-翡翠台,https://vip:vip930@vip.hkdtmb.com/hls/81/index.m3u8
 翡翠台（字幕）,https://vip:vip930@vip.hkdtmb.com/hls/81b/index.m3u8
 新闻台,https://vip:vip930@vip.hkdtmb.com/hls/83/index.m3u8
 开电视,https://vip:vip930@vip.hkdtmb.com/hls/77/index.m3u8
