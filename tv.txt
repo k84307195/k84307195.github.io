@@ -1,8 +1,9 @@
 香港频道,#genre#
 J2,https://vip:vip930@vip.hkdtmb.com/hls/82/index.m3u8
 J5,https://vip:vip930@vip.hkdtmb.com/hls/85/index.m3u8
-翡翠台（内地）,http://113.64.147.64:808:808/hls/67/index.m3u8?times=0#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-翡翠台,https://vip:vip930@vip.hkdtmb.com/hls/81/index.m3u8#https://vip:vip930@vip.hkdtmb.com/hls/81b/index.m3u8
+翡翠台（内地）#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台,https://vip:vip930@vip.hkdtmb.com/hls/81/index.m3u8#
+翡翠台（字幕）,https://vip:vip930@vip.hkdtmb.com/hls/81b/index.m3u8
 新闻台,https://vip:vip930@vip.hkdtmb.com/hls/83/index.m3u8
 开电视,https://vip:vip930@vip.hkdtmb.com/hls/77/index.m3u8
 星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
@@ -18,25 +19,10 @@ RTHK33,https://vip:vip930@vip.hkdtmb.com/hls/33/index.m3u8
 美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-全佳频道HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-HKanime Song,https://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
-翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
-香港临时,#genre#
-TVB翡翠台,http://113.64.147.251:808:808/hls/67/index.m3u8?times=0
-Mytv18,http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
-18台,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
-J2,https://p2.weizan.cn/1646497941/241849434346185861/live.m3u8
-翡翠台,https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8
-明珠台,https://p2.weizan.cn/1646497941/583790710723181993/live.m3u8
-新闻台,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
-18台,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
-ViuTV,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
-HKC新闻台,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
-603,https://p2.weizan.cn/1646497941/912180711177351574/live.m3u8
 红人馆_918,#genre#
 松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
@@ -89,16 +75,13 @@ HKC新闻台,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
 电影频道,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rQOL4akKz2_2000.flv?wsAuth=c26bd1cbc42015624e84f7b5c5c829f6&token=cpn-androidmpro-0-252802-536492a84fc6fe0c1fc9e758f0fbf71b6cdc048355adc779&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=4c0d2dc0f7318e2ed4491ce19fcc9232&token=cpn-androidmpro-0-20415-b6774b3b3249db171af4e88d4b6681da7a4d666601df3939&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3/2793084rVySUF4pt.flv?wsAuth=4e03fd911adf97d3fe8be3c82ed56c0c&token=cpn-androidmpro-0-2793084-3f569b7e953394a7a5fb7aa53ebb07d57245f18b9acfedcd&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-粤语电影1,http://tc-tct.douyucdn2.cn/dyliveflv3/5033502rpx2aZmLl.flv?wsAuth=ad1bf5532857416b284346e5a7cb99ca&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d1bdae27ea83691fd97edae06df9c80c1c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3/2793084rXmcC867I.flv?wsAuth=21984abda7fed91245362273722fb5c5&token=cpn-androidmpro-0-2793084-3f569b7e953394a7386ddec91a93b9a337631ab98c3682d2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+粤语电影1,http://tc-tct.douyucdn2.cn/dyliveflv3/5033502rZxdK72GT.flv?wsAuth=28adbe82ac0fadef743fdeaddd88a96b&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d12bbff40e3c610d2f60a35cb834bc1400&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/6566671rlC7M648e.flv?wsAuth=8a5f1531977f52bdec74ee1ec0d03844&token=cpn-androidmpro-0-6566671-e1f409a777b7d496bc2de5a21412d4744853af134ce30725&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rexfHKiNP.flv?wsAuth=590de152dc910d0a8c239ed3143ae9b2&token=cpn-androidmpro-0-2466104-09fd8b41302171bd3bbbefc4229545c217b6f7cedad0bbda&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3a/8603174rFz8Cgzq9.flv?wsAuth=6b3ce4acde4c8109cfd5812b64083bad&token=cpn-androidmpro-0-8603174-8f495c66f44b1e3265ffcb96ac2468263125b367b432d169&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741r9brPn9az.flv?wsAuth=717d8367ac052a9b123bcbd66fccda15&token=cpn-androidmpro-0-1226741-0dc52b22d0295689b3fcfbd7647a411139cfda76a20ac11c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rcnu6g7x1.flv?wsAuth=f06f054a9ab1f3b109438a2dff286973&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6b3f6e4ed83c087c5fba9060d0db2b04f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-粤语高清喜剧,http://121.12.115.162/txdirect.flv.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.flv
-淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-周星驰,http://121.12.115.157/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1_2000.m3u8
+4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rcnu6g7x1.flv?wsAuth=8297b4d1be64c794d7a42df160a9474f&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd62af68b85c1286f0fb426b604036b802c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 张国荣,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 郭富城,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
