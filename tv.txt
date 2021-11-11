@@ -6,7 +6,7 @@ J5,https://vip:vip930@vip.hkdtmb.com/hls/85/index.m3u8
 翡翠台.,https://vip:vip930@vip.hkdtmb.com/hls/81/index.m3u8
 新闻台,https://vip:vip930@vip.hkdtmb.com/hls/83/index.m3u8
 开电视,https://vip:vip930@vip.hkdtmb.com/hls/77/index.m3u8
-星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+星河台,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 明珠台（粤语）,https://vip:vip930@vip.hkdtmb.com/hls/84b/index.m3u8
 明珠台,https://vip:vip930@vip.hkdtmb.com/hls/84/index.m3u8
 viutv,https://vip:vip930@vip.hkdtmb.com/hls/99/index.m3u8
