@@ -1,5 +1,6 @@
 香港频道,#genre#
-J2,https://vip:vip930@vip.hkdtmb.com/hls/82/index.m3u8
+有线新闻台,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
+J2,https://p2.weizan.cn/1646497941/805766058439696913/live.m3u8
 J5,https://vip:vip930@vip.hkdtmb.com/hls/85/index.m3u8
 翡翠台（内地）,http://113.64.147.98:808:808/hls/67/index.m3u8?times=0#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台（字幕）,https://vip:vip930@vip.hkdtmb.com/hls/81b/index.m3u8
@@ -10,7 +11,7 @@ J5,https://vip:vip930@vip.hkdtmb.com/hls/85/index.m3u8
 星河台.,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 明珠台（粤语）,https://vip:vip930@vip.hkdtmb.com/hls/84b/index.m3u8
 明珠台,https://vip:vip930@vip.hkdtmb.com/hls/84/index.m3u8
-viutv,https://vip:vip930@vip.hkdtmb.com/hls/99/index.m3u8
+viutv,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
 viutvsix,https://vip:vip930@vip.hkdtmb.com/hls/96/index.m3u8
 RTHK31,https://vip:vip930@vip.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://vip:vip930@vip.hkdtmb.com/hls/32/index.m3u8
