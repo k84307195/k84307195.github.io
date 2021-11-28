@@ -638,7 +638,6 @@ tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
 靖天戲劇台,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
-
 香港频道,#genre#
 翡翠02,http://113.64.147.54:808/hls/67/index.m3u8
 翡翠03,http://113.64.147.56:808/hls/25/index.m3u8
@@ -780,6 +779,7 @@ TVBS歡樂,http://liuq.usa7.20212021.ga/tbs.php?id=97
 日韩9,https://vip4.ddyunbo.com/20210222/HkzYbN40/index.m3u8?skipl=1
 日韩10,https://vip4.ddyunbo.com/20210222/T8jUItC4/index.m3u8?skipl=1
 黑肥新片,#genre#
+扬名立万,https://cdn2.bzjupinhang.com:65/20211120/JzbX5A0O/index.m3u8
 梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
 1921,https://shortv.cdp.qq.com/gzc_1000102_0b5354aa2aaa2aahivcjcnq4b36dbxrqacka.f10218.mp4?vkey=18F349C8423F456F5B93C9C9041575E4DF51F2F58ACF9443B9CE0C834A6C465D012244B1966E9CBF39FDDBC0F6FA1BEC9AC40BE832F1044D3BC2F4ED4EE2895617BD0844C07D2EE57222FEF2D7D12A305A75643B6179102F9536A45603C38CC3799F6941BC83C78CB4B77332EBAEF7493380AD7E3878D7D5&uid=xmflv
 悬崖之上,https://hnzy6.liugecaiwu.com:65/20210715/TGV6HChF/index.m3u8
