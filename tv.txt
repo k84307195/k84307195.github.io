@@ -1,5 +1,5 @@
 晴天TV,#genre#
-晴天TV-台灣,#genre#
+🛰️台湾頻道,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
@@ -142,7 +142,7 @@ CCTV15,mitv://ns2.hellotvvod.com:9906/e59ce5187941465684254cd07f4f8b73
 魅力足球,mitv://ns2.hellotvvod.com:9906/1d8773c524fa4ff0a210dd82b5442327
 新視覺,mitv://ns2.hellotvvod.com:9906/9319abc926b54236ad6215e7132c9c11
 廣東體育,mitv://ns2.hellotvvod.com:9906/3faeeb40ba624e64bb63ded82e67a601
-🇭🇰晴天TV-港澳,#genre#
+🇭🇰港澳,#genre#
 Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
@@ -213,7 +213,7 @@ HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
-🇲🇾晴天TV-馬來西亞,#genre#
+🇲🇾馬來西亞,#genre#
 TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
 TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f
 TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f
