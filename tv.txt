@@ -100,7 +100,7 @@ HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
 國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
-晴天TV-中國,#genre#
+🛰️中國频道,#genre#
 CCTV1,mitv://ns2.hellotvvod.com:9906/916670281cae4113bd5b2dfd948e138f
 CCTV2,mitv://ns2.hellotvvod.com:9906/ac9600048e3a4ca2acc668ed58a9a17e
 CCTV3,mitv://ns2.hellotvvod.com:9906/b4c58672af364a3786e2223e19762069
