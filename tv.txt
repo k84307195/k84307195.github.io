@@ -674,35 +674,13 @@ tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 🇭🇰香港频道,#genre#
-翡翠02,http://113.64.147.54:808/hls/67/index.m3u8
-翡翠03,http://113.64.147.56:808/hls/25/index.m3u8
-有线新闻台,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
-J2,https://p2.weizan.cn/1646497941/805766058439696913/live.m3u8
-J5,https://vip:vip930@vip.hkdtmb.com/hls/85/index.m3u8
 翡翠台（内地）,http://113.64.147.98:808:808/hls/67/index.m3u8?times=0#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-翡翠台（字幕）,https://vip:vip930@vip.hkdtmb.com/hls/81b/index.m3u8
-翡翠台.,https://vip:vip930@vip.hkdtmb.com/hls/81/index.m3u8
-新闻台,https://vip:vip930@vip.hkdtmb.com/hls/83/index.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-星河台,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+8
 星河台.,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-明珠台（粤语）,https://vip:vip930@vip.hkdtmb.com/hls/84b/index.m3u8
-明珠台,https://vip:vip930@vip.hkdtmb.com/hls/84/index.m3u8
-viutv,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
-viutvsix,https://vip:vip930@vip.hkdtmb.com/hls/96/index.m3u8
-RTHK31,https://vip:vip930@vip.hkdtmb.com/hls/31/index.m3u8
-RTHK32,https://vip:vip930@vip.hkdtmb.com/hls/32/index.m3u8
-RTHK33,https://vip:vip930@vip.hkdtmb.com/hls/33/index.m3u8
-香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w722142972.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
-天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-🛰️台湾频道,#genre#
 东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
 东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
 🛰️红人馆_918,#genre#
