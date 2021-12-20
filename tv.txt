@@ -1,4 +1,4 @@
-🛰️台湾頻道,#genre#
+🇨🇳台湾頻道,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
