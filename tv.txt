@@ -209,6 +209,17 @@ HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
 HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
 HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+🇭🇰港台测试,#genre#
+TVBJ2(备用),http://iptv.tvfix.org/hls/j22.m3u8
+TVBJ2(粤语),http://iptv.tvfix.org/hls/j2.m3u8
+TVB翡翠,http://iptv.tvfix.org/hls/jade.m3u8
+TVB翡翠（备用1）,http://iptv.tvfix.org/hls/jade2.m3u8
+TVB翡翠（备用）2,http://iptv.tvfix.org/hls/jadegd.m3u8
+TVB翡翠海外版(国语),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB翡翠海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+TVB明珠台,http://iptv.tvfix.org/hls/pearl2.m3u8
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
 🇲🇴澳门频道,#genre#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
