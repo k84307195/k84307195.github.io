@@ -734,50 +734,6 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
 东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
-🛰️红人馆_918,#genre#
-松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
-松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松视4台,http://zhiboyuan.cf:2021/abc.php?id=173
-潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-🛰️天美传媒_918,#genre#
-天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
-天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
-天美传媒27,https://video2.51daao.com/btt1/2021/01/20210131/BQY1vCJ4/index.m3u8
-天美传媒26,https://video2.51daao.com/btt1/2021/01/20210131/zDEwqelh/index.m3u8
-天美传媒25,https://video2.51daao.com/btt1/2021/01/20210131/eKSd5QE7/index.m3u8
-天美传媒23,https://video2.51daao.com/btt1/2021/01/20210131/e4CQTt8H/index.m3u8
-天美传媒22,https://video2.51daao.com/btt1/2021/01/20210131/x184r1n4/index.m3u8
-天美传媒21,https://video2.51daao.com/btt1/2021/02/20210201/nDsIoul4/index.m3u8
-天美传媒20,https://video2.51daao.com/btt1/2021/02/20210201/2y1YjwEL/index.m3u8
-天美传媒19,https://video2.51daao.com/btt1/2021/02/20210201/ozNmkdR3/index.m3u8
-天美传媒18,https://video2.51daao.com/btt1/2021/02/20210201/YcHjiZ7t/index.m3u8
-天美传媒17,https://video2.51daao.com/btt1/2021/02/20210201/mzt2nJRT/index.m3u8
-天美传媒16,https://video2.51daao.com/btt1/2021/02/20210201/A0yxpEqY/index.m3u8
-天美传媒15,https://video2.51daao.com/btt1/2021/02/20210201/Xx9Zbgkd/index.m3u8
-天美传媒14,https://video2.51daao.com/btt1/2021/02/20210201/LHJiAJ2L/index.m3u8
-天美传媒13,https://video2.51daao.com/btt1/2021/02/20210201/T6uGyIgj/index.m3u8
-天美传媒12,https://video2.51daao.com/btt1/2021/02/20210201/jLKNXthe/index.m3u8
-天美传媒11,https://video2.51daao.com/btt1/2021/02/20210202/mEMG07WV/index.m3u8
-天美传媒10,https://video2.51daao.com/btt1/2021/02/20210202/QmSmqiRr/index.m3u8
-天美传媒09,https://video2.51daao.com/btt1/2021/02/20210202/XBtcPy7V/index.m3u8
-天美传媒08,https://video2.51daao.com/btt1/2021/02/20210202/lwHctu4K/index.m3u8
-天美传媒07,https://video2.51daao.com/btt1/2021/02/20210202/9ZAJXaA9/index.m3u8
-天美传媒06,https://video2.51daao.com/btt1/2021/02/20210202/26nESk76/index.m3u8
-天美传媒05,https://video2.51daao.com/btt1/2021/02/20210202/AL7rZJm1/index.m3u8
-天美传媒04,https://video2.51daao.com/btt1/2021/02/20210210/GelcPLQ0/index.m3u8
-天美传媒03,https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
-天美传媒02,https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
-日韩1,https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
-日韩2,https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
-日韩3,https://vip4.ddyunbo.com/20210223/dRyGiQT6/index.m3u8?skipl=1
-日韩4,https://vip4.ddyunbo.com/20210223/I28Qes3F/index.m3u8?skipl=1
-日韩5,https://vip4.ddyunbo.com/20210219/gpUU8FL5/index.m3u8?skipl=1
-日韩6,https://vip4.ddyunbo.com/20210219/2nbzl0Nn/index.m3u8?skipl=1
-日韩7,https://vip4.ddyunbo.com/20210219/jUULGG5c/index.m3u8?skipl=1
-日韩8,https://vip4.ddyunbo.com/20210222/OrpC8XMK/index.m3u8?skipl=1
-日韩9,https://vip4.ddyunbo.com/20210222/HkzYbN40/index.m3u8?skipl=1
-日韩10,https://vip4.ddyunbo.com/20210222/T8jUItC4/index.m3u8?skipl=1
 🛰️黑肥新片,#genre#
 扬名立万,https://cdn2.bzjupinhang.com:65/20211120/JzbX5A0O/index.m3u8
 梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
