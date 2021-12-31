@@ -748,8 +748,8 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 粤语电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/6566671r3rc0Mq8Q_2000.flv?wsAuth=cff8a9c9c2c6447ec64e9d81826ba1c8&token=cpn-androidmpro-0-6566671-e1f409a777b7d4961b3a5c688c9fb272affffd98f0894dcf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rqH5uJkJw.flv?wsAuth=3c9656813c60ddf6df583541c0600163&token=cpn-androidmpro-0-2466104-09fd8b41302171bda02cb343f4239dd90d22d6cd9686b5e4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3a/8603174rFz8Cgzq9.flv?wsAuth=13901286334d9fdfbe3bfce0725c1378&token=cpn-androidmpro-0-8603174-8f495c66f44b1e329c7f0fd7a94eb133a9af8be186571f6a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rkadcxr57.flv?wsAuth=c15ef86aec093eb1822130420ec2a8d4&token=cpn-androidmpro-0-1226741-0dc52b22d0295689c04e3c834d7b6d2b65187926c7558366&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3a/9249162rJfa0EJmc.flv?wsAuth=dd03ec61238dee38ab2e2e4faa156a19&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6d0bea59e33e71f9a4521664f963e527d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rd2sPdSNQ.flv?wsAuth=efd6648706d4f9a7629119025073657d&token=cpn-androidmpro-0-1226741-0dc52b22d02956890f29ede2c171752c83f3cca56764a8b5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3a/9249162raOuZGmcY.flv?wsAuth=32176ba1baa7386c19047297849ea210&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6448def149600146eb3a0075110daec77&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 张国荣,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 郭富城,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
