@@ -141,21 +141,6 @@ CCTV15,mitv://ns2.hellotvvod.com:9906/e59ce5187941465684254cd07f4f8b73
 魅力足球,mitv://ns2.hellotvvod.com:9906/1d8773c524fa4ff0a210dd82b5442327
 新視覺,mitv://ns2.hellotvvod.com:9906/9319abc926b54236ad6215e7132c9c11
 廣東體育,mitv://ns2.hellotvvod.com:9906/3faeeb40ba624e64bb63ded82e67a601
-🇭🇰港台地波,#genre#
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台 中英字幕,https://cdn.hkdtmb.com/hls/81b/index.m3u8
-j2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-无线财经台,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96b/index.m3u8
-开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
-港台电视31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台电视32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港台电视33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 🇭🇰港台高清,#genre#
 有线新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
 翡翠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
