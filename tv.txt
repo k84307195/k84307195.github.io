@@ -141,6 +141,23 @@ CCTV15,mitv://ns2.hellotvvod.com:9906/e59ce5187941465684254cd07f4f8b73
 魅力足球,mitv://ns2.hellotvvod.com:9906/1d8773c524fa4ff0a210dd82b5442327
 新視覺,mitv://ns2.hellotvvod.com:9906/9319abc926b54236ad6215e7132c9c11
 廣東體育,mitv://ns2.hellotvvod.com:9906/3faeeb40ba624e64bb63ded82e67a601
+🇭🇰港台秒开,#genre#
+翡翠台,http://fuck.ke22.aihost69.top/play/1.m3u8
+无线新闻,http://fuck.ke22.aihost69.top/play/9.m3u8
+无线财经,http://fuck.ke22.aihost69.top/play/10.m3u8
+J2,http://fuck.ke22.aihost69.top/play/12.m3u8
+明珠台,http://fuck.ke22.aihost69.top/play/13.m3u8
+香港开电视,http://fuck.ke22.aihost69.top/play/7.m3u8
+ViuTV,http://fuck.ke22.aihost69.top/play/8.m3u8
+Now新闻台,http://fuck.ke22.aihost69.top/play/16.m3u8
+RHK31,http://fuck.ke22.aihost69.top/play/20.m3u8
+RHK32,http://fuck.ke22.aihost69.top/play/21.m3u8
+有线新闻台,http://fuck.ke22.aihost69.top/play/24.m3u8
+有线18台,http://fuck.ke22.aihost69.top/play/25.m3u8
+香港603,http://fuck.ke22.aihost69.top/play/26.m3u8
+有线体育台,http://fuck.ke22.aihost69.top/play/27.m3u8
+有线财经资讯台,http://fuck.ke22.aihost69.top/play/28.m3u8
+澳门莲花,http://fuck.ke22.aihost69.top/play/30.m3u8
 🇭🇰港台高清,#genre#
 有线新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
 翡翠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
