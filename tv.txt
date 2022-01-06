@@ -768,6 +768,14 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3a/8603174rFz8Cgzq9.flv?wsAuth=13901286334d9fdfbe3bfce0725c1378&token=cpn-androidmpro-0-8603174-8f495c66f44b1e329c7f0fd7a94eb133a9af8be186571f6a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rd2sPdSNQ.flv?wsAuth=efd6648706d4f9a7629119025073657d&token=cpn-androidmpro-0-1226741-0dc52b22d02956890f29ede2c171752c83f3cca56764a8b5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3a/9249162raOuZGmcY.flv?wsAuth=32176ba1baa7386c19047297849ea210&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6448def149600146eb3a0075110daec77&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+粤语残片台,http://784697081.xyz/bilibili258.php?id=3568283
+粤语港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+粤语港片,http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
+粤语原声,http://kkiptv.hk3.20212021.ml/qqq.php?id=380066322
+粤语港片,http://kkiptv.hk3.20212021.ml/qqq.php?id=180055322
+周星星粤语经典版,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+粤语剧场,http://103.140.229.13/BOBO/bibi.php?id=136843
+港剧大放送,http://txtest-xp2p.p2p.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.xs
 古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 张国荣,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 郭富城,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
