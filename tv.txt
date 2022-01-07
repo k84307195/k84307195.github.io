@@ -1,3 +1,23 @@
+🇭🇰地波港澳
+TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+TVB翡翠台中英字幕,https://cdn.hkdtmb.com/hls/81b/index.m3u8
+TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+TVB J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+TVB明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+TVB明珠台(粵語),https://cdn.hkdtmb.com/hls/84b/index.m3u8
+TVB財經資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
+香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
+天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 🇨🇳台湾頻道,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
