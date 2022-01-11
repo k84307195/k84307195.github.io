@@ -756,14 +756,14 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 长津湖 高清,https://m3u8.json.hfyrw.com:9502/video_cache/d5f50dcd917ce8ca746f214e05e8895d/main.m3u8
 长津湖1,https://ccp-bj29-video-preview.oss-cn-beijing.aliyuncs.com/lt/5B2CDDCA8F87011833EDDA6D819DF0D784C758CC_4136130194__sha1_bj29/FHD/media.m3u8?di=bj29&dr=400087440&f=61d7f08fe711480237e54ac6b41f1d5ac1215b23&u=e1f5700ad8c64f77bb1cb298b8f97b4d&x-oss-access-key-id=LTAIsE5mAn2F493Q&x-oss-additional-headers=referer&x-oss-expires=1641739331&x-oss-process=hls%2Fsign&x-oss-signature=CTuJGH%2Flfhv3Z2iUtslMM7cxhKNt70J23VcivPlgyqA%3D&x-oss-signature-version=OSS2
 🛰️电影频道,#genre#
-贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rnJEvKQL5B_2000.flv?wsAuth=85cefe42317d33c5c1ee9d815edd6f3e&token=cpn-androidmpro-0-252802-536492a84fc6fe0c87a28fa2c097b482d44a093f9a279f6f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rcSXAoFNAh_2000.flv?wsAuth=68aa2b7d4a8e5a037907667e58c8f55b&token=cpn-androidmpro-0-252802-536492a84fc6fe0c7733e2c5040238fb9843e297cd1048b2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=ad15eff901c7afb6905771c932e0ce77&token=cpn-androidmpro-0-20415-b6774b3b3249db176c8cf8d8bcdc2ad9cec953cdec97a59a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3a/2793084rOv5omCuI.flv?wsAuth=7a4c047aca15acfbf90b222f663e1b49&token=cpn-androidmpro-0-2793084-3f569b7e953394a7f70456bcb25d91ce7df7e5fb6dad7c15&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语电影1,http://tc-tct.douyucdn2.cn/dyliveflv3a/5033502rf2fLWOXi.flv?wsAuth=3d70f9a2be367736e4ed9a4db4e44ca0&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d11888ba6f611578d5a2f42c0f2dd5a79b&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/6566671r3rc0Mq8Q_2000.flv?wsAuth=cff8a9c9c2c6447ec64e9d81826ba1c8&token=cpn-androidmpro-0-6566671-e1f409a777b7d4961b3a5c688c9fb272affffd98f0894dcf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rqH5uJkJw.flv?wsAuth=3c9656813c60ddf6df583541c0600163&token=cpn-androidmpro-0-2466104-09fd8b41302171bda02cb343f4239dd90d22d6cd9686b5e4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3a/8603174rFz8Cgzq9.flv?wsAuth=13901286334d9fdfbe3bfce0725c1378&token=cpn-androidmpro-0-8603174-8f495c66f44b1e329c7f0fd7a94eb133a9af8be186571f6a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rd2sPdSNQ.flv?wsAuth=efd6648706d4f9a7629119025073657d&token=cpn-androidmpro-0-1226741-0dc52b22d02956890f29ede2c171752c83f3cca56764a8b5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741ryLAN0P9J.flv?wsAuth=e4f01f949e91322a3f7a2bb85cd156e0&token=cpn-androidmpro-0-1226741-0dc52b22d029568960f2102095c0a5234eb9cef6d4ab9998&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3a/9249162raOuZGmcY.flv?wsAuth=32176ba1baa7386c19047297849ea210&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6448def149600146eb3a0075110daec77&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 粤语残片台,http://784697081.xyz/bilibili258.php?id=3568283
 粤语港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
@@ -785,7 +785,6 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 刘 德华,http://183.232.171.91/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
 周 润发,http://183.232.171.91/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
 林 正英,http://183.232.171.91/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-吴 京,http://183.232.171.91/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
 洪 金宝,http://183.232.171.91/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
 🇨🇳广州频道,#genre#
 广州综合,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://149.129.100.78/gztv.php?id=zhonghe
