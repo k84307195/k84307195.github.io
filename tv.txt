@@ -359,7 +359,7 @@ WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
 Astro Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
 RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
 tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
-🛰️晴天TV,#genre#
+🐱晴天TV,#genre#
 🛰️新加坡,#genre#
 衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
