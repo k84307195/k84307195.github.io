@@ -403,6 +403,15 @@ HUB都會,mitv://ns2.hellotvvod.com:9906/dd92eb8bcb094606800cb03e80011c54
 HUB娱家,mitv://ns2.hellotvvod.com:9906/da8e392d1e5e49e08e64e5ce00c0568e
 Horse Racing 89,mitv://ns2.hellotvvod.com:9906/c34e7bacdb5a4b879599a1b04ca55406
 Arirang,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
+🇺🇳美國,#genre#
+Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
+CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
+Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
+CBSN,mitv://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
+ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
+NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
 🇯🇵日本,#genre#
 NHK-G综合,mitv://ns2.hellotvvod.com:9906/eed71942476c49edadaa7df11f90446f
 NHK-E教育,mitv://ns2.hellotvvod.com:9906/506a99efe08149c79be96876b035d009
@@ -509,15 +518,6 @@ M Channel,mitv://ns2.hellotvvod.com:9906/98a38a8ec97a4548963d66cea1609f39
 Zee Nung,mitv://ns2.hellotvvod.com:9906/f684bccd353c497bb860f59b31083379
 Channel 4050,mitv://ns2.hellotvvod.com:9906/5872600c6bc244af95ffd83ed1872bd6
 TVB Thai,mitv://ns2.hellotvvod.com:9906/3219c8d39d544ceeb5989382d19f1fe3
-🛰️菲律賓,#genre#
-Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
-Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
-Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
-Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
-Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
-GMA,mitv://ns2.hellotvvod.com:9906/b4e98a5036df427a86ed161be44e1538
-TV5,mitv://ns2.hellotvvod.com:9906/e6027c1c26704c6b86964ae7cb0e0d0d
-Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/29bb74c6d52b42759e572b4470b20eee
 🛰️印度,#genre#
 SUN TV,mitv://ns2.hellotvvod.com:9906/7d10e9aadd1146a3b51757f45e032b5b
 Colors Tamil,mitv://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
@@ -525,15 +525,6 @@ CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
 India TV,mitv://ns2.hellotvvod.com:9906/fdb1faa69d4f4a8e8cddd9e9040a2440
 Janam TV,mitv://ns2.hellotvvod.com:9906/84d4e01a109045f39a7f35d35c5cc9b3
 NDTV,mitv://ns2.hellotvvod.com:9906/a8a495848ac440a590dbbadd7a7f2f4b
-🇺🇳美國,#genre#
-Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
-CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
-CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
-Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
-CBSN,mitv://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
-ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
-NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
 🛰️新聞,#genre#
 壹電視新聞台,mitv://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
 年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
@@ -579,13 +570,22 @@ Euronews,mitv://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
 CNA,mitv://ns2.hellotvvod.com:9906/a4e154daf0ed4848bdf59bca959dfecd
 TNN 16,mitv://ns2.hellotvvod.com:9906/9db5e74290a04e51a576391db32587ba
 JKN 18,mitv://ns2.hellotvvod.com:9906/c9dd4f34008646499693a08d667b9a09
+🛰️菲律賓,#genre#
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
+Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
+Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
+GMA,mitv://ns2.hellotvvod.com:9906/b4e98a5036df427a86ed161be44e1538
+TV5,mitv://ns2.hellotvvod.com:9906/e6027c1c26704c6b86964ae7cb0e0d0d
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/29bb74c6d52b42759e572b4470b20eee
 🎵音乐,#genre#
 MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
 MTV Live,mitv://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
 Mezzo Live,mitv://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
 CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
 CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
-⚽️體育頻道,#genre#
+⚽️體育,#genre#
 緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
 緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
 ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
