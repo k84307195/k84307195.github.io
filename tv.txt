@@ -139,18 +139,40 @@ CCTV中学生,rtsp://125.88.82.40:554/PLTV/88888905/224/3221228327/1000010000000
 文物宝库,rtsp://183.59.70.69:554/PLTV/88888905/224/3221228339/10000100000000060000000007935401_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EgZXfK8DeOnmX25Oh9v88YA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000019%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605711351
 中甲联赛,rtsp://183.59.70.77:554/PLTV/88888905/224/3221228156/10000100000000060000000007500384_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EW9UtD7EgsumYdPxtV5orTg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015102200000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605712588
 🇭🇰港台秒开,#genre#
-翡翠台,http://cdn-cn.hkyoutv.com/hls/81/index.m3u8
-J2,http://cdn-cn.hkyoutv.com/hls/82/index.m3u8
-无线明珠,http://cdn-cn.hkyoutv.com/hls/84/index.m3u8
-无线新闻,http://cdn-cn.hkyoutv.com/hls/83/index.m3u8
-无线财经,http://cdn-cn.hkyoutv.com/hls/85/index.m3u8
-VIUTV,http://cdn-cn.hkyoutv.com/hls/99/index.m3u8
-VIUTV6,http://cdn-cn.hkyoutv.com/hls/96/index.m3u8
-RHK31,http://cdn-cn.hkyoutv.com/hls/31/index.m3u8
-RHK32,http://cdn-cn.hkyoutv.com/hls/32/index.m3u8
-RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
-香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
-香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+明珠台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+无线财经,http://iptv.tvfix.org/hls/finance.m3u8
+无线直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB星河频道,http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
+美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+有线体育台,rtmp://59.124.75.157/sat/hk011
+有线18,rtmp://59.124.75.157/sat/hk041
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+Now新闻332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播331台,https://api.leonardpark.dev/live/now/331
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+RHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
+RHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
+香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
+民视,rtmp://59.124.75.157/sat/tv051
 🇭🇰港台高清,#genre#
 有线新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
 翡翠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
