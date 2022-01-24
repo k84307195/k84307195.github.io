@@ -4,7 +4,6 @@
 J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 无线新闻,http://flv3948069e.live.126.net/live/gqdszb8233jyumyn.flv
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 香港開電視,mitv://ns2.hellotvvod.com:9906/ae5366f93aa942ddb49b19c9492f5d72
 now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
 now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
@@ -14,6 +13,18 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 香港603,http://v3948069e.live.126.net:80/live/5b1409db0005716852e798a18129af98/xgg/index.flv
 有线体育台,http://v3948069e.live.126.net:80/live/5b1409690006a24a6938240e2c12a4c4/xgg/index.flv
 娱乐新闻台,http://v3948069e.live.126.net:80/live/2377c0666.flv
+爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
+天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+东森电影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
+纬来电影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
+龙祥电影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+美亚电影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
+龙华电影,mitv://ns2.hellotvvod.com:9906/cda4c0d5e8df4d49bb51fa6b71b5d19b
+星卫HD电影,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec44667801
+靖天映画,mitv://ns2.hellotvvod.com:9906/0a08a213ff34484ebba095598ffed323
+靖天电影,mitv://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
+WARNER TV,mitv://ns2.hellotvvod.com:9906/bf10e7821b5744d3aed911a956e6cdfe
+Star Movies,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
 🚀地波一套,#genre#
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
