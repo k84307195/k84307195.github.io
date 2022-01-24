@@ -12,6 +12,8 @@ J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
 now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 有线新闻台,http://v3948069e.live.126.net:80/live/5c2dd73c0002b6076c316efef65b6881/xgg/index.flv
+有线电影,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
+有线综合娱乐,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
 有线财经资讯台,http://v3948069e.live.126.net:80/live/5b14095f000570be3e3fec254bfb79a1/xgg/index.flv
 有线18台,http://v3948069e.live.126.net:80/live/3c72484300073d881d51cd7d6de955c1/xgg/index.flv
 香港603,http://v3948069e.live.126.net:80/live/5b1409db0005716852e798a18129af98/xgg/index.flv
