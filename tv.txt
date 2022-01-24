@@ -1,3 +1,14 @@
+🌟1.24号,#genre#
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 🚀1.23号,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8#http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
 明珠台,http://astream.apk1088.com:18888/channel.php?id=1351_4500&/PLTV/hls.smil.m3u8
