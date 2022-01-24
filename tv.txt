@@ -743,37 +743,6 @@ VIU SIX,p8p://45.92.126.18:9906/6159c5d9000848ff19fce09318840f2c
 有線18台,p8p://45.92.126.18:9906/615cf3b20004e4390c68149d25db8dc8
 有線603高清,p8p://45.92.126.18:9906/60ed1cd4000297a20faf48d5542663e4	
 有線娛樂台,p8p://45.92.126.18:9906/615cf4490001e8c00c6a61b288746e22
-🚀地波一套,#genre#
-TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-TVB J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
-TVB华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-TVB明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-TVB明珠台(粵語),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-TVB財經資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
-香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-🚀地波二套,#genre#
-翡翠台,http://cdn-cn.hkyoutv.com/hls/81/index.m3u8
-J2,http://cdn-cn.hkyoutv.com/hls/82/index.m3u8
-无线明珠,http://cdn-cn.hkyoutv.com/hls/84/index.m3u8
-无线新闻,http://cdn-cn.hkyoutv.com/hls/83/index.m3u8
-无线财经,http://cdn-cn.hkyoutv.com/hls/85/index.m3u8
-VIUTV,http://cdn-cn.hkyoutv.com/hls/99/index.m3u8
-VIUTV6,http://cdn-cn.hkyoutv.com/hls/96/index.m3u8
-RHK31,http://cdn-cn.hkyoutv.com/hls/31/index.m3u8
-RHK32,http://cdn-cn.hkyoutv.com/hls/32/index.m3u8
-RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
-香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
-香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
 🇨🇳台湾頻道,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
