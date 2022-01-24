@@ -162,17 +162,6 @@ CCTV中学生,rtsp://125.88.82.40:554/PLTV/88888905/224/3221228327/1000010000000
 环球奇观,rtsp://125.88.82.44:554/PLTV/88888905/224/3221228330/10000100000000060000000007935404_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Eh6fYhqa7UMzS7qE83Jg_pQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000016%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605711278
 文物宝库,rtsp://183.59.70.69:554/PLTV/88888905/224/3221228339/10000100000000060000000007935401_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EgZXfK8DeOnmX25Oh9v88YA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000019%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605711351
 中甲联赛,rtsp://183.59.70.77:554/PLTV/88888905/224/3221228156/10000100000000060000000007500384_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EW9UtD7EgsumYdPxtV5orTg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015102200000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605712588
-🇭🇰电视侠源,#genre#
-TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB为食台(第2声道),http://iptv.tvfix.org/hls/tvbws2.m3u8
-TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
-TVB新闻台,http://iptv.tvfix.org/hls/inews_v.m3u8
-TVB新闻台2,http://iptv.tvfix.org/hls/inews2.m3u8
-TVB翡翠台,http://iptv.tvfix.org/hls/jade_v.m3u8
-TVB翡翠台2,http://iptv.tvfix.org/hls/jade2.m3u8
 🇭🇰港台秒开,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
