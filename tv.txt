@@ -691,16 +691,6 @@ Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5
 靖天戲劇台,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
-🇭🇰香港频道,#genre#
-翡翠台（内地）,http://113.64.147.98:808:808/hls/67/index.m3u8?times=0#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-8
-星河台.,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
-东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
 🐟斗鱼頻道,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rcSXAoFNAh_2000.flv?wsAuth=68aa2b7d4a8e5a037907667e58c8f55b&token=cpn-androidmpro-0-252802-536492a84fc6fe0c7733e2c5040238fb9843e297cd1048b2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=ad15eff901c7afb6905771c932e0ce77&token=cpn-androidmpro-0-20415-b6774b3b3249db176c8cf8d8bcdc2ad9cec953cdec97a59a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
