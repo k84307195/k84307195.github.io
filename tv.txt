@@ -3,6 +3,8 @@
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 凤凰香港,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
+TVB翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+TVB翡翠台2,http://iptv.tvfix.org/hls/jade_v.m3u8
 明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
 J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 无线新闻,http://flv3948069e.live.126.net/live/gqdszb8233jyumyn.flv
