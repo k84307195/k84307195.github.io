@@ -1,4 +1,7 @@
 🌟GaTO,#genre#
+凤凰中文,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
+凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
+凤凰香港,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
 明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
 J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
@@ -13,6 +16,8 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 香港603,http://v3948069e.live.126.net:80/live/5b1409db0005716852e798a18129af98/xgg/index.flv
 有线体育台,http://v3948069e.live.126.net:80/live/5b1409690006a24a6938240e2c12a4c4/xgg/index.flv
 娱乐新闻台,http://v3948069e.live.126.net:80/live/2377c0666.flv
+RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
+RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
 东森电影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
