@@ -28,6 +28,7 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
 美亚电影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
 星卫HD电影,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec446678019b
+
 RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 🇨🇳广州频道,#genre#
