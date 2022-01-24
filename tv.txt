@@ -24,6 +24,8 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 娱乐新闻台,http://v3948069e.live.126.net:80/live/2377c0666.flv
 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
 美亚电影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
 星卫HD电影,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec446678019b
 RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
@@ -175,8 +177,7 @@ TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
 TVB星河频道,http://iptv.tvfix.org/hls/tvbxh.m3u8
 TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
 TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
-美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
-美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
+
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 有线直播新闻台,https://api.leonardpark.dev/live/icable/110
