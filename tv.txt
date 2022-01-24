@@ -22,17 +22,12 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 香港603,http://v3948069e.live.126.net:80/live/5b1409db0005716852e798a18129af98/xgg/index.flv
 有线体育台,http://v3948069e.live.126.net:80/live/5b1409690006a24a6938240e2c12a4c4/xgg/index.flv
 娱乐新闻台,http://v3948069e.live.126.net:80/live/2377c0666.flv
-RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
-RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
-东森电影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
-纬来电影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
-龙祥电影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 美亚电影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
 星卫HD电影,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec446678019b
-靖天映画,mitv://ns2.hellotvvod.com:9906/0a08a213ff34484ebba095598ffed323
-靖天电影,mitv://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
+RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
+RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 🇨🇳广州频道,#genre#
 广州综合,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://149.129.100.78/gztv.php?id=zhonghe
 广州新闻,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://ye23.win/iptv/gztv.php?id=xinwen#http://149.129.100.78/gztv.php?id=xinwen
