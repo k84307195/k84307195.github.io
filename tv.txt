@@ -4,6 +4,8 @@
 J2,http://iptv.tvfix.org/hls/j2.m3u8#http://iptv.tvfix.org/hls/j22.m3u8#http://iptv.tvfix.org/hls/j2_a1.m3u8#http://iptv.tvfix.org/hls/j2_v.m3u8
 无线新闻,http://flv3948069e.live.126.net/live/gqdszb8233jyumyn.flv
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 有线新闻台,http://v3948069e.live.126.net:80/live/5c2dd73c0002b6076c316efef65b6881/xgg/index.flv
 有线财经资讯台,http://v3948069e.live.126.net:80/live/5b14095f000570be3e3fec254bfb79a1/xgg/index.flv
 有线18台,http://v3948069e.live.126.net:80/live/3c72484300073d881d51cd7d6de955c1/xgg/index.flv
