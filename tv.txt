@@ -1,5 +1,5 @@
 🌟1.23号,#genre#
-翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8#http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
+翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
 明珠台,http://astream.apk1088.com:18888/channel.php?id=1351_4500&/PLTV/hls.smil.m3u8
 明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8#http://iptv.tvfix.org/hls/j22.m3u8#http://iptv.tvfix.org/hls/j2_a1.m3u8#http://iptv.tvfix.org/hls/j2_v.m3u8
