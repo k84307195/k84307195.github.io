@@ -5,7 +5,8 @@
 翡翠台（国内）,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 TVB翡翠台2,http://iptv.tvfix.org/hls/jade_v.m3u8
-翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠(華麗台),mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
+翡翠 华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 J2.,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 无线新闻,http://flv3948069e.live.126.net/live/gqdszb8233jyumyn.flv
