@@ -350,7 +350,7 @@ Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
-🇲🇾馬來西亞,#genre#
+🇺🇳馬來西亞,#genre#
 TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
 TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f
 TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f
@@ -434,7 +434,7 @@ WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
 Astro Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
 RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
 tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
-🇺🇳美國,#genre#
+🇲🇾美國,#genre#
 Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
