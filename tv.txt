@@ -20,9 +20,6 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 有线新闻台,http://v3948069e.live.126.net:80/live/5c2dd73c0002b6076c316efef65b6881/xgg/index.flv
 有线电影,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
 有线综合娱乐,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
-有线财经资讯台,http://v3948069e.live.126.net:80/live/5b14095f000570be3e3fec254bfb79a1/xgg/index.flv
-有线体育台,http://v3948069e.live.126.net:80/live/5b1409690006a24a6938240e2c12a4c4/xgg/index.flv
-娱乐新闻台,http://v3948069e.live.126.net:80/live/2377c0666.flv
 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
 美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
