@@ -17,7 +17,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 香港開電視,mitv://ns2.hellotvvod.com:9906/ae5366f93aa942ddb49b19c9492f5d72
 now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
 now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
-有线新闻台,http://v3948069e.live.126.net:80/live/5c2dd73c0002b6076c316efef65b6881/xgg/index.flv
+有线新闻台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
 有线电影,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
 有线综合娱乐,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
