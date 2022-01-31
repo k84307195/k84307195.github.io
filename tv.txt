@@ -32,7 +32,7 @@ RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 🌟GaTO2,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台.,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk.m3u8
 翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
@@ -58,7 +58,7 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
+C+.,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 🇭🇰港澳频道,#genre#
