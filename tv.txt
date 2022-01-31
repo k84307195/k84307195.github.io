@@ -97,6 +97,31 @@ HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
 HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
 HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+🌟GaTO3,#genre#
+凤凰卫视,http://live.hodtv.vip:25461/2058/2500/3733
+凤凰资讯,http://live.hodtv.vip:25461/2058/2500/3734
+凤凰香港,http://live.hodtv.vip:25461/2058/2500/3735
+TVB翡翠,http://live.hodtv.vip:25461/2058/2500/3736
+高清翡翠,http://live.hodtv.vip:25461/2058/2500/3737
+TVB明珠,http://live.hodtv.vip:25461/2058/2500/3738
+TVB星河,http://live.hodtv.vip:25461/2058/2500/3739
+TVB J2,http://live.hodtv.vip:25461/2058/2500/3740
+TVB功夫,http://live.hodtv.vip:25461/2058/2500/3741
+TVB经典,http://live.hodtv.vip:25461/2058/2500/3742
+无线新闻,http://live.hodtv.vip:25461/2058/2500/3743
+无线财经,http://live.hodtv.vip:25461/2058/2500/3744
+VIUTV,http://live.hodtv.vip:25461/2058/2500/3746
+VIUTV6,http://live.hodtv.vip:25461/2058/2500/3747
+RHK31,http://live.hodtv.vip:25461/2058/2500/3748
+RHK32,http://live.hodtv.vip:25461/2058/2500/3749
+NOW体育,http://live.hodtv.vip:25461/2058/2500/3750
+NOW直播,http://live.hodtv.vip:25461/2058/2500/3751C+,http://live.hodtv.vip:25461/2058/2500/3752
+有線新聞,http://live.hodtv.vip:25461/2058/2500/3753
+有線財經新聞,http://live.hodtv.vip:25461/2058/2500/3754
+有線18台,http://live.hodtv.vip:25461/2058/2500/3755
+有線603,http://live.hodtv.vip:25461/2058/2500/3756
+有線體育,http://live.hodtv.vip:25461/2058/2500/3757
+TVB娛樂新聞,http://live.hodtv.vip:25461/2058/2500/3758
 🇨🇳广州频道,#genre#
 广州综合,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://149.129.100.78/gztv.php?id=zhonghe
 广州新闻,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://ye23.win/iptv/gztv.php?id=xinwen#http://149.129.100.78/gztv.php?id=xinwen
