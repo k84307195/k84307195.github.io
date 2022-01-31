@@ -33,8 +33,8 @@ RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 🌟GaTO2,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(普通话简体).,http://iptv.tvfix.org/hls/jadenhk2.m3u8
+翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(国语),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
 明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
