@@ -750,12 +750,13 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 洪 金宝,http://183.232.171.91/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
 🐱黑肥新片,#genre#
 倚天屠龙记之九阳神功 粤语,https://cache.m3u8.shenglinyiyang.cn/duoduo/20220201/80fdad2c7c0d268a06bcae4ec0c0111d.m3u8?st=YSsIZQL5yasYi9NEnUrbdw&e=1643681553
+纹身,https://vod11.bdzybf.com/20220130/xGkoktPx/index.m3u8
 扬名立万,https://cdn2.bzjupinhang.com:65/20211120/JzbX5A0O/index.m3u8
 梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
 1921,https://yuncache.37581.com.cn:6688/jhyun.php?key=86fd0c346e44388adc195f5eb05215e4923c0cbe170d16617acab8007d884ab9f3be38279c11f7785e7faf0859233a56ed2cf0740079780f92015536dc6b0977ab778251d7ce4d6c86450227d126016553f11e7a5235be7d&sign=ba2d2ae92e957ed2686fec57321a8847&t=1640088749&name=jhyun.m3u8
 悬崖之上,https://hnzy6.liugecaiwu.com:65/20210715/TGV6HChF/index.m3u8
 长津湖 高清,https://m3u8.json.hfyrw.com:9502/video_cache/d5f50dcd917ce8ca746f214e05e8895d/main.m3u8
-长津湖1,https://ccp-bj29-video-preview.oss-cn-beijing.aliyuncs.com/lt/5B2CDDCA8F87011833EDDA6D819DF0D784C758CC_4136130194__sha1_bj29/FHD/media.m3u8?di=bj29&dr=400087440&f=61d7f08fe711480237e54ac6b41f1d5ac1215b23&u=e1f5700ad8c64f77bb1cb298b8f97b4d&x-oss-access-key-id=LTAIsE5mAn2F493Q&x-oss-additional-headers=referer&x-oss-expires=1641739331&x-oss-process=hls%2Fsign&x-oss-signature=CTuJGH%2Flfhv3Z2iUtslMM7cxhKNt70J23VcivPlgyqA%3D&x-oss-signature-version=OSS2
+
 🚗p5p备用,#genre#
 鳳凰資訊台,p8p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
