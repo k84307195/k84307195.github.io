@@ -74,6 +74,31 @@ RHK32,http://cdn-cn.hkyoutv.com/hls/32/index.m3u8
 RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
+🌟硬解秒开,#genre#
+凤凰卫视,http://live.hodtv.vip:25461/2058/2500/3733
+凤凰资讯,http://live.hodtv.vip:25461/2058/2500/3734
+凤凰香港,http://live.hodtv.vip:25461/2058/2500/3735
+TVB翡翠,http://live.hodtv.vip:25461/2058/2500/3736
+高清翡翠,http://live.hodtv.vip:25461/2058/2500/3737
+TVB明珠,http://live.hodtv.vip:25461/2058/2500/3738
+TVB星河,http://live.hodtv.vip:25461/2058/2500/3739
+TVB J2,http://live.hodtv.vip:25461/2058/2500/3740
+TVB功夫,http://live.hodtv.vip:25461/2058/2500/3741
+TVB经典,http://live.hodtv.vip:25461/2058/2500/3742
+无线新闻,http://live.hodtv.vip:25461/2058/2500/3743
+无线财经,http://live.hodtv.vip:25461/2058/2500/3744
+VIUTV,http://live.hodtv.vip:25461/2058/2500/3746
+VIUTV6,http://live.hodtv.vip:25461/2058/2500/3747
+RHK31,http://live.hodtv.vip:25461/2058/2500/3748
+RHK32,http://live.hodtv.vip:25461/2058/2500/3749
+NOW体育,http://live.hodtv.vip:25461/2058/2500/3750
+NOW直播,http://live.hodtv.vip:25461/2058/2500/3751C+,http://live.hodtv.vip:25461/2058/2500/3752
+有線新聞,http://live.hodtv.vip:25461/2058/2500/3753
+有線財經新聞,http://live.hodtv.vip:25461/2058/2500/3754
+有線18台,http://live.hodtv.vip:25461/2058/2500/3755
+有線603,http://live.hodtv.vip:25461/2058/2500/3756
+有線體育,http://live.hodtv.vip:25461/2058/2500/3757
+TVB娛樂新聞,http://live.hodtv.vip:25461/2058/2500/3758
 🇭🇰港澳频道,#genre#
 Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
