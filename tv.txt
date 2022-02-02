@@ -753,7 +753,7 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 纹身,https://vod11.bdzybf.com/20220130/xGkoktPx/index.m3u8
 扬名立万,https://cdn2.bzjupinhang.com:65/20211120/JzbX5A0O/index.m3u8
 梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
-1921,https://yuncache.37581.com.cn:6688/jhyun.php?key=86fd0c346e44388adc195f5eb05215e4923c0cbe170d16617acab8007d884ab9f3be38279c11f7785e7faf0859233a56ed2cf0740079780f92015536dc6b0977ab778251d7ce4d6c86450227d126016553f11e7a5235be7d&sign=ba2d2ae92e957ed2686fec57321a8847&t=1640088749&name=jhyun.m3u8
+1921,https://hnzy3.queshechaye.com:65/20210925/YPNAZUqA/index.m3u8
 悬崖之上,https://hnzy6.liugecaiwu.com:65/20210715/TGV6HChF/index.m3u8
 长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
 🚗p5p备用,#genre#
