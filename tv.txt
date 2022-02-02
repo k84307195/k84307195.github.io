@@ -30,7 +30,7 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
-🌟新年快乐,#genre#
+🌟原生慢开,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
