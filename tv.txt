@@ -30,7 +30,7 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
-🌟地面波,#genre#
+🌟梯子源,#genre#
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
 TVB J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
