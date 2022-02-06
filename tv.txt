@@ -30,6 +30,64 @@ now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
+🌟晴天P2,#genre#
+无线新闻台,P2p://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
+无线财经·资讯台,P2p://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+ViuTVsix,P2p://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
+ViuTV,P2p://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+凤凰中文台,P2p://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
+凤凰资讯台,P2p://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
+凤凰香港台,P2p://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
+TVB 星河,P2p://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+阳光卫视,P2p://ns2.hellotvvod.com:9906/ff6e07bcb19740c4b360e3fa958a5f2c
+澳门-MACAU,P2p://ns2.hellotvvod.com:9906/ba43211992f348d6a8b07f1edb894c9b
+澳门莲花,P2p://ns2.hellotvvod.com:9906/5a534ef41b9647c9aad8facdb5525a2a
+now新闻台,P2p://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+now直播台,P2p://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
+HKC电影台,P2p://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
+凤凰电影台,P2p://ns2.hellotvvod.com:9906/06553799649b45619f5c5ff5467abe0e
+HKC新闻台,P2p://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
+HKC财经资讯台,P2p://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+HKC 18,P2p://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+HKC 603,P2p://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+HKC體育台,P2p://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+HKC Sports Plus 1,P2p://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
+TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
+翡翠台,P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
+TVB经典台,P2p://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
+Thrill,P2p://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
+明珠台,P2p://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
+HKC直播新闻台,P2p://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
+爆谷台,P2p://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
+TV1,P2p://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
+TV2,P2p://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f
+TV3,P2p://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f
+NTV7,P2p://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
+8TV,P2p://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
+TV9,P2p://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb
+Astro Ria HD,P2p://ns2.hellotvvod.com:9906/c138fff294f2452eb90920d65182fdce
+Astro Prima HD,P2p://ns2.hellotvvod.com:9906/5712b148ea8d4b2da1e83c691cf7490b
+Astro Oasis HD,P2p://ns2.hellotvvod.com:9906/e599d6240fbe444d8a39f34225e40887
+Astro Warna HD,P2p://ns2.hellotvvod.com:9906/1a865f8d00fd497896b0fc1646aa801f
+Astro Citra HD,P2p://ns2.hellotvvod.com:9906/564ec53813704a74b8c4ab042a18463f
+Naura HD,P2p://ns2.hellotvvod.com:9906/e5021a2cb2894b68b5422c254b8b7617
+Astro Rania HD,P2p://ns2.hellotvvod.com:9906/1aae1307c2d04bd2b7ca5aed1469cd02
+Astro Aura HD,P2p://ns2.hellotvvod.com:9906/5e7a3708a99c482390ab8cf0f90a045e
+Al-Hijrah,P2p://ns2.hellotvvod.com:9906/5eb2258beb2044b19d919128b2a65c40
+TV Okey,P2p://ns2.hellotvvod.com:9906/c81855382ae74d8faa5e8b4b306ab480
+SUN TV,P2p://ns2.hellotvvod.com:9906/7d10e9aadd1146a3b51757f45e032b5b
+Astro Cricket,P2p://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
+爱奇艺,P2p://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a
+Astro小太阳,P2p://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
+Astro AEC(备),P2p://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
+Astro双星,P2p://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
+Astro全佳,P2p://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
+天映频道,P2p://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+翡翠台(华丽台),P2p://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
+Astro AOD HD 311,P2p://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
+中天亚洲台,P2p://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
+天映经典,P2p://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
 🌟梯子源,#genre#
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
