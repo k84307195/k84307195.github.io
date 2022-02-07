@@ -875,7 +875,7 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 1921,https://hnzy3.queshechaye.com:65/20210925/YPNAZUqA/index.m3u8
 悬崖之上,https://hnzy6.liugecaiwu.com:65/20210715/TGV6HChF/index.m3u8
 长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
-长津湖之水门桥,https://cache.m3u8.shenglinyiyang.cn/duoduo/20220206/997346041651ecfd747ba32df1a37a3c.m3u8?st=QIh9zkzjeyHGHQaX3XCh3A&e=1644132339
+长津湖之水门桥,https://bj29.cn-beijing.data.alicloudccp.com/DVR4tFJC%2F46472164%2F61fdea3f13c33eec9d4e494e8316d66eaadcc032%2F61fdea3f1f55c71db3294bb7be85e985d372a40e?di=bj29&dr=41500922&f=620090821c0c0bc4c68640f6be9a827508b51e7e&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25E6%25B0%25B4mq.mp4&u=fb8f3e4318104749812efb61424ec66f&x-oss-access-key-id=LTAIsE5mAn2F493Q&x-oss-expires=1644220511&x-oss-signature=O7RCkCvf09l0HCwLJnASkAw7gS6eYT8O%2B%2FAI5kEKeqI%3D&x-oss-signature-version=OSS2
 🚗p5p备用,#genre#
 鳳凰資訊台,p8p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
