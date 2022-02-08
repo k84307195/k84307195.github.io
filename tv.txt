@@ -6,6 +6,7 @@
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
 TVB翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 TVB翡翠台2,http://iptv.tvfix.org/hls/jade_v.m3u8
+TVB翡翠台3,http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠(華麗台),mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
 翡翠 华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
