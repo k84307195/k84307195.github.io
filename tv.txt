@@ -9,8 +9,7 @@ TVB翡翠台2,http://iptv.tvfix.org/hls/jade_v.m3u8
 翡翠(華麗台),mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
 翡翠 华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
-无线新闻,http://flv3948069e.live.126.net/live/gqdszb8233jyumyn.flv
-无线新闻.,http://140.238.51.187:8080/hls/02/index.m3u8
+无线新闻,http://140.238.51.187:8080/hls/02/index.m3u8
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
