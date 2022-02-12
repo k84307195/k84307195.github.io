@@ -106,106 +106,22 @@ RHK32,http://cdn-cn.hkyoutv.com/hls/32/index.m3u8
 RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
-🌟24号测试.,#genre#
-﻿香港翡翠,http://lyht.qcytv.top/niu2.php?id=78
-香港新闻,http://lyht.qcytv.top/niu2.php?id=73
-香港--J2,http://lyht.qcytv.top/niu2.php?id=74
-凤凰资讯,http://lyht.qcytv.top/niu2.php?id=99
-凤凰中文,http://lyht.qcytv.top/niu2.php?id=100
-凤凰香港,http://lyht.qcytv.top/niu2.php?id=98
-RTHK32,http://lyht.qcytv.top/niu2.php?id=97
-RTHK31,http://lyht.qcytv.top/niu2.php?id=96
-香港开视,http://lyht.qcytv.top/niu2.php?id=95
-ViuTv,http://lyht.qcytv.top/niu2.php?id=94
-香港卫视,http://lyht.qcytv.top/niu2.php?id=93
-有线603,http://lyht.qcytv.top/niu2.php?id=92
-香港经典,http://lyht.qcytv.top/niu2.php?id=90
-美亚电影,http://lyht.qcytv.top/niu2.php?id=89
-互动新闻,http://lyht.qcytv.top/niu2.php?id=80
-香港财经,http://lyht.qcytv.top/niu2.php?id=79
-香港星河,http://lyht.qcytv.top/niu2.php?id=76
-香港功夫,http://lyht.qcytv.top/niu2.php?id=72
-有线新闻,http://lyht.qcytv.top/niu2.php?id=62
-有线电影,http://lyht.qcytv.top/niu2.php?id=61
-有线18,http://lyht.qcytv.top/niu2.php?id=59
-有线足球,http://lyht.qcytv.top/niu2.php?id=58
-有线体育,http://lyht.qcytv.top/niu2.php?id=57
-有线NBA,http://lyht.qcytv.top/niu2.php?id=56
-有线球彩,http://lyht.qcytv.top/niu2.php?id=55
-有线电影,http://lyht.qcytv.top/niu2.php?id=54
-中视,http://lyht.qcytv.top/niu2.php?id=47
-华视,http://lyht.qcytv.top/niu2.php?id=46
-台视,http://lyht.qcytv.top/niu2.php?id=45
-民视,http://lyht.qcytv.top/niu2.php?id=44
-公视,http://lyht.qcytv.top/niu2.php?id=43
-寰宇新闻,http://lyht.qcytv.top/niu2.php?id=85#http://lyht.qcytv.top/niu2.php?id=84
-中天新闻,http://lyht.qcytv.top/niu2.php?id=42中
-天综合,http://lyht.qcytv.top/niu2.php?id=41
-中天娱乐,http://lyht.qcytv.top/niu2.php?id=40
-中天亚洲,http://lyht.qcytv.top/niu2.php?id=39
-TVBS新闻,http://lyht.qcytv.top/niu2.php?id=38
-TVBS综合,http://lyht.qcytv.top/niu2.php?id=37
-TVBS欢乐,http://lyht.qcytv.top/niu2.php?id=36
-壹综合,http://lyht.qcytv.top/niu2.php?id=35
-壹新闻,http://lyht.qcytv.top/niu2.php?id=34
-东森新闻,http://lyht.qcytv.top/niu2.php?id=33
-东森综合,http://lyht.qcytv.top/niu2.php?id=32
-东森幼幼,http://lyht.qcytv.top/niu2.php?id=31
-东森亚洲,http://lyht.qcytv.top/niu2.php?id=30
-东森电影,http://lyht.qcytv.top/niu2.php?id=29
-东森洋片,http://lyht.qcytv.top/niu2.php?id=28
-东森财经,http://lyht.qcytv.top/niu2.php?id=27
-三立新闻,http://lyht.qcytv.top/niu2.php?id=26
-三立都会,http://lyht.qcytv.top/niu2.php?id=25
-三立台湾,http://lyht.qcytv.top/niu2.php?id=24
-三立国际,http://lyht.qcytv.top/niu2.php?id=23
-八大综合,http://lyht.qcytv.top/niu2.php?id=22
-八大第一,http://lyht.qcytv.top/niu2.php?id=21
-八大娱乐,http://lyht.qcytv.top/niu2.php?id=20
-中视新闻,http://lyht.qcytv.top/niu2.php?id=19
-中视综合,http://lyht.qcytv.top/niu2.php?id=18
-中视综艺,http://lyht.qcytv.top/niu2.php?id=17
-卫视电影,http://lyht.qcytv.top/niu2.php?id=16
-天映电影,http://lyht.qcytv.top/niu2.php?id=15
-龙祥电影,http://lyht.qcytv.top/niu2.php?id=14
-龙祥时代,http://lyht.qcytv.top/niu2.php?id=13
-纬来综合,http://lyht.qcytv.top/niu2.php?id=12
-纬来体育,http://lyht.qcytv.top/niu2.php?id=11
-纬来日本,http://lyht.qcytv.top/niu2.php?id=10
-纬来电影,http://lyht.qcytv.top/niu2.php?id=9
-年代新闻,http://lyht.qcytv.top/niu2.php?id=7
-非凡新闻,http://lyht.qcytv.top/niu2.php?id=6
-民视新闻,http://lyht.qcytv.top/niu2.php?id=5
+
 🌟24号测试,#genre#
-翡翠台,http://61.222.202.191/tbs.php?id=1
 J2台,http://61.222.202.191/tbs.php?id=12
-无线财经,http://61.222.202.191/tbs.php?id=10
-无线新闻,http://61.222.202.191/tbs.php?id=9
-明珠台,http://61.222.202.191/tbs.php?id=13
-VIUTV,http://61.222.202.191/tbs.php?id=8
-香港开电视,http://61.222.202.191/tbs.php?id=7
-RHK31,http://61.222.202.191/tbs.php?id=20
-RHK32,http://61.222.202.191/tbs.php?id=21
-now新闻,http://61.222.202.191/tbs.php?id=16
-now财经http://61.222.202.191/tbs.php?id=17
-J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
-无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
-HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
-香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
+广州综合,http://113.78.253.80:8888/udp/239.253.43.71:5146
+广州新闻,http://113.78.253.80:8888/udp/239.253.43.72:5146
+广州影视,http://113.78.253.80:8888/udp/239.253.43.73:5146
+广州法治,http://113.78.253.80:8888/udp/239.253.43.74:5146
+广州竞赛,http://113.78.253.80:8888/udp/239.253.43.75:5146
+佛山综合,http://113.78.253.80:8888/udp/239.253.43.57:5146
+佛山公共,http://113.78.253.80:8888/udp/239.253.43.53:5146
+佛山影视,http://113.78.253.80:8888/udp/239.253.43.56:5146
+佛山南海,http://113.78.253.80:8888/udp/239.253.43.54:5146
+佛山顺德,http://113.78.253.80:8888/udp/239.253.43.55:5146
 🇭🇰港澳频道,#genre#
 Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
