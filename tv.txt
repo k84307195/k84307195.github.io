@@ -118,6 +118,10 @@ C+.,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 无线翡翠台,http://iptv.tvfix.org/hls/jade_v.m3u8
 无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
+无线新闻台2,http://live.hodtv.vip:25461/live/2058/2500/3743.ts
+无线新闻台2.,http://live.hodtv.vip:25461/live/123/123/3743.ts
+有线新闻台2,http://live.hodtv.vip:25461/live/2058/2500/3753.ts
+有线新闻台2.,http://live.hodtv.vip:25461/live/123/123/3753.ts
 🇭🇰港澳频道,#genre#
 Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 鳳凰中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
