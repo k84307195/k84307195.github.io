@@ -56,8 +56,7 @@ RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 明珠台,http://live.hodtv.vip:25461/live/123/123/3738.ts
 TVB星河台,http://live.hodtv.vip:25461/live/123/123/3739.ts
 J2,http://live.hodtv.vip:25461/live/123/123/3740.ts
-J2.,http://live.hodtv.vip:25461/live/123/123/4284.ts
-娱乐新闻台,http://live.hodtv.vip:25461/live/123/123/3758.ts
+TVB娱乐新闻,http://live.hodtv.vip:25461/live/123/123/3758.ts
 TVB经典台,http://live.hodtv.vip:25461/live/123/123/3742.ts
 无线新闻台,http://live.hodtv.vip:25461/live/123/123/3743.ts
 无线财经台,http://live.hodtv.vip:25461/live/123/123/3744.ts
