@@ -151,7 +151,7 @@ HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
 HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
 HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
-🌟广东广电,#genre#
+🇨🇳广东广电,#genre#
 TVB明珠台,http://astream.apk1088.com:18888/channel.php?id=xgmingzhu_1500&/PLTV/hls.smil.m3u8
 TVB翡翠台,http://astream.apk1088.com:18888/channel.php?id=xgfeicui_1500&/PLTV/hls.smil.m3u8
 翡翠台,http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
