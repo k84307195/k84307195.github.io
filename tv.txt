@@ -1,3 +1,91 @@
+🌟飞鸟,#genre#
+翡翠台(繁體),http://iptv.tvfix.org/hls/jade.m3u8
+
+翡翠台(簡體),http://iptv.tvfix.org/hls/jade2.m3u8
+
+翡翠台海外版(粵語),http://iptv.tvfix.org/hls/jadenhk.m3u8
+
+翡翠台海外版(普通話),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+
+J2(第2聲道),http://iptv.tvfix.org/hls/j22.m3u8
+
+無線新聞台,http://iptv.tvfix.org/hls/inews.m3u8
+
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+
+明珠台(第2聲道),http://iptv.tvfix.org/hls/pearl2.m3u8
+
+無線財經資訊台,http://iptv.tvfix.org/hls/finance.m3u8
+
+無線財經資訊台(第2聲道),http://iptv.tvfix.org/hls/finance2.m3u8
+
+無線財經資訊台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
+
+ViuTVᴴᴰ,https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
+
+Now新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
+
+Now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
+
+有線新聞台,http://hkyx.love.sky-media.tk/test/index.php?id=37
+
+有線直播新聞台,http://hkyx.love.sky-media.tk/test/index.php?id=39
+
+有線財經資訊台,http://hkyx.love.sky-media.tk/test/index.php?id=38
+
+有線綜合娛樂台,https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-c0a864cc-1623762001-1623763081-0bdc7f704e291b3cc65f9ebc85a5a86b-8d93040f6672be2_8ab-03/Stream1/playlist.m3u8
+
+TVBS亞洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+
+TVBS新聞台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+
+美亞電影台(粵語),http://iptv.tvfix.org/hls/mydy.m3u8
+
+美亞電影台(普通話),http://iptv.tvfix.org/hls/mydy2.m3u8
+
+天映經典(粵語),http://iptv.tvfix.org/hls/tyjd.m3u8
+
+天映經典(普通話),http://iptv.tvfix.org/hls/tyjd2.m3u8
+
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
+
+Animax(第2聲道),http://iptv.tvfix.org/hls/animax2.m3u8
+
+Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
+
+Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
+
+Thrill(第2聲道),http://iptv.tvfix.org/hls/thrill2.m3u8
+
+tvN,http://iptv.tvfix.org/hls/tvn.m3u8
+
+TVB經典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+
+TVB星河(粵語),http://iptv.tvfix.org/hls/tvbxh.m3u8
+
+TVB星河(普通話),http://iptv.tvfix.org/hls/tvbxh2.m3u8
+
+TVB功夫台(粵語),http://iptv.tvfix.org/hls/tvbkf.m3u8
+
+TVB功夫(普通話),http://iptv.tvfix.org/hls/tvbkf2.m3u8
+
+龍祥電影,http://27.47.68.110:808/hls/38/index.m3u8
+
+私人影院,http://27.47.68.110:808/hls/57/index.m3u8
+
+東森電影,http://27.47.68.110:808/hls/58/index.m3u8
+
+東森洋片,http://27.47.68.110:808/hls/59/index.m3u8
+
+國產電影,http://27.47.68.110:808/hls/61/index.m3u8
+
+天映經典,http://27.47.68.110:808/hls/62/index.m3u8
 🌟GaTO,#genre#
 凤凰中文,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
