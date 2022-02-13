@@ -152,6 +152,8 @@ HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
 HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
 🌟广东广电,#genre#
+TVB明珠台,http://astream.apk1088.com:18888/channel.php?id=xgmingzhu_1500&/PLTV/hls.smil.m3u8
+TVB翡翠台,http://astream.apk1088.com:18888/channel.php?id=xgfeicui_1500&/PLTV/hls.smil.m3u8
 翡翠台,http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
 明珠台,http://astream.apk1088.com:18888/channel.php?id=1351_4500&/PLTV/hls.smil.m3u8
 广东体育,http://astream.apk1088.com:18888/channel.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
@@ -248,8 +250,6 @@ CHC家庭影院,http://astream.apk1088.com:18888/channel.php?id=CHChometheatre_1
 CHC动作电影,http://astream.apk1088.com:18888/channel.php?id=CHCactionmovie_1500&/PLTV/hls.smil.m3u8
 凤凰中文,http://astream.apk1088.com:18888/channel.php?id=fhzw_1500&/PLTV/hls.smil.m3u8
 星空卫视,http://astream.apk1088.com:18888/channel.php?id=xingkong_1500&/PLTV/hls.smil.m3u8
-TVB明珠台,http://astream.apk1088.com:18888/channel.php?id=xgmingzhu_1500&/PLTV/hls.smil.m3u8
-TVB翡翠台,http://astream.apk1088.com:18888/channel.php?id=xgfeicui_1500&/PLTV/hls.smil.m3u8
 广东卫视,http://astream.apk1088.com:18888/channel.php?id=文件名angdong_1500&/PLTV/hls.smil.m3u8
 深圳卫视,http://astream.apk1088.com:18888/channel.php?id=shenzhen_1500&/PLTV/hls.smil.m3u8
 东方卫视,http://astream.apk1088.com:18888/channel.php?id=dongfang_1500&/PLTV/hls.smil.m3u8
