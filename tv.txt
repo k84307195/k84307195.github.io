@@ -46,51 +46,6 @@ TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
-🌟hodtv,#genre#
-凤凰卫视台,http://live.hodtv.vip:25461/live/123/123/3733.ts
-凤凰资讯台,http://live.hodtv.vip:25461/live/123/123/3734.ts
-凤凰香港台,http://live.hodtv.vip:25461/live/123/123/3735.ts
-翡翠台,http://live.hodtv.vip:25461/live/123/123/3736.ts
-翡翠台,http://live.hodtv.vip:25461/live/123/123/3737.ts
-无线新闻台,http://live.hodtv.vip:25461/live/123/123/3743.ts
-明珠台,http://live.hodtv.vip:25461/live/123/123/3738.ts
-TVB星河台,http://live.hodtv.vip:25461/live/123/123/3739.ts
-J2,http://live.hodtv.vip:25461/live/123/123/3740.ts
-TVB娱乐新闻,http://live.hodtv.vip:25461/live/123/123/3758.ts
-TVB经典台,http://live.hodtv.vip:25461/live/123/123/3742.ts
-无线新闻台,http://live.hodtv.vip:25461/live/123/123/3743.ts
-无线财经台,http://live.hodtv.vip:25461/live/123/123/3744.ts
-45台,http://live.hodtv.vip:25461/live/123/123/3745.ts
-vuitv台,http://live.hodtv.vip:25461/live/123/123/3746.ts
-vuitv6台,http://live.hodtv.vip:25461/live/123/123/3747.ts
-RTHK31台,http://live.hodtv.vip:25461/live/123/123/3748.ts
-RTHK32台,http://live.hodtv.vip:25461/live/123/123/3749.ts
-now体育台,http://live.hodtv.vip:25461/live/123/123/3750.ts
-now直播台,http://live.hodtv.vip:25461/live/123/123/3751.ts
-香港C+台,http://live.hodtv.vip:25461/live/123/123/3752.ts
-有线新闻台,http://live.hodtv.vip:25461/live/123/123/3753.ts
-有线财经台,http://live.hodtv.vip:25461/live/123/123/3754.ts
-有线18台,http://live.hodtv.vip:25461/live/123/123/3755.ts
-有线603台,http://live.hodtv.vip:25461/live/123/123/3756.ts
-有线体育台,http://live.hodtv.vip:25461/live/123/123/3757.ts
-武功台,http://live.hodtv.vip:25461/live/123/123/3741.ts
-广东珠江,http://live.hodtv.vip:25461/live/123/123/4184.ts
-广东珠江,http://live.hodtv.vip:25461/live/123/123/4185.ts
-广东公共,http://live.hodtv.vip:25461/live/123/123/4186.ts
-广东新闻,http://live.hodtv.vip:25461/live/123/123/4187.ts
-广东体育,http://live.hodtv.vip:25461/live/123/123/4188.ts
-南方卫视,http://live.hodtv.vip:25461/live/123/123/4189.ts
-广东经济科教,http://live.hodtv.vip:25461/live/123/123/4190.ts
-广东影视,http://live.hodtv.vip:25461/live/123/123/4191.ts
-广东少儿,http://live.hodtv.vip:25461/live/123/123/4192.ts
-珠江电影,http://live.hodtv.vip:25461/live/123/123/4194.ts
-广州台,http://live.hodtv.vip:25461/live/123/123/4197.ts
-广州新闻,http://live.hodtv.vip:25461/live/123/123/4198.ts
-广州经济,http://live.hodtv.vip:25461/live/123/123/4199.ts
-广州竞赛,http://live.hodtv.vip:25461/live/123/123/4200.ts
-广州影视,http://live.hodtv.vip:25461/live/123/123/4201.ts
-广州生活,http://live.hodtv.vip:25461/live/123/123/4202.ts
-广州少儿,http://live.hodtv.vip:25461/live/123/123/4203.ts
 🌟原生慢开,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade2.m3u8
@@ -151,19 +106,6 @@ RHK32,http://cdn-cn.hkyoutv.com/hls/32/index.m3u8
 RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
-🌟2.12号,#genre#
-凤凰中文,http://27.47.68.130:808/hls/32/index.m3u8
-凤凰资讯,http://27.47.68.130:808/hls/33/index.m3u8
-凤凰香港,http://27.47.68.130:808/hls/34/index.m3u8
-TVB星河,http://27.47.68.130:808/hls/35/index.m3u8
-翡翠台,http://27.47.68.130:808/hls/36/index.m3u8
-明珠台,http://27.47.68.130:808/hls/37/index.m3u8
-龙祥电影,http://27.47.68.130:808/hls/38/index.m3u8
-私人影院,http://27.47.68.130:808/hls/57/index.m3u8
-东森电影,http://27.47.68.130:808/hls/58/index.m3u8
-东森洋片,http://27.47.68.130:808/hls/59/index.m3u8
-国产电影,http://27.47.68.130:808/hls/61/index.m3u8
-天映经典,http://27.47.68.130:808/hls/62/index.m3u8
 🌟24号测试,#genre#
 C+.,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
