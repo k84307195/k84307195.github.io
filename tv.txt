@@ -327,7 +327,7 @@ CHC动作电影,http://astream.apk1088.com:18888/channel.php?id=CHCactionmovie_1
 汕头经济,http://astream.apk1088.com:18888/channel.php?id=shantouertaogaoqing_1500&/PLTV/hls.smil.m3u8
 汕头文旅,http://astream.apk1088.com:18888/channel.php?id=shantousantaogaoqing_1500&/PLTV/hls.smil.m3u8
 🇨🇳广州频道,#genre#
-广州新闻ᴴᴰ,http://113.78.253.80:8888/udp/239.253.43.72:5146#http://ye23.win/iptv/gztv.php?id=xinwen
+广州新闻ᴴᴰ,http://ye23.win/iptv/gztv.php?id=xinwen
 广州新闻ᴴᴰ.,https://aplay.gztv.com/sec/xinwen.m3u8#https://aplay.gztv.com/sec/xinwen.flv
 广州综合ᴴᴰ,https://aplay.gztv.com/sec/zhonghe.m3u8#http://aplay.gztv.com/sec/zhonghe.flv
 广州新闻ᴴᴰ,http://113.78.253.80:8888/udp/239.253.43.72:5146
