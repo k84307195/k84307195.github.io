@@ -329,8 +329,8 @@ CHC动作电影,http://astream.apk1088.com:18888/channel.php?id=CHCactionmovie_1
 🇨🇳广州频道,#genre#
 广州新闻ᴴᴰ,http://ye23.win/iptv/gztv.php?id=xinwen
 广州新闻ᴴᴰ.,https://aplay.gztv.com/sec/xinwen.m3u8#https://aplay.gztv.com/sec/xinwen.flv
+广州新闻ᴴᴰ..,http://113.78.253.80:8888/udp/239.253.43.72:5146
 广州综合ᴴᴰ,https://aplay.gztv.com/sec/zhonghe.m3u8#http://aplay.gztv.com/sec/zhonghe.flv
-广州新闻ᴴᴰ,http://113.78.253.80:8888/udp/239.253.43.72:5146
 广州影视ᴴᴰ,https://aplay.gztv.com/sec/yingshi.m3u8#https://aplay.gztv.com/sec/yingshi.flv
 广州法治ᴴᴰ,https://aplay.gztv.com/sec/fazhi.m3u8#https://aplay.gztv.com/sec/fazhi.flv
 广州竞赛ᴴᴰ,https://aplay.gztv.com/sec/jingsai.m3u8#https://aplay.gztv.com/sec/jingsai.flv
