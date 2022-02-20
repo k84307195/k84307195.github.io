@@ -29,7 +29,7 @@ RHK32,http://cdn-cn.hkyoutv.com/hls/32/index.m3u8
 RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
-🌟GaTO,#genre#
+🌟GaTO_123,#genre#
 凤凰中文,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 凤凰香港,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
