@@ -548,7 +548,7 @@ WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
 Astro Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
 RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
 tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
-🎈古豆源,#genre#
+🎈古豆硬解,#genre#
 凤凰资讯ᴴᴰ,http://120.84.96.103:808/hls/28/index.m3u8
 凤凰卫视ᴴᴰ,http://120.84.96.103:808/hls/29/index.m3u8
 凤凰香港台ᴴᴰ,http://120.84.96.103:808/hls/81/index.m3u8
