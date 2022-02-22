@@ -76,7 +76,7 @@ RHK32,http://cdn-cn.hkyoutv.com/hls/32/index.m3u8
 RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
-☯原生慢开,#genre#
+🌟原生慢开,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
@@ -176,7 +176,7 @@ ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
 ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-🌐谷豆💠🎈,#genre#
+☯谷豆,#genre#
 凤凰资讯ᴴᴰ,http://120.84.96.103:808/hls/28/index.m3u8
 凤凰卫视ᴴᴰ,http://120.84.96.103:808/hls/29/index.m3u8
 凤凰香港ᴴᴰ,http://120.84.96.103:808/hls/81/index.m3u8
@@ -922,7 +922,7 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 靖天戲劇台,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
-🐟斗鱼頻道,#genre#
+🐟🌐💠🎈斗鱼,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rCnjeQuBpT_2000.flv?wsAuth=a3d34b5da577a57338a82508eed87bbe&token=cpn-androidmpro-0-252802-536492a84fc6fe0c9ef14498e9f98fd8f4b20ff3f5566452&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=f3d36f84a3f2ee717a3e669171f156d5&token=cpn-androidmpro-0-20415-b6774b3b3249db17ec5d0a607c9935bc3610f4a03611b7c3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3a/2793084rOv5omCuI.flv?wsAuth=40202823cc50c1c091ff2f3763dd2be8&token=cpn-androidmpro-0-2793084-3f569b7e953394a72c34afda8c8667055a01e1a30d4432cb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
