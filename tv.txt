@@ -551,7 +551,7 @@ tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 🎈谷豆硬解,#genre#
 凤凰资讯ᴴᴰ,http://120.84.96.103:808/hls/28/index.m3u8
 凤凰卫视ᴴᴰ,http://120.84.96.103:808/hls/29/index.m3u8
-凤凰香港台ᴴᴰ,http://120.84.96.103:808/hls/81/index.m3u8
+凤凰香港ᴴᴰ,http://120.84.96.103:808/hls/81/index.m3u8
 ViuTVᴴᴰ,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTV sixᴴᴰ,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 翡翠台ᴴᴰ.,http://teyonds.weetai.cn:80/cdn/iptv/tyzb01.php?id=1350_4500&/PLTV/hls.smil.m3u8
