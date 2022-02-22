@@ -77,30 +77,6 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 C+.,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
-🌟梯子一源,#genre#
-央视新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#https://newscncc.v.wscdns.com/news/news20_1/index.m3u8
-凤凰中文,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰資訊,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8#http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-凤凰电影,mitv://ns2.hellotvvod.com:9906/06553799649b45619f5c5ff5467abe0e
-香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
-
-有線新聞,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
-无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1#http://159.75.123.131/xiaoqi/tvb.php?id=1
-无线財經,http://www.nettvpro.live/hls/tvb.php?id=2
-无线直播,http://ye23.win/iptv/tvb.php?id=3#http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-無綫新闻,http://ye23.win/iptv/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=4
-無綫資訊,http://ye23.win/iptv/tvb.php?id=2
-
-无线翡翠,http://113.64.147.12:808/hls/67/index.m3u8?times=0#http://113.64.147.12:808/hls/25/index.m3u8?times=0
-无线明珠,http://113.64.147.12:808/hls/26/index.m3u8?times=0
-无线 J 2,https://h.youtalk.top/hkj2b/49.m3u8#https://bf.kanjc.com/11666/11666.m3u8#https://tx-b2.xsafetech.com/live/11666.m3u8
-无线 J 2,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 
 🌟IPTV源,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
