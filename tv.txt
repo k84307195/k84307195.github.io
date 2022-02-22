@@ -176,7 +176,7 @@ ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
 ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-🎈谷豆硬解,#genre#
+🌐谷豆💠💠💠,#genre#
 凤凰资讯ᴴᴰ,http://120.84.96.103:808/hls/28/index.m3u8
 凤凰卫视ᴴᴰ,http://120.84.96.103:808/hls/29/index.m3u8
 凤凰香港ᴴᴰ,http://120.84.96.103:808/hls/81/index.m3u8
