@@ -122,7 +122,7 @@ ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
 ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-📡地波1,#genre#
+📡地波梯子,#genre#
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
 TVB J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
@@ -140,7 +140,7 @@ ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-📡地波2,#genre#
+📡地波智能,#genre#
 翡翠台,http://cdn-cn.hkyoutv.com/hls/81/index.m3u8
 J2,http://cdn-cn.hkyoutv.com/hls/82/index.m3u8
 无线明珠,http://cdn-cn.hkyoutv.com/hls/84/index.m3u8
