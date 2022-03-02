@@ -123,65 +123,6 @@ ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 
-🌟港澳挂梯,#genre#
-翡翠台HD,http://61.238.6.49:8000/bysid/1
-无线新闻HD,http://61.238.6.49:8001/bysid/83
-明珠台HD,http://61.238.6.49:8001/bysid/2
-J2 HD,http://61.238.6.49:8001/bysid/82
-无线财经资讯台HD,http://61.238.6.49:8001/bysid/85
-ViuTV,http://61.238.6.49:8000/bysid/99
-ViuTV6,http://61.238.6.49:8000/bysid/96
-RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
-有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
-有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
-開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
-無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
-無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
-Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
-ATV,http://livetv.dnsfor.me:80/channel.14.m3u8
-HKS香港卫视,http://livetv.dnsfor.me:80/channel.15.m3u8
-凤凰香港台,http://livetv.dnsfor.me:80/channel.16.m3u8
-CCTV5HD,http://livetv.dnsfor.me:80/channel.17.m3u8
-翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
-J2,http://livetv.dnsfor.me:80/channel.19.m3u8
-VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
-鳳凰資訊台,http://livetv.dnsfor.me:80/channel.21.m3u8
-星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
-UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
-亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
-港台電視31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-港台電視32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-HK01直播台,https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-有線綜合娛樂台,http://teslagram.com/live/channel_301.m3u8
-有線財經資訊台,http://teslagram.com/live/channel_108.m3u8
-有線新聞台,http://teslagram.com/live/channel_109.m3u8
-有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-NOW体育,http://teslagram.com/live/channel_630.m3u8
-now直播台,http://teslagram.com/live/channel_331.m3u8
-now新聞台,http://teslagram.com/live/channel_332.m3u8
-RTHK31,http://teslagram.com/live/channel_31.m3u8
-RTHK32,http://teslagram.com/live/channel_32.m3u8
-港台直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-翡翠台 1080P,http://hls.globaliptv.ml/tvbjade.php
-明珠台HD,http://hls.globaliptv.ml/tvbpearl.php
-J2 1080P,#http://hls.globaliptv.ml/tvbj2.php
-ViuTV 1080P,http://hls.globaliptv.ml/viu99.php
-ViuTV6 HD,http://hls.globaliptv.ml/viu96.php
-耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-鳳凰衛視中文台,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-鳳凰衛視資訊台,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-鳳凰衛視香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-鳳凰衛視電影台,http://hdtv.haust.edu.cn/hls/fhdy.m3u8
-香港衛視,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-
-
 📡地波梯子,#genre#
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
