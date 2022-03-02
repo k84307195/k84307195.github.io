@@ -45,6 +45,48 @@ TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
+🌟3.2号,#genre#
+翡翠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=0
+翡翠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=1
+无线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=3
+无线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=4
+明珠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=5
+TVB经典台,http://xztv.putids.com:80/user/dl/llllwww.php?id=6
+无线财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=7
+J2,http://xztv.putids.com:80/user/dl/llllwww.php?id=8
+J2,http://xztv.putids.com:80/user/dl/llllwww.php?id=9
+TVB星河(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=10
+TVB星河(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=11
+C+,http://xztv.putids.com:80/user/dl/llllwww.php?id=12
+ViuTV,http://xztv.putids.com:80/user/dl/llllwww.php?id=13
+ViuTV,http://xztv.putids.com:80/user/dl/llllwww.php?id=14
+ViuTV6,http://xztv.putids.com:80/user/dl/llllwww.php?id=15
+Now新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=16
+Now直播,http://xztv.putids.com:80/user/dl/llllwww.php?id=17
+Now财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=18
+Now体育,http://xztv.putids.com:80/user/dl/llllwww.php?id=19
+港版美亚(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=20
+港版美亚(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=21
+TVB功夫(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=22
+TVB功夫(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=23
+凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=24
+凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=25
+凤凰资讯,http://xztv.putids.com:80/user/dl/llllwww.php?id=26
+凤凰资讯,http://xztv.putids.com:80/user/dl/llllwww.php?id=27
+凤凰香港,http://xztv.putids.com:80/user/dl/llllwww.php?id=28
+澳门莲花,http://xztv.putids.com:80/user/dl/llllwww.php?id=29
+有线新闻台,http://xztv.putids.com:80/user/dl/llllwww.php?id=30
+有线新闻台,http://xztv.putids.com:80/user/dl/llllwww.php?id=31
+有线财经资讯台,http://xztv.putids.com:80/user/dl/llllwww.php?id=32
+香港603,http://xztv.putids.com:80/user/dl/llllwww.php?id=33
+有线18台,http://xztv.putids.com:80/user/dl/llllwww.php?id=34
+有线体育台,http://xztv.putids.com:80/user/dl/llllwww.php?id=35
+天映经典,http://xztv.putids.com:80/user/dl/llllwww.php?id=36
+天映频道,http://xztv.putids.com:80/user/dl/llllwww.php?id=37
+香港开电视,http://xztv.putids.com:80/user/dl/llllwww.php?id=38
+星空卫视,http://xztv.putids.com:80/user/dl/llllwww.php?id=39
+RTHK31,http://xztv.putids.com:80/user/dl/llllwww.php?id=40
+RTHK32,http://xztv.putids.com:80/user/dl/llllwww.php?id=41
 
 🌟原生慢开,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
@@ -351,48 +393,6 @@ TVB 星河,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
 C+.,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
-🇭🇰3.2号,#genre#
-翡翠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=0
-翡翠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=1
-无线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=3
-无线新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=4
-明珠台,http://xztv.putids.com:80/user/dl/llllwww.php?id=5
-TVB经典台,http://xztv.putids.com:80/user/dl/llllwww.php?id=6
-无线财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=7
-J2,http://xztv.putids.com:80/user/dl/llllwww.php?id=8
-J2,http://xztv.putids.com:80/user/dl/llllwww.php?id=9
-TVB星河(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=10
-TVB星河(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=11
-C+,http://xztv.putids.com:80/user/dl/llllwww.php?id=12
-ViuTV,http://xztv.putids.com:80/user/dl/llllwww.php?id=13
-ViuTV,http://xztv.putids.com:80/user/dl/llllwww.php?id=14
-ViuTV6,http://xztv.putids.com:80/user/dl/llllwww.php?id=15
-Now新闻,http://xztv.putids.com:80/user/dl/llllwww.php?id=16
-Now直播,http://xztv.putids.com:80/user/dl/llllwww.php?id=17
-Now财经,http://xztv.putids.com:80/user/dl/llllwww.php?id=18
-Now体育,http://xztv.putids.com:80/user/dl/llllwww.php?id=19
-港版美亚(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=20
-港版美亚(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=21
-TVB功夫(粤),http://xztv.putids.com:80/user/dl/llllwww.php?id=22
-TVB功夫(国),http://xztv.putids.com:80/user/dl/llllwww.php?id=23
-凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=24
-凤凰中文,http://xztv.putids.com:80/user/dl/llllwww.php?id=25
-凤凰资讯,http://xztv.putids.com:80/user/dl/llllwww.php?id=26
-凤凰资讯,http://xztv.putids.com:80/user/dl/llllwww.php?id=27
-凤凰香港,http://xztv.putids.com:80/user/dl/llllwww.php?id=28
-澳门莲花,http://xztv.putids.com:80/user/dl/llllwww.php?id=29
-有线新闻台,http://xztv.putids.com:80/user/dl/llllwww.php?id=30
-有线新闻台,http://xztv.putids.com:80/user/dl/llllwww.php?id=31
-有线财经资讯台,http://xztv.putids.com:80/user/dl/llllwww.php?id=32
-香港603,http://xztv.putids.com:80/user/dl/llllwww.php?id=33
-有线18台,http://xztv.putids.com:80/user/dl/llllwww.php?id=34
-有线体育台,http://xztv.putids.com:80/user/dl/llllwww.php?id=35
-天映经典,http://xztv.putids.com:80/user/dl/llllwww.php?id=36
-天映频道,http://xztv.putids.com:80/user/dl/llllwww.php?id=37
-香港开电视,http://xztv.putids.com:80/user/dl/llllwww.php?id=38
-星空卫视,http://xztv.putids.com:80/user/dl/llllwww.php?id=39
-RTHK31,http://xztv.putids.com:80/user/dl/llllwww.php?id=40
-RTHK32,http://xztv.putids.com:80/user/dl/llllwww.php?id=41
 
 🇨🇳广州频道,#genre#
 广州新闻ᴴᴰ,http://ye23.win/iptv/gztv.php?id=xinwen
