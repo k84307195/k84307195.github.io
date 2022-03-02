@@ -122,8 +122,8 @@ ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
 ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
+
 🌟港澳挂梯,#genre#
-香港电视台,#genre#
 翡翠台HD,http://61.238.6.49:8000/bysid/1
 无线新闻HD,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2
@@ -180,61 +180,7 @@ ViuTV6 HD,http://hls.globaliptv.ml/viu96.php
 鳳凰衛視電影台,http://hdtv.haust.edu.cn/hls/fhdy.m3u8
 香港衛視,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-台湾电视台,#genre#
-壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
-寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
-三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中視新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
-台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-民視旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
-民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
-民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
-東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
-華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-澳门电视台,#genre#
-澳視澳門,http://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-Canal Macau,http://live4.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-澳門體育,http://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-澳門資訊,http://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳門綜藝,http://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-澳門-MACAU,http://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-立法會直播,http://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
-Directo das reuni?es da Assembleia Legislativa,http://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
-澳亞衛視,https://live.mastvnet.com/4rlff1m/1024/live.m3u8
-澳門衛視,http://stream.mastvnet.com/MSTV/playlist.m3u8
-境外电视台,#genre#
-[V] HD,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-FOX HD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-FOX MOVIES,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-FOX家庭影院,https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-Blue Ant Entertainment,https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-KIX MALAY,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-Baby First,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-Discovery Channel,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-Discovery TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-動物星球頻道,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-National Geographic HD,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-FOX SPORTS 1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
-FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
-FOX SPORTS 3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
+
 
 📡地波梯子,#genre#
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
