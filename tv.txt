@@ -160,9 +160,9 @@ RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
 
 ☯谷豆硬解,#genre#
-凤凰资讯ᴴᴰ,http://120.84.96.103:808/hls/28/index.m3u8
-凤凰卫视ᴴᴰ,http://120.84.96.103:808/hls/29/index.m3u8
-凤凰香港ᴴᴰ,http://120.84.96.103:808/hls/81/index.m3u8
+凰资资讯ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
+凤凰中文ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
+凤凰香港ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
 ViuTVᴴᴰ,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTV sixᴴᴰ,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 翡翠台ᴴᴰ,http://103.140.229.13/gudou.php?id=1350_4500#http://teyonds.weetai.cn:80/cdn/iptv/tyzb01.php?id=1350_4500&/PLTV/hls.smil.m3u8
