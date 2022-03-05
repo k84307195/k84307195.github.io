@@ -11,40 +11,11 @@ TVB翡翠台2,http://iptv.tvfix.org/hls/jade_v.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8#https://p2.weizan.cn/1646497941/441850797108020168/live.m3u8
 无线新闻ᴴᴰ,http://iptv.tvfix.org/hls/inews.m3u8
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-香港開電視,mitv://ns2.hellotvvod.com:9906/ae5366f93aa942ddb49b19c9492f5d72
-香港開電視.,http://lyht.qcytv.top/niu2.php?id=95
-now新聞台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
-now新闻台.,P2p://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
-now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
-有线新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
-有线新闻.,http://lyht.qcytv.top/niu2.php?id=62
-有线直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
-有线电影,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
-有线综合娱乐,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
-HKC电影台,P2p://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
-HKC新闻台,P2p://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
-HKC财经资讯台,P2p://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
-HKC 18,P2p://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
-HKC 603,P2p://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
-HKC體育台,P2p://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
-HKC Sports Plus 1,P2p://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
-HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
-TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02d7
-翡翠台,P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
-爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
-天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
-天映频道.,http://lyht.qcytv.top/niu2.php?id=15
-美亚电影.,http://lyht.qcytv.top/niu2.php?id=89
 美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
 美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
-美亚电影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
-星卫HD电影,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec446678019b
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
-RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
-RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 
 🌟原生慢开,#genre#
 凰资资讯ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
