@@ -47,6 +47,9 @@ RTHK31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 RTHK32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 
 🌟原生慢开,#genre#
+凰资资讯ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
+凤凰中文ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
+凤凰香港ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
