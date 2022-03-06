@@ -2,6 +2,8 @@
 凤凰香港ᴴᴰ,http://dllb.jxin122.top/jj.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰资讯ᴴᴰ,http://dllb.jxin122.top/jj.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰中文ᴴᴰ,http://dllb.jxin122.top/jj.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+
+
 翡翠台(广电),http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
 TVB翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
@@ -10,7 +12,9 @@ TVB翡翠台2,http://iptv.tvfix.org/hls/jade_v.m3u8
 翡翠 华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8#https://p2.weizan.cn/1646497941/441850797108020168/live.m3u8
 无线新闻ᴴᴰ,http://iptv.tvfix.org/hls/inews.m3u8
+无线新闻,http://flv3948069e.live.126.net:80/live/dabagqdszb8233jyumyn.flv
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+有线新闻台,http://flv3948069e.live.126.net/live/yxxw11/1.flv
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
