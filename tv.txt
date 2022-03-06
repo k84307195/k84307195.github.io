@@ -2,8 +2,6 @@
 凤凰香港ᴴᴰ,http://dllb.jxin122.top/jj.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰资讯ᴴᴰ,http://dllb.jxin122.top/jj.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰中文ᴴᴰ,http://dllb.jxin122.top/jj.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-
-
 翡翠台(广电),http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
 TVB翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
@@ -105,20 +103,16 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
 TVB J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
-TVB华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 TVB明珠台(粵語),https://cdn.hkdtmb.com/hls/84b/index.m3u8
 TVB財經資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8#http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 香港開電視,https://cdn.hkdtmb.com/hls/77/index.m3u8
 香港財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
 港台電視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
 📡地波智能,#genre#
 翡翠台,http://cdn-cn.hkyoutv.com/hls/81/index.m3u8
