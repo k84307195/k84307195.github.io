@@ -130,7 +130,7 @@ RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
 
 📡地波智能3,#genre#
-凰资资讯,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
+凤凰资讯,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
 凤凰中文,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
 凤凰香港,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
 翡翠台,http://cdn.hkyoutv.com/hls/81/index.m3u8
