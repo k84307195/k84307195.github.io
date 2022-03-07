@@ -115,7 +115,7 @@ ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 
-📡地波智能,#genre#
+📡地波智能2,#genre#
 翡翠台,http://cdn-cn.hkyoutv.com/hls/81/index.m3u8
 J2,http://cdn-cn.hkyoutv.com/hls/82/index.m3u8
 无线明珠,http://cdn-cn.hkyoutv.com/hls/84/index.m3u8
@@ -129,7 +129,7 @@ RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
 
-📡地波三套,#genre#
+📡地波智能3,#genre#
 凰资资讯,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
 凤凰中文,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
 凤凰香港,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
