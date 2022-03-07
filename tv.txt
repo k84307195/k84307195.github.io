@@ -130,18 +130,21 @@ RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
 
 📡地波三套,#genre#
-翡翠台,http://cdn.hkyoutv.com/hls/81/index.m3u8
-J2,http://cdn.hkyoutv.com/hls/82/index.m3u8
-无线明珠,http://cdn.hkyoutv.com/hls/84/index.m3u8
-无线新闻,http://cdn.hkyoutv.com/hls/83/index.m3u8
-无线财经,http://cdn.hkyoutv.com/hls/85/index.m3u8
-VIUTV,http://cdn.hkyoutv.com/hls/99/index.m3u8
-VIUTV6,http://cdn.hkyoutv.com/hls/96/index.m3u8
-RHK31,http://cdn.hkyoutv.com/hls/31/index.m3u8
-RHK32,http://cdn.hkyoutv.com/hls/32/index.m3u8
-RHK33,http://cdn.hkyoutv.com/hls/33/index.m3u8
-香港开电视,http://cdn.hkyoutv.com/hls/77/index.m3u8
-香港国际财经,http://cdn.hkyoutv.com/hls/76/index.m3u8
+凰资资讯ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
+凤凰中文ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
+凤凰香港ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
+翡翠台ᴴᴰ,http://cdn.hkyoutv.com/hls/81/index.m3u8
+J2ᴴᴰ,http://cdn.hkyoutv.com/hls/82/index.m3u8
+无线明珠ᴴᴰ,http://cdn.hkyoutv.com/hls/84/index.m3u8
+无线新闻ᴴᴰ,http://cdn.hkyoutv.com/hls/83/index.m3u8
+无线财经ᴴᴰ,http://cdn.hkyoutv.com/hls/85/index.m3u8
+VIUTVᴴᴰ,http://cdn.hkyoutv.com/hls/99/index.m3u8
+VIUTV6ᴴᴰ,http://cdn.hkyoutv.com/hls/96/index.m3u8
+RHK31ᴴᴰ,http://cdn.hkyoutv.com/hls/31/index.m3u8
+RHK32ᴴᴰ,http://cdn.hkyoutv.com/hls/32/index.m3u8
+RHK33ᴴᴰ,http://cdn.hkyoutv.com/hls/33/index.m3u8
+香港开电视ᴴᴰ,http://cdn.hkyoutv.com/hls/77/index.m3u8
+香港国际财经ᴴᴰ,http://cdn.hkyoutv.com/hls/76/index.m3u8
 
 ☯谷豆硬解,#genre#
 凰资资讯ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
