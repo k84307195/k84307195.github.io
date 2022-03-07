@@ -124,7 +124,7 @@ ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
 凤凰香港,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
 翡翠台,http://cdn-cn.hkyoutv.com/hls/81/index.m3u8
 J2,http://cdn-cn.hkyoutv.com/hls/82/index.m3u8
-无线明珠,http://cdn-cn.hkyoutv.com/hls/84/index.m3u8
+明珠,http://cdn-cn.hkyoutv.com/hls/84/index.m3u8
 无线新闻,http://cdn-cn.hkyoutv.com/hls/83/index.m3u8
 无线财经,http://cdn-cn.hkyoutv.com/hls/85/index.m3u8
 VIUTV,http://cdn-cn.hkyoutv.com/hls/99/index.m3u8
