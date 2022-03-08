@@ -219,7 +219,7 @@ TVBS新闻,http://huanqiuzhibo.cn/manifest/hqhktv.php?id=038&p=0&c=3&key=ced06b2
 凤凰香港ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
 ViuTVᴴᴰ,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTV sixᴴᴰ,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-翡翠台ᴴᴰ,http://103.140.229.13/gudou.php?id=1350_4500#http://teyonds.weetai.cn:80/cdn/iptv/tyzb01.php?id=1350_4500&/PLTV/hls.smil.m3u8
+翡翠台ᴴᴰ,http://hh0808.hk3.20212021.ml/gudoux.php?id=1350_4500#http://103.140.229.13/gudou.php?id=1350_4500#http://teyonds.weetai.cn:80/cdn/iptv/tyzb01.php?id=1350_4500&/PLTV/hls.smil.m3u8
 明珠台ᴴᴰ,http://103.140.229.13/gudou.php?id=1351_4500#http://teyonds.weetai.cn:80/cdn/iptv/tyzb01.php?id=1351_4500&/PLTV/hls.smil.m3u8
 广东体育ᴴᴰ,http://103.140.229.13/gudou.php?id=gdsportsHD_7000#http://teyonds.weetai.cn:80/cdn/iptv/tyzb01.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
 广东珠江ᴴᴰ,http://103.140.229.13/gudou.php?id=gdzhujiangHD_7500&/PLTV/hls.smil.m3u8#http://teyonds.weetai.cn:80/cdn/iptv/tyzb01.php?id=gdzhujiangHD_7500&/PLTV/hls.smil.m3u8
