@@ -65,45 +65,6 @@ ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 
-🌟3.8号硬解,#genre#
-翡翠台,http://209.141.56.65/hstv2.php?id=1
-明珠台,http://209.141.56.65/hstv2.php?id=2
-J2,http://209.141.56.65/hstv2.php?id=9
-无线新闻,http://209.141.56.65/hstv2.php?id=3
-无线财经,http://209.141.56.65/hstv2.php?id=8
-ViuTV,http://209.141.56.65/hstv2.php?id=6
-ViuTV6,http://209.141.56.65/hstv2.php?id=7
-有线新闻台,http://209.141.56.65/hstv2.php?id=4
-有线财经资讯台,http://209.141.56.65/hstv2.php?id=12
-香港603,http://209.141.56.65/hstv2.php?id=13
-有线18台,http://209.141.56.65/hstv2.php?id=14
-有线体育台,http://209.141.56.65/hstv2.php?id=15
-Now新闻台,http://209.141.56.65/hstv2.php?id=5
-Now星影台,http://209.141.56.65/hstv2.php?id=24
-Now爆谷台,http://209.141.56.65/hstv2.php?id=29
-港版美亚,http://209.141.56.65/hstv2.php?id=25
-TVB功夫台,http://209.141.56.65/hstv2.php?id=26
-TVB星河(国),http://209.141.56.65/hstv2.php?id=27
-香港开电视,http://209.141.56.65/hstv2.php?id=28
-RHK31,http://209.141.56.65/hstv2.php?id=10
-RHK32,http://209.141.56.65/hstv2.php?id=11
-凤凰香港,http://209.141.56.65/hstv2.php?id=16
-凤凰中文,http://209.141.56.65/hstv2.php?id=17
-凤凰资讯,http://209.141.56.65/hstv2.php?id=18
-澳视澳门,http://209.141.56.65/hstv2.php?id=19
-澳门资讯,http://209.141.56.65/hstv2.php?id=20
-澳视葡文,http://209.141.56.65/hstv2.php?id=21
-澳门Macau,http://209.141.56.65/hstv2.php?id=22
-澳门体育,http://209.141.56.65/hstv2.php?id=23
-天映频道,http://209.141.56.65/hstv2.php?id=30
-星卫HD电影台,http://209.141.56.65/hstv2.php?id=31
-三立新闻台,http://209.141.56.65/hstv2.php?id=310
-中视新闻台,http://209.141.56.65/hstv2.php?id=319
-非凡新闻台,http://209.141.56.65/hstv2.php?id=320
-CNN新闻,http://209.141.56.65/hstv2.php?id=329
-CNBC新闻,http://209.141.56.65/hstv2.php?id=331
-FRANCE24,http://209.141.56.65/hstv2.php?id=333
-
 🌟原生慢开,#genre#
 凰资资讯ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
 凤凰中文ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
