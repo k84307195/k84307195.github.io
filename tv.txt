@@ -10,6 +10,7 @@ TVB翡翠台2,http://iptv.tvfix.org/hls/jade_v.m3u8
 翡翠 华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8#https://p2.weizan.cn/1646497941/441850797108020168/live.m3u8
 无线新闻ᴴᴰ,http://iptv.tvfix.org/hls/inews.m3u8
+无线新闻.,http://livesec.mudu.tv/watch/0t5ejs.m3u8
 无线新闻,http://flv3948069e.live.126.net:80/live/dabagqdszb8233jyumyn.flv
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 有线新闻台,http://flv3948069e.live.126.net/live/yxxw11/1.flv
@@ -20,7 +21,6 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 无线翡翠.,http://livesec.mudu.tv/watch/ow7vfa.m3u8
-无线新闻.,http://livesec.mudu.tv/watch/0t5ejs.m3u8
 
 🌟IPTV源,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
