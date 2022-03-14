@@ -401,10 +401,6 @@ CCTV-5+ᴴᴰ,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/1000010000000
 广东体育,rtsp://183.59.180.131:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
 广东体育2,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879
 广东体育3,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-CCTV8K-1080假8K,http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
-CCTV-8K 1080假8K,http://39.134.118.77/live.gq.miguvideo.com:8080/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
-CCTV8K-1080假8K,http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
-东奥纪实8K假8K,http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh8/57/20210608/index.m3u8?&encrypt=
 CCTV8K假8K,http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
 CCTV4K假8K,http://117.148.179.157/PLTV/88888888/224/3221233460/index.m3u8
 🇨🇳中央频道,#genre#
