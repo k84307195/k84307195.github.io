@@ -128,7 +128,7 @@ RHK33,http://cdn-cn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,http://cdn-cn.hkyoutv.com/hls/77/index.m3u8
 香港国际财经,http://cdn-cn.hkyoutv.com/hls/76/index.m3u8
 
-📡地波智能3,#genre#
+📡地波内置3,#genre#
 翡翠台,http://cdn.hkyoutv.com/hls/81/index.m3u8
 J2,http://cdn.hkyoutv.com/hls/82/index.m3u8
 明珠,http://cdn.hkyoutv.com/hls/84/index.m3u8
