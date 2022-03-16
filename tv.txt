@@ -1,6 +1,7 @@
 🌟GaTO硬解,#genre#
 TVB J2,http://61.222.202.191/hodlive/yzyh.php?id=9
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+无线翡翠,http://61.222.202.191/hodlive/yzyh.php?id=4
 无线新闻,http://61.222.202.191/hodlive/yzyh.php?id=12
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 NOW新闻台,http://51.222.193.142:10011/9
