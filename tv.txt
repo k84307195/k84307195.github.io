@@ -1,9 +1,9 @@
 🌟GaTO硬解,#genre#
 TVB J2,http://61.222.202.191/hodlive/yzyh.php?id=9
-翡翠台HD,http://hh0808.hk3.20212021.ml/雲離小儿拿去用.php?id=1350_4500
 翡翠台1,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台2,https://tv.vip.hk/gudou?id=1350_4500
-无线翡翠3,http://61.222.202.191/hodlive/yzyh.php?id=4
+翡翠3,http://61.222.202.191/hodlive/yzyh.php?id=4
+翡翠台HD,http://hh0808.hk3.20212021.ml/雲離小儿拿去用.php?id=1350_4500
 无线新闻,http://61.222.202.191/hodlive/yzyh.php?id=12
 无线新闻.,http://livesec.mudu.tv/watch/0t5ejs.m3u8
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
