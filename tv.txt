@@ -279,15 +279,7 @@ JET综合,http://61.222.202.191/hodlive/yzyh.php?id=175
 ELEVEN+,http://61.222.202.191/hodlive/yzyh.php?id=180
 ELEVEN2,http://61.222.202.191/hodlive/yzyh.php?id=181
 华丽翡翠,http://61.222.202.191/hodlive/yzyh.php?id=164
-📺谷豆源,#genre#
-明珠台,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=xgmingzhu_1500&/PLTV/hls.smil.m3u8
-明珠台HD,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=1351_4500&/PLTV/hls.smil.m3u8
-翡翠台,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=xgfeicui_1500&/PLTV/hls.smil.m3u8
-翡翠台HD,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=1350_4500&/PLTV/hls.smil.m3u8
-DOXTV,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=DOXTV_1500&/PLTV/hls.smil.m3u8
-MTV,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=MTV_1500&/PLTV/hls.smil.m3u8
-星空卫视,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=xingkong_1500&/PLTV/hls.smil.m3u8
-凤凰中文,http://meimei.kandiantv.cn:80/lele/gdzm.php?id=fhzw_1500&/PLTV/hls.smil.m3u8
+
 🇭🇰港澳频道,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jadenhk.m3u8
 翡翠台海外,http://iptv.tvfix.org/hls/jade.m3u8
