@@ -136,8 +136,6 @@ RHK33ᴴᴰ,http://cdn.hkyoutv.com/hls/33/index.m3u8
 📺电视侠,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 J2(第2声道),http://iptv.tvfix.org/hls/j22.m3u8
 无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
