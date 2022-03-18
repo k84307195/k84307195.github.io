@@ -13,9 +13,9 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
 🌟IPTV源,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+翡翠台.,http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(国语),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 Jade,http://z4.ubtvfans.com/live/390/f2814e81699e53cff473afced6a3d80e/index.m3u8
 TVB星河,http://206.119.173.184/tv/js.php?id=7
 翡翠台,http://206.119.173.184/tv/js.php?id=4
