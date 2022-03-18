@@ -12,7 +12,7 @@ NOW新闻台,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
-🌟电视侠原生,#genre#
+📺电视侠,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
@@ -49,7 +49,7 @@ tvN,http://iptv.tvfix.org/hls/tvn.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 
-🌟IPTV源,#genre#
+📺IPTV源,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
@@ -94,7 +94,7 @@ ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 
-🌟原生慢开,#genre#
+📺原生慢开,#genre#
 凰资资讯ᴴᴰ,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
 凤凰中文ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
 凤凰香港ᴴᴰ,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
