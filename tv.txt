@@ -66,7 +66,30 @@ tvN,http://iptv.tvfix.org/hls/tvn.m3u8
 瞬间看地球,http://iptv.tvfix.org/hls/earth.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
-
+📺hod源,#genre#
+凤凰资讯台,http://live.hodtv.vip:25461/live/h123/123/3734.m3u8
+凤凰中文台,http://live.hodtv.vip:25461/live/h123/123/3733.m3u8
+凤凰香港台,http://live.hodtv.vip:25461/live/h123/123/3735.m3u8
+翡翠台,http://live.hodtv.vip:25461/live/h123/123/3736.m3u8
+翡翠台.,http://live.hodtv.vip:25461/live/h123/123/3737.m3u8
+明珠台,http://live.hodtv.vip:25461/live/h123/123/3738.m3u8
+TVB星河台,http://live.hodtv.vip:25461/live/h123/123/3739.m3u8
+TVBJ2台,http://live.hodtv.vip:25461/live/h123/123/3740.m3u8
+41有线新闻台,http://live.hodtv.vip:25461/live/h123/123/3741.m3u8
+42台,http://live.hodtv.vip:25461/live/h123/123/3742.m3u8
+无线新闻台,http://live.hodtv.vip:25461/live/h123/123/3743.m3u8
+无线财经台,http://live.hodtv.vip:25461/live/h123/123/3744.m3u8
+45有线新闻台,http://live.hodtv.vip:25461/live/h123/123/3745.m3u8
+viutv.,http://live.hodtv.vip:25461/live/h123/123/3746.m3u8
+viutv6,http://live.hodtv.vip:25461/live/h123/123/3747.m3u8
+viutv,http://live.hodtv.vip:25461/live/h123/123/3748.m3u8
+RHK31,http://live.hodtv.vip:25461/live/h123/123/3749.m3u8
+RHK32,http://live.hodtv.vip:25461/live/h123/123/3753.m3u8
+有线新闻台,http://live.hodtv.vip:25461/live/h123/123/3753.m3u8
+有线财经台,http://live.hodtv.vip:25461/live/h123/123/3754.m3u8
+有线18台,http://live.hodtv.vip:25461/live/h123/123/3755.m3u8
+有线603台,http://live.hodtv.vip:25461/live/h123/123/3756.m3u8
+无线新闻台,http://live.hodtv.vip:25461/live/h123/123/3757.m3u8
 📺IPTV源,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade.m3u8
