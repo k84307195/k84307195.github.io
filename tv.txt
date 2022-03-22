@@ -11,7 +11,21 @@ J2,http://61.222.202.191/hodlive/yzyh.php?id=9
 NOW新闻台,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-
+📺源码硬解,#genre#
+港台電視31,https://cdn.hkdtmb.com/raw/31.ts
+港台電視32,https://cdn.hkdtmb.com/raw/32.ts
+港台電視33,https://cdn.hkdtmb.com/raw/33.ts
+香港開電視,https://cdn.hkdtmb.com/raw/77.ts
+香港國際財經台,https://cdn.hkdtmb.com/raw/76.ts
+翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+翡翠台 (中英字幕),https://cdn.hkdtmb.com/raw/81b.ts
+J2台,https://cdn.hkdtmb.com/raw/82.ts
+無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
+明珠台,https://cdn.hkdtmb.com/raw/84.ts
+明珠台 (粵語聲道),https://cdn.hkdtmb.com/raw/84b.ts
+無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
+ViuTV,https://cdn.hkdtmb.com/raw/99.ts
+ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
 📺电视侠,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
@@ -126,21 +140,7 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
-📡源码硬解,#genre#
-港台電視31,https://cdn.hkdtmb.com/raw/31.ts
-港台電視32,https://cdn.hkdtmb.com/raw/32.ts
-港台電視33,https://cdn.hkdtmb.com/raw/33.ts
-香港開電視,https://cdn.hkdtmb.com/raw/77.ts
-香港國際財經台,https://cdn.hkdtmb.com/raw/76.ts
-翡翠台,https://cdn.hkdtmb.com/raw/81.ts
-翡翠台 (中英字幕),https://cdn.hkdtmb.com/raw/81b.ts
-J2台,https://cdn.hkdtmb.com/raw/82.ts
-無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
-明珠台,https://cdn.hkdtmb.com/raw/84.ts
-明珠台 (粵語聲道),https://cdn.hkdtmb.com/raw/84b.ts
-無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
-ViuTV,https://cdn.hkdtmb.com/raw/99.ts
-ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
+
 
 📡地波原生,#genre#
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
