@@ -26,9 +26,9 @@ J2台,https://cdn.hkdtmb.com/raw/82.ts
 無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
 ViuTV,https://cdn.hkdtmb.com/raw/99.ts
 ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
-凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯.,http://117.169.120.138:8080/live/fhzixun/.m3u8
 
 📺电视侠,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
