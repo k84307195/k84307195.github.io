@@ -11,8 +11,8 @@ J2台,https://cdn.hkdtmb.com/raw/82.ts
 娱乐新闻台,P2p://ns2.hellotvvod.com:9906/785b3b3470c54e179bccfdce0859906d.ts
 无线财经,P2p://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 开电视,P2p://ns2.hellotvvod.com:9906/470976e04f0a4fb594c427c44b67fef0.ts
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 Now新闻台,P2p://ns2.hellotvvod.com:9906/cdc09a8cfa3b4b01bae24e8b9c9bc00f.ts
 Now新闻台,http://51.222.193.142:10011/9
 Now直播台,P2p://ns2.hellotvvod.com:9906/16c0186ef8f445db997ff5038609deae.ts
