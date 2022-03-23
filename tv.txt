@@ -364,7 +364,7 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 粤语电影2,http://tc-tct.douyucdn2.cn/dyliveflv3/6566671rCCAqEL7n.flv?wsAuth=4f60488d450c0f19ff66a1e338534215&token=cpn-androidmpro-0-6566671-e1f409a777b7d4967ddb15e676ecdf37d29d9c72d63dd4fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rAceLmKOW.flv?wsAuth=203296781d7dff0a2e74a6d676254153&token=cpn-androidmpro-0-2466104-09fd8b41302171bdd60d8f89900e10ad8e9a8f961828d10c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3/8603174rD8bY55uX.flv?wsAuth=da3f2cc9b073c5f4f33a84f529895885&token=cpn-androidmpro-0-8603174-8f495c66f44b1e32800ac1d8899ec411f1efa07ec38b66c8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rwzz358TX.flv?wsAuth=4efa1a841e6bee8febcb120a4b729fed&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6cb30fa653f1bc856ff0b25ad7d5dc2e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rgLjJ2hfE.flv?wsAuth=b8bc0ec9d12ac45caf42aeac0321ef4d&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6e15461496de4e9c7a7c28ee4d94026b2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 粤语港片,http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
 古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
