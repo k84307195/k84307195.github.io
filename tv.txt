@@ -357,7 +357,7 @@ MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-🐟斗鱼轮播🇨🇳🇲🇴🇺🇳🇺🇳🇲🇾🇯🇵🇰🇷🌐💠🎈🛰️🐱,#genre#
+🐟斗鱼轮播,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rUnat4CUof_2000.flv?wsAuth=e42058ab9edbf91a7296f0a3b7a2196b&token=cpn-androidmpro-0-252802-536492a84fc6fe0ca2659deea7f04981e6d5933f2f922e1e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=504feee4b83a8cb35bfa6e7922c40179&token=cpn-androidmpro-0-20415-b6774b3b3249db17e434a3db3edd3a0addceca6557849da3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3/2793084rGW3qQ3wX.flv?wsAuth=bafd9b4b09e13c826535aa5240063aca&token=cpn-androidmpro-0-2793084-3f569b7e953394a7334a491d47d5a397e6d2df29014842bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
@@ -460,3 +460,4 @@ ViuTVsix,P2p://ns2.hellotvvod.com:9906/a41f7686313a40c99d70e40021f6b5e1.ts
 星空卫视,P2p://ns2.hellotvvod.com:9906/473ff201fab6491eb63824e23a1a3a31.ts
 星卫HD电影,P2p://ns2.hellotvvod.com:9906/17fb38b579b24857a6986151ffe97155.ts
 星卫娱乐,P2p://ns2.hellotvvod.com:9906/a0ffb629e01d4efdba7f240f74347f36.ts
+🇨🇳🇳🇲🇴🇺🇳🇺🇳🇲🇾🇯🇵🇰🇷🌐💠🎈🛰️🐱,#genre#
