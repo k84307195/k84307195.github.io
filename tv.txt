@@ -340,7 +340,6 @@ CCTV-5+ᴴᴰ,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/1000010000000
 广东体育3,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 CCTV8K假8K,http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
 CCTV4K假8K,http://117.148.179.157/PLTV/88888888/224/3221233460/index.m3u8
-電影,#genre#
 
 🎵音乐频道,#genre#
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -382,6 +381,7 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
 1921,https://hnzy3.queshechaye.com:65/20210925/YPNAZUqA/index.m3u8
 长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
+
 🚗p5p备用,#genre#
 鳳凰資訊台,p8p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
@@ -399,6 +399,7 @@ VIU SIX,p8p://45.92.126.18:9906/6159c5d9000848ff19fce09318840f2c
 有線18台,p8p://45.92.126.18:9906/615cf3b20004e4390c68149d25db8dc8
 有線603高清,p8p://45.92.126.18:9906/60ed1cd4000297a20faf48d5542663e4	
 有線娛樂台,p8p://45.92.126.18:9906/615cf4490001e8c00c6a61b288746e22
+
 🚗p8p备用,#genre#
 鳳凰資訊台,p8p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
