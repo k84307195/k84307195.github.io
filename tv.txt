@@ -3,18 +3,16 @@
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t.ts
-翡翠台,P2p://ns2.hellotvvod.com:9906/185179eb84a74dbbb4f84fdc4c9b4bd5.ts
 翡翠台,P2p://ns2.hellotvvod.com:9906/cb2c8e9819fa407eac211b83141afc28.ts
-
+翡翠海外台,P2p://ns2.hellotvvod.com:9906/185179eb84a74dbbb4f84fdc4c9b4bd5.ts
 无线新闻,P2p://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
 无线新闻,P2p://ns2.hellotvvod.com:9906/3de37bd7c3c142c6a5672b61f19b26c1.ts
-J2,P2p://ns2.hellotvvod.com:9906/ef1f8f599d5b4a7fb65876cf1c5bfb32.ts
-TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/785b3b3470c54e179bccfdce0859906d.ts
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+娱乐新闻台,P2p://ns2.hellotvvod.com:9906/785b3b3470c54e179bccfdce0859906d.ts
 无线财经,P2p://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 开电视,P2p://ns2.hellotvvod.com:9906/470976e04f0a4fb594c427c44b67fef0.ts
-Now剧集,P2p://ns2.hellotvvod.com:9906/b915592e70da4cc9acca20d187da4bce.ts
 Now新闻台,P2p://ns2.hellotvvod.com:9906/cdc09a8cfa3b4b01bae24e8b9c9bc00f.ts
 Now新闻台,http://51.222.193.142:10011/9
 Now直播台,P2p://ns2.hellotvvod.com:9906/16c0186ef8f445db997ff5038609deae.ts
@@ -23,7 +21,6 @@ ViuTV,P2p://ns2.hellotvvod.com:9906/8b2474277a42401390813068c642e390.ts
 ViuTVsix,P2p://ns2.hellotvvod.com:9906/a41f7686313a40c99d70e40021f6b5e1.ts
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 明珠台,P2p://ns2.hellotvvod.com:9906/5a657e27e6104e52bebafb9e46cd665d.ts
-
 TVB星河,P2p://ns2.hellotvvod.com:9906/11d487b87ad24374a70f338ee8fffd0b.ts
 TVB经典台,P2p://ns2.hellotvvod.com:9906/885b138988364214958dc5eed3a01beb.ts
 TVB功夫台,P2p://ns2.hellotvvod.com:9906/09411069d1a0446ca22f4891366cfed9.ts
@@ -49,6 +46,7 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰中文,P2p://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
+
 📡源码硬解,#genre#
 港台電視31,https://cdn.hkdtmb.com/raw/31.ts
 港台電視32,https://cdn.hkdtmb.com/raw/32.ts
@@ -68,7 +66,8 @@ ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
-📺电视侠,#genre#
+
+📺电视侠源,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
@@ -104,7 +103,8 @@ tvN,http://iptv.tvfix.org/hls/tvn.m3u8
 瞬间看地球,http://iptv.tvfix.org/hls/earth.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
-📺hod源,#genre#
+
+📺HOD源,#genre#
 凤凰资讯台,http://live.hodtv.vip:25461/live/h123/123/3734.m3u8
 凤凰中文台,http://live.hodtv.vip:25461/live/h123/123/3733.m3u8
 凤凰香港台,http://live.hodtv.vip:25461/live/h123/123/3735.m3u8
@@ -230,18 +230,13 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 广东国际,rtsp://125.88.53.76:554/PLTV/88888905/224/3221227230/10000100000000060000000000990032_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EYp1D7VyK2VsjV22kjcAk-Q%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000388%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605705954
 广东经济科教,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227238/10000100000000060000000000987130_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EyU3xvT9RGErxisUE0wkmkg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000375%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706029
 广东移动,rtsp://125.88.82.45:554/PLTV/88888905/224/3221227209/10000100000000060000000000987164_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Egq0BYpTYPSkLaZjiStEx9Q%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000387%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71824&online=1605706613
-粤TV极K影视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EnRCjjtXntY99JjdTWi5XVg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C000000052016051399000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605710791
 广东房产,rtsp://183.59.70.75:554/PLTV/88888905/224/3221227216/10000100000000060000000000990028_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E1gTzC2O3etVfAsvZrSV_Vg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000384%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605706846
-粤TV极K精选,rtsp://183.59.70.75:554/PLTV/88888905/224/3221228304/10000100000000060000000008188821_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E8-1sixSy3h6EVYxRzBr1rw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000035000000052017062399000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605710869
 嘉佳卡通,rtsp://125.88.53.76:554/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EkMyyYLpJ_82G80_6LYvKOA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000006%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605706439
-普宁台,http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdjypn#http://v.iisfu.top/live/puning#http://tkbunj246.nian.gfzyw.cn/touchtv.php?id=2450#http://hls333.dszbdq.cn/gdou3.php?id=puningtai_2000
-潮南,http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdstcn1#http://tkbunj246.nian.gfzyw.cn/touchtv.php?id=2444
 揭阳综合,rtsp://183.59.70.74:554/PLTV/88888905/224/3221227797/10000100000000060000000004941375_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EhDZvZ7dlDER7tcN5cH6d4g%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052014122200000033%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706652
 揭阳公共,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227753/10000100000000060000000004941374_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EIbAeP9v6ojKrS64ULp5BcA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052014122200000034%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706724
-潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd
-潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd
 岭南戏曲,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EXp4YcfE69guN0d7VTTIvig%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000385%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706756
 现代教育,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227233/10000100000000060000000000990060_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E3xrotr_6YSajf0BF8YH7ow%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000050000000000000381%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706892
+
 🇨🇳卫视频道,#genre#
 南方卫视ᴴᴰ,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
 湖南卫视ᴴᴰ,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ENkc6QNZEfJ1Hqm12eGaKxw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000195%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605707754,cntv-hunan
@@ -296,14 +291,7 @@ CETV4ᴴᴰ,rtsp://183.59.70.70:554/PLTV/88888905/224/3221229908/100001000000000
 纪实人物ᴴᴰ,rtsp://183.59.70.71:554/PLTV/88888905/224/3221229872/10000100000000060000000009575047_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EK7Z3v0csIIQiA8ZhV0ySEA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052018110799000003%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605709890
 茶频道ᴴᴰ,rtsp://125.88.53.75:554/PLTV/88888905/224/3221229888/10000100000000060000000010323146_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EMhQ6ZyeRjk5mta22OM89Dw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019090499000005%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605710046
 快乐垂钓ᴴᴰ,rtsp://125.88.53.75:554/PLTV/88888905/224/3221229928/10000100000000060000000010323147_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ESPI66mLUhoK6e_bTbSQQCQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019090499000004%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73130&online=1605710086
-🇨🇳体育频道,#genre#
-CCTV-5ᴴᴰ,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605707201,cntv-cctv5
-CCTV-5+ᴴᴰ,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000153%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709551,cntv-cctv5plus
-广东体育,rtsp://183.59.180.131:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
-广东体育2,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879
-广东体育3,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-CCTV8K假8K,http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
-CCTV4K假8K,http://117.148.179.157/PLTV/88888888/224/3221233460/index.m3u8
+
 🇨🇳中央频道,#genre#
 CCTV-1综合ᴴᴰ,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EUwOl-Gl8Z1MFFJlY1q_RCg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000152%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706940,cntv-cctv1
 CCTV-2财经ᴴᴰ,rtsp://183.59.70.75:554/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew08QX--mxmtiRia3ZBMEZA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015041300000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605707030,cntv-cctv2
@@ -344,55 +332,23 @@ CCTV中学生,rtsp://125.88.82.40:554/PLTV/88888905/224/3221228327/1000010000000
 文物宝库,rtsp://183.59.70.69:554/PLTV/88888905/224/3221228339/10000100000000060000000007935401_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EgZXfK8DeOnmX25Oh9v88YA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017041099000019%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605711351
 中甲联赛,rtsp://183.59.70.77:554/PLTV/88888905/224/3221228156/10000100000000060000000007500384_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EW9UtD7EgsumYdPxtV5orTg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052015102200000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73224&online=1605712588
 
-🇨🇳🇲🇴🇺🇳🇺🇳🇲🇾🇯🇵🇰🇷⚽️
+⚽️体育频道,#genre#
+CCTV-5ᴴᴰ,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605707201,cntv-cctv5
+CCTV-5+ᴴᴰ,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000153%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73227&online=1605709551,cntv-cctv5plus
+广东体育,rtsp://183.59.180.131:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+广东体育2,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879
+广东体育3,http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+CCTV8K假8K,http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
+CCTV4K假8K,http://117.148.179.157/PLTV/88888888/224/3221233460/index.m3u8
+電影,#genre#
 
-🎞️電影,#genre#
-衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
-東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
-緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
-龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
-HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
-東森洋片台,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
-AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
-好萊塢電影台,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
-CINEMAX,mitv://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
-緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
-HBO Family,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
-HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
-HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
-美亞電影台HD,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
-龍華電影,mitv://ns2.hellotvvod.com:9906/cda4c0d5e8df4d49bb51fa6b71b5d19b
-星衛HD電影台,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec44667801
-靖天映畫,mitv://ns2.hellotvvod.com:9906/0a08a213ff34484ebba095598ffed323
-靖天電影台,mitv://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
-WARNER TV,mitv://ns2.hellotvvod.com:9906/bf10e7821b5744d3aed911a956e6cdfe
-Star Movies HD,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
-AMC最愛電影,mitv://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
-Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
-CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
-CinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
-壹電視電影台,mitv://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
-采昌影劇台,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
-爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
-鳳凰電影台,mitv://ns2.hellotvvod.com:9906/06553799649b45619f5c5ff5467abe0e
-HKC電影台,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
-CCTV6,mitv://ns2.hellotvvod.com:9906/fcb1a15023a1447c88064e0e21c1bf4c
-天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
-天映經典,mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
-BOO,mitv://ns2.hellotvvod.com:9906/fd66b38ae9014f8183ac6b160b94548b
-tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
-🎵音乐,#genre#
-MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
-MTV Live,mitv://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
-Mezzo Live,mitv://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
-CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
-CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
+🎵音乐频道,#genre#
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 HD音樂頻道,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 otpaha,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
 HONOE音樂,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 DJT,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 AdriaMusic,https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
@@ -401,17 +357,9 @@ MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-🛰️戲劇,#genre#
-東森戲劇台,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
-八大戲劇台,mitv://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
-緯來戲劇台,mitv://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
-三立戲劇台,mitv://ns2.hellotvvod.com:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
-龍華戲劇,mitv://ns2.hellotvvod.com:9906/b3fdf7edaf724fffb49a1bb3e5ba36c0
-愛爾達影劇台,mitv://ns2.hellotvvod.com:9906/7964972106564c79bee0dbe6dde23c81
-靖天戲劇台,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
-靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
-EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
-🐟🌐💠🎈斗鱼,#genre#
+
+
+🐟斗鱼轮播🇨🇳🇲🇴🇺🇳🇺🇳🇲🇾🇯🇵🇰🇷🌐💠🎈🛰️,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rZj9LIrw4M_2000.flv?wsAuth=5e091571a33a0c2af9bf8d6546a1edaf&token=cpn-androidmpro-0-252802-536492a84fc6fe0cb4849b6119fe2b5ce8f585393c9b031a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=f3d36f84a3f2ee717a3e669171f156d5&token=cpn-androidmpro-0-20415-b6774b3b3249db17ec5d0a607c9935bc3610f4a03611b7c3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3a/2793084rOv5omCuI.flv?wsAuth=613026c8da9118fbbe419f67ede44575&token=cpn-androidmpro-0-2793084-3f569b7e953394a7116849057771109897325240acf230c0&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
@@ -421,21 +369,16 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3/8603174rD8bY55uX.flv?wsAuth=268aa4c69b97d798268f597b79120328&token=cpn-androidmpro-0-8603174-8f495c66f44b1e32abc33d00d71f6fd434c84626d0c430d5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741r9JUqO3An.flv?wsAuth=4dad51aa5beaef710a3d14e98dd38169&token=cpn-androidmpro-0-1226741-0dc52b22d02956895dd6c09a3775265e4b3dfe323875afb0&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rwzz358TX.flv?wsAuth=4efa1a841e6bee8febcb120a4b729fed&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6cb30fa653f1bc856ff0b25ad7d5dc2e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-粤语残片台,http://784697081.xyz/bilibili258.php?id=3568283
 粤语港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 粤语港片,http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
-粤语原声,http://kkiptv.hk3.20212021.ml/qqq.php?id=380066322
-粤语港片,http://kkiptv.hk3.20212021.ml/qqq.php?id=180055322
-周星星粤语经典版,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
-粤语剧场,http://103.140.229.13/BOBO/bibi.php?id=136843
-港剧大放送,http://txtest-xp2p.p2p.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.xs
-🐱咪咕頻道,#genre#
+
+🐱咪咕轮播,#genre#
 古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 张国荣,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 郭富城,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 林正英,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
 高分电影HD,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-🐱黑肥新片,#genre#
+🎞️新片速递,#genre#
 倚天屠龙记之九阳神功,https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
 倚天屠龙记之圣火雄风,https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
 纹身,https://vod11.bdzybf.com/20220130/xGkoktPx/index.m3u8
