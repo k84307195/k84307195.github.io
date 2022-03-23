@@ -4,8 +4,8 @@ J2,https://cdn.hkdtmb.com/raw/82.ts
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t.ts
 翡翠台,P2p://ns2.hellotvvod.com:9906/cb2c8e9819fa407eac211b83141afc28.ts
-无线新闻,P2p://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
 无线新闻,P2p://ns2.hellotvvod.com:9906/3de37bd7c3c142c6a5672b61f19b26c1.ts
+无线新闻,P2p://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
 翡翠海外台,P2p://ns2.hellotvvod.com:9906/185179eb84a74dbbb4f84fdc4c9b4bd5.ts
 娱乐新闻台,P2p://ns2.hellotvvod.com:9906/785b3b3470c54e179bccfdce0859906d.ts
