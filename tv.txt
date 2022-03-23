@@ -21,7 +21,7 @@ ViuTV,P2p://ns2.hellotvvod.com:9906/8b2474277a42401390813068c642e390.ts
 ViuTVsix,P2p://ns2.hellotvvod.com:9906/a41f7686313a40c99d70e40021f6b5e1.ts
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 明珠台,P2p://ns2.hellotvvod.com:9906/5a657e27e6104e52bebafb9e46cd665d.ts
-TVB星河,P2p://ns2.hellotvvod.com:9906/11d487b87ad24374a70f338ee8fffd0b.ts
+TVB星河台,P2p://ns2.hellotvvod.com:9906/11d487b87ad24374a70f338ee8fffd0b.ts
 TVB经典台,P2p://ns2.hellotvvod.com:9906/885b138988364214958dc5eed3a01beb.ts
 TVB功夫台,P2p://ns2.hellotvvod.com:9906/09411069d1a0446ca22f4891366cfed9.ts
 TVB直播台,P2p://ns2.hellotvvod.com:9906/8f3c0a004ada47b68c741ca007984aa4.ts
