@@ -47,7 +47,7 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰中文,P2p://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
-
+🌟119源测,#genre#
 📡源码硬解,#genre#
 港台電視31,https://cdn.hkdtmb.com/raw/31.ts
 港台電視32,https://cdn.hkdtmb.com/raw/32.ts
