@@ -48,6 +48,53 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
 🌟119源测,#genre#
+凤凰中文,http://119.29.145.154:9999/hhh.php?tid=gt&id=2 
+凤凰资讯,http://119.29.145.154:9999/hhh.php?tid=gt&id=3
+凤凰香港,http://119.29.145.154:9999/hhh.php?tid=gt&id=4
+香港翡翠,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
+香港新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=9 
+香港--J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12 
+香港开视,http://119.29.145.154:9999/hhh.php?tid=gt&id=7 
+香港财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=10 
+香港明珠,http://119.29.145.154:9999/hhh.php?tid=gt&id=13 
+有线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=24 
+有线18,http://119.29.145.154:9999/hhh.php?tid=gt&id=25 
+有线603,http://119.29.145.154:9999/hhh.php?tid=gt&id=26 
+有线体育,http://119.29.145.154:9999/hhh.php?tid=gt&id=27 
+NOW新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=16 
+香港HKS,http://119.29.145.154:9999/hhh.php?tid=gt&id=6 
+Viutv,http://119.29.145.154:9999/hhh.php?tid=gt&id=8 
+星空卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=18 
+耀才财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=19 RTHK31,http://119.29.145.154:9999/hhh.php?tid=gt&id=20 RTHK32,http://119.29.145.154:9999/hhh.php?tid=gt&id=21 
+有线财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=28 
+中天新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=53 
+寰宇新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=63 
+东森新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=55 
+TVBS新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=54 
+壹新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=58 
+民视新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=59 
+中视新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=60 
+三立新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=57 
+三立都会,http://119.29.145.154:9999/hhh.php?tid=gt&id=49 
+三立台湾,http://119.29.145.154:9999/hhh.php?tid=gt&id=51 
+中视,http://119.29.145.154:9999/hhh.php?tid=gt&id=82 
+民视,http://119.29.145.154:9999/hhh.php?tid=gt&id=84 
+华视,http://119.29.145.154:9999/hhh.php?tid=gt&id=86 
+中天亚洲,http://119.29.145.154:9999/hhh.php?tid=gt&id=91 TVBS,http://119.29.145.154:9999/hhh.php?tid=gt&id=95 
+TVBS精采,http://119.29.145.154:9999/hhh.php?tid=gt&id=96 
+TVBS欢乐,http://119.29.145.154:9999/hhh.php?tid=gt&id=97 
+民视台湾,http://119.29.145.154:9999/hhh.php?tid=gt&id=99 
+民视第一,http://119.29.145.154:9999/hhh.php?tid=gt&id=100 
+CN卡通,http://119.29.145.154:9999/hhh.php?tid=gt&id=83 
+澳门莲花,http://119.29.145.154:9999/hhh.php?tid=gt&id=30 
+澳门MACAU,http://119.29.145.154:9999/hhh.php?tid=gt&id=31 
+澳门MACAU,http://119.29.145.154:9999/hhh.php?tid=gt&id=40 
+澳门资讯,http://119.29.145.154:9999/hhh.php?tid=gt&id=32 
+澳视澳门,http://119.29.145.154:9999/hhh.php?tid=gt&id=33 
+澳门葡语,http://119.29.145.154:9999/hhh.php?tid=gt&id=35 
+澳门综艺,http://119.29.145.154:9999/hhh.php?tid=gt&id=37 
+澳门RTP,http://119.29.145.154:9999/hhh.php?tid=gt&id=41
+
 📡源码硬解,#genre#
 港台電視31,https://cdn.hkdtmb.com/raw/31.ts
 港台電視32,https://cdn.hkdtmb.com/raw/32.ts
