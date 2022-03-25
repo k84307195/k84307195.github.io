@@ -55,13 +55,13 @@ J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12
 翡翠台,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
 无线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=9 
 无线财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=10 
-无线明珠,http://119.29.145.154:9999/hhh.php?tid=gt&id=13 
+明珠台,http://119.29.145.154:9999/hhh.php?tid=gt&id=13 
 香港开视,http://119.29.145.154:9999/hhh.php?tid=gt&id=7 
+NOW新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=16 
 有线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=24 
 有线18,http://119.29.145.154:9999/hhh.php?tid=gt&id=25 
 有线603,http://119.29.145.154:9999/hhh.php?tid=gt&id=26 
 有线体育,http://119.29.145.154:9999/hhh.php?tid=gt&id=27 
-NOW新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=16 
 香港HKS,http://119.29.145.154:9999/hhh.php?tid=gt&id=6 
 Viutv,http://119.29.145.154:9999/hhh.php?tid=gt&id=8 
 星空卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=18 
