@@ -51,12 +51,12 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰中文,http://119.29.145.154:9999/hhh.php?tid=gt&id=2 
 凤凰资讯,http://119.29.145.154:9999/hhh.php?tid=gt&id=3
 凤凰香港,http://119.29.145.154:9999/hhh.php?tid=gt&id=4
-香港翡翠,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
-香港新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=9 
-香港--J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12 
+J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12 
+无线翡翠,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
+无线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=9 
+无线财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=10 
+无线明珠,http://119.29.145.154:9999/hhh.php?tid=gt&id=13 
 香港开视,http://119.29.145.154:9999/hhh.php?tid=gt&id=7 
-香港财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=10 
-香港明珠,http://119.29.145.154:9999/hhh.php?tid=gt&id=13 
 有线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=24 
 有线18,http://119.29.145.154:9999/hhh.php?tid=gt&id=25 
 有线603,http://119.29.145.154:9999/hhh.php?tid=gt&id=26 
