@@ -52,7 +52,7 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰资讯,http://119.29.145.154:9999/hhh.php?tid=gt&id=3
 凤凰香港,http://119.29.145.154:9999/hhh.php?tid=gt&id=4
 J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12 
-无线翡翠,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
+翡翠台,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
 无线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=9 
 无线财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=10 
 无线明珠,http://119.29.145.154:9999/hhh.php?tid=gt&id=13 
