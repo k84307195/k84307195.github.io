@@ -56,7 +56,7 @@ J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12
 无线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=9 
 无线财经,http://119.29.145.154:9999/hhh.php?tid=gt&id=10 
 明珠台,http://119.29.145.154:9999/hhh.php?tid=gt&id=13 
-香港开视,http://119.29.145.154:9999/hhh.php?tid=gt&id=7 
+香港开电视,http://119.29.145.154:9999/hhh.php?tid=gt&id=7 
 NOW新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=16 
 有线新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=24 
 有线18,http://119.29.145.154:9999/hhh.php?tid=gt&id=25 
