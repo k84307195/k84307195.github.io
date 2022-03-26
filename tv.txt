@@ -48,7 +48,6 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
 
-
 📡源码硬解,#genre#
 港台電視31,https://cdn.hkdtmb.com/raw/31.ts
 港台電視32,https://cdn.hkdtmb.com/raw/32.ts
@@ -106,7 +105,7 @@ tvN,http://iptv.tvfix.org/hls/tvn.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 
-📺IPTV源,#genre#
+📺 IPTV源,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
