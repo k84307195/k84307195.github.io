@@ -429,8 +429,7 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 郭富城,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 林正英,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
 高分电影HD,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-浩克大魔王,http://tc-tct.douyucdn2.cn/dyliveflv1/4489985rfScChZGJ_2000.flv?wsAuth=c047a922b98fb12e7d1a093f0fd38ad5&token=cpn-androidmpro-0-4489985-6fd242ce5f8ca86b138346cc04aaf3021c7d63d9a7bd8e43&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-逐梦兄弟,http://tc-tct.douyucdn2.cn/dyliveflv3a/5025477rZHfyJvmM.flv?wsAuth=cf8b887c03993dbaa738233a234ec88f&token=cpn-androidmpro-0-5025477-e17e7c7bcf43edc979c996acb4ca2fb69aeaf5a1c1dd386b&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+
 🎞️新片速递,#genre#
 倚天屠龙记之九阳神功,https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
 倚天屠龙记之圣火雄风,https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
