@@ -181,6 +181,40 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
+📺119源,#genre#
+凤凰卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=2
+凤凰资讯台,http://119.29.145.154:9999/hhh.php?tid=gt&id=3
+凤凰香港台,http://119.29.145.154:9999/hhh.php?tid=gt&id=4
+TVB翡翠,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
+TVB明珠,http://119.29.145.154:9999/hhh.php?tid=gt&id=13
+TVB J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12
+Now新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=16
+ViuTV,http://119.29.145.154:9999/hhh.php?tid=gt&id=8
+耀才财经台,http://119.29.145.154:9999/hhh.php?tid=gt&id=19
+無線新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=9
+無線財經,http://119.29.145.154:9999/hhh.php?tid=gt&id=10
+有線新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=24
+有線財經,http://119.29.145.154:9999/hhh.php?tid=gt&id=28
+有线体育,http://119.29.145.154:9999/hhh.php?tid=gt&id=27
+有線電影,http://119.29.145.154:9999/hhh.php?tid=gt&id=23
+有線18台,http://119.29.145.154:9999/hhh.php?tid=gt&id=25
+有線603,http://119.29.145.154:9999/hhh.php?tid=gt&id=26
+開电视,http://119.29.145.154:9999/hhh.php?tid=gt&id=7
+星空卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=18
+澳门莲花,http://119.29.145.154:9999/hhh.php?tid=gt&id=30
+澳门卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=31
+RTHK31,http://119.29.145.154:9999/hhh.php?tid=gt&id=20
+RTHK32,http://119.29.145.154:9999/hhh.php?tid=gt&id=21
+中視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=82
+華視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=86
+民視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=84
+台視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=83
+公視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=85
+壹新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=58
+TVBS ,http://119.29.145.154:9999/hhh.php?tid=gt&id=95
+TVBS新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=54
+TVBS精采,http://119.29.145.154:9999/hhh.php?tid=gt&id=96
+TVBS歡樂,http://119.29.145.154:9999/hhh.php?tid=gt&id=97
 
 🇨🇳广州频道,#genre#
 广州综合1,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
