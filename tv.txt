@@ -48,40 +48,22 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
 
-📺119测试,#genre#
-凤凰卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=2
-凤凰资讯台,http://119.29.145.154:9999/hhh.php?tid=gt&id=3
-凤凰香港台,http://119.29.145.154:9999/hhh.php?tid=gt&id=4
-J2,http://119.29.145.154:9999/hhh.php?tid=gt&id=12
-開电视,http://119.29.145.154:9999/hhh.php?tid=gt&id=7
-翡翠台,http://119.29.145.154:9999/hhh.php?tid=gt&id=1
-無線新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=9
-無線財經,http://119.29.145.154:9999/hhh.php?tid=gt&id=10
-Now新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=16
-明珠台,http://119.29.145.154:9999/hhh.php?tid=gt&id=13
-ViuTV,http://119.29.145.154:9999/hhh.php?tid=gt&id=8
-耀才财经台,http://119.29.145.154:9999/hhh.php?tid=gt&id=19
-有線新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=24
-有線財經,http://119.29.145.154:9999/hhh.php?tid=gt&id=28
-有线体育,http://119.29.145.154:9999/hhh.php?tid=gt&id=27
-有線電影,http://119.29.145.154:9999/hhh.php?tid=gt&id=23
-有線18台,http://119.29.145.154:9999/hhh.php?tid=gt&id=25
-有線603,http://119.29.145.154:9999/hhh.php?tid=gt&id=26
-星空卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=18
-澳门莲花,http://119.29.145.154:9999/hhh.php?tid=gt&id=30
-澳门卫视,http://119.29.145.154:9999/hhh.php?tid=gt&id=31
-RTHK31,http://119.29.145.154:9999/hhh.php?tid=gt&id=20
-RTHK32,http://119.29.145.154:9999/hhh.php?tid=gt&id=21
-中視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=82
-華視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=86
-民視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=84
-台視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=83
-公視 ,http://119.29.145.154:9999/hhh.php?tid=gt&id=85
-壹新闻,http://119.29.145.154:9999/hhh.php?tid=gt&id=58
-TVBS ,http://119.29.145.154:9999/hhh.php?tid=gt&id=95
-TVBS新聞,http://119.29.145.154:9999/hhh.php?tid=gt&id=54
-TVBS精采,http://119.29.145.154:9999/hhh.php?tid=gt&id=96
-TVBS歡樂,http://119.29.145.154:9999/hhh.php?tid=gt&id=97
+📡地波硬解,#genre#
+香港開電視,https://cdn.hkyoutv.com/hls/77/index.m3u8
+香港國際財經台,https://cdn.hkyoutv.com/hls/76/index.m3u8
+翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
+翡翠台 (中英字幕),https://cdn.hkyoutv.com/hls/81b/index.m3u8
+J2台,https://cdn.hkyoutv.com/hls/82/index.m3u8
+無綫新聞台,https://cdn.hkyoutv.com/hls/83/index.m3u8
+明珠台,https://cdn.hkyoutv.com/hls/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hkyoutv.com/hls/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hkyoutv.com/hls/85/index.m3u8
+ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkyoutv.com/hls/96/index.m3u8
+ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
+港台電視31,https://cdn.hkyoutv.com/hls/31/index.m3u8
+港台電視32,https://cdn.hkyoutv.com/hls/32/index.m3u8
+港台電視33,https://cdn.hkyoutv.com/hls/33/index.m3u8
 
 📡源码硬解,#genre#
 港台電視31,https://cdn.hkdtmb.com/raw/31.ts
