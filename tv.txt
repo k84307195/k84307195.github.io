@@ -49,15 +49,15 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
 
 📡地波硬解,#genre#
-香港開電視,https://cdn.hkyoutv.com/hls/77/index.m3u8
-香港國際財經台,https://cdn.hkyoutv.com/hls/76/index.m3u8
+J2台,https://cdn.hkyoutv.com/hls/82/index.m3u8
 翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
 翡翠台 (中英字幕),https://cdn.hkyoutv.com/hls/81b/index.m3u8
-J2台,https://cdn.hkyoutv.com/hls/82/index.m3u8
 無綫新聞台,https://cdn.hkyoutv.com/hls/83/index.m3u8
 明珠台,https://cdn.hkyoutv.com/hls/84/index.m3u8
 明珠台 (粵語聲道),https://cdn.hkyoutv.com/hls/84b/index.m3u8
 無綫財經·資訊台,https://cdn.hkyoutv.com/hls/85/index.m3u8
+香港開電視,https://cdn.hkyoutv.com/hls/77/index.m3u8
+香港國際財經台,https://cdn.hkyoutv.com/hls/76/index.m3u8
 ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8
 ViuTV Six,https://cdn.hkyoutv.com/hls/96/index.m3u8
 ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
