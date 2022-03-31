@@ -1,4 +1,5 @@
 🌟GaTO硬解,#genre#
+J2,http://iptv.tvfix.org/hls/j2.m3u8
 J2,https://cdn.hkdtmb.com/raw/82.ts
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
