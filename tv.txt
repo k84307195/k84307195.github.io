@@ -49,6 +49,9 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
 
 📡地波硬解,#genre#
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 J2台,https://cdn.hkyoutv.com/hls/82/index.m3u8
 翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
 翡翠台 (中英字幕),https://cdn.hkyoutv.com/hls/81b/index.m3u8
