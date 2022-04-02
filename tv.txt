@@ -70,7 +70,10 @@ ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 港台電視33,https://cdn.hkyoutv.com/hls/33/index.m3u8
 
 📡地波硬解.,#genre#
-
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 香港開電視,https://cdn.hklive.tv/hls/77/index.m3u8
 香港國際財經台,https://cdn.hklive.tv/hls/76/index.m3u8
 翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
@@ -83,9 +86,6 @@ J2台,https://cdn.hklive.tv/hls/82/index.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
 ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰中文.,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
 港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
 港台電視33,https://cdn.hklive.tv/hls/33/index.m3u8
