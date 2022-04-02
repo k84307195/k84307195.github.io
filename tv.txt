@@ -50,6 +50,7 @@ HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7bae
 凤凰电影,P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
 
 📡地波硬解,#genre#
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
@@ -70,6 +71,7 @@ ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 港台電視33,https://cdn.hkyoutv.com/hls/33/index.m3u8
 
 📡地波硬解.,#genre#
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
@@ -105,6 +107,7 @@ J2台,https://cdn.hkdtmb.com/raw/82.ts
 無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
 ViuTV,https://cdn.hkdtmb.com/raw/99.ts
 ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
@@ -194,6 +197,7 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 
 📺原生慢开,#genre#
 凰资资讯ᴴᴰ,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
+凤凰中文ᴴᴰ,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰中文ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
 凤凰香港ᴴᴰ,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
