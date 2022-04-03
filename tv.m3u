@@ -363,100 +363,100 @@ http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 group-title="📺电视侠源",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
 
-#EXTINF:-1 ,====== IPTV 源 ======
-http://5/5.m3u8
-#EXTINF:-1 ,翡翠台
+#EXTM3U
+#EXTINF:-1 group-title="📺IPTV 源",翡翠台
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 ,翡翠台.
+#EXTINF:-1 group-title="📺IPTV 源",翡翠台.
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 ,翡翠台海外版(粤语)
+#EXTINF:-1 group-title="📺IPTV 源",翡翠台海外版(粤语)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 ,翡翠台海外版(国语)
+#EXTINF:-1 group-title="📺IPTV 源",翡翠台海外版(国语)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 ,Jade
+#EXTINF:-1 group-title="📺IPTV 源",Jade
 http://z4.ubtvfans.com/live/390/f2814e81699e53cff473afced6a3d80e/index.m3u8
-#EXTINF:-1 ,TVB星河
+#EXTINF:-1 group-title="📺IPTV 源",TVB星河
 http://206.119.173.184/tv/js.php?id=7
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="📺IPTV 源",翡翠台
 http://206.119.173.184/tv/js.php?id=4
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺IPTV 源",明珠台
 http://206.119.173.184/tv/js.php?id=6
-#EXTINF:-1 ,J2
+#EXTINF:-1 group-title="📺IPTV 源",J2
 http://206.119.173.184/tv/js.php?id=9
-#EXTINF:-1 ,无线新闻
+#EXTINF:-1 group-title="📺IPTV 源",无线新闻
 http://206.119.173.184/tv/js.php?id=12
-#EXTINF:-1 ,TVB经典台
+#EXTINF:-1 group-title="📺IPTV 源",TVB经典台
 http://206.119.173.184/tv/js.php?id=11
-#EXTINF:-1 ,无线财经
+#EXTINF:-1 group-title="📺IPTV 源",无线财经
 http://206.119.173.184/tv/js.php?id=13
-#EXTINF:-1 ,无线财经
+#EXTINF:-1 group-title="📺IPTV 源",无线财经
 http://206.119.173.184/tv/js.php?id=14
-#EXTINF:-1 ,VIUTV
+#EXTINF:-1 group-title="📺IPTV 源",VIUTV
 http://206.119.173.184/tv/js.php?id=15
-#EXTINF:-1 ,RHK32
+#EXTINF:-1 group-title="📺IPTV 源",RHK32
 http://206.119.173.184/tv/js.php?id=18
-#EXTINF:-1 ,TVBS欢乐台
+#EXTINF:-1 group-title="📺IPTV 源",TVBS欢乐台
 http://206.119.173.184/tv/js.php?id=22
-#EXTINF:-1 ,nowSPORTS
+#EXTINF:-1 group-title="📺IPTV 源",nowSPORTS
 http://206.119.173.184/tv/js.php?id=19
-#EXTINF:-1 ,C+
+#EXTINF:-1 group-title="📺IPTV 源",C+
 http://206.119.173.184/tv/js.php?id=21
-#EXTINF:-1 ,now直播
+#EXTINF:-1 group-title="📺IPTV 源",now直播
 http://206.119.173.184/tv/js.php?id=20
-#EXTINF:-1 ,香港国际财经台
+#EXTINF:-1 group-title="📺IPTV 源",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 ,香港开电视
+#EXTINF:-1 group-title="📺IPTV 源",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 ,香港开电视
+#EXTINF:-1 group-title="📺IPTV 源",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 ,无线新闻
+#EXTINF:-1 group-title="📺IPTV 源",无线新闻
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1 ,无线新闻台
+#EXTINF:-1 group-title="📺IPTV 源",无线新闻台
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 ,无线财经
+#EXTINF:-1 group-title="📺IPTV 源",无线财经
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1 ,无线财经资讯台海外版
+#EXTINF:-1 group-title="📺IPTV 源",无线财经资讯台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺IPTV 源",明珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺IPTV 源",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 ,J2
+#EXTINF:-1 group-title="📺IPTV 源",J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 ,HKC有线新闻台
+#EXTINF:-1 group-title="📺IPTV 源",HKC有线新闻台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 ,HKC有线直播新闻台
+#EXTINF:-1 group-title="📺IPTV 源",HKC有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 ,HKC有线财经资讯台
+#EXTINF:-1 group-title="📺IPTV 源",HKC有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 ,TVB为食台
+#EXTINF:-1 group-title="📺IPTV 源",TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 ,TVB功夫(普通话)
+#EXTINF:-1 group-title="📺IPTV 源",TVB功夫(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 ,TVB功夫台(粤语)
+#EXTINF:-1 group-title="📺IPTV 源",TVB功夫台(粤语)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 ,TVB星河(普通话)
+#EXTINF:-1 group-title="📺IPTV 源",TVB星河(普通话)
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 ,TVB星河(粤语)
+#EXTINF:-1 group-title="📺IPTV 源",TVB星河(粤语)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 ,TVB经典台
+#EXTINF:-1 group-title="📺IPTV 源",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 ,ViuTV
+#EXTINF:-1 group-title="📺IPTV 源",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 ,ViuTV(第2声道)
+#EXTINF:-1 group-title="📺IPTV 源",ViuTV(第2声道)
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 ,ViuTV6
+#EXTINF:-1 group-title="📺IPTV 源",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 ,RTHK31
+#EXTINF:-1 group-title="📺IPTV 源",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 ,RTHK32
+#EXTINF:-1 group-title="📺IPTV 源",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 ,凤凰香港台
+#EXTINF:-1 group-title="📺IPTV 源",凤凰香港台
 http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1 ,凤凰资讯台
+#EXTINF:-1 group-title="📺IPTV 源",凤凰资讯台
 http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
-#EXTINF:-1 ,凤凰卫视台
+#EXTINF:-1 group-title="📺IPTV 源",凤凰卫视台
 http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
+
 #EXTINF:-1 ,====== 原生慢开 ======
 http://6/6.m3u8
 #EXTINF:-1 ,凰资资讯ᴴᴰ
