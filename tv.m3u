@@ -220,78 +220,149 @@ http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 group-title="📺源码硬解",凤凰电影
 http://iptv.tvfix.org/hls/fhdy.m3u8
 
-#EXTINF:-1 ,====== 电视侠源 ======
-http://4/4.m3u8
-#EXTINF:-1 ,翡翠台(第1声道繁体)
+#EXTM3U
+#EXTINF:-1 group-title="📺电视侠源",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 ,翡翠台(第2声道简体)
+#EXTINF:-1 group-title="📺电视侠源",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 ,J2
+#EXTINF:-1 group-title="📺电视侠源",J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 ,J2(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 ,无线新闻台
+#EXTINF:-1 group-title="📺电视侠源",无线新闻台
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 ,无线新闻台(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",无线新闻台(第2声道)
 http://iptv.tvfix.org/hls/inews2.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺电视侠源",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 ,明珠台(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",明珠台(第2声道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 ,无线财经资讯台
+#EXTINF:-1 group-title="📺电视侠源",无线财经资讯台
 http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 ,无线财经资讯台(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",无线财经资讯台(第2声道)
 http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 ,无线财经资讯台海外版
+#EXTINF:-1 group-title="📺电视侠源",无线财经资讯台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 ,ViuTV
+#EXTINF:-1 group-title="📺电视侠源",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 ,ViuTV(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",ViuTV(第2声道)
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 ,ViuTV6
+#EXTINF:-1 group-title="📺电视侠源",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 ,RTHK31
+#EXTINF:-1 group-title="📺电视侠源",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 ,RTHK32
+#EXTINF:-1 group-title="📺电视侠源",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 ,香港国际财经台
+#EXTINF:-1 group-title="📺电视侠源",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 ,香港开电视
+#EXTINF:-1 group-title="📺电视侠源",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 ,TVB功夫台(粤语)
+#EXTINF:-1 group-title="📺电视侠源",TVB功夫台(粤语)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 ,TVB功夫(普通话)
+#EXTINF:-1 group-title="📺电视侠源",TVB功夫(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 ,凤凰资讯
+#EXTINF:-1 group-title="📺电视侠源",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 ,凤凰中文
+#EXTINF:-1 group-title="📺电视侠源",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 ,凤凰电影
+#EXTINF:-1 group-title="📺电视侠源",凤凰电影
 http://iptv.tvfix.org/hls/fhdy.m3u8
-#EXTINF:-1 ,Thrill
+#EXTINF:-1 group-title="📺电视侠源",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 ,Thrill(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",Thrill(第2声道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
-#EXTINF:-1 ,Discovery
+#EXTINF:-1 group-title="📺电视侠源",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 ,动物星球
+#EXTINF:-1 group-title="📺电视侠源",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 ,动物星球(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",动物星球(第2声道)
 http://iptv.tvfix.org/hls/animal2.m3u8
-#EXTINF:-1 ,Love Nature 4K
+#EXTINF:-1 group-title="📺电视侠源",Love Nature 4K
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
-#EXTINF:-1 ,Love Nature 4K(第2声道)
+#EXTINF:-1 group-title="📺电视侠源",Love Nature 4K(第2声道)
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
-#EXTINF:-1 ,Channel V
+#EXTINF:-1 group-title="📺电视侠源",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 ,tvN
+#EXTINF:-1 group-title="📺电视侠源",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF:-1 ,瞬间看地球
+#EXTINF:-1 group-title="📺电视侠源",瞬间看地球
 http://iptv.tvfix.org/hls/earth.m3u8
-#EXTINF:-1 ,星空卫视
+#EXTINF:-1 group-title="📺电视侠源",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 ,Star Sports
+#EXTINF:-1 group-title="📺电视侠源",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="📺电视侠源",翡翠台(第1声道繁体)
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 group-title="📺电视侠源",翡翠台(第2声道简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",J2(第2声道)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 group-title="📺电视侠源",无线新闻台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 group-title="📺电视侠源",无线新闻台(第2声道)
+http://iptv.tvfix.org/hls/inews2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="📺电视侠源",明珠台(第2声道)
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",无线财经资讯台
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 group-title="📺电视侠源",无线财经资讯台(第2声道)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",无线财经资讯台海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 group-title="📺电视侠源",ViuTV
+http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1 group-title="📺电视侠源",ViuTV(第2声道)
+http://iptv.tvfix.org/hls/viutv2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",ViuTV6
+http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1 group-title="📺电视侠源",RTHK31
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1 group-title="📺电视侠源",RTHK32
+http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 group-title="📺电视侠源",香港国际财经台
+http://iptv.tvfix.org/hls/hkibc.m3u8
+#EXTINF:-1 group-title="📺电视侠源",香港开电视
+http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1 group-title="📺电视侠源",TVB功夫台(粤语)
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 group-title="📺电视侠源",TVB功夫(普通话)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 group-title="📺电视侠源",凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 group-title="📺电视侠源",凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 group-title="📺电视侠源",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 group-title="📺电视侠源",Thrill(第2声道)
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 group-title="📺电视侠源",动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 group-title="📺电视侠源",动物星球(第2声道)
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",Love Nature 4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 group-title="📺电视侠源",Love Nature 4K(第2声道)
+http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+#EXTINF:-1 group-title="📺电视侠源",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 group-title="📺电视侠源",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 group-title="📺电视侠源",瞬间看地球
+http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1 group-title="📺电视侠源",星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 group-title="📺电视侠源",Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
+
 #EXTINF:-1 ,====== IPTV 源 ======
 http://5/5.m3u8
 #EXTINF:-1 ,翡翠台
