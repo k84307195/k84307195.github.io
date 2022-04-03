@@ -819,133 +819,164 @@ http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
 #EXTINF:-1 group-title="⚽️体育频道",CCTV4K假8K
 http://117.148.179.157/PLTV/88888888/224/3221233460/index.m3u8
 
-#EXTINF:-1 ,====== 斗鱼轮播 ======
-http://14/14.m3u8
-#EXTINF:-1 ,贝爷影厅
-http://tc-tct.douyucdn2.cn/dyliveflv1/252802rUnat4CUof_2000.flv?wsAuth=e42058ab9edbf91a7296f0a3b7a2196b&token=cpn-androidmpro-0-252802-536492a84fc6fe0ca2659deea7f04981e6d5933f2f922e1e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 ,欧美大片1
-http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=504feee4b83a8cb35bfa6e7922c40179&token=cpn-androidmpro-0-20415-b6774b3b3249db17e434a3db3edd3a0addceca6557849da3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 ,欧美大片2
-http://tc-tct.douyucdn2.cn/dyliveflv3/2793084rGW3qQ3wX.flv?wsAuth=bafd9b4b09e13c826535aa5240063aca&token=cpn-androidmpro-0-2793084-3f569b7e953394a7334a491d47d5a397e6d2df29014842bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语电影1
-http://tc-tct.douyucdn2.cn/dyliveflv3a/5033502rRVjGO8Sa.flv?wsAuth=ff32ff261ee22b2af41d8848af521e69&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d18b5c9506ea49d8b163230559723db483&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-#EXTINF:-1 ,粤语电影2
-http://tc-tct.douyucdn2.cn/dyliveflv3/6566671rCCAqEL7n.flv?wsAuth=4f60488d450c0f19ff66a1e338534215&token=cpn-androidmpro-0-6566671-e1f409a777b7d4967ddb15e676ecdf37d29d9c72d63dd4fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语电影3
-http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rAceLmKOW.flv?wsAuth=203296781d7dff0a2e74a6d676254153&token=cpn-androidmpro-0-2466104-09fd8b41302171bdd60d8f89900e10ad8e9a8f961828d10c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语电影4
-http://tc-tct.douyucdn2.cn/dyliveflv3/8603174rD8bY55uX.flv?wsAuth=da3f2cc9b073c5f4f33a84f529895885&token=cpn-androidmpro-0-8603174-8f495c66f44b1e32800ac1d8899ec411f1efa07ec38b66c8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语电影5
-http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rl2BtaBYG.flv?wsAuth=3b142e333971c0b11ab94c496d15e56f&token=cpn-androidmpro-0-1226741-0dc52b22d0295689a59708374204e8cd3da64d213ab92ca2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,4K HDR视界
-http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rgLjJ2hfE.flv?wsAuth=b8bc0ec9d12ac45caf42aeac0321ef4d&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6e15461496de4e9c7a7c28ee4d94026b2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语港片
+#EXTM3U
+#EXTINF:-1 group-title="🎵音乐频道",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",HD音樂頻道
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",otpaha
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",M2O音乐台
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",MTV Spankin\' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="🎵音乐频道",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="🐟斗鱼轮播",贝爷影厅
+http://tc-tct.douyucdn2.cn/dyliveflv1/252802r4adW4jo5L_2000.flv?wsAuth=e205bd54e7b8bbdc01c98918ba440754&token=cpn-androidmpro-0-252802-536492a84fc6fe0c5de4b4fd38799016ee17d76d57548ad9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="🐟斗鱼轮播",欧美大片1
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=0824c6322f63f2390b9e559760c441da&token=cpn-androidmpro-0-20415-b6774b3b3249db177d716bc2a171e463b88126ba7beff753&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="🐟斗鱼轮播",欧美大片2
+http://tc-tct.douyucdn2.cn/dyliveflv3/2793084rGW3qQ3wX.flv?wsAuth=cd316d68cefc2970d8a8a3ff1d3b3e49&token=cpn-androidmpro-0-2793084-3f569b7e953394a7b674882b9bed565e8d1b5b7ec18a185e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="🐟斗鱼轮播",粤语电影1
+http://tc-tct.douyucdn2.cn/dyliveflv3a/5033502rlAUa6V6K.flv?wsAuth=025bdfe1aeecf5f434a40a0e816b3a93&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d10c1ea565f9b2adeca556f00a478413a2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+#EXTINF:-1 group-title="🐟斗鱼轮播",粤语电影2
+http://tc-tct.douyucdn2.cn/dyliveflv3/6566671rpUirbUsc_2000.flv?wsAuth=b34daa23b2bbb0415ee61ff845dec04d&token=cpn-androidmpro-0-6566671-e1f409a777b7d4966de55099ccac093eb26aeb14a90dd4a9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="🐟斗鱼轮播",粤语电影3
+http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rfy8OhJLL.flv?wsAuth=c00e0d102c27011c966f80a6be7fe947&token=cpn-androidmpro-0-2466104-09fd8b41302171bd43e868bd1195b02741f3b1228c01ef9e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="🐟斗鱼轮播",粤语电影4
+http://tc-tct.douyucdn2.cn/dyliveflv3/8603174rD8bY55uX.flv?wsAuth=26901877720903988878fd5140be472e&token=cpn-androidmpro-0-8603174-8f495c66f44b1e3265fe9a52c6dac21ab4195b011f3e0ff5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="🐟斗鱼轮播",粤语电影5
+http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rZzTGzXhK.flv?wsAuth=945a34e2a10e657877469af94ffedc18&token=cpn-androidmpro-0-1226741-0dc52b22d02956893eab649de4ff8d273bfd6a1cebf983c8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="🐟斗鱼轮播",4K HDR视界
+http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rRdpVjalV.flv?wsAuth=5233897bca579827eb22e0bd44aa4c34&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6922b49180328436d129132a64b290727&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="🐟斗鱼轮播",粤语港片
 http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-#EXTINF:-1 ,粤语港片
+#EXTINF:-1 group-title="🐟斗鱼轮播",粤语港片
 http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
-#EXTINF:-1 ,古天乐
+#EXTINF:-1 group-title="🐟斗鱼轮播",古天乐
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
-#EXTINF:-1 ,张国荣
+#EXTINF:-1 group-title="🐟斗鱼轮播",张国荣
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
-#EXTINF:-1 ,郭富城
+#EXTINF:-1 group-title="🐟斗鱼轮播",郭富城
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
-#EXTINF:-1 ,林正英
+#EXTINF:-1 group-title="🐟斗鱼轮播",林正英
 http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 ,高分电影HD
+#EXTINF:-1 group-title="🐟斗鱼轮播",高分电影HD
 http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 ,====== 新片速递 ======
-http://15/15.m3u8
-#EXTINF:-1 ,倚天屠龙记之九阳神功
+
+#EXTM3U
+#EXTINF:-1 group-title="
+🎞️新片速递",倚天屠龙记之九阳神功
 https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
-#EXTINF:-1 ,倚天屠龙记之圣火雄风
+#EXTINF:-1 group-title="
+🎞️新片速递",倚天屠龙记之圣火雄风
 https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
-#EXTINF:-1 ,梅艳芳
+#EXTINF:-1 group-title="
+🎞️新片速递",梅艳芳
 https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
-#EXTINF:-1 ,1921
+#EXTINF:-1 group-title="
+🎞️新片速递",1921
 https://hnzy3.queshechaye.com:65/20210925/YPNAZUqA/index.m3u8
-#EXTINF:-1 ,长津湖
+#EXTINF:-1 group-title="
+🎞️新片速递",长津湖
 https://new.iskcd.com/20220101/qWktP3un/index.m3u8
-#EXTINF:-1 ,====== p2p备用 ======
-http://16/16.m3u8
-#EXTINF:-1 ,凤凰香港
+
+#EXTM3U
+#EXTINF:-1 group-title="🔞p2p备用",凤凰香港
 P2p://ns2.hellotvvod.com:9906/63086e48b5134cbe935f6dec628c2ec0.ts
-#EXTINF:-1 ,凤凰中文
+#EXTINF:-1 group-title="🔞p2p备用",凤凰中文
 P2p://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
-#EXTINF:-1 ,凤凰资讯
+#EXTINF:-1 group-title="🔞p2p备用",凤凰资讯
 P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
-#EXTINF:-1 ,凤凰电影
+#EXTINF:-1 group-title="🔞p2p备用",凤凰电影
 P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="🔞p2p备用",翡翠台
 P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
-#EXTINF:-1 ,翡翠台
-P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t.ts
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="🔞p2p备用",翡翠台
+P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\\t.ts
+#EXTINF:-1 group-title="🔞p2p备用",翡翠台
 P2p://ns2.hellotvvod.com:9906/185179eb84a74dbbb4f84fdc4c9b4bd5.ts
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="🔞p2p备用",翡翠台
 P2p://ns2.hellotvvod.com:9906/cb2c8e9819fa407eac211b83141afc28.ts
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="🔞p2p备用",明珠台
 P2p://ns2.hellotvvod.com:9906/5a657e27e6104e52bebafb9e46cd665d.ts
-#EXTINF:-1 ,TVB星河
+#EXTINF:-1 group-title="🔞p2p备用",TVB星河
 P2p://ns2.hellotvvod.com:9906/11d487b87ad24374a70f338ee8fffd0b.ts
-#EXTINF:-1 ,TVB经典台
+#EXTINF:-1 group-title="🔞p2p备用",TVB经典台
 P2p://ns2.hellotvvod.com:9906/885b138988364214958dc5eed3a01beb.ts
-#EXTINF:-1 ,TVB功夫台
+#EXTINF:-1 group-title="🔞p2p备用",TVB功夫台
 P2p://ns2.hellotvvod.com:9906/09411069d1a0446ca22f4891366cfed9.ts
-#EXTINF:-1 ,TVB娱乐新闻台
+#EXTINF:-1 group-title="🔞p2p备用",TVB娱乐新闻台
 P2p://ns2.hellotvvod.com:9906/785b3b3470c54e179bccfdce0859906d.ts
-#EXTINF:-1 ,TVB直播台
+#EXTINF:-1 group-title="🔞p2p备用",TVB直播台
 P2p://ns2.hellotvvod.com:9906/8f3c0a004ada47b68c741ca007984aa4.ts
-#EXTINF:-1 ,TVB Thai
+#EXTINF:-1 group-title="🔞p2p备用",TVB Thai
 P2p://ns2.hellotvvod.com:9906/bf91d483385548b9aa858a37a9c4563b.ts
-#EXTINF:-1 ,无线财经
+#EXTINF:-1 group-title="🔞p2p备用",无线财经
 P2p://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
-#EXTINF:-1 ,无线新闻
+#EXTINF:-1 group-title="🔞p2p备用",无线新闻
 P2p://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
-#EXTINF:-1 ,无线新闻
+#EXTINF:-1 group-title="🔞p2p备用",无线新闻
 P2p://ns2.hellotvvod.com:9906/3de37bd7c3c142c6a5672b61f19b26c1.ts
-#EXTINF:-1 ,J2
+#EXTINF:-1 group-title="🔞p2p备用",J2
 P2p://ns2.hellotvvod.com:9906/ef1f8f599d5b4a7fb65876cf1c5bfb32.ts
-#EXTINF:-1 ,HKC18
+#EXTINF:-1 group-title="🔞p2p备用",HKC18
 P2p://ns2.hellotvvod.com:9906/d3e22238701c44cbab2231a4e2f4e0ba.ts
-#EXTINF:-1 ,香港603
+#EXTINF:-1 group-title="🔞p2p备用",香港603
 P2p://ns2.hellotvvod.com:9906/afb802be289248e7a59bbe66b7b716a2.ts
-#EXTINF:-1 ,有线新闻台
+#EXTINF:-1 group-title="🔞p2p备用",有线新闻台
 P2p://ns2.hellotvvod.com:9906/51c45f0db68c40eaab9edec9aa9e38ab.ts
-#EXTINF:-1 ,香港国际财经台
+#EXTINF:-1 group-title="🔞p2p备用",香港国际财经台
 P2p://ns2.hellotvvod.com:9906/ffc64306a1c9485898c52d9a94e49fe1.ts
-#EXTINF:-1 ,HKC电影台
+#EXTINF:-1 group-title="🔞p2p备用",HKC电影台
 P2p://ns2.hellotvvod.com:9906/ad3cebc4242c4692a543a27f8113b932.ts
-#EXTINF:-1 ,HKC体育台
+#EXTINF:-1 group-title="🔞p2p备用",HKC体育台
 P2p://ns2.hellotvvod.com:9906/69318c0a11724f84b52531c62fbb9afc.ts
-#EXTINF:-1 ,HKCSportsPlus1
+#EXTINF:-1 group-title="🔞p2p备用",HKCSportsPlus1
 P2p://ns2.hellotvvod.com:9906/49be8d033cac4b1a9f62556d0c4d6664.ts
-#EXTINF:-1 ,HKC直播新闻台
+#EXTINF:-1 group-title="🔞p2p备用",HKC直播新闻台
 P2p://ns2.hellotvvod.com:9906/5878f89454a34cdeac2e6aa376f2db49.ts
-#EXTINF:-1 ,HKC综合娱乐台
+#EXTINF:-1 group-title="🔞p2p备用",HKC综合娱乐台
 P2p://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7baea.ts
-#EXTINF:-1 ,Now剧集
+#EXTINF:-1 group-title="🔞p2p备用",Now剧集
 P2p://ns2.hellotvvod.com:9906/b915592e70da4cc9acca20d187da4bce.ts
-#EXTINF:-1 ,Now新闻台
+#EXTINF:-1 group-title="🔞p2p备用",Now新闻台
 P2p://ns2.hellotvvod.com:9906/cdc09a8cfa3b4b01bae24e8b9c9bc00f.ts
-#EXTINF:-1 ,Now直播台
+#EXTINF:-1 group-title="🔞p2p备用",Now直播台
 P2p://ns2.hellotvvod.com:9906/16c0186ef8f445db997ff5038609deae.ts
-#EXTINF:-1 ,ViuTV
+#EXTINF:-1 group-title="🔞p2p备用",ViuTV
 P2p://ns2.hellotvvod.com:9906/8b2474277a42401390813068c642e390.ts
-#EXTINF:-1 ,ViuTVsix
+#EXTINF:-1 group-title="🔞p2p备用",ViuTVsix
 P2p://ns2.hellotvvod.com:9906/a41f7686313a40c99d70e40021f6b5e1.ts
-#EXTINF:-1 ,港台电视31
+#EXTINF:-1 group-title="🔞p2p备用",港台电视31
 P2p://ns2.hellotvvod.com:9906/f937e46ace204b39867ecf97830cbccd.ts
-#EXTINF:-1 ,港台电视32
+#EXTINF:-1 group-title="🔞p2p备用",港台电视32
 P2p://ns2.hellotvvod.com:9906/f8d800e3ca3e489282d8148aa110506b.ts
-#EXTINF:-1 ,非凡商业台
+#EXTINF:-1 group-title="🔞p2p备用",非凡商业台
 P2p://ns2.hellotvvod.com:9906/30277b56d25041b286d48fcf7fed46f5.ts
-#EXTINF:-1 ,非凡新闻台
+#EXTINF:-1 group-title="🔞p2p备用",非凡新闻台
 P2p://ns2.hellotvvod.com:9906/ccca1ca6bb3c4af4a89e13cbbb309f91.ts
-#EXTINF:-1 ,香港开电视
+#EXTINF:-1 group-title="🔞p2p备用",香港开电视
 P2p://ns2.hellotvvod.com:9906/470976e04f0a4fb594c427c44b67fef0.ts
-#EXTINF:-1 ,星空卫视
+#EXTINF:-1 group-title="🔞p2p备用",星空卫视
 P2p://ns2.hellotvvod.com:9906/473ff201fab6491eb63824e23a1a3a31.ts
-#EXTINF:-1 ,星卫HD电影
+#EXTINF:-1 group-title="🔞p2p备用",星卫HD电影
 P2p://ns2.hellotvvod.com:9906/17fb38b579b24857a6986151ffe97155.ts
-#EXTINF:-1 ,星卫娱乐
+#EXTINF:-1 group-title="🔞p2p备用",星卫娱乐
 P2p://ns2.hellotvvod.com:9906/a0ffb629e01d4efdba7f240f74347f36.ts
+
+🇨🇳🇲🇾🇯🇵🇰🇷🇲🇴🇺🇳🌐💠🎈🛰️🐱💋
