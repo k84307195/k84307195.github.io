@@ -407,7 +407,7 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3/8603174rD8bY55uX.flv?wsAuth=da3f2cc9b073c5f4f33a84f529895885&token=cpn-androidmpro-0-8603174-8f495c66f44b1e32800ac1d8899ec411f1efa07ec38b66c8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rl2BtaBYG.flv?wsAuth=3b142e333971c0b11ab94c496d15e56f&token=cpn-androidmpro-0-1226741-0dc52b22d0295689a59708374204e8cd3da64d213ab92ca2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rgLjJ2hfE.flv?wsAuth=b8bc0ec9d12ac45caf42aeac0321ef4d&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6e15461496de4e9c7a7c28ee4d94026b2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-粤语港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+粤语港片.,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 粤语港片,http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
 古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 张国荣,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
