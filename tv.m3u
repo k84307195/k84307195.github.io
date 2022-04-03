@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,====== GaTO硬解 ======
+#EXTINF:-1 group-title="GATO",CCT
 http://0/0.m3u8
 #EXTINF:-1 ,J2
 http://iptv.tvfix.org/hls/j2.m3u8
