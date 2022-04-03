@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="GATO",CCT
+#EXTINF:-1 group-title="🌟GATO",CCT
 http://0/0.m3u8
 #EXTINF:-1 ,J2
 http://iptv.tvfix.org/hls/j2.m3u8
@@ -99,7 +99,7 @@ P2p://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
 P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 #EXTINF:-1 ,凤凰电影
 P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
-#EXTINF:-1 ,====== 地波硬解 ======
+#EXTINF:-1 group-title="🌟地波硬解",CCT
 http://1/1.m3u8
 #EXTINF:-1 ,凤凰香港
 http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
