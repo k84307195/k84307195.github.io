@@ -521,40 +521,40 @@ http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 group-title="📺原生慢开",星卫电影台
 http://data.3g.yy.com/live/hls/29900720/29900720
 
-#EXTINF:-1 ,====== 广州频道 ======
-http://7/7.m3u8
-#EXTINF:-1 ,广东文化
+#EXTM3U
+#EXTINF:-1 group-title="🇨🇳广州电视1",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1 ,广州法治
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州法治
 https://aplay.gztv.com/sec/fazhi.flv
-#EXTINF:-1 ,广州法治
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州法治
 http://ye23.win/iptv/gztv.php?id=fazhi
-#EXTINF:-1 ,广州法治
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州法治
 https://aplay.gztv.com/sec/fazhi.m3u8
-#EXTINF:-1 ,广州竞赛
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州竞赛
 https://aplay.gztv.com/sec/jingsai.flv
-#EXTINF:-1 ,广州竞赛
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州竞赛
 https://aplay.gztv.com/sec/jingsai.m3u8
-#EXTINF:-1 ,广州竞赛
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州竞赛
 http://ye23.win/iptv/gztv.php?id=jingsai
-#EXTINF:-1 ,广州新闻
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州新闻
 http://ye23.win/iptv/gztv.php?id=xinwen
-#EXTINF:-1 ,广州新闻
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州新闻
 https://aplay.gztv.com/sec/xinwen.m3u8
-#EXTINF:-1 ,广州新闻
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州新闻
 https://aplay.gztv.com/sec/xinwen.flv
-#EXTINF:-1 ,广州影视
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州影视
 https://aplay.gztv.com/sec/yingshi.m3u8
-#EXTINF:-1 ,广州影视
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州影视
 http://ye23.win/iptv/gztv.php?id=yingshi
-#EXTINF:-1 ,广州影视
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州影视
 https://aplay.gztv.com/sec/yingshi.flv
-#EXTINF:-1 ,广州综合
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州综合
 http://aplay.gztv.com/sec/zhonghe.flv
-#EXTINF:-1 ,广州综合
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州综合
 http://ye23.win/iptv/gztv.php?id=zhonghe
-#EXTINF:-1 ,广州综合
+#EXTINF:-1 group-title="🇨🇳广州电视1",广州综合
 https://aplay.gztv.com/sec/zhonghe.m3u8
+
 #EXTINF:-1 ,====== 广州频道 ======
 http://8/8.m3u8
 #EXTINF:-1 ,广州综合1
