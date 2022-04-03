@@ -98,46 +98,46 @@ P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 #EXTINF:-1 group-title="GaTO",凤凰电影
 P2p://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
 
-#EXTINF:-1 group-title="🌟地波硬解",CCT
-http://1/1.m3u8
-#EXTINF:-1 ,凤凰香港
+#EXTM3U
+#EXTINF:-1 group-title="📺地波硬解",凤凰香港
 http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-#EXTINF:-1 ,凤凰香港
+#EXTINF:-1 group-title="📺地波硬解",凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,凤凰资讯
+#EXTINF:-1 group-title="📺地波硬解",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 ,凤凰中文
+#EXTINF:-1 group-title="📺地波硬解",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 ,J2台
+#EXTINF:-1 group-title="📺地波硬解",J2台
 https://cdn.hkyoutv.com/hls/82/index.m3u8
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="📺地波硬解",翡翠台
 https://cdn.hkyoutv.com/hls/81/index.m3u8
-#EXTINF:-1 ,翡翠台 (中英字幕)
+#EXTINF:-1 group-title="📺地波硬解",翡翠台 (中英字幕)
 https://cdn.hkyoutv.com/hls/81b/index.m3u8
-#EXTINF:-1 ,無綫新聞台
+#EXTINF:-1 group-title="📺地波硬解",無綫新聞台
 https://cdn.hkyoutv.com/hls/83/index.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺地波硬解",明珠台
 https://cdn.hkyoutv.com/hls/84/index.m3u8
-#EXTINF:-1 ,明珠台 (粵語聲道)
+#EXTINF:-1 group-title="📺地波硬解",明珠台 (粵語聲道)
 https://cdn.hkyoutv.com/hls/84b/index.m3u8
-#EXTINF:-1 ,無綫財經·資訊台
+#EXTINF:-1 group-title="📺地波硬解",無綫財經·資訊台
 https://cdn.hkyoutv.com/hls/85/index.m3u8
-#EXTINF:-1 ,香港開電視
+#EXTINF:-1 group-title="📺地波硬解",香港開電視
 https://cdn.hkyoutv.com/hls/77/index.m3u8
-#EXTINF:-1 ,香港國際財經台
+#EXTINF:-1 group-title="📺地波硬解",香港國際財經台
 https://cdn.hkyoutv.com/hls/76/index.m3u8
-#EXTINF:-1 ,ViuTV
+#EXTINF:-1 group-title="📺地波硬解",ViuTV
 https://cdn.hkyoutv.com/hls/99/index.m3u8
-#EXTINF:-1 ,ViuTV Six
+#EXTINF:-1 group-title="📺地波硬解",ViuTV Six
 https://cdn.hkyoutv.com/hls/96/index.m3u8
-#EXTINF:-1 ,ViuTV Six （第二聲度）
+#EXTINF:-1 group-title="📺地波硬解",ViuTV Six （第二聲度）
 https://cdn.hkyoutv.com/hls/96b/index.m3u8
-#EXTINF:-1 ,港台電視31
+#EXTINF:-1 group-title="📺地波硬解",港台電視31
 https://cdn.hkyoutv.com/hls/31/index.m3u8
-#EXTINF:-1 ,港台電視32
+#EXTINF:-1 group-title="📺地波硬解",港台電視32
 https://cdn.hkyoutv.com/hls/32/index.m3u8
-#EXTINF:-1 ,港台電視33
+#EXTINF:-1 group-title="📺地波硬解",港台電視33
 https://cdn.hkyoutv.com/hls/33/index.m3u8
+
 #EXTINF:-1 ,====== 地波硬解. ======
 http://2/2.m3u8
 #EXTINF:-1 ,凤凰香港
