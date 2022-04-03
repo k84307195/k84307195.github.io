@@ -180,47 +180,46 @@ https://cdn.hklive.tv/hls/32/index.m3u8
 #EXTINF:-1 group-title="📺地波硬解2",港台電視33
 https://cdn.hklive.tv/hls/33/index.m3u8
 
-
-#EXTINF:-1 ,====== 源码硬解.. ======
-http://3/3.m3u8
-#EXTINF:-1 ,港台電視31
+#EXTM3U
+#EXTINF:-1 group-title="📺源码硬解",港台電視31
 https://cdn.hkdtmb.com/raw/31.ts
-#EXTINF:-1 ,港台電視32
+#EXTINF:-1 group-title="📺源码硬解",港台電視32
 https://cdn.hkdtmb.com/raw/32.ts
-#EXTINF:-1 ,港台電視33
+#EXTINF:-1 group-title="📺源码硬解",港台電視33
 https://cdn.hkdtmb.com/raw/33.ts
-#EXTINF:-1 ,香港開電視
+#EXTINF:-1 group-title="📺源码硬解",香港開電視
 https://cdn.hkdtmb.com/raw/77.ts
-#EXTINF:-1 ,香港國際財經台
+#EXTINF:-1 group-title="📺源码硬解",香港國際財經台
 https://cdn.hkdtmb.com/raw/76.ts
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="📺源码硬解",翡翠台
 https://cdn.hkdtmb.com/raw/81.ts
-#EXTINF:-1 ,翡翠台 (中英字幕)
+#EXTINF:-1 group-title="📺源码硬解",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/raw/81b.ts
-#EXTINF:-1 ,J2台
+#EXTINF:-1 group-title="📺源码硬解",J2台
 https://cdn.hkdtmb.com/raw/82.ts
-#EXTINF:-1 ,無綫新聞台
+#EXTINF:-1 group-title="📺源码硬解",無綫新聞台
 https://cdn.hkdtmb.com/raw/83.ts
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺源码硬解",明珠台
 https://cdn.hkdtmb.com/raw/84.ts
-#EXTINF:-1 ,明珠台 (粵語聲道)
+#EXTINF:-1 group-title="📺源码硬解",明珠台 (粵語聲道)
 https://cdn.hkdtmb.com/raw/84b.ts
-#EXTINF:-1 ,無綫財經·資訊台
+#EXTINF:-1 group-title="📺源码硬解",無綫財經·資訊台
 https://cdn.hkdtmb.com/raw/85.ts
-#EXTINF:-1 ,ViuTV
+#EXTINF:-1 group-title="📺源码硬解",ViuTV
 https://cdn.hkdtmb.com/raw/99.ts
-#EXTINF:-1 ,ViuTV Six
+#EXTINF:-1 group-title="📺源码硬解",ViuTV Six
 https://cdn.hkdtmb.com/raw/96.ts
-#EXTINF:-1 ,凤凰香港
+#EXTINF:-1 group-title="📺源码硬解",凤凰香港
 http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-#EXTINF:-1 ,凤凰香港
+#EXTINF:-1 group-title="📺源码硬解",凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,凤凰资讯
+#EXTINF:-1 group-title="📺源码硬解",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 ,凤凰中文
+#EXTINF:-1 group-title="📺源码硬解",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 ,凤凰电影
+#EXTINF:-1 group-title="📺源码硬解",凤凰电影
 http://iptv.tvfix.org/hls/fhdy.m3u8
+
 #EXTINF:-1 ,====== 电视侠源 ======
 http://4/4.m3u8
 #EXTINF:-1 ,翡翠台(第1声道繁体)
