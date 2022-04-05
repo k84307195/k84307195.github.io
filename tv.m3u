@@ -950,4 +950,154 @@ P2p://ns2.hellotvvod.com:9906/17fb38b579b24857a6986151ffe97155.ts
 #EXTINF:-1 group-title="🔞p2p备用",星卫娱乐
 P2p://ns2.hellotvvod.com:9906/a0ffb629e01d4efdba7f240f74347f36.ts
 
+#EXTM3U
+#EXTINF:-1 group-title="🇨🇳测试频道",凤凰中文台
+mitv://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",凤凰资讯台
+mitv://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",凤凰香港台
+mitv://ns2.hellotvvod.com:9906/63086e48b5134cbe935f6dec628c2ec0.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",港台电视31
+mitv://ns2.hellotvvod.com:9906/f937e46ace204b39867ecf97830cbccd.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",港台电视32
+mitv://ns2.hellotvvod.com:9906/f8d800e3ca3e489282d8148aa110506b.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",香港开电视
+mitv://ns2.hellotvvod.com:9906/470976e04f0a4fb594c427c44b67fef0.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",翡翠台(备)
+mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",J2
+mitv://ns2.hellotvvod.com:9906/ef1f8f599d5b4a7fb65876cf1c5bfb32.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",无线新闻台(备)
+mitv://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",无线新闻台
+mitv://ns2.hellotvvod.com:9906/3de37bd7c3c142c6a5672b61f19b26c1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",无线财经·资讯台
+mitv://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",ViuTVsix
+mitv://ns2.hellotvvod.com:9906/a41f7686313a40c99d70e40021f6b5e1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",ViuTV
+mitv://ns2.hellotvvod.com:9906/8b2474277a42401390813068c642e390.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",TVB星河(粤)
+mitv://ns2.hellotvvod.com:9906/11d487b87ad24374a70f338ee8fffd0b.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",阳光卫视
+mitv://ns2.hellotvvod.com:9906/6b7c628389e7448484ce0d7ef89b1f7c.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",澳门-MACAU
+mitv://ns2.hellotvvod.com:9906/d0bdd6dd2e3747ed9611bc286a157d4f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",澳门莲花
+mitv://ns2.hellotvvod.com:9906/c55c6ac182ab4cb38992449f6d155d81.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",now新闻台
+mitv://ns2.hellotvvod.com:9906/cdc09a8cfa3b4b01bae24e8b9c9bc00f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",now直播台
+mitv://ns2.hellotvvod.com:9906/16c0186ef8f445db997ff5038609deae.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC新闻台
+mitv://ns2.hellotvvod.com:9906/51c45f0db68c40eaab9edec9aa9e38ab.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC财经资讯台
+mitv://ns2.hellotvvod.com:9906/ffc64306a1c9485898c52d9a94e49fe1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC18
+mitv://ns2.hellotvvod.com:9906/d3e22238701c44cbab2231a4e2f4e0ba.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC603
+mitv://ns2.hellotvvod.com:9906/afb802be289248e7a59bbe66b7b716a2.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC综合娱乐台
+mitv://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7baea.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",TVB娱乐新闻台
+mitv://ns2.hellotvvod.com:9906/785b3b3470c54e179bccfdce0859906d.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",翡翠台
+mitv://ns2.hellotvvod.com:9906/cb2c8e9819fa407eac211b83141afc28.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",TVB经典台
+mitv://ns2.hellotvvod.com:9906/885b138988364214958dc5eed3a01beb.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",明珠台
+mitv://ns2.hellotvvod.com:9906/5a657e27e6104e52bebafb9e46cd665d.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HandsUp
+mitv://ns2.hellotvvod.com:9906/be7e73dc6bdc433b8ff26536a90b1d1e.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",粤语片台
+mitv://ns2.hellotvvod.com:9906/54189aa34eb2442ab0e509336d0fe6bd.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",韩剧台
+mitv://ns2.hellotvvod.com:9906/98bee78517694547b2e5dde6eafcd6b1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",功夫台
+mitv://ns2.hellotvvod.com:9906/09411069d1a0446ca22f4891366cfed9.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",直播台
+mitv://ns2.hellotvvod.com:9906/8f3c0a004ada47b68c741ca007984aa4.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",星空卫视
+mitv://ns2.hellotvvod.com:9906/473ff201fab6491eb63824e23a1a3a31.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",港台电视31
+mitv://ns2.hellotvvod.com:9906/f937e46ace204b39867ecf97830cbccd.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",港台电视32
+mitv://ns2.hellotvvod.com:9906/f8d800e3ca3e489282d8148aa110506b.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",香港开电视
+mitv://ns2.hellotvvod.com:9906/470976e04f0a4fb594c427c44b67fef0.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",翡翠台(备)
+mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\\t.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",J2
+mitv://ns2.hellotvvod.com:9906/ef1f8f599d5b4a7fb65876cf1c5bfb32.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",无线新闻台(备)
+mitv://ns2.hellotvvod.com:9906/7511f7b73d6c4b5ba58312b68126d64f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",无线新闻台
+mitv://ns2.hellotvvod.com:9906/3de37bd7c3c142c6a5672b61f19b26c1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",无线财经·资讯台
+mitv://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",ViuTVsix
+mitv://ns2.hellotvvod.com:9906/a41f7686313a40c99d70e40021f6b5e1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",ViuTV
+mitv://ns2.hellotvvod.com:9906/8b2474277a42401390813068c642e390.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",凤凰中文台
+mitv://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",凤凰资讯台
+mitv://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",凤凰香港台
+mitv://ns2.hellotvvod.com:9906/63086e48b5134cbe935f6dec628c2ec0.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",TVB星河(粤)
+mitv://ns2.hellotvvod.com:9906/11d487b87ad24374a70f338ee8fffd0b.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",阳光卫视
+mitv://ns2.hellotvvod.com:9906/6b7c628389e7448484ce0d7ef89b1f7c.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",澳门-MACAU
+mitv://ns2.hellotvvod.com:9906/d0bdd6dd2e3747ed9611bc286a157d4f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",澳门莲花
+mitv://ns2.hellotvvod.com:9906/c55c6ac182ab4cb38992449f6d155d81.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",now新闻台
+mitv://ns2.hellotvvod.com:9906/cdc09a8cfa3b4b01bae24e8b9c9bc00f.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",now直播台
+mitv://ns2.hellotvvod.com:9906/16c0186ef8f445db997ff5038609deae.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC新闻台
+mitv://ns2.hellotvvod.com:9906/51c45f0db68c40eaab9edec9aa9e38ab.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC财经资讯台
+mitv://ns2.hellotvvod.com:9906/ffc64306a1c9485898c52d9a94e49fe1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC18
+mitv://ns2.hellotvvod.com:9906/d3e22238701c44cbab2231a4e2f4e0ba.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC603
+mitv://ns2.hellotvvod.com:9906/afb802be289248e7a59bbe66b7b716a2.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC综合娱乐台
+mitv://ns2.hellotvvod.com:9906/38f258cee2ae485fb1b2e67800d7baea.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",TVB娱乐新闻台
+mitv://ns2.hellotvvod.com:9906/785b3b3470c54e179bccfdce0859906d.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",翡翠台
+mitv://ns2.hellotvvod.com:9906/cb2c8e9819fa407eac211b83141afc28.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",TVB经典台
+mitv://ns2.hellotvvod.com:9906/885b138988364214958dc5eed3a01beb.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",明珠台
+mitv://ns2.hellotvvod.com:9906/5a657e27e6104e52bebafb9e46cd665d.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HandsUp
+mitv://ns2.hellotvvod.com:9906/be7e73dc6bdc433b8ff26536a90b1d1e.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",粤语片台
+mitv://ns2.hellotvvod.com:9906/54189aa34eb2442ab0e509336d0fe6bd.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",韩剧台
+mitv://ns2.hellotvvod.com:9906/98bee78517694547b2e5dde6eafcd6b1.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",功夫台
+mitv://ns2.hellotvvod.com:9906/09411069d1a0446ca22f4891366cfed9.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",直播台
+mitv://ns2.hellotvvod.com:9906/8f3c0a004ada47b68c741ca007984aa4.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",翡翠台(华丽台)
+mitv://ns2.hellotvvod.com:9906/185179eb84a74dbbb4f84fdc4c9b4bd5.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",TVBThai
+mitv://ns2.hellotvvod.com:9906/bf91d483385548b9aa858a37a9c4563b.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",HKC电影台
+mitv://ns2.hellotvvod.com:9906/ad3cebc4242c4692a543a27f8113b932.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",凤凰电影台
+mitv://ns2.hellotvvod.com:9906/018809680fcd4d3190c0a7d0a52bda0d.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",Thrill
+mitv://ns2.hellotvvod.com:9906/fc0e5104ec3e4538ba37978d4980b662.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",爆谷台
+mitv://ns2.hellotvvod.com:9906/949dadb069e54de5884c8bbf6b99a0c6.ts
+#EXTINF:-1 group-title="🇨🇳测试频道",美亚电影台(粤语)
+mitv://ns2.hellotvvod.com:9906/fd518901a6004bd4806b2c0208ff262f.ts
+
 🇨🇳🇲🇾🇯🇵🇰🇷🇲🇴🇺🇳🌐💠🎈🛰️🐱💋
