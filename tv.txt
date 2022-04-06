@@ -1,4 +1,8 @@
 🌟GaTO硬解,#genre#
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 J2,https://cdn.hkdtmb.com/raw/82.ts
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
