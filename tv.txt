@@ -11,12 +11,8 @@ J2,https://cdn.hkdtmb.com/raw/82.ts
 无线财经,P2p://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-Now新闻,P2p://ns2.hellotvvod.com:9906/cdc09a8cfa3b4b01bae24e8b9c9bc00f.ts
 Now新闻,http://51.222.193.142:10011/9
-Now直播,P2p://ns2.hellotvvod.com:9906/16c0186ef8f445db997ff5038609deae.ts
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
-ViuTV,P2p://ns2.hellotvvod.com:9906/8b2474277a42401390813068c642e390.ts
-ViuTVsix,P2p://ns2.hellotvvod.com:9906/a41f7686313a40c99d70e40021f6b5e1.ts
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
 📡地波硬解,#genre#
