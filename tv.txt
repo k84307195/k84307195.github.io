@@ -387,11 +387,11 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 林正英,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
 高分电影HD,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
 
-🎞️ 🇺🇸新片速递,#genre#
+🎞️新片速递,#genre#
 倚天屠龙记之九阳神功,https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
 倚天屠龙记之圣火雄风,https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
 梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
 1921,https://hnzy3.queshechaye.com:65/20210925/YPNAZUqA/index.m3u8
 长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
 
- 🇺🇸🇨🇳🇲🇾🇯🇵🇰🇷🇲🇴🇺🇳🌐💠🎈🛰️🐱💋🚗,#genre#
+ 🇺🇸🇨🇳🇯🇵🇰🇷🇲🇾🇲🇴🇺🇳🌐💠🎈🛰️🐱💋🚗,#genre#
