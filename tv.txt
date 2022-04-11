@@ -28,6 +28,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 J2台,https://cdn.hkyoutv.com/hls/82/index.m3u8
 翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
 翡翠台 (中英字幕),https://cdn.hkyoutv.com/hls/81b/index.m3u8
+無綫新聞台,http://livesec.mudu.tv/watch/ow7vfa.m3u8
 無綫新聞台,https://cdn.hkyoutv.com/hls/83/index.m3u8
 明珠台,https://cdn.hkyoutv.com/hls/84/index.m3u8
 明珠台 (粵語聲道),https://cdn.hkyoutv.com/hls/84b/index.m3u8
@@ -52,6 +53,7 @@ ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
 翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
 J2台,https://cdn.hklive.tv/hls/82/index.m3u8
+無綫新聞台,http://livesec.mudu.tv/watch/ow7vfa.m3u8
 無綫新聞台,https://cdn.hklive.tv/hls/83/index.m3u8
 明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
 明珠台 (粵語聲道),https://cdn.hklive.tv/hls/84b/index.m3u8
@@ -72,6 +74,7 @@ ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
 翡翠台 (中英字幕),https://cdn.hkdtmb.com/raw/81b.ts
 J2台,https://cdn.hkdtmb.com/raw/82.ts
+無綫新聞台,http://livesec.mudu.tv/watch/ow7vfa.m3u8
 無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
 明珠台 (粵語聲道),https://cdn.hkdtmb.com/raw/84b.ts
