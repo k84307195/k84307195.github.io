@@ -12,6 +12,7 @@ J2,https://cdn.hkdtmb.com/raw/82.ts
 无线新闻,https://cdn.hkyoutv.com/hls/83/index.m3u8
 无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+无线新闻,https://cdn.hkdtmb.com/raw/83.ts
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
 无线财经,P2p://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
@@ -73,8 +74,8 @@ ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
 翡翠台 (中英字幕),https://cdn.hkdtmb.com/raw/81b.ts
 J2台,https://cdn.hkdtmb.com/raw/82.ts
-無綫新聞台,http://livesec.mudu.tv/watch/ow7vfa.m3u8
 無綫新聞台,https://cdn.hkdtmb.com/raw/83.ts
+無綫新聞台,http://livesec.mudu.tv/watch/ow7vfa.m3u8
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
 明珠台 (粵語聲道),https://cdn.hkdtmb.com/raw/84b.ts
 無綫財經·資訊台,https://cdn.hkdtmb.com/raw/85.ts
