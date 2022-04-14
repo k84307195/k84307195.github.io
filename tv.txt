@@ -64,7 +64,7 @@ ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
 港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
 港台電視33,https://cdn.hklive.tv/hls/33/index.m3u8
 
-📡源码硬解,#genre#
+📡源码一套,#genre#
 港台電視31,https://cdn.hkdtmb.com/raw/31.ts
 港台電視32,https://cdn.hkdtmb.com/raw/32.ts
 港台電視33,https://cdn.hkdtmb.com/raw/33.ts
@@ -86,7 +86,7 @@ ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
 
-📡源码硬解2,#genre#
+📡源码二套,#genre#
 J2台,https://cdn.hklive.tv/raw/82.ts
 翡翠台,https://cdn.hklive.tv/raw/81.ts
 翡翠台 (中英字幕),https://cdn.hklive.tv/raw/81b.ts
