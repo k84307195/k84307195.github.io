@@ -5,13 +5,14 @@
 凤凰卫视台,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
 J2,https://cdn.hkdtmb.com/raw/82.ts
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
 翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
 无线新闻,https://cdn.hkyoutv.com/hls/83/index.m3u8
 无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
-无线新闻,https://cdn.hkdtmb.com/raw/83.ts
+无线新聞,https://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
 无线财经,P2p://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
