@@ -87,6 +87,22 @@ ViuTV Six,https://cdn.hkdtmb.com/raw/96.ts
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
 
+📡源码硬解2,#genre#
+港台電視31,https://cdn.hklive.tv/raw/31.ts
+港台電視32,https://cdn.hklive.tv/raw/32.ts
+港台電視33,https://cdn.hklive.tv/raw/33.ts
+香港開電視,https://cdn.hklive.tv/raw/77.ts
+香港國際財經台,https://cdn.hklive.tv/raw/76.ts
+翡翠台,https://cdn.hklive.tv/raw/81.ts
+翡翠台 (中英字幕),https://cdn.hklive.tv/raw/81b.ts
+J2台,https://cdn.hklive.tv/raw/82.ts
+無綫新聞台,https://cdn.hklive.tv/raw/83.ts
+明珠台,https://cdn.hklive.tv/raw/84.ts
+明珠台 (粵語聲道),https://cdn.hklive.tv/raw/84b.ts
+無綫財經·資訊台,https://cdn.hklive.tv/raw/85.ts
+ViuTV,https://cdn.hklive.tv/raw/99.ts
+ViuTV Six,https://cdn.hklive.tv/raw/96.ts
+
 📺电视侠源,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
