@@ -103,9 +103,9 @@ ViuTV Six,https://cdn.hklive.tv/raw/96.ts
 港台電視32,https://cdn.hklive.tv/raw/32.ts
 港台電視33,https://cdn.hklive.tv/raw/33.ts
 香港國際財經台,https://cdn.hklive.tv/raw/76.ts
-有线18台，https://pull-hls-l1.ixigua.com/live/9952c7d45f2d137701a8ce4f92599/playlist.m3u8
-有线603台，https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
-有线新闻，https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
+有线18台,https://pull-hls-l1.ixigua.com/live/9952c7d45f2d137701a8ce4f92599/playlist.m3u8
+有线603台,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
+有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 
 📺电视侠源,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
