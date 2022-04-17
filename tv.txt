@@ -27,6 +27,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 🌟17号梯子源,#genre#
 TVB翡翠台,http://209.141.56.65/nmtv.php?id=abb95d54-2d81-4b14-b27b-39d2f004945b
 TVB J2,http://209.141.56.65/nmtv.php?id=a678c957-ef44-4c5d-a2d9-99003bab05d5
+有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 无线新闻,http://209.141.56.65/nmtv.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
 无线资讯,http://209.141.56.65/nmtv.php?id=e9789691-2c43-4ab7-9acc-ea5655673352
 TVB娱乐新闻,http://209.141.56.65/nmtv.php?id=b754e32b-f271-413d-88f7-2fd7b5d87912#http://209.141.56.65/nmtv.php?id=88e968ae-cd43-4b8f-95c3-592a5e04f0de
