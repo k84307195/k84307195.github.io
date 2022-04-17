@@ -125,31 +125,6 @@ ViuTV Six,https://cdn.hklive.tv/raw/96.ts
 有线603台,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
 有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 
-📺电视侠源,#genre#
-翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
-J2,http://iptv.tvfix.org/hls/j2.m3u8
-J2(第2声道),http://iptv.tvfix.org/hls/j22.m3u8
-无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
-无线新闻台(第2声道),http://iptv.tvfix.org/hls/inews2.m3u8
-明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
-明珠台(第2声道),http://iptv.tvfix.org/hls/pearl2.m3u8
-无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
-无线财经资讯台(第2声道),http://iptv.tvfix.org/hls/finance2.m3u8
-无线财经资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
-ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
-ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
-ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
-RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
-RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
-香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
-TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-瞬间看地球,http://iptv.tvfix.org/hls/earth.m3u8
-
 📺  IPTV 源,#genre#
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台.,http://iptv.tvfix.org/hls/jade.m3u8
@@ -197,39 +172,6 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 凤凰香港台,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
 凤凰资讯台,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰卫视台,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
-
-📺原生慢开,#genre#
-凰资资讯ᴴᴰ,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
-凤凰中文ᴴᴰ,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰中文ᴴᴰ,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
-凤凰香港ᴴᴰ,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台.,http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(粤语),http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(国语),http://iptv.tvfix.org/hls/jadenhk2.m3u8
-J2,http://iptv.tvfix.org/hls/j2.m3u8
-无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
-明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
-无线财经资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
-TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
-TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
-美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
-美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
-天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
-天映经典(普通话),http://iptv.tvfix.org/hls/tyjd2.m3u8
-ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
-ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
-ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
-RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
-RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
-香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
-星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
-星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
 🇨🇳广州频道,#genre#
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
