@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 ,翡翠台
+https://cdn.hkdtmb.com/raw/81.ts
+#EXTINF:-1 ,翡翠台 (中英字幕)
+https://cdn.hkdtmb.com/raw/81b.ts
+#EXTINF:-1 ,J2台
+https://cdn.hkdtmb.com/raw/82.ts
+#EXTINF:-1 ,無綫新聞台
+https://cdn.hkdtmb.com/raw/83.ts
+#EXTINF:-1 ,明珠台
+https://cdn.hkdtmb.com/raw/84.ts
+#EXTINF:-1 ,明珠台 (粵語聲道)
+https://cdn.hkdtmb.com/raw/84b.ts
+#EXTINF:-1 ,無綫財經·資訊台
+https://cdn.hkdtmb.com/raw/85.ts
+#EXTINF:-1 ,ViuTV
+https://cdn.hkdtmb.com/raw/99.ts
+#EXTINF:-1 ,ViuTV Six
+https://cdn.hkdtmb.com/raw/96.ts
+#EXTINF:-1 ,港台電視31
+https://cdn.hkdtmb.com/raw/31.ts
+#EXTINF:-1 ,港台電視32
+https://cdn.hkdtmb.com/raw/32.ts
+#EXTINF:-1 ,港台電視33
+https://cdn.hkdtmb.com/raw/33.ts
+#EXTINF:-1 ,香港開電視
+https://cdn.hkdtmb.com/raw/77.ts
+#EXTINF:-1 ,香港國際財經台
+https://cdn.hkdtmb.com/raw/76.ts
+#EXTINF:-1 ,翡翠台
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 ,翡翠台 (中英字幕)
+https://cdn.hklive.tv/raw/81b.ts
+#EXTINF:-1 ,J2台
+https://cdn.hklive.tv/raw/82.ts
+#EXTINF:-1 ,無綫新聞台
+https://cdn.hklive.tv/raw/83.ts
+#EXTINF:-1 ,明珠台
+https://cdn.hklive.tv/raw/84.ts
+#EXTINF:-1 ,明珠台 (粵語聲道)
+https://cdn.hklive.tv/raw/84b.ts
+#EXTINF:-1 ,無綫財經·資訊台
+https://cdn.hklive.tv/raw/85.ts
+#EXTINF:-1 ,ViuTV
+https://cdn.hklive.tv/raw/99.ts
+#EXTINF:-1 ,ViuTV Six
+https://cdn.hklive.tv/raw/96.ts
+#EXTINF:-1 ,港台電視31
+https://cdn.hklive.tv/raw/31.ts
+#EXTINF:-1 ,港台電視32
+https://cdn.hklive.tv/raw/32.ts
+#EXTINF:-1 ,港台電視33
+https://cdn.hklive.tv/raw/33.ts
+#EXTINF:-1 ,香港開電視
+https://cdn.hklive.tv/raw/77.ts
+#EXTINF:-1 ,香港國際財經台
+https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 ,TVB翡翠台
+http://209.141.56.65/nmtv.php?id=abb95d54-2d81-4b14-b27b-39d2f004945b
+#EXTINF:-1 ,TVB J2
+http://209.141.56.65/nmtv.php?id=a678c957-ef44-4c5d-a2d9-99003bab05d5
+#EXTINF:-1 ,有线新闻
+https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
+#EXTINF:-1 ,无线新闻
+http://209.141.56.65/nmtv.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
+#EXTINF:-1 ,无线资讯
+http://209.141.56.65/nmtv.php?id=e9789691-2c43-4ab7-9acc-ea5655673352
+#EXTINF:-1 ,TVB娱乐新闻
+http://209.141.56.65/nmtv.php?id=b754e32b-f271-413d-88f7-2fd7b5d87912
+#EXTINF:-1 ,TVB娱乐新闻
+http://209.141.56.65/nmtv.php?id=88e968ae-cd43-4b8f-95c3-592a5e04f0de
+#EXTINF:-1 ,华丽翡翠
+http://209.141.56.65/nmtv.php?id=096a3e20-c1da-4d61-8de5-361a8f3f981d
+#EXTINF:-1 ,华丽翡翠
+http://209.141.56.65/nmtv.php?id=6c52fe3d-4596-45c5-a114-40e554713ee2
+#EXTINF:-1 ,TVB经典
+http://209.141.56.65/nmtv.php?id=7312a62c-b0e9-4134-b262-438963165702
+#EXTINF:-1 ,TVB经典
+http://209.141.56.65/nmtv.php?id=519d0628-c56d-47af-a860-b764a411bd91
+#EXTINF:-1 ,星河粤语
+http://209.141.56.65/nmtv.php?id=4a5b6deb-4f68-4ed6-aa72-50299e6ed5f4
+#EXTINF:-1 ,星河国语
+http://209.141.56.65/nmtv.php?id=23602031-b648-4230-8246-17e0bf3ee3a7
+#EXTINF:-1 ,美亚电影
+http://209.141.56.65/nmtv.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
+#EXTINF:-1 ,星卫电影
+http://209.141.56.65/nmtv.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
+#EXTINF:-1 ,爱尔达影剧
+http://209.141.56.65/nmtv.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
+#EXTINF:-1 ,天映经典
+http://209.141.56.65/nmtv.php?id=8e706866-1fce-4ac8-94d8-b7b8ca13278f
+#EXTINF:-1 ,天映频道
+http://209.141.56.65/nmtv.php?id=9af768bf-1ed8-4074-ab8b-39f5aeccdc66
