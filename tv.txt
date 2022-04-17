@@ -4,6 +4,7 @@
 凤凰资讯台,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰卫视台,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
 J2,https://cdn.hkdtmb.com/raw/82.ts
+有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 广电翡翠,http://113.64.147.112:808/hls/67/index.m3u8
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -19,7 +20,6 @@ J2,https://cdn.hkdtmb.com/raw/82.ts
 无线财经,P2p://ns2.hellotvvod.com:9906/110addd60b164e1abc64b435dd982b2f.ts
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 Now新闻,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
