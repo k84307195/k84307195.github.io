@@ -25,6 +25,8 @@ https://cdn.hkdtmb.com/raw/32.ts
 https://cdn.hkdtmb.com/raw/33.ts
 #EXTINF:-1 group-title="📺地波源码1",香港開電視
 https://cdn.hkdtmb.com/raw/77.ts
+#EXTINF:-1 group-title="📺地波源码1",有线新闻
+https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 #EXTINF:-1 group-title="📺地波源码1",香港國際財經台
 https://cdn.hkdtmb.com/raw/76.ts
 #EXTINF:-1 group-title="📺地波源码2",翡翠台
