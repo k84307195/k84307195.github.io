@@ -22,7 +22,7 @@ Now新闻,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
-📡内置解码,#genre#
+🌟内置解码,#genre#
 翡翠台,https://live.hkanime.com.hk/xxxx/81/index.m3u8
 j2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
 无线新闻,https://live.hkanime.com.hk/xxxx/83/index.m3u8
