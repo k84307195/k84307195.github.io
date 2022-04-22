@@ -26,7 +26,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 翡翠台,https://live.hkanime.com.hk/xxxx/81/index.m3u8
 j2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
 无线新闻,https://live.hkanime.com.hk/xxxx/83/index.m3u8
-明株台,https://live.hkanime.com.hk/xxxx/84/index.m3u8
+明珠台,https://live.hkanime.com.hk/xxxx/84/index.m3u8
 无线财经咨询台,https://live.hkanime.com.hk/xxxx/85/index.m3u8
 香港开电视,https://live.hkanime.com.hk/xxxx/77/index.m3u8
 香港国际财经台,https://live.hkanime.com.hk/xxxx/76/index.m3u8
