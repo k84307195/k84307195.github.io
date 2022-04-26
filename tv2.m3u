@@ -1,115 +1,115 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="📺地波硬解",翡翠台
 https://cdn.hklive.tv/hls/81/index.m3u8
-#EXTINF:-1 ,翡翠台 (中英字幕)
+#EXTINF:-1 group-title="📺地波硬解",翡翠台 (中英字幕)
 https://cdn.hklive.tv/hls/81b/index.m3u8
-#EXTINF:-1 ,J2台
+#EXTINF:-1 group-title="📺地波硬解",J2台
 https://cdn.hklive.tv/hls/82/index.m3u8
-#EXTINF:-1 ,無綫新聞台
+#EXTINF:-1 group-title="📺地波硬解",無綫新聞台
 https://cdn.hklive.tv/hls/83/index.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺地波硬解",明珠台
 https://cdn.hklive.tv/hls/84/index.m3u8
-#EXTINF:-1 ,明珠台 (粵語聲道)
+#EXTINF:-1 group-title="📺地波硬解",明珠台 (粵語聲道)
 https://cdn.hklive.tv/hls/84b/index.m3u8
-#EXTINF:-1 ,無綫財經·資訊台
+#EXTINF:-1 group-title="📺地波硬解",無綫財經·資訊台
 https://cdn.hklive.tv/hls/85/index.m3u8
-#EXTINF:-1 ,香港開電視
+#EXTINF:-1 group-title="📺地波硬解",香港開電視
 https://cdn.hklive.tv/hls/77/index.m3u8
-#EXTINF:-1 ,香港國際財經台
+#EXTINF:-1 group-title="📺地波硬解",香港國際財經台
 https://cdn.hklive.tv/hls/76/index.m3u8
-#EXTINF:-1 ,ViuTV
+#EXTINF:-1 group-title="📺地波硬解",ViuTV
 https://cdn.hklive.tv/hls/99/index.m3u8
-#EXTINF:-1 ,ViuTV Six
+#EXTINF:-1 group-title="📺地波硬解",ViuTV Six
 https://cdn.hklive.tv/hls/96/index.m3u8
-#EXTINF:-1 ,港台電視31
+#EXTINF:-1 group-title="📺地波硬解",港台電視31
 https://cdn.hklive.tv/hls/31/index.m3u8
-#EXTINF:-1 ,港台電視32
+#EXTINF:-1 group-title="📺地波硬解",港台電視32
 https://cdn.hklive.tv/hls/32/index.m3u8
-#EXTINF:-1 ,港台電視33
+#EXTINF:-1 group-title="📺地波硬解",港台電視33
 https://cdn.hklive.tv/hls/33/index.m3u8
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="📺内置解码1",翡翠台
 https://live.hkanime.com.hk/xxxx/81/index.m3u8
-#EXTINF:-1 ,j2
+#EXTINF:-1 group-title="📺内置解码1",j2
 https://live.hkanime.com.hk/xxxx/82/index.m3u8
-#EXTINF:-1 ,无线新闻
+#EXTINF:-1 group-title="📺内置解码1",无线新闻
 https://live.hkanime.com.hk/xxxx/83/index.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺内置解码1",明珠台
 https://live.hkanime.com.hk/xxxx/84/index.m3u8
-#EXTINF:-1 ,明珠台 (粵語聲道)
+#EXTINF:-1 group-title="📺内置解码1",明珠台 (粵語聲道)
 https://cdn.hklive.hk/xxxx/84b/index.m3u8
-#EXTINF:-1 ,无线财经咨询台
+#EXTINF:-1 group-title="📺内置解码1",无线财经咨询台
 https://live.hkanime.com.hk/xxxx/85/index.m3u8
-#EXTINF:-1 ,香港开电视
+#EXTINF:-1 group-title="📺内置解码1",香港开电视
 https://live.hkanime.com.hk/xxxx/77/index.m3u8
-#EXTINF:-1 ,香港国际财经台
+#EXTINF:-1 group-title="📺内置解码1",香港国际财经台
 https://live.hkanime.com.hk/xxxx/76/index.m3u8
-#EXTINF:-1 ,viutv
+#EXTINF:-1 group-title="📺内置解码1",viutv
 https://live.hkanime.com.hk/xxxx/99/index.m3u8
-#EXTINF:-1 ,viutv6
+#EXTINF:-1 group-title="📺内置解码1",viutv6
 https://live.hkanime.com.hk/xxxx/96/index.m3u8
-#EXTINF:-1 ,港台电视31
+#EXTINF:-1 group-title="📺内置解码1",港台电视31
 https://live.hkanime.com.hk/xxxx/31/index.m3u8
-#EXTINF:-1 ,港台电视32
+#EXTINF:-1 group-title="📺内置解码1",港台电视32
 https://live.hkanime.com.hk/xxxx/32/index.m3u8
-#EXTINF:-1 ,港台电视33
+#EXTINF:-1 group-title="📺内置解码1",港台电视33
 https://live.hkanime.com.hk/xxxx/33/index.m3u8
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="📺内置解码2",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 ,翡翠台 (中英字幕)
+#EXTINF:-1 group-title="📺内置解码2",翡翠台 (中英字幕)
 https://cdn.hklive.tv/xxxx/81b/index.m3u8
-#EXTINF:-1 ,J2台
+#EXTINF:-1 group-title="📺内置解码2",J2台
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 ,無綫新聞台
+#EXTINF:-1 group-title="📺内置解码2",無綫新聞台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 ,明珠台
+#EXTINF:-1 group-title="📺内置解码2",明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 ,明珠台 (粵語聲道)
+#EXTINF:-1 group-title="📺内置解码2",明珠台 (粵語聲道)
 https://cdn.hklive.tv/xxxx/84b/index.m3u8
-#EXTINF:-1 ,無綫財經·資訊台
+#EXTINF:-1 group-title="📺内置解码2",無綫財經·資訊台
 https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 ,香港開電視
+#EXTINF:-1 group-title="📺内置解码2",香港開電視
 https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 ,香港國際財經台
+#EXTINF:-1 group-title="📺内置解码2",香港國際財經台
 https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 ,ViuTV
+#EXTINF:-1 group-title="📺内置解码2",ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 ,ViuTV Six
+#EXTINF:-1 group-title="📺内置解码2",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 ,港台電視31
+#EXTINF:-1 group-title="📺内置解码2",港台電視31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 ,港台電視32
+#EXTINF:-1 group-title="📺内置解码2",港台電視32
 https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 ,港台電視33
+#EXTINF:-1 group-title="📺内置解码2",港台電視33
 https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 ,贝爷影厅
+#EXTINF:-1 group-title="斗鱼轮播",贝爷影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/252802r2ZdDC7Nj8_2000.flv?wsAuth=370a0d8628330affd5e9b7085cf12302&token=cpn-androidmpro-0-252802-536492a84fc6fe0cc0ff101aa3cec9213d93bab5850e4ab7&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 ,欧美大片1
+#EXTINF:-1 group-title="斗鱼轮播",欧美大片1
 http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=b3efb4d6df0c3325558d752c95a8a77d&token=cpn-androidmpro-0-20415-b6774b3b3249db17349df734a8ca221d500cceae85c8d596&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 ,欧美大片2
+#EXTINF:-1 group-title="斗鱼轮播",欧美大片2
 http://tc-tct.douyucdn2.cn/dyliveflv3/2793084rGW3qQ3wX.flv?wsAuth=5c683e75564e1818ed406ac33426340a&token=cpn-androidmpro-0-2793084-3f569b7e953394a7e493b16b7b34cf9182fe9a9d5136f412&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语电影1
+#EXTINF:-1 group-title="斗鱼轮播",粤语电影1
 http://tc-tct.douyucdn2.cn/dyliveflv3a/5033502rlAUa6V6K.flv?wsAuth=4756fcbc1f45a14db19c8ca193f4cd9f&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d1197c4dc252a6277970d77b26c49a3381&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-#EXTINF:-1 ,粤语电影2
+#EXTINF:-1 group-title="斗鱼轮播",粤语电影2
 http://tc-tct.douyucdn2.cn/dyliveflv3a/6566671rSmzGoUcC.flv?wsAuth=489029a1f7f9719c743e22f8a83885a7&token=cpn-androidmpro-0-6566671-e1f409a777b7d49625c429d307720239523a825e8f988fb1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-#EXTINF:-1 ,粤语电影3
+#EXTINF:-1 group-title="斗鱼轮播",粤语电影3
 http://tc-tct.douyucdn2.cn/dyliveflv3/2466104rkAUkAjvb.flv?wsAuth=700042d2f19cf7a5ef9ca0106934207b&token=cpn-androidmpro-0-2466104-09fd8b41302171bd0784693beae02289fa015f15417800af&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语电影4
+#EXTINF:-1 group-title="斗鱼轮播",粤语电影4
 http://tc-tct.douyucdn2.cn/dyliveflv3/8603174rD8bY55uX.flv?wsAuth=e042b42698136e5ef7d335f92cac7e62&token=cpn-androidmpro-0-8603174-8f495c66f44b1e32128a2383c550d53f66d5a43c74ba1d88&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,粤语电影5
+#EXTINF:-1 group-title="斗鱼轮播",粤语电影5
 http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rhP0QRMlh.flv?wsAuth=60fad5bd59d301195c32e4c02ccabd61&token=cpn-androidmpro-0-1226741-0dc52b22d0295689780e1846771f5d34d011f39713739bbc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,4K HDR视界
+#EXTINF:-1 group-title="斗鱼轮播",4K HDR视界
 http://tc-tct.douyucdn2.cn/dyliveflv3a/9249162rBQvJingO.flv?wsAuth=fa2a60976de6b8ab8850d55aa86783c2&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd6a32a7bb6395b8b3e6ce5f154bfe44e1e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-#EXTINF:-1 ,粤语港片.
+#EXTINF:-1 group-title="斗鱼轮播",粤语港片.
 http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-#EXTINF:-1 ,粤语港片
+#EXTINF:-1 group-title="斗鱼轮播",粤语港片
 http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
-#EXTINF:-1 ,古天乐
+#EXTINF:-1 group-title="斗鱼轮播",古天乐
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
-#EXTINF:-1 ,张国荣
+#EXTINF:-1 group-title="斗鱼轮播",张国荣
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
-#EXTINF:-1 ,郭富城
+#EXTINF:-1 group-title="斗鱼轮播",郭富城
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
-#EXTINF:-1 ,林正英
+#EXTINF:-1 group-title="斗鱼轮播",林正英
 http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 ,高分电影HD
+#EXTINF:-1 group-title="斗鱼轮播",高分电影HD
 http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
