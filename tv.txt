@@ -27,6 +27,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 j2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
 无线新闻,https://live.hkanime.com.hk/xxxx/83/index.m3u8
 明珠台,https://live.hkanime.com.hk/xxxx/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.hk/xxxx/84b/index.m3u8
 无线财经咨询台,https://live.hkanime.com.hk/xxxx/85/index.m3u8
 香港开电视,https://live.hkanime.com.hk/xxxx/77/index.m3u8
 香港国际财经台,https://live.hkanime.com.hk/xxxx/76/index.m3u8
@@ -35,6 +36,22 @@ viutv6,https://live.hkanime.com.hk/xxxx/96/index.m3u8
 港台电视31,https://live.hkanime.com.hk/xxxx/31/index.m3u8
 港台电视32,https://live.hkanime.com.hk/xxxx/32/index.m3u8
 港台电视33,https://live.hkanime.com.hk/xxxx/33/index.m3u8
+
+🌟内置解码2,#genre#
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台 (中英字幕),https://cdn.hklive.tv/xxxx/81b/index.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.tv/xxxx/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
+港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 
 📡地波硬解,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
