@@ -100,19 +100,6 @@ HKC综合娱乐台,mitv://ns2.hellotvvod.com:9906/92b6d7f366ab46e0b28e6b989aad98
 卫视电影台,mitv://ns2.hellotvvod.com:9906/44f66fda64dc4b758bbecb7d25ace8cb
 纬来电影台,mitv://ns2.hellotvvod.com:9906/1b14d83a7c5345a5874fc4af756dcd26
 
-🌟临时测试,#genre#
-凤凰香港台,mitv://ns2.hellotvvod.com:9906/50ed38b1327348e9adef15ffdda5847d
-凤凰中文台,mitv://ns2.hellotvvod.com:9906/c913733fff48431282ade4d24f8d06e7
-凤凰资讯台,mitv://ns2.hellotvvod.com:9906/4d082b1483b7457fb9abdb5a330e2722
-凤凰电影台,mitv://ns2.hellotvvod.com:9906/bc8335dd32b24110b98b449b5136650f
-翡翠台,mitv://ns2.hellotvvod.com:9906/5b6bd16bd77340f9b4ab4b6b9c97d25c
-﻿翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
-明珠台,mitv://ns2.hellotvvod.com:9906/4673f367b43f4f2a8c52545578a544b4
-翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/b64a5d745eb543bd9b96bcaa2b46d7b3
-TVB经典台,mitv://ns2.hellotvvod.com:9906/63ab262e8c424520a16e6b2285170a1c
-TVB星河(粤),mitv://ns2.hellotvvod.com:9906/3f939e97e1744fbc99bf95fc9c1e90fb
-TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/15bd8845eda54b3daaa2b09effe31962
-
 🌟内置解码,#genre#
 翡翠台,https://live.hkanime.com.hk/xxxx/81/index.m3u8
 j2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
