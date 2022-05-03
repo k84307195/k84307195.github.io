@@ -22,6 +22,19 @@ Now新闻,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
+🌟梯子测试,#genre#
+RHK31,http://livetv.dnsfor.me/channel.1.m3u8
+RHK32,http://livetv.dnsfor.me/channel.2.m3u8
+now新闻,http://livetv.dnsfor.me/channel.4.m3u8
+有线新闻,http://livetv.dnsfor.me/channel.5.m3u8
+有线财经,http://livetv.dnsfor.me/channel.6.m3u8
+有线直播新闻,http://livetv.dnsfor.me/channel.7.m3u8
+now财经,http://livetv.dnsfor.me/channel.8.m3u8
+开电视,http://livetv.dnsfor.me/channel.9.m3u8
+无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
+无线财经资讯,http://livetv.dnsfor.me/channel.11.m3u8
+now体育,http://livetv.dnsfor.me/channel.12.m3u8
+
 🌟原动力源,#genre#
 凤凰香港台,mitv://ns2.hellotvvod.com:9906/50ed38b1327348e9adef15ffdda5847d
 凤凰中文台,mitv://ns2.hellotvvod.com:9906/c913733fff48431282ade4d24f8d06e7
