@@ -22,7 +22,7 @@ Now新闻,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
-🌟梯子测试,#genre#
+🌟梯子硬解,#genre#
 RHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RHK32,http://livetv.dnsfor.me/channel.2.m3u8
 now新闻,http://livetv.dnsfor.me/channel.4.m3u8
