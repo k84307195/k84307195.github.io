@@ -35,7 +35,7 @@ now财经,http://livetv.dnsfor.me/channel.8.m3u8
 无线财经资讯,http://livetv.dnsfor.me/channel.11.m3u8
 now体育,http://livetv.dnsfor.me/channel.12.m3u8
 
-🌟原动力源,#genre#
+🌟原动硬解,#genre#
 凤凰香港台,mitv://ns2.hellotvvod.com:9906/50ed38b1327348e9adef15ffdda5847d
 凤凰中文台,mitv://ns2.hellotvvod.com:9906/c913733fff48431282ade4d24f8d06e7
 凤凰资讯台,mitv://ns2.hellotvvod.com:9906/4d082b1483b7457fb9abdb5a330e2722
