@@ -22,21 +22,6 @@ Now新闻,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
-🌟GaTO硬解,#genre#
-翡翠台,mitv://ns2.hellotvvod.com:9906/adb1cc08649440f38e851f04d7596ef5
-J2台,mitv://ns2.hellotvvod.com:9906/1b62d94e0f474b3da91d8d516e668872
-明珠台,mitv://ns2.hellotvvod.com:9906/031ce6436373419d82809a98771612e3
-J5台,mitv://ns2.hellotvvod.com:9906/d63e790c59b342a7b6bd5bccaf12802c
-有线电影台,mitv://ns2.hellotvvod.com:9906/702c0fc34aa74f2aa749504ef6a156e1
-TVB J1台,mitv://ns2.hellotvvod.com:9906/df5a85ca5d01427583535b2eb92951f9
-无线新闻台,mitv://ns2.hellotvvod.com:9906/e8b77784d8f246a2a6c56bab1da26912
-有线新闻台,mitv://ns2.hellotvvod.com:9906/6590d113d9cc42459cc7b1cb9a6f7250
-星河,mitv://ns2.hellotvvod.com:9906/09665157102743c3ae59ac19a1240def
-NOW新闻台,mitv://ns2.hellotvvod.com:9906/9f6b1fcda72e4540ba6b3d70afdd3e04
-爆谷台,mitv://ns2.hellotvvod.com:9906/f17025ededa946d2bd58ccc0372366d9
-NOW直播台,mitv://ns2.hellotvvod.com:9906/4376ad4adb7340cc9b5370080b4a9d2d
-NOW星影台,mitv://ns2.hellotvvod.com:9906/228eb8bb67a444498eee937c8597eb41
-ViuTⅤ,mitv://ns2.hellotvvod.com:9906/1d067c8189db46ce946d4739a96701ca
 
 🌟梯子原生,#genre#
 RHK31,http://livetv.dnsfor.me/channel.1.m3u8
