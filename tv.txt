@@ -22,6 +22,37 @@ Now新闻,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
+🌟GaTO硬解,#genre#
+翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
+无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+Viutv,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
+Viutv 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
+无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
+有线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+J 2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
+有线603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
+18台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
+港台31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
+港台32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
+香港开电视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/15
+鳳凰香港,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/16
+鳳凰衛視,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/17
+鳳凰資訊,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/18
+澳视澳门,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/19
+澳门资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/20
+澳視葡語,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/21
+澳門Macau,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/22
+澳视体育,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/23
+澳视卫星,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/24
+澳视体育,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/25
+爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
+TVB经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
+TVB 星河,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
+美亚电影,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
+
 🌟G晴天硬解,#genre#
 港台电视31,mitv://ns2.hellotvvod.com:9906/07c11dd23a934d959f70577414486878.ts
 港台電視32,mitv://ns2.hellotvvod.com:9906/18f20d705f714d9a98ce4d9f075cbf1c.ts
