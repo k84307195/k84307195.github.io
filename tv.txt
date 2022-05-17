@@ -53,7 +53,7 @@ TVB经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
 TVB 星河,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
 美亚电影,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
 
-🌟香港地波,#genre#
+🌟地波硬解,#genre#
 J2,http://cms750.synology.me:8001/bysid/82
 翡翠台,http://210.6.197.248:8000/bysid/1
 无线财经,http://cms750.synology.me:8001/bysid/85
