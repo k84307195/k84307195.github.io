@@ -22,7 +22,7 @@ Now新闻,http://51.222.193.142:10011/9
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
-🌟地波硬解,#genre#
+📺 地波硬解,#genre#
 J2,http://cms750.synology.me:8001/bysid/82
 翡翠台,http://210.6.197.248:8000/bysid/1
 无线财经,http://cms750.synology.me:8001/bysid/85
@@ -30,6 +30,15 @@ J2,http://cms750.synology.me:8001/bysid/82
 明珠台,http://cms750.synology.me:8001/bysid/2
 Viutv,http://210.6.197.248:8000/bysid/99
 Viutv6,http://210.6.197.248:8000/bysid/96
+
+📺 地波硬解,#genre#
+无线新闻,https://dm1133.kglink.xyz/live/01
+无线财经,https://dm1133.kglink.xyz/live/02
+有线新闻,https://dm1133.kglink.xyz/live/03
+财经资讯,https://dm1133.kglink.xyz/live/04
+now新闻,https://dm1133.kglink.xyz/live/05
+香港开电视,https://dm1133.kglink.xyz/live/06
+
 
 🌟梯子原生,#genre#
 RHK31,http://livetv.dnsfor.me/channel.1.m3u8
