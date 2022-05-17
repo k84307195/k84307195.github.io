@@ -53,6 +53,15 @@ TVB经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
 TVB 星河,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
 美亚电影,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
 
+🌟香港地波,#genre#
+J2,http://cms750.synology.me:8001/bysid/82
+翡翠台,http://210.6.197.248:8000/bysid/1
+无线财经,http://cms750.synology.me:8001/bysid/85
+无线新闻,http://cms750.synology.me:8001/bysid/83
+明珠台,http://cms750.synology.me:8001/bysid/2
+Viutv,http://210.6.197.248:8000/bysid/99
+Viutv6,http://210.6.197.248:8000/bysid/96
+
 🌟G晴天硬解,#genre#
 港台电视31,mitv://ns2.hellotvvod.com:9906/07c11dd23a934d959f70577414486878.ts
 港台電視32,mitv://ns2.hellotvvod.com:9906/18f20d705f714d9a98ce4d9f075cbf1c.ts
