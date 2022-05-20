@@ -480,7 +480,7 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 高分电影HD,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
 
 🌟大团结,#genre#
-彩虹台,mitv://ns2.hellotvvod.com:9906/adb1cc08649440f38e851f04d7596ef5
+彩虹台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
 彩虹电影,mitv://ns2.hellotvvod.com:9906/1b62d94e0f474b3da91d8d516e668872
 Look,mitv://ns2.hellotvvod.com:9906/031ce6436373419d82809a98771612e3
 潘多拉1台,mitv://ns2.hellotvvod.com:9906/d63e790c59b342a7b6bd5bccaf12802c
