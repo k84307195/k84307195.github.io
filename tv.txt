@@ -479,6 +479,24 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 林正英,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
 高分电影HD,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
 
+🌟大团结,#genre#
+彩虹台,mitv://ns2.hellotvvod.com:9906/adb1cc08649440f38e851f04d7596ef5
+彩虹电影,mitv://ns2.hellotvvod.com:9906/1b62d94e0f474b3da91d8d516e668872
+Look,mitv://ns2.hellotvvod.com:9906/031ce6436373419d82809a98771612e3
+潘多拉1台,mitv://ns2.hellotvvod.com:9906/d63e790c59b342a7b6bd5bccaf12802c
+潘多拉2,mitv://ns2.hellotvvod.com:9906/6590d113d9cc42459cc7b1cb9a6f7250
+惊艳台,mitv://ns2.hellotvvod.com:9906/702c0fc34aa74f2aa749504ef6a156e1
+松视1,mitv://ns2.hellotvvod.com:9906/df5a85ca5d01427583535b2eb92951f9
+松视2,mitv://ns2.hellotvvod.com:9906/e8b77784d8f246a2a6c56bab1da26912
+松视3台,mitv://ns2.hellotvvod.com:9906/4376ad4adb7340cc9b5370080b4a9d2d
+花花公子,mitv://ns2.hellotvvod.com:9906/09665157102743c3ae59ac19a1240def
+香蕉台,mitv://ns2.hellotvvod.com:9906/9f6b1fcda72e4540ba6b3d70afdd3e04
+HOT,mitv://ns2.hellotvvod.com:9906/f17025ededa946d2bd58ccc0372366d9
+极限电影台,mitv://ns2.hellotvvod.com:9906/228eb8bb67a444498eee937c8597eb41
+HAPPY,mitv://ns2.hellotvvod.com:9906/1d067c8189db46ce946d4739a96701ca
+
+
+
 🎞️新片速递,#genre#
 倚天屠龙记之九阳神功,https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
 倚天屠龙记之圣火雄风,https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
