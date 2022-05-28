@@ -38,7 +38,7 @@ now财经,http://livetv.dnsfor.me/channel.8.m3u8
 now新闻,http://livetv.dnsfor.me/channel.4.m3u8
 
 📺内置解码,#genre#
-TVB翡翠台(備),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
+TVB翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
 TVB翡翠台,https://live.hkanime.com.hk/xxxx/81/index.m3u8
 TVBJ2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
 TVB无线新闻台,https://live.hkanime.com.hk/xxxx/83/index.m3u8
@@ -55,7 +55,7 @@ RTHK33,https://live.hkanime.com.hk/xxxx/33/index.m3u8
 
 🌟内置解码2,#genre#
 TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-TVB翡翠台 (中英字幕),https://cdn.hklive.tv/xxxx/81b/index.m3u8
+TVB翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
 TVBJ2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 TVB无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
 TVB明珠,https://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -72,11 +72,11 @@ RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 📡地波硬解,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯台,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
-凤凰卫视台,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
+凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
+凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
 TVBJ2,https://cdn.hkyoutv.com/hls/82/index.m3u8
 TVB翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
-TVB翡翠台 (中英字幕),https://cdn.hkyoutv.com/hls/81b/index.m3u8
+TVB翡翠台,https://cdn.hkyoutv.com/hls/81b/index.m3u8
 TVB无线新闻台,https://cdn.hkyoutv.com/hls/83/index.m3u8
 TVB明珠,https://cdn.hkyoutv.com/hls/84/index.m3u8
 TVB明珠,https://cdn.hkyoutv.com/hls/84b/index.m3u8
@@ -85,7 +85,7 @@ TVB无线财经台,https://cdn.hkyoutv.com/hls/85/index.m3u8
 HKC-财经资讯,https://cdn.hkyoutv.com/hls/76/index.m3u8
 ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8
 ViuTV Six,https://cdn.hkyoutv.com/hls/96/index.m3u8
-ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
+ViuTV Six,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 RTHK31,https://cdn.hkyoutv.com/hls/31/index.m3u8
 RTHK32,,https://cdn.hkyoutv.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkyoutv.com/hls/33/index.m3u8
@@ -98,16 +98,16 @@ RTHK33,https://cdn.hkyoutv.com/hls/33/index.m3u8
 凤凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 香港开电视,https://cdn.hklive.tv/hls/77/index.m3u8
 HKC-财经资讯,https://cdn.hklive.tv/hls/76/index.m3u8
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
-J2台,https://cdn.hklive.tv/hls/82/index.m3u8
+TVB翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+TVB翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
+TVBJ2,https://cdn.hklive.tv/hls/82/index.m3u8
 TVB无线新闻台,https://cdn.hklive.tv/hls/83/index.m3u8
 TVB明珠,https://cdn.hklive.tv/hls/84/index.m3u8
 TVB明珠,https://cdn.hklive.tv/hls/84b/index.m3u8
 TVB无线财经台,https://cdn.hklive.tv/hls/85/index.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
-ViuTV Six （第二聲度）,https://cdn.hklive.tv/hls/96b/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/hls/96b/index.m3u8
 RTHK31,https://cdn.hklive.tv/hls/31/index.m3u8
 RTHK32,https://cdn.hklive.tv/hls/32/index.m3u8
 RTHK33,https://cdn.hklive.tv/hls/33/index.m3u8
