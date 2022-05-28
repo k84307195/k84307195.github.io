@@ -3,13 +3,13 @@
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯台,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰卫视台,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
-J2,http://cms750.synology.me:8001/bysid/82
-翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
-无线新闻,http://cms750.synology.me:8001/bysid/83
-无线新闻,https://dm1133.kglink.xyz/live/01
-无线新闻,http://209.141.56.65/nmtv.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
-无线财经,https://dm1133.kglink.xyz/live/02
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+TVBJ2,http://cms750.synology.me:8001/bysid/82
+TVB翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
+TVB无线新闻台,http://cms750.synology.me:8001/bysid/83
+TVB无线新闻台,https://dm1133.kglink.xyz/live/01
+TVB无线新闻台,http://209.141.56.65/nmtv.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
+TVB无线财经台,https://dm1133.kglink.xyz/live/02
+TVB无线财经台,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 now新闻,https://dm1133.kglink.xyz/live/05
 香港开电视,https://dm1133.kglink.xyz/live/06
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -17,11 +17,11 @@ ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
 📺 地波硬解,#genre#
-J2,http://cms750.synology.me:8001/bysid/82
+TVBJ2,http://cms750.synology.me:8001/bysid/82
 翡翠台,http://210.6.197.248:8000/bysid/1
 无线财经,http://cms750.synology.me:8001/bysid/85
-无线新闻,http://cms750.synology.me:8001/bysid/83
-明珠台,http://cms750.synology.me:8001/bysid/2
+TVB无线新闻台,http://cms750.synology.me:8001/bysid/83
+TVB明珠,http://cms750.synology.me:8001/bysid/2
 Viutv,http://210.6.197.248:8000/bysid/99
 Viutv6,http://210.6.197.248:8000/bysid/96
 
@@ -34,7 +34,7 @@ now新闻,http://livetv.dnsfor.me/channel.4.m3u8
 有线直播新闻,http://livetv.dnsfor.me/channel.7.m3u8
 now财经,http://livetv.dnsfor.me/channel.8.m3u8
 开电视,http://livetv.dnsfor.me/channel.9.m3u8
-无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
+TVB无线新闻台,http://livetv.dnsfor.me/channel.10.m3u8
 无线财经资讯,http://livetv.dnsfor.me/channel.11.m3u8
 now体育,http://livetv.dnsfor.me/channel.12.m3u8
 
@@ -256,7 +256,7 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 🇨🇳卫视频道,#genre#
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
 湖南卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ENkc6QNZEfJ1Hqm12eGaKxw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000195%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605707754,cntv-hunan
-浙江卫视.,http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8,cntv-zhejiang
+浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8,cntv-zhejiang
 浙江卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221227296/10000100000000060000000001141335_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EBng-uKyYgdUpj01BXpVWug%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000265%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605707789,cntv-zhejiang
 江苏卫视,rtsp://183.59.70.76:554/PLTV/88888905/224/3221227027/10000100000000060000000000698853_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EaxGs9GVvEtywWlMV9_8zfw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000198%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605707818,cntv-jiangsu
 东方卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227299/10000100000000060000000001141344_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7E6KTDBPHM-03Uw5OdPJsmUg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000000000000000000263%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605707850,cntv-dongfang
