@@ -10,7 +10,6 @@ TVB无线新闻台,https://dm1133.kglink.xyz/live/01
 TVB无线新闻台,http://209.141.56.65/nmtv.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
 TVB无线财经台,https://dm1133.kglink.xyz/live/02
 TVB无线财经台,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-now新闻,https://dm1133.kglink.xyz/live/05
 香港开电视,https://dm1133.kglink.xyz/live/06
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
@@ -18,7 +17,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 
 📺 地波硬解,#genre#
 TVBJ2,http://cms750.synology.me:8001/bysid/82
-翡翠台,http://210.6.197.248:8000/bysid/1
+TVB翡翠台,http://210.6.197.248:8000/bysid/1
 无线财经,http://cms750.synology.me:8001/bysid/85
 TVB无线新闻台,http://cms750.synology.me:8001/bysid/83
 TVB明珠,http://cms750.synology.me:8001/bysid/2
