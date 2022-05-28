@@ -84,8 +84,8 @@ TVB无线财经台,https://cdn.hkyoutv.com/hls/85/index.m3u8
 香港开电视,https://cdn.hkyoutv.com/hls/77/index.m3u8
 HKC-财经资讯,https://cdn.hkyoutv.com/hls/76/index.m3u8
 ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8
-ViuTV Six,https://cdn.hkyoutv.com/hls/96/index.m3u8
-ViuTV Six,https://cdn.hkyoutv.com/hls/96b/index.m3u8
+ViuTVSix,https://cdn.hkyoutv.com/hls/96/index.m3u8
+ViuTVSix,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 RTHK31,https://cdn.hkyoutv.com/hls/31/index.m3u8
 RTHK32,,https://cdn.hkyoutv.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkyoutv.com/hls/33/index.m3u8
@@ -193,8 +193,8 @@ TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
 TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
 TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
 ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
-ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
-ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv2.m3u8
+ViuTVsix,http://iptv.tvfix.org/hls/viutv6.m3u8
 RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
 RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
@@ -218,6 +218,7 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 广州综合,http://aplay.gztv.com/sec/zhonghe.flv
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
 广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8
+
 🇨🇳广州频道,#genre#
 广州综合1,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
