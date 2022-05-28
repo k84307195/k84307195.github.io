@@ -28,9 +28,9 @@ ViuTVsix,http://210.6.197.248:8000/bysid/96
 RHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RHK32,http://livetv.dnsfor.me/channel.2.m3u8
 now新闻,http://livetv.dnsfor.me/channel.4.m3u8
-有线新闻,http://livetv.dnsfor.me/channel.5.m3u8
-有线财经,http://livetv.dnsfor.me/channel.6.m3u8
-有线直播新闻,http://livetv.dnsfor.me/channel.7.m3u8
+HKC-新闻台,http://livetv.dnsfor.me/channel.5.m3u8
+HKC-财经资讯,http://livetv.dnsfor.me/channel.6.m3u8
+HKC-直播新闻台,http://livetv.dnsfor.me/channel.7.m3u8
 now财经,http://livetv.dnsfor.me/channel.8.m3u8
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8
 TVB无线新闻台,http://livetv.dnsfor.me/channel.10.m3u8
