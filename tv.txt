@@ -25,18 +25,17 @@ ViuTV,http://210.6.197.248:8000/bysid/99
 ViuTVsix,http://210.6.197.248:8000/bysid/96
 
 📺梯子原生,#genre#
-RHK31,http://livetv.dnsfor.me/channel.1.m3u8
-RHK32,http://livetv.dnsfor.me/channel.2.m3u8
-now新闻,http://livetv.dnsfor.me/channel.4.m3u8
+RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 HKC-新闻台,http://livetv.dnsfor.me/channel.5.m3u8
 HKC-财经资讯,http://livetv.dnsfor.me/channel.6.m3u8
 HKC-直播新闻台,http://livetv.dnsfor.me/channel.7.m3u8
-now财经,http://livetv.dnsfor.me/channel.8.m3u8
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8
 TVB无线新闻台,http://livetv.dnsfor.me/channel.10.m3u8
 TVB无线财经台,http://livetv.dnsfor.me/channel.11.m3u8
 now体育,http://livetv.dnsfor.me/channel.12.m3u8
-
+now财经,http://livetv.dnsfor.me/channel.8.m3u8
+now新闻,http://livetv.dnsfor.me/channel.4.m3u8
 
 📺内置解码,#genre#
 TVB翡翠台(備),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
