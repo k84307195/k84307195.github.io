@@ -32,19 +32,18 @@ TVBJ2,P2p://ns2.hellotvvod.com:9906/9ba5239618d241e99ca0e61987ad0e39.ts
 TVB无线新闻台,P2p://ns2.hellotvvod.com:9906/4179ffc79bf64488a059d73bf058c4d6.ts
 TVB无线新闻台,P2p://ns2.hellotvvod.com:9906/a74244a38bc94eb2906a876ce9d70eb0.ts
 TVB无线财经台,P2p://ns2.hellotvvod.com:9906/dee93a6442744a3091e12afaac2cd2f6.ts
+TVB星河,P2p://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
 ViuTVsix,P2p://ns2.hellotvvod.com:9906/39160023a1684ee897383ade9e189227.ts
 ViuTV,P2p://ns2.hellotvvod.com:9906/000e70808ea3473eb5d95e4fe13fe4b4.ts
 凤凰中文,P2p://ns2.hellotvvod.com:9906/10befe0d1286499cbecc03ccf1f8af21.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
 凤凰香港,P2p://ns2.hellotvvod.com:9906/6623f8a15c6640899f30521c971c587f.ts
-TVB星河,P2p://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
-阳光卫视,P2p://ns2.hellotvvod.com:9906/5ae15997ee7b4f8598ad635a738ad4d5.ts
-澳门-MACAU,P2p://ns2.hellotvvod.com:9906/5b2e0046513549d38e79b6ca9477a22c.ts
-澳门莲花,P2p://ns2.hellotvvod.com:9906/e992c07d53bb46d3971d90babe5e147d.ts
+凤凰电影,P2p://ns2.hellotvvod.com:9906/ec5a19ad2f204f319cac7b7d02a3371b.ts
+
+
 now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 HKC-经典电影台,P2p://ns2.hellotvvod.com:9906/59321f2f03974de9a411618c99057ecd.ts
-凤凰电影,P2p://ns2.hellotvvod.com:9906/ec5a19ad2f204f319cac7b7d02a3371b.ts
 HKC-新闻台,P2p://ns2.hellotvvod.com:9906/4c326abd969e4990b00ca11cb055286a.ts
 HKC-财经资讯,P2p://ns2.hellotvvod.com:9906/f14771b92dc64e628511854739fec159.ts
 HKC 18,P2p://ns2.hellotvvod.com:9906/d3eb78103c5a43f88a4e36bfd17f5cf7.ts
@@ -56,7 +55,7 @@ TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/76c51c3849e44a508e6f239c72fcddb
 翡翠台,P2p://ns2.hellotvvod.com:9906/dd193c43d8d144a789e332fef764857b.ts
 TVB经典台,P2p://ns2.hellotvvod.com:9906/cac20e8b0588407e8a93377cc557c044.ts
 Thrill,P2p://ns2.hellotvvod.com:9906/b67aa79ac1bf493db4935705df4ed033.ts
-明珠台,P2p://ns2.hellotvvod.com:9906/ac00aa71db8746768272c1b233aa2830.ts
+TVB明珠,P2p://ns2.hellotvvod.com:9906/ac00aa71db8746768272c1b233aa2830.ts
 18台,P2p://ns2.hellotvvod.com:9906/bc7424c9517c48938ec0ad8b8d824f8a.ts
 爆谷星影台,P2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
 美亚电影台(粤语),P2p://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
