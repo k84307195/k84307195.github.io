@@ -35,10 +35,6 @@ ViuTVsix,http://210.6.197.248:8000/bysid/96
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
 凤凰香港,P2p://ns2.hellotvvod.com:9906/6623f8a15c6640899f30521c971c587f.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/ec5a19ad2f204f319cac7b7d02a3371b.ts
-RTHK31,P2p://ns2.hellotvvod.com:9906/8b840eeb2739481098d274368cb121f7.ts
-RTHK32,P2p://ns2.hellotvvod.com:9906/5fb3b8fdfb374ac789aaf77bfbc4f224.ts
-香港开电视,P2p://ns2.hellotvvod.com:9906/a9370612854846a894f9a885cab40605.ts
-
 TVBJ2,P2p://ns2.hellotvvod.com:9906/9ba5239618d241e99ca0e61987ad0e39.ts
 TVB明珠,P2p://ns2.hellotvvod.com:9906/ac00aa71db8746768272c1b233aa2830.ts
 TVB翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
@@ -53,8 +49,9 @@ Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 ViuTVsix,P2p://ns2.hellotvvod.com:9906/39160023a1684ee897383ade9e189227.ts
 ViuTV,P2p://ns2.hellotvvod.com:9906/000e70808ea3473eb5d95e4fe13fe4b4.ts
-
-
+RTHK31,P2p://ns2.hellotvvod.com:9906/8b840eeb2739481098d274368cb121f7.ts
+RTHK32,P2p://ns2.hellotvvod.com:9906/5fb3b8fdfb374ac789aaf77bfbc4f224.ts
+香港开电视,P2p://ns2.hellotvvod.com:9906/a9370612854846a894f9a885cab40605.ts
 HKC-新闻台,P2p://ns2.hellotvvod.com:9906/4c326abd969e4990b00ca11cb055286a.ts
 HKC-财经资讯,P2p://ns2.hellotvvod.com:9906/f14771b92dc64e628511854739fec159.ts
 HKC-18,P2p://ns2.hellotvvod.com:9906/d3eb78103c5a43f88a4e36bfd17f5cf7.ts
