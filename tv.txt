@@ -206,7 +206,7 @@ HKC-新闻台,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/
 松视1,P2p://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
 松视2,P2p://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
 松视3,P2p://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
-蕉蕉棒,P2p://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
+香蕉台,P2p://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
 潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
 潘朵啦粉红台,P2p://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
 PLAYBOY,P2p://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
