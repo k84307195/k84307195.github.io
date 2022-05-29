@@ -183,8 +183,7 @@ RTHK31,https://cdn.hkdtmb.com/raw/31.ts
 RTHK32,https://cdn.hkdtmb.com/raw/32.ts
 RTHK33,https://cdn.hkdtmb.com/raw/33.ts
 
-
-源码二套,#genre#
+📡源码二套,#genre#
 TVBJ2,https://cdn.hklive.tv/raw/82.ts
 TVB翡翠台,https://cdn.hklive.tv/raw/81.ts
 TVB翡翠台,https://cdn.hklive.tv/raw/81b.ts
@@ -202,6 +201,8 @@ HKC-财经资讯,https://cdn.hklive.tv/raw/76.ts
 HKC-球彩台,https://pull-hls-l1.ixigua.com/live/9952c7d45f2d137701a8ce4f92599/playlist.m3u8
 HKC-HD603,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
 HKC-新闻台,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
+
+🔞源天上人间,#genre#_918
 
 🇨🇳卫视频道,#genre#
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
