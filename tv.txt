@@ -80,9 +80,8 @@ HKC-直播新闻台,http://livetv.dnsfor.me/channel.7.m3u8
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8
 TVB无线新闻台,http://livetv.dnsfor.me/channel.10.m3u8
 TVB无线财经台,http://livetv.dnsfor.me/channel.11.m3u8
-Now体育,http://livetv.dnsfor.me/channel.12.m3u8
-Now财经,http://livetv.dnsfor.me/channel.8.m3u8
-Now新闻,http://livetv.dnsfor.me/channel.4.m3u8
+Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
+Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 
 📺内置解码,#genre#
 TVB翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
