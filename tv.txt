@@ -16,7 +16,7 @@ Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-爆谷电影台,P2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+爆谷星影台,P2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
 爆谷台,P2p://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
 卫视电影台,P2p://ns2.hellotvvod.com:9906/b144e848d760477094b90434cf9688f7.ts
 美亚电影台,P2p://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
@@ -59,7 +59,7 @@ HKC-体育台,P2p://ns2.hellotvvod.com:9906/4499f5d280624f5e8d90aab393e7d2df.ts
 HKC-Sportplus,P2p://ns2.hellotvvod.com:9906/683e53c2799143318f2b30601b2cc224.ts
 HKC-娱乐台,P2p://ns2.hellotvvod.com:9906/17112e5ca5e7410291080fd7120ebd84.ts
 HKC-经典电影台,P2p://ns2.hellotvvod.com:9906/59321f2f03974de9a411618c99057ecd.ts
-爆谷电影台,P2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+爆谷星影台,P2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
 爆谷台,P2p://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
 卫视电影台,P2p://ns2.hellotvvod.com:9906/b144e848d760477094b90434cf9688f7.ts
 美亚电影台,P2p://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
