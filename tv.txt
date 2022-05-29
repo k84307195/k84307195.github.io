@@ -54,8 +54,6 @@ RTHK32,P2p://ns2.hellotvvod.com:9906/5fb3b8fdfb374ac789aaf77bfbc4f224.ts
 香港开电视,P2p://ns2.hellotvvod.com:9906/a9370612854846a894f9a885cab40605.ts
 HKC-新闻台,P2p://ns2.hellotvvod.com:9906/4c326abd969e4990b00ca11cb055286a.ts
 HKC-财经资讯,P2p://ns2.hellotvvod.com:9906/f14771b92dc64e628511854739fec159.ts
-HKC-18,P2p://ns2.hellotvvod.com:9906/d3eb78103c5a43f88a4e36bfd17f5cf7.ts
-HKC-18,P2p://ns2.hellotvvod.com:9906/bc7424c9517c48938ec0ad8b8d824f8a.ts
 HKC-HD603,P2p://ns2.hellotvvod.com:9906/1953bb2f7aee4480b0df3d5b2a7c38b0.ts
 HKC-体育台,P2p://ns2.hellotvvod.com:9906/4499f5d280624f5e8d90aab393e7d2df.ts
 HKC-Sportplus,P2p://ns2.hellotvvod.com:9906/683e53c2799143318f2b30601b2cc224.ts
@@ -67,6 +65,8 @@ HKC-经典电影台,P2p://ns2.hellotvvod.com:9906/59321f2f03974de9a411618c99057e
 美亚电影台,P2p://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 Thrill,P2p://ns2.hellotvvod.com:9906/b67aa79ac1bf493db4935705df4ed033.ts
+HKC-18,P2p://ns2.hellotvvod.com:9906/d3eb78103c5a43f88a4e36bfd17f5cf7.ts
+HKC-18,P2p://ns2.hellotvvod.com:9906/bc7424c9517c48938ec0ad8b8d824f8a.ts
 粤语片台,P2p://ns2.hellotvvod.com:9906/8df75ca890094458966f4d729a8a8480.ts
 亚洲剧台,P2p://ns2.hellotvvod.com:9906/23ff3aecd0514b84950b5f638662a257.ts
 Hands Up,P2p://ns2.hellotvvod.com:9906/a0914b9ba8fb494e917d008e0f45cc3b.ts
