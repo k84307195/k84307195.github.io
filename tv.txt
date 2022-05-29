@@ -207,6 +207,16 @@ HKC-新闻台,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/
 松视2,P2p://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
 松视3,P2p://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
 蕉蕉棒,P2p://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
+潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
+潘朵啦粉红台,P2p://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
+HOT,P2p://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
+Happy,P2p://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
+彩虹e台,P2p://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
+彩虹电影台,P2p://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
+惊艳成人电影台,P2p://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
+K,P2p://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
+LOOK TV,P2p://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
 
 🇨🇳卫视频道,#genre#
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
