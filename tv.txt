@@ -160,21 +160,6 @@ RTHK32,https://cdn.hklive.tv/hls/32/index.m3u8
 RTHK33,https://cdn.hklive.tv/hls/33/index.m3u8
 
 📡源码一套,#genre#
-RTHK31,https://cdn.hkdtmb.com/raw/31.ts
-RTHK32,https://cdn.hkdtmb.com/raw/32.ts
-RTHK33,https://cdn.hkdtmb.com/raw/33.ts
-香港开电视,https://cdn.hkdtmb.com/raw/77.ts
-HKC-财经资讯,https://cdn.hkdtmb.com/raw/76.ts
-TVB翡翠台,https://cdn.hkdtmb.com/raw/81.ts
-TVB翡翠台 (中英字幕),https://cdn.hkdtmb.com/raw/81b.ts
-TVBJ2,https://cdn.hkdtmb.com/raw/82.ts
-TVB无线新闻台,https://cdn.hkdtmb.com/raw/83.ts
-TVB无线新闻台,http://livesec.mudu.tv/watch/ow7vfa.m3u8
-TVB明珠,https://cdn.hkdtmb.com/raw/84.ts
-TVB明珠,https://cdn.hkdtmb.com/raw/84b.ts
-TVB无线财经台,https://cdn.hkdtmb.com/raw/85.ts
-ViuTV,https://cdn.hkdtmb.com/raw/99.ts
-ViuTVsix,https://cdn.hkdtmb.com/raw/96.ts
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
@@ -183,8 +168,24 @@ ViuTVsix,https://cdn.hkdtmb.com/raw/96.ts
 凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
+TVB翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+TVB翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
+TVBJ2,https://cdn.hkdtmb.com/raw/82.ts
+TVB无线新闻台,https://cdn.hkdtmb.com/raw/83.ts
+TVB无线新闻台,http://livesec.mudu.tv/watch/ow7vfa.m3u8
+TVB明珠,https://cdn.hkdtmb.com/raw/84.ts
+TVB明珠,https://cdn.hkdtmb.com/raw/84b.ts
+TVB无线财经台,https://cdn.hkdtmb.com/raw/85.ts
+ViuTV,https://cdn.hkdtmb.com/raw/99.ts
+ViuTVsix,https://cdn.hkdtmb.com/raw/96.ts
+香港开电视,https://cdn.hkdtmb.com/raw/77.ts
+HKC-财经资讯,https://cdn.hkdtmb.com/raw/76.ts
+RTHK31,https://cdn.hkdtmb.com/raw/31.ts
+RTHK32,https://cdn.hkdtmb.com/raw/32.ts
+RTHK33,https://cdn.hkdtmb.com/raw/33.ts
 
-📡源码二套,#genre#
+
+源码二套,#genre#
 TVBJ2,https://cdn.hklive.tv/raw/82.ts
 TVB翡翠台,https://cdn.hklive.tv/raw/81.ts
 TVB翡翠台,https://cdn.hklive.tv/raw/81b.ts
