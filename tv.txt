@@ -85,9 +85,9 @@ Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 
 📺内置解码,#genre#
+J2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
 翡翠台,https://live.hkanime.com.hk/xxxx/81/index.m3u8
-J2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
 无线新闻,https://live.hkanime.com.hk/xxxx/83/index.m3u8
 明珠台,https://live.hkanime.com.hk/xxxx/84/index.m3u8
 明珠台,https://cdn.hklive.hk/xxxx/84b/index.m3u8
@@ -101,9 +101,9 @@ RTHK32,https://live.hkanime.com.hk/xxxx/32/index.m3u8
 RTHK33,https://live.hkanime.com.hk/xxxx/33/index.m3u8
 
 🌟内置解码2,#genre#
+J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
-J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
 明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8
@@ -168,9 +168,9 @@ RTHK33,https://cdn.hklive.tv/hls/33/index.m3u8
 凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
+J2,https://cdn.hkdtmb.com/raw/82.ts
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
 翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
-J2,https://cdn.hkdtmb.com/raw/82.ts
 无线新闻,https://cdn.hkdtmb.com/raw/83.ts
 无线新闻,http://livesec.mudu.tv/watch/ow7vfa.m3u8
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
