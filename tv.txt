@@ -28,10 +28,13 @@ RTHK31,P2p://ns2.hellotvvod.com:9906/8b840eeb2739481098d274368cb121f7.ts
 RTHK32,P2p://ns2.hellotvvod.com:9906/5fb3b8fdfb374ac789aaf77bfbc4f224.ts
 香港开电视,P2p://ns2.hellotvvod.com:9906/a9370612854846a894f9a885cab40605.ts
 TVB翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
+TVB翡翠台,P2p://ns2.hellotvvod.com:9906/dd193c43d8d144a789e332fef764857b.ts
 TVBJ2,P2p://ns2.hellotvvod.com:9906/9ba5239618d241e99ca0e61987ad0e39.ts
 TVB无线新闻台,P2p://ns2.hellotvvod.com:9906/4179ffc79bf64488a059d73bf058c4d6.ts
 TVB无线新闻台,P2p://ns2.hellotvvod.com:9906/a74244a38bc94eb2906a876ce9d70eb0.ts
 TVB无线财经台,P2p://ns2.hellotvvod.com:9906/dee93a6442744a3091e12afaac2cd2f6.ts
+TVB经典台,P2p://ns2.hellotvvod.com:9906/cac20e8b0588407e8a93377cc557c044.ts
+TVB明珠,P2p://ns2.hellotvvod.com:9906/ac00aa71db8746768272c1b233aa2830.ts
 TVB星河,P2p://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
 ViuTVsix,P2p://ns2.hellotvvod.com:9906/39160023a1684ee897383ade9e189227.ts
 ViuTV,P2p://ns2.hellotvvod.com:9906/000e70808ea3473eb5d95e4fe13fe4b4.ts
@@ -39,10 +42,6 @@ ViuTV,P2p://ns2.hellotvvod.com:9906/000e70808ea3473eb5d95e4fe13fe4b4.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
 凤凰香港,P2p://ns2.hellotvvod.com:9906/6623f8a15c6640899f30521c971c587f.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/ec5a19ad2f204f319cac7b7d02a3371b.ts
-
-
-now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
-now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 HKC-经典电影台,P2p://ns2.hellotvvod.com:9906/59321f2f03974de9a411618c99057ecd.ts
 HKC-新闻台,P2p://ns2.hellotvvod.com:9906/4c326abd969e4990b00ca11cb055286a.ts
 HKC-财经资讯,P2p://ns2.hellotvvod.com:9906/f14771b92dc64e628511854739fec159.ts
@@ -51,20 +50,21 @@ HKC-HD603,P2p://ns2.hellotvvod.com:9906/1953bb2f7aee4480b0df3d5b2a7c38b0.ts
 HKC-体育台,P2p://ns2.hellotvvod.com:9906/4499f5d280624f5e8d90aab393e7d2df.ts
 HKC-Sportplus,P2p://ns2.hellotvvod.com:9906/683e53c2799143318f2b30601b2cc224.ts
 HKC-娱乐台,P2p://ns2.hellotvvod.com:9906/17112e5ca5e7410291080fd7120ebd84.ts
+Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
+Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/76c51c3849e44a508e6f239c72fcddb2.ts
-翡翠台,P2p://ns2.hellotvvod.com:9906/dd193c43d8d144a789e332fef764857b.ts
-TVB经典台,P2p://ns2.hellotvvod.com:9906/cac20e8b0588407e8a93377cc557c044.ts
 Thrill,P2p://ns2.hellotvvod.com:9906/b67aa79ac1bf493db4935705df4ed033.ts
-TVB明珠,P2p://ns2.hellotvvod.com:9906/ac00aa71db8746768272c1b233aa2830.ts
 18台,P2p://ns2.hellotvvod.com:9906/bc7424c9517c48938ec0ad8b8d824f8a.ts
-爆谷星影台,P2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
-美亚电影台(粤语),P2p://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
+爆谷电影台,P2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+直播台,P2p://ns2.hellotvvod.com:9906/b144e848d760477094b90434cf9688f7.ts
+爆谷台,P2p://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
+美亚电影台,P2p://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
 Hands Up,P2p://ns2.hellotvvod.com:9906/a0914b9ba8fb494e917d008e0f45cc3b.ts
 粤语片台,P2p://ns2.hellotvvod.com:9906/8df75ca890094458966f4d729a8a8480.ts
 亚洲剧台,P2p://ns2.hellotvvod.com:9906/23ff3aecd0514b84950b5f638662a257.ts
-功夫台,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
-直播台,P2p://ns2.hellotvvod.com:9906/b144e848d760477094b90434cf9688f7.ts
-爆谷台,P2p://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
+TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
+
+
 📺梯子原生,#genre#
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
@@ -74,9 +74,9 @@ HKC-直播新闻台,http://livetv.dnsfor.me/channel.7.m3u8
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8
 TVB无线新闻台,http://livetv.dnsfor.me/channel.10.m3u8
 TVB无线财经台,http://livetv.dnsfor.me/channel.11.m3u8
-now体育,http://livetv.dnsfor.me/channel.12.m3u8
-now财经,http://livetv.dnsfor.me/channel.8.m3u8
-now新闻,http://livetv.dnsfor.me/channel.4.m3u8
+Now体育,http://livetv.dnsfor.me/channel.12.m3u8
+Now财经,http://livetv.dnsfor.me/channel.8.m3u8
+Now新闻,http://livetv.dnsfor.me/channel.4.m3u8
 
 📺内置解码,#genre#
 TVB翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
