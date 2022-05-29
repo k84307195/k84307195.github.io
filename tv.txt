@@ -211,11 +211,10 @@ HKC-新闻台,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/
 彩虹电影台,P2p://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
 潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
 潘朵啦粉红台,P2p://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
-PLAYBOY,P2p://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
 HOT,P2p://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
 Happy,P2p://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
 JStar极限台,P2p://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
-
 惊艳成人电影台,P2p://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
 K,P2p://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
 LOOK TV,P2p://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
