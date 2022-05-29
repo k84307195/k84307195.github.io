@@ -146,7 +146,7 @@ RTHK33,https://cdn.hkyoutv.com/hls/33/index.m3u8
 香港开电视,https://cdn.hklive.tv/hls/77/index.m3u8
 HKC-财经资讯,https://cdn.hklive.tv/hls/76/index.m3u8
 TVB翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-TVB翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
+TVB翡翠台,https://cdn.hklive.tv/hls/81b/index.m3u8
 TVBJ2,https://cdn.hklive.tv/hls/82/index.m3u8
 TVB无线新闻台,https://cdn.hklive.tv/hls/83/index.m3u8
 TVB明珠,https://cdn.hklive.tv/hls/84/index.m3u8
