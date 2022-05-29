@@ -202,7 +202,7 @@ HKC-球彩台,https://pull-hls-l1.ixigua.com/live/9952c7d45f2d137701a8ce4f92599/
 HKC-HD603,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
 HKC-新闻台,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 
-🔞天上人间,#genre#_918
+🔞天上人间_918,#genre#
 松视1,P2p://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
 松视2,P2p://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
 松视3,P2p://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
