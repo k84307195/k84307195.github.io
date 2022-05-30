@@ -41,10 +41,11 @@ ViuTV,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=8
 RTHK31,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=20
 18台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
 Now新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=16
-Now财经台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=17
 Now直播台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=18
+Now财经台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=17
 Now体育台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
 TVBJ1,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=14
+
 📺 地波硬解,#genre#
 J2,http://cms750.synology.me:8001/bysid/82
 翡翠台,http://210.6.197.248:8000/bysid/1
