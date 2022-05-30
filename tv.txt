@@ -38,7 +38,7 @@ ViuTVsix,http://210.6.197.248:8000/bysid/96
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
 无线财经,http://radius.8866.org:880/hls/83/index.m3u8
 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
-ViuTV6,http://radius.8866.org:880/hls/85/index.m3u8
+ViuTVsix,http://radius.8866.org:880/hls/85/index.m3u8
 ViuTV,http://radius.8866.org:880/hls/86/index.m3u8
 RHK31,http://radius.8866.org:880/hls/89/index.m3u8
 RHK32,http://radius.8866.org:880/hls/90/index.m3u8
