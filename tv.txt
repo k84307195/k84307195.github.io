@@ -535,17 +535,17 @@ CCTV早期教育,http://2941.vicp.net:8888/udp/239.77.0.180:5146
 
 🇨🇳广州频道,#genre#
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广州法治,http://2941.vicp.net:8888/udp/239.253.43.74:5146
 广州法治,http://ye23.win/iptv/gztv.php?id=fazhi
-广州竞赛,http://2941.vicp.net:8888/udp/239.253.43.75:5146
+广州法治,http://2941.vicp.net:8888/udp/239.253.43.74:5146
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
-广州新闻,http://2941.vicp.net:8888/udp/239.253.43.72:5146
+广州竞赛,http://2941.vicp.net:8888/udp/239.253.43.75:5146
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
+广州新闻,http://2941.vicp.net:8888/udp/239.253.43.72:5146
+广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 广州影视,http://2941.vicp.net:8888/udp/239.253.43.73:5146
 广州影视,https://aplay.gztv.com/sec/yingshi.flv
-广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
-广州综合,http://2941.vicp.net:8888/udp/239.253.43.71:5146
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
+广州综合,http://2941.vicp.net:8888/udp/239.253.43.71:5146
 广州综合,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102
