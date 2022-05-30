@@ -37,7 +37,7 @@ J2,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=12
 ViuTV,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=8
 开电视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=7
 有线新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=24
-有线体育http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=27
+有线体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=27
 财经资讯,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=28
 RTHK31,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=20
 18台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
