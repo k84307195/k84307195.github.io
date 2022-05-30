@@ -31,6 +31,27 @@ J2,http://cms750.synology.me:8001/bysid/82
 ViuTV,http://210.6.197.248:8000/bysid/99
 ViuTVsix,http://210.6.197.248:8000/bysid/96
 
+📺 5.30,#genre#
+凤凰资讯,http://anren.live/HK/AQtQ.m3u8
+凤凰中文,http://anren.live/HK/AQtU.m3u8
+翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
+无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
+无线财经,http://radius.8866.org:880/hls/83/index.m3u8
+明珠台,http://radius.8866.org:880/hls/84/index.m3u8
+ViuTV6,http://radius.8866.org:880/hls/85/index.m3u8
+ViuTV,http://radius.8866.org:880/hls/86/index.m3u8
+RHK31,http://radius.8866.org:880/hls/89/index.m3u8
+RHK32,http://radius.8866.org:880/hls/90/index.m3u8
+RHK33,http://radius.8866.org:880/hls/91/index.m3u8
+东森电影台,http://120.84.96.29:808/hls/32/index.m3u8
+东森洋片台,http://120.84.96.29:808/hls/33/index.m3u8
+LSTime电影台,http://120.84.96.29:808/hls/35/index.m3u8
+天映经典,http://120.84.96.29:808/hls/85/index.m3u8
+J2,http://120.84.96.29:808/hls/86/index.m3u8
+东森电影,http://120.84.96.27:808/hls/32/index.m3u8
+东森电影,http://120.84.96.32:808/hls/32/index.m3u
+
+
 📺晴天临时,#genre#
 凤凰中文,P2p://ns2.hellotvvod.com:9906/10befe0d1286499cbecc03ccf1f8af21.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
