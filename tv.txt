@@ -21,6 +21,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 卫视电影台,P2p://ns2.hellotvvod.com:9906/b144e848d760477094b90434cf9688f7.ts
 美亚电影台,P2p://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
+天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
 📺 地波硬解,#genre#
 J2,http://cms750.synology.me:8001/bysid/82
