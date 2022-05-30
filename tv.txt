@@ -40,11 +40,11 @@ ViuTV,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=8
 有线体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=27
 财经资讯,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=28
 RTHK31,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=20
-18台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
 Now新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=16
 Now直播台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=18
 Now财经台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=17
 Now体育台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
+18台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
 TVBJ1,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=14
 
 📺 地波硬解,#genre#
