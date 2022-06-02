@@ -65,16 +65,16 @@ Now直播台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGOR
 ViuTV,,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze007IYn8wyf4bDLwU3ze8CI
 ViuTVsix,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
 无线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
-有线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
-J 2,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
-有线603,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
+财经资讯,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
+J2,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
+603,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
 18台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1rSSWHFOlAXCefNn8fkSUg
 RTHK31,,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
 RTHK32,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
 开电视,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5TAJU33UnQNLgJWVy75cyg
-鳳凰香港,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeye785m1oylb49vvydnP6RY
-鳳凰衛視,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-C6IgcRwozk4eW0CGKnEqc
-鳳凰資訊,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze8TMsBd9j6U2e7uAgvfjsX8
+凤凰香港,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeye785m1oylb49vvydnP6RY
+凤凰中文,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-C6IgcRwozk4eW0CGKnEqc
+凤凰资讯,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze8TMsBd9j6U2e7uAgvfjsX8
 澳视澳门,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze4y0TQ3cg7tAymp78D5O7ro
 澳门资讯,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-NGAOoJtBA76lfWmOTuG28
 澳視葡語,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3cQrZBwbi8jyChOpy3JIWk
