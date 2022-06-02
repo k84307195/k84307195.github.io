@@ -56,6 +56,58 @@ J2,http://cms750.synology.me:8001/bysid/82
 ViuTV,http://210.6.197.248:8000/bysid/99
 ViuTVsix,http://210.6.197.248:8000/bysid/96
 
+📺 6.2临时,#genre#
+翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
+明珠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
+无线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
+有线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
+Now直播台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
+ViuTV,,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze007IYn8wyf4bDLwU3ze8CI
+ViuTVsix,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
+无线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
+有线财经,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
+J 2,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
+有线603,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
+18台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1rSSWHFOlAXCefNn8fkSUg
+RTHK31,,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
+RTHK32,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
+开电视,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5TAJU33UnQNLgJWVy75cyg
+鳳凰香港,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeye785m1oylb49vvydnP6RY
+鳳凰衛視,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-C6IgcRwozk4eW0CGKnEqc
+鳳凰資訊,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze8TMsBd9j6U2e7uAgvfjsX8
+澳视澳门,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze4y0TQ3cg7tAymp78D5O7ro
+澳门资讯,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze-NGAOoJtBA76lfWmOTuG28
+澳視葡語,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3cQrZBwbi8jyChOpy3JIWk
+澳門Macau,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3-kDnzdx36cMmiKi9fqG5g
+澳视卫星,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze4xyCH6kxor1wigWikFnAwI
+澳视体育,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze41D14lsaPfJHO3IW6GOFMM
+爆谷台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+经典台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze53WLv53IMxpHZj9SFFJ_kQ
+星河台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
+天映频道,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
+卫视电影台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
+美亚电影台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
+
+中天新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
+TVBS新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
+东森新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=55
+三立新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=57
+壹电视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
+民视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=59
+中视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
+寰宇新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=63
+中视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
+台视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=83
+民视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=84
+华视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
+TVBS,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
+TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
+民视台湾台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
+民视第一台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=100
+民视综艺,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=101
+民视旅游,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
+民视影剧,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
+
 📺晴天临时,#genre#
 凤凰中文,P2p://ns2.hellotvvod.com:9906/10befe0d1286499cbecc03ccf1f8af21.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
