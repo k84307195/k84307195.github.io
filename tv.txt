@@ -108,6 +108,15 @@ TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
 民视旅游,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
 民视影剧,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
 
+📺 6.5临时,#genre#
+翡翠台,http://198.204.239.194:27347/livehlsplay?channel_id=20128 
+J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057 
+有线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30037 
+无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024 
+无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099 
+明珠台,http://198.204.239.194:27347/livehlsplay?channel_id=30026
+ViuTV,http://198.204.239.194:27347/livehlsplay?channel_id=30032 
+
 📺晴天临时,#genre#
 凤凰中文,P2p://ns2.hellotvvod.com:9906/10befe0d1286499cbecc03ccf1f8af21.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
