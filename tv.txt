@@ -3,12 +3,8 @@
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
-J2,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=12
 J2,http://cms750.synology.me:8001/bysid/82
-翡翠台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=1
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
-无线新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=9
-无线新闻,http://209.141.56.65/nmtv.php?id=898f0c54-f703-48f8-9e1d-463a43e06569
 无线新闻,http://cms750.synology.me:8001/bysid/83
 无线新闻,https://dm1133.kglink.xyz/live/01
 无线财经,https://dm1133.kglink.xyz/live/02
@@ -26,35 +22,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
-📺 香港硬解,#genre#
-凤凰中文,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=2
-凤凰资讯,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=3
-J2,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=12
-翡翠台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=1
-无线新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=9
-无线财经,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=10
-明珠台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=13
-ViuTV,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=8
-开电视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=7
-有线新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=24
-有线体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=27
-财经资讯,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=28
-RTHK31,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=20
-Now新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=16
-Now直播台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=18
-Now财经台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=17
-Now体育台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
-18台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
-TVBJ1,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=14
 
-📺 地波硬解,#genre#
-J2,http://cms750.synology.me:8001/bysid/82
-翡翠台,http://210.6.197.248:8000/bysid/1
-无线财经,http://cms750.synology.me:8001/bysid/85
-无线新闻,http://cms750.synology.me:8001/bysid/83
-明珠台,http://cms750.synology.me:8001/bysid/2
-ViuTV,http://210.6.197.248:8000/bysid/99
-ViuTVsix,http://210.6.197.248:8000/bysid/96
 
 📺 6.2临时,#genre#
 翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
