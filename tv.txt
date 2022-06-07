@@ -34,7 +34,7 @@ J2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
 开电视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/15
 Now新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
 无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
-有线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+财经资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
 ViuTV,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
 ViuTVsix,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
 星河台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
