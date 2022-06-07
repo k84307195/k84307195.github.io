@@ -22,6 +22,29 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
+📺香港频道,#genre#
+凤凰香港,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/16
+凤凰中文,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/17
+凤凰资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/18
+J2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
+翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+开电视,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/15
+Now新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
+有线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+ViuTV,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
+ViuTVsix,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
+星河台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
+爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
+经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
+美亚电影台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
+603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
+18台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
+RTHK31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
+RTHK32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
 
 
 📺 6.2临时,#genre#
