@@ -99,6 +99,13 @@ TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
 民视旅游,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
 民视影剧,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
 
+📺测试频道,#genre#
+翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
+无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+无线新闻,http://kkmix1.f3322.net:771/hls/ch2/s.m3u8
+明珠台,http://kkmix1.f3322.net:771/hls/ch1/s.m3u8
+
+
 📺晴天临时,#genre#
 凤凰中文,P2p://ns2.hellotvvod.com:9906/10befe0d1286499cbecc03ccf1f8af21.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/95dafddc933e4286a722754851d50f7e.ts
