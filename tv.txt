@@ -46,6 +46,42 @@ ViuTVsix,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
 RTHK31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
 RTHK32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
 
+📺电视侠,#genre#
+翡翠台(第1声道繁体),https://tvfix.woodong.workers.dev/hls/jadehk.m3u8
+翡翠台(第2声道简体),https://tvfix.woodong.workers.dev/hls/jadehk2.m3u8
+翡翠台海外版(粤语繁体),https://tvfix.woodong.workers.dev/hls/jadenhk.m3u8
+翡翠台海外版(普通话简体),https://tvfix.woodong.workers.dev/hls/jadenhk2.m3u8
+J2,https://tvfix.woodong.workers.dev/hls/j2.m3u8
+J2(第2声道),https://tvfix.woodong.workers.dev/hls/j22.m3u8
+无线新闻台,https://tvfix.woodong.workers.dev/hls/inews.m3u8
+无线新闻台(第2声道),https://tvfix.woodong.workers.dev/hls/inews2.m3u8
+明珠台,https://tvfix.woodong.workers.dev/hls/pearl.m3u8
+明珠台(第2声道),https://tvfix.woodong.workers.dev/hls/pearl2.m3u8
+无线财经资讯台,https://tvfix.woodong.workers.dev/hls/finance.m3u8
+无线财经资讯台(第2声道),https://tvfix.woodong.workers.dev/hls/finance2.m3u8
+无线财经资讯台海外版,https://tvfix.woodong.workers.dev/hls/financenhk.m3u8
+ViuTV,https://tvfix.woodong.workers.dev/hls/viutv.m3u8
+ViuTV(第2声道),https://tvfix.woodong.workers.dev/hls/viutv2.m3u8
+RTHK31,https://tvfix.woodong.workers.dev/hls/rthk31.m3u8
+RTHK32,https://tvfix.woodong.workers.dev/hls/rthk32.m3u8
+TVB星河(粤语),https://tvfix.woodong.workers.dev/hls/tvbxh.m3u8
+TVB星河(普通话),https://tvfix.woodong.workers.dev/hls/tvbxh2.m3u8
+TVB功夫台(粤语),https://tvfix.woodong.workers.dev/hls/tvbkf.m3u8
+TVB功夫(普通话),https://tvfix.woodong.workers.dev/hls/tvbkf2.m3u8
+赛马频道18台,https://tvfix.woodong.workers.dev/hls/18.m3u8
+黄金翡翠台,https://tvfix.woodong.workers.dev/hls/jadegold.m3u8
+TVB经典台,https://tvfix.woodong.workers.dev/hls/tvbjd.m3u8
+娱乐新闻台,https://tvfix.woodong.workers.dev/hls/enews.m3u8
+TVB亚洲综艺台,https://tvfix.woodong.workers.dev/hls/tvbzy.m3u8
+TVB华语剧台,https://tvfix.woodong.workers.dev/hls/tvbhy.m3u8
+TVB亚洲剧台,https://tvfix.woodong.workers.dev/hls/tvbyz.m3u8
+TVB戏曲台,https://tvfix.woodong.workers.dev/hls/tvbxq.m3u8
+美亚电影台(粤语),https://tvfix.woodong.workers.dev/hls/mydy.m3u8
+美亚电影台(普通话),https://tvfix.woodong.workers.dev/hls/mydy2.m3u8
+天映经典,https://tvfix.woodong.workers.dev/hls/tyjd.m3u8
+天映经典(第2声道),https://tvfix.woodong.workers.dev/hls/tyjd2.m3u8
+无线新闻台,https://tvfix.woodong.workers.dev/hls/inews.m3u8
+娱乐新闻台,https://tvfix.woodong.workers.dev/hls/enews.m3u8
 
 📺 6.2临时,#genre#
 翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
