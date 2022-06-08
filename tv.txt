@@ -23,8 +23,8 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
 📺香港频道,#genre#
-凤凰香港,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/16
-凤凰中文,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/17
+凤凰香港,http://120.84.96.29:808/hls/81/index.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/18
 J2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
 翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
