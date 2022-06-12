@@ -163,7 +163,6 @@ Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 
 📺内置解码,#genre#
 J2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
-翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
 翡翠台,https://live.hkanime.com.hk/xxxx/81/index.m3u8
 无线新闻,https://live.hkanime.com.hk/xxxx/83/index.m3u8
 明珠台,https://live.hkanime.com.hk/xxxx/84/index.m3u8
