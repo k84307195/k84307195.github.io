@@ -103,8 +103,13 @@ TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
 📺测试频道,#genre#
 翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 无线新闻,http://kkmix1.f3322.net:771/hls/ch2/s.m3u8
+明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 明珠台,http://kkmix1.f3322.net:771/hls/ch1/s.m3u8
+ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
+ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+
 
 
 📺晴天临时,#genre#
