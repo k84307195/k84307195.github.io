@@ -23,12 +23,28 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
 📺测试频道,#genre#
-翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
-无线新闻,http://kkmix1.f3322.net:771/hls/ch2/s.m3u8
-明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
-明珠台,http://kkmix1.f3322.net:771/hls/ch1/s.m3u8
+凤凰中文 HD,http://58.247.70.104:61985/hlsok/a1ddeef5/index.m3u8
+凤凰资讯 HD,http://58.247.70.104:61985/hlsok/2c3cc674/index.m3u8
+凤凰香港 HD,http://58.247.70.104:61985/hlsok/b18b32b6/index.m3u8
+翡翠台 FHD,http://58.247.70.104:61985/hlsok/892debf01/index.m3u8
+TVB华丽台 HD,http://58.247.70.104:61985/hlsok/4c308ed71/index.m3u8
+明珠台 HD,http://58.247.70.104:61985/hlsok/df1763cf9/index.m3u8
+J2 HD,http://58.247.70.104:61985/hlsok/67eed8f2c/index.m3u8
+无线新闻台 HD,http://58.247.70.104:61985/hlsok/f104404f0/index.m3u8
+无线财经资讯台 HD,http://58.247.70.104:61985/hlsok/bf90c099d/index.m3u8
+ViuTV HD,http://58.247.70.104:61985/hlsok/3a9eab5e/index.m3u8
+ViuTV SIX HD,http://58.247.70.104:61985/hlsok/cebb5bb2/index.m3u8
+RTHK 31 HD,http://58.247.70.104:61985/hlsok/3fab4f58/index.m3u8
+RTHK 32 HD,http://58.247.70.104:61985/hlsok/f9dff950/index.m3u8
+TVB 娱乐新闻 HD,http://58.247.70.104:61985/hlsok/475bf8a6a/index.m3u8
+TVB 经典 HD,http://58.247.70.104:61985/hlsok/e6b996579/index.m3u8
+TVB星河台 HD,http://58.247.70.104:61985/hlsok/2b448a969/index.m3u8
+翡翠台1,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
+无线财经1,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+无线新闻1,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
+无线新闻1,http://kkmix1.f3322.net:771/hls/ch2/s.m3u8
+明珠台1,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
+明珠台1,http://kkmix1.f3322.net:771/hls/ch1/s.m3u8
 
 📺梯子原生,#genre#
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
