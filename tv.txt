@@ -23,7 +23,7 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
 📺测试频道,#genre#
-
+翡翠台,mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
 翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
