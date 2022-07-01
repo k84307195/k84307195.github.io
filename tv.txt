@@ -72,8 +72,8 @@ TVB星河,P2p://ns2.hellotvvod.com:9906/c18c256ebf55450a8392686e8ff0eaa7
 澳门莲花,P2p://ns2.hellotvvod.com:9906/3ca1d3d8941f47e7a176729706a9fe45
 now新闻台,P2p://ns2.hellotvvod.com:9906/5d2efbf72ca44fe29320fedfea36a169
 now直播台,P2p://ns2.hellotvvod.com:9906/b73860503a97419796ae72634ee32a8c
-HKC电影台,P2p://ns2.hellotvvod.com:9906/ed24662cc6c24ee89eacaa6dc5f61568
-凤凰电影台,P2p://ns2.hellotvvod.com:9906/24e01876a6ac485ab259ba0ccaf9f63f
+有线电影,P2p://ns2.hellotvvod.com:9906/ed24662cc6c24ee89eacaa6dc5f61568
+凤凰电影,P2p://ns2.hellotvvod.com:9906/24e01876a6ac485ab259ba0ccaf9f63f
 有线新闻,P2p://ns2.hellotvvod.com:9906/a3707b1863994910b57b6c05cfffbf46
 财经资讯,P2p://ns2.hellotvvod.com:9906/d7c478ce01844a6e9f92261fc8cd04cd
 HKC 18,P2p://ns2.hellotvvod.com:9906/b6021e65242e4abe97c5b984be7ef2b0
