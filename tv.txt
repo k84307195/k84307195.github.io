@@ -33,6 +33,20 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 明珠台,http://kkmix1.f3322.net:771/hls/ch1/s.m3u8
 
+有线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30037
+有线体育,http://198.204.239.194:27347/livehlsplay?channel_id=20198
+无线资讯,http://198.204.239.194:27347/livehlsplay?channel_id=30019
+无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
+无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
+明珠,http://198.204.239.194:27347/livehlsplay?channel_id=30026
+凤凰中文,http://198.204.239.194:27347/livehlsplay?channel_id=30015
+凤凰直播,http://198.204.239.194:27347/livehlsplay?channel_id=30014
+凤凰香港,http://198.204.239.194:27347/livehlsplay?channel_id=30016
+翡翠,http://198.204.239.194:27347/livehlsplay?channel_id=20128
+VIUTV,http://198.204.239.194:27347/livehlsplay?channel_id=30032
+J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
+J2,http://198.204.239.194:27347/livehlsplay?
+
 📺测试频道.,#genre#
 Viu TV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
 VIU SIX,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
