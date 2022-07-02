@@ -251,12 +251,12 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹电影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 潘朵啦玩美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦粉红台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+潘朵啦粉红台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
 HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
 惊艳成人电影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-JStar极限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+JStar极限台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
 K,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 
