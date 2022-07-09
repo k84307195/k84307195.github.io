@@ -66,49 +66,6 @@ RHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
 有線衛視電影台,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
 TVB星河高清頻道,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
 
-📺晴天测试,#genre#
-RTHK31,P2p://ns2.hellotvvod.com:9906/0c8260e56a6249d196c5d01e6e4748f4
-RTHK32,P2p://ns2.hellotvvod.com:9906/40450364e51b4f649efdf6ac2b69552a
-香港开电视,P2p://ns2.hellotvvod.com:9906/7e391c52572c4257b8ecd7c6862a5afc
-翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
-J2,P2p://ns2.hellotvvod.com:9906/f6e1a9e71dfb4664b16444cafdeb771e
-无线新闻,P2p://ns2.hellotvvod.com:9906/a9185c5b65c34bb5b4b79ebcd3624f45
-无线新闻,P2p://ns2.hellotvvod.com:9906/44f11d73134d4479a18842300be5db9a
-无线财经·资讯台,P2p://ns2.hellotvvod.com:9906/7e78b46cdb4141928bc56c64fc810211
-ViuTVsix,P2p://ns2.hellotvvod.com:9906/3386950777174da691387530659bdc5f
-ViuTV,P2p://ns2.hellotvvod.com:9906/2a9dbd22ffa244c2b2431069d1e392ef
-凤凰中文,P2p://ns2.hellotvvod.com:9906/e0994705c70041f49543ccd90aa9edd3
-凤凰资讯,P2p://ns2.hellotvvod.com:9906/166c0b13c0e74ce7b616abefd2783ef7
-凤凰香港,P2p://ns2.hellotvvod.com:9906/bf0713a77b5c41eea01d557a4b24f80b
-TVB星河,P2p://ns2.hellotvvod.com:9906/c18c256ebf55450a8392686e8ff0eaa7
-阳光卫视,P2p://ns2.hellotvvod.com:9906/7847b0378f244171b2c21135eff7e4bf
-澳门-MACAU,P2p://ns2.hellotvvod.com:9906/dd9f2c4dcab145ffb54c9661cb712f3e
-澳门莲花,P2p://ns2.hellotvvod.com:9906/3ca1d3d8941f47e7a176729706a9fe45
-now新闻台,P2p://ns2.hellotvvod.com:9906/5d2efbf72ca44fe29320fedfea36a169
-now直播台,P2p://ns2.hellotvvod.com:9906/b73860503a97419796ae72634ee32a8c
-有线电影,P2p://ns2.hellotvvod.com:9906/ed24662cc6c24ee89eacaa6dc5f61568
-凤凰电影,P2p://ns2.hellotvvod.com:9906/24e01876a6ac485ab259ba0ccaf9f63f
-有线新闻,P2p://ns2.hellotvvod.com:9906/a3707b1863994910b57b6c05cfffbf46
-财经资讯,P2p://ns2.hellotvvod.com:9906/d7c478ce01844a6e9f92261fc8cd04cd
-HKC 18,P2p://ns2.hellotvvod.com:9906/b6021e65242e4abe97c5b984be7ef2b0
-HKC 603,P2p://ns2.hellotvvod.com:9906/457ad93a6ea947f8b69b47428ad688b8
-HKC體育台,P2p://ns2.hellotvvod.com:9906/af6c2f9ca8a44fd48d422f57ac710b63
-HKC Sports Plus 1,P2p://ns2.hellotvvod.com:9906/b3ca9fff90e24b6d91ced706cafd7cc4
-HKC综合娱乐台,P2p://ns2.hellotvvod.com:9906/6d3b856f3ac5462897132897e8943af9
-TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/f94470e01b8f41648c86dcdb7bc5aa4e
-翡翠台,P2p://ns2.hellotvvod.com:9906/7bf71b15d43a4885b87d877ede539417
-TVB经典台,P2p://ns2.hellotvvod.com:9906/8645bde06f30488f9b11245e5cfe6a4e
-Thrill,P2p://ns2.hellotvvod.com:9906/9a4a7d6ebfd14b19b741e6bf4f24285c
-明珠台,P2p://ns2.hellotvvod.com:9906/2d3ff877c8ea4827ad7c527dc2c833ed
-18台,P2p://ns2.hellotvvod.com:9906/5fba5237e94741ec9df016d22cbd8c79
-爆谷星影台,P2p://ns2.hellotvvod.com:9906/ea807a03449d47ebb22ee7ed00859211
-美亚电影台,P2p://ns2.hellotvvod.com:9906/0f43ed770e794e979c2444ce2727baea
-Hands Up,P2p://ns2.hellotvvod.com:9906/ea0358bb7233458a8e3ebdac489a53f2
-粤语片台,P2p://ns2.hellotvvod.com:9906/da617ae64efe4213bbe75ba106ba974a
-亚洲剧台,P2p://ns2.hellotvvod.com:9906/88b42209712d49c69f28f069a61d2b34
-TVB功夫,P2p://ns2.hellotvvod.com:9906/64216b0b5cee41aaa78d952e9a47579c
-爆谷台,P2p://ns2.hellotvvod.com:9906/cb5e650b9b2640d78245e7b7a0330300
-
 
 📺7月8号测试,#genre#
 港台電視31,mitv://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
