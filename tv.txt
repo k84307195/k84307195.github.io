@@ -189,8 +189,8 @@ LSTime电影台,mitv://ns2.hellotvvod.com:9906/befd4695fe8c4c0ea2901707ee883ad9
 
 
 📺晴天源,#genre#
-港台电视31,P2p://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
-港台電視32P2p://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
+RHK31,P2p://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
+RHK32,P2p://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
 香港開電視,P2p://ns2.hellotvvod.com:9906/a63eab2739944d199afc5a98e12036f9.ts
 翡翠台(備)),P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
 J2,P2p://ns2.hellotvvod.com:9906/c7aacd365fc942a286971169fe60aa10.ts
