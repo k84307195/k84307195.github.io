@@ -55,8 +55,8 @@ J5無線財經新聞,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d
 互動新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
 J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
-RHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
-RHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
+RTHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
+RTHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
 香港有線新聞,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
 有線18台,mitv://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784
 有線財經資訊,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
@@ -68,8 +68,8 @@ TVB星河高清頻道,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06cc
 
 
 📺7月8号测试,#genre#
-港台電視31,mitv://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
-港台电视32,mitv://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
+RTHK31,mitv://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
+RTHK32,mitv://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
 开电视,mitv://ns2.hellotvvod.com:9906/a63eab2739944d199afc5a98e12036f9.ts﻿
 翡翠台(备),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
 J2,mitv://ns2.hellotvvod.com:9906/c7aacd365fc942a286971169fe60aa10.ts
@@ -189,8 +189,8 @@ LSTime电影台,mitv://ns2.hellotvvod.com:9906/befd4695fe8c4c0ea2901707ee883ad9
 
 
 📺晴天源,#genre#
-RHK31,P2p://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
-RHK32,P2p://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
+RTHK31,P2p://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
+RTHK32,P2p://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
 开电视,P2p://ns2.hellotvvod.com:9906/a63eab2739944d199afc5a98e12036f9.ts
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
 J2,P2p://ns2.hellotvvod.com:9906/c7aacd365fc942a286971169fe60aa10.ts
