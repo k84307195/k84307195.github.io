@@ -569,8 +569,8 @@ Sun Music,mitv://ns2.hellotvvod.com:9906/d44e2c6043444295abf050e6f0e5e505
 HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
-惊艳成人电影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 JStar极限台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+惊艳成人电影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 K,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 
@@ -594,8 +594,8 @@ LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
 HOT,mitv://ns2.hellotvvod.com:9906/a98eef52cfb9491d98fd13dde8703ea4
 Happy,mitv://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
 JStar极限台,mitv://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
 K,mitv://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c
 LOOK TV,mitv://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
 
@@ -608,11 +608,11 @@ LOOK TV,mitv://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
 香蕉台,P2p://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27.ts
 潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32.ts
 潘朵啦粉红台,P2p://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82.ts
-惊艳成人电影台,P2p://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b.ts
 HOT,P2p://ns2.hellotvvod.com:9906/a98eef52cfb9491d98fd13dde8703ea4.ts
 Happy,P2p://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0.ts
 PLAYBOY,P2p://ns2.hellotvvod.com:9906/9704f609548443659a963c57e399148b.ts
 JStar极限台,P2p://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a.ts
+惊艳成人电影台,P2p://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b.ts
 K,P2p://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c.ts
 LOOK TV,P2p://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa.ts
 
