@@ -586,7 +586,7 @@ LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 松视2,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
 松视3,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
 松视3,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
-松视3台,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
+松视3,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
 彩虹e台,mitv://ns2.hellotvvod.com:9906/849f7904eef84f918d6e98eff1f085f9
 彩虹电影,mitv://ns2.hellotvvod.com:9906/3636300771234319bd67a74f923aa1e0
 香蕉台,mitv://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27
