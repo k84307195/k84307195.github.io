@@ -189,40 +189,36 @@ LSTime电影台,mitv://ns2.hellotvvod.com:9906/befd4695fe8c4c0ea2901707ee883ad9
 
 
 📺晴天新源,#genre#
-RTHK31,P2p://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
-RTHK32,P2p://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
-开电视,P2p://ns2.hellotvvod.com:9906/a63eab2739944d199afc5a98e12036f9.ts
-翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
-J2,P2p://ns2.hellotvvod.com:9906/c7aacd365fc942a286971169fe60aa10.ts
-无线新闻,P2p://ns2.hellotvvod.com:9906/85466b33dbfe41cdad2c0d7324604e18.ts
-无线新闻,P2p://ns2.hellotvvod.com:9906/8826d0fa5b3240f7ad59732bda834979.ts
-无线财经,P2p://ns2.hellotvvod.com:9906/88014e869abf453291e7d802d478af33.ts
-ViuTVsix,P2p://ns2.hellotvvod.com:9906/26f00e97388741a6a05140e10ca14d95.ts
-ViuTV,P2p://ns2.hellotvvod.com:9906/457dd5d672944fcab0bb4d31cf46f6cd.ts
 凤凰中文,P2p://ns2.hellotvvod.com:9906/e7b4279c9894444099f7a5ee3db33659.ts
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/91c8e4fe4fca4c51a36900e64b1eff3f.ts
 凤凰香港,P2p://ns2.hellotvvod.com:9906/de5be0035519498b94b1c61523f06b9f.ts
 凤凰电影,P2p://ns2.hellotvvod.com:9906/bd288d02a8f24a4b8b66fc8f22693fc1.ts
+开电视,P2p://ns2.hellotvvod.com:9906/a63eab2739944d199afc5a98e12036f9.ts
+J2,P2p://ns2.hellotvvod.com:9906/c7aacd365fc942a286971169fe60aa10.ts
+翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	.ts
+翡翠台,P2p://ns2.hellotvvod.com:9906/7ec78b89ec4845f39548414f7f25cbb6.ts
+无线新闻,P2p://ns2.hellotvvod.com:9906/85466b33dbfe41cdad2c0d7324604e18.ts
+无线新闻,P2p://ns2.hellotvvod.com:9906/8826d0fa5b3240f7ad59732bda834979.ts
+无线财经,P2p://ns2.hellotvvod.com:9906/88014e869abf453291e7d802d478af33.ts
+明珠台,P2p://ns2.hellotvvod.com:9906/a2f31afa89da4ba2bd6612b8b76aebbd.ts
+TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/ddd18af9e99a44618488c5b35793cea0.ts
+TVB经典台,P2p://ns2.hellotvvod.com:9906/fa601e7167b846349514abf5c241195a.ts
 TVB星河台,P2p://ns2.hellotvvod.com:9906/5250246e882b4d6196caf3e30490d3bf.ts
-陽光衛視,P2p://ns2.hellotvvod.com:9906/5952778979e445e8ad54a13eb82f3649.ts
-澳門-MACAU,P2p://ns2.hellotvvod.com:9906/e263dcf8a4114909b55052e42028d4e2.ts
-澳門蓮花,P2p://ns2.hellotvvod.com:9906/2cced40aacaf491a9831974b78ba25ba.ts
 Now新闻台,P2p://ns2.hellotvvod.com:9906/ceb25ecafce546c2a6980fc1b552f51b.ts
 Now直播台,P2p://ns2.hellotvvod.com:9906/32d09d79e2ce4f09801f2f0523e2485c.ts
+ViuTVsix,P2p://ns2.hellotvvod.com:9906/26f00e97388741a6a05140e10ca14d95.ts
+ViuTV,P2p://ns2.hellotvvod.com:9906/457dd5d672944fcab0bb4d31cf46f6cd.ts
+
 有线電影,P2p://ns2.hellotvvod.com:9906/8d0fcf095ac945c2b5a6780542917202.ts
 有线新闻,P2p://ns2.hellotvvod.com:9906/8cd27f0e752b424c82a97591123c6286.ts
 财经资讯,P2p://ns2.hellotvvod.com:9906/4ffe68ad2ffb4aa4ba780e74611cc9a9.ts
-球彩台,P2p://ns2.hellotvvod.com:9906/8abd4e40bfa947798a4fa3846c2f4f08.ts
-HKC 603,P2p://ns2.hellotvvod.com:9906/2010916b451e426ea1c82e07448260ba.ts
 有线体育,P2p://ns2.hellotvvod.com:9906/cef75a8d7bc5491bb8d9aa4e71f20cd9.ts
-HKC Sports Plus 1,P2p://ns2.hellotvvod.com:9906/332aa17728854ae4b5731fb4b097b876.ts
-综合娱乐台,P2p://ns2.hellotvvod.com:9906/9e45051b2d9348968e1e199670d5bad5.ts
-TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/ddd18af9e99a44618488c5b35793cea0.ts
-翡翠台,P2p://ns2.hellotvvod.com:9906/7ec78b89ec4845f39548414f7f25cbb6.ts
-TVB经典台,P2p://ns2.hellotvvod.com:9906/fa601e7167b846349514abf5c241195a.ts
-Thrill,P2p://ns2.hellotvvod.com:9906/bc63af2cb9d64cf9903e217b1d8ad70b.ts
-明珠台,P2p://ns2.hellotvvod.com:9906/a2f31afa89da4ba2bd6612b8b76aebbd.ts
+球彩台,P2p://ns2.hellotvvod.com:9906/8abd4e40bfa947798a4fa3846c2f4f08.ts
 18台,P2p://ns2.hellotvvod.com:9906/8702186aa8154c8189af414453e826d1.ts
+HKC 603,P2p://ns2.hellotvvod.com:9906/2010916b451e426ea1c82e07448260ba.ts
+HKC Sports Plus 1,P2p://ns2.hellotvvod.com:9906/332aa17728854ae4b5731fb4b097b876.ts
+HKC 综合娱乐台,P2p://ns2.hellotvvod.com:9906/9e45051b2d9348968e1e199670d5bad5.ts
+Thrill,P2p://ns2.hellotvvod.com:9906/bc63af2cb9d64cf9903e217b1d8ad70b.ts
 爆谷星影台,P2p://ns2.hellotvvod.com:9906/08d731a18bf642e6ad7d6a7088fd7593.ts
 美亚电影台,P2p://ns2.hellotvvod.com:9906/8de3c00361c7486a90a04541434c2dc6.ts
 Hands Up,P2p://ns2.hellotvvod.com:9906/2b0b09343e944f40a39b35d50f12a6ca.ts
@@ -230,7 +226,11 @@ Hands Up,P2p://ns2.hellotvvod.com:9906/2b0b09343e944f40a39b35d50f12a6ca.ts
 亚洲剧台,P2p://ns2.hellotvvod.com:9906/bdafbbaa3e644d05945b36b415333d3d.ts
 功夫台,P2p://ns2.hellotvvod.com:9906/a44c8bf9a5ca4fa0abc6b4ff186d2bf8.ts
 爆谷台,P2p://ns2.hellotvvod.com:9906/f53ea4db2ea242d395fbaf634e971afd.ts
-
+RTHK31,P2p://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
+RTHK32,P2p://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
+陽光衛視,P2p://ns2.hellotvvod.com:9906/5952778979e445e8ad54a13eb82f3649.ts
+澳門-MACAU,P2p://ns2.hellotvvod.com:9906/e263dcf8a4114909b55052e42028d4e2.ts
+澳門蓮花,P2p://ns2.hellotvvod.com:9906/2cced40aacaf491a9831974b78ba25ba.ts
 
 📺梯子原生,#genre#
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
