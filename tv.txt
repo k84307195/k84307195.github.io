@@ -188,7 +188,7 @@ LSTime电影台,mitv://ns2.hellotvvod.com:9906/befd4695fe8c4c0ea2901707ee883ad9
 爆谷台,mitv://ns2.hellotvvod.com:9906/f53ea4db2ea242d395fbaf634e971afd
 
 
-📺晴天源,#genre#
+📺晴天新源,#genre#
 RTHK31,P2p://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
 RTHK32,P2p://ns2.hellotvvod.com:9906/58adac0e5b46416d92ebb0d23bf284e9.ts
 开电视,P2p://ns2.hellotvvod.com:9906/a63eab2739944d199afc5a98e12036f9.ts
