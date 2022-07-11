@@ -219,7 +219,7 @@ HKC Sports Plus 1,P2p://ns2.hellotvvod.com:9906/332aa17728854ae4b5731fb4b097b876
 综合娱乐台,P2p://ns2.hellotvvod.com:9906/9e45051b2d9348968e1e199670d5bad5.ts
 TVB娱乐新闻台,P2p://ns2.hellotvvod.com:9906/ddd18af9e99a44618488c5b35793cea0.ts
 翡翠台,P2p://ns2.hellotvvod.com:9906/7ec78b89ec4845f39548414f7f25cbb6.ts
-TVB經典台,P2p://ns2.hellotvvod.com:9906/fa601e7167b846349514abf5c241195a.ts
+TVB经典台,P2p://ns2.hellotvvod.com:9906/fa601e7167b846349514abf5c241195a.ts
 Thrill,P2p://ns2.hellotvvod.com:9906/bc63af2cb9d64cf9903e217b1d8ad70b.ts
 明珠台,P2p://ns2.hellotvvod.com:9906/a2f31afa89da4ba2bd6612b8b76aebbd.ts
 18台,P2p://ns2.hellotvvod.com:9906/8702186aa8154c8189af414453e826d1.ts
