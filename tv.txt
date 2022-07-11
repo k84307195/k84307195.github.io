@@ -577,28 +577,27 @@ LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 
 🔞天上人间._918,#genre#
 彩虹e台,mitv://ns2.hellotvvod.com:9906/849f7904eef84f918d6e98eff1f085f9
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/3636300771234319bd67a74f923aa1e0
-LOOK TV,mitv://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
-惊艳电影台,mitv://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
-松视1台,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
-松视2台,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
-潘朵啦粉虹台,mitv://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/9704f609548443659a963c57e399148b
+彩虹电影,mitv://ns2.hellotvvod.com:9906/3636300771234319bd67a74f923aa1e0
+松视1,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
+松视1,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
+松视1,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
+松视1,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
+松视2,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
+松视2,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
+松视2,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
+松视2,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
+松视3,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
+松视3,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
+松视3台,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
 香蕉台,mitv://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
 HOT,mitv://ns2.hellotvvod.com:9906/a98eef52cfb9491d98fd13dde8703ea4
-松视3台,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
+Happy,mitv://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
 JStar极限台,mitv://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a
-HAPPY,mitv://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0
-松视1台,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
-松视1台,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
-松视1台,mitv://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
-松视2台,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
-松视2台,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
-松视2台,mitv://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
-松视3台,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
-松视3台,mitv://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
-K频道,mitv://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c
+K,mitv://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c
+LOOK TV,mitv://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
 
 🔞天上人间..._918,#genre#
 松视1,P2p://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d.ts
