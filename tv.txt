@@ -6,7 +6,11 @@
 J2,http://cms750.synology.me:8001/bysid/82
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
 无线新闻,http://cms750.synology.me:8001/bysid/83
+无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
+无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
 无线新闻,https://dm1133.kglink.xyz/live/01
+无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=30019
+无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
 无线财经,https://dm1133.kglink.xyz/live/02
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 开电视,https://dm1133.kglink.xyz/live/06
