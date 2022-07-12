@@ -1,4 +1,4 @@
-📺GaTO硬解,#genre#
+🌟GaTO硬解,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
@@ -48,7 +48,7 @@ VIUTV,http://198.204.239.194:27347/livehlsplay?channel_id=30032
 J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
 J2,http://198.204.239.194:27347/livehlsplay?
 
-🌟内置解码2,#genre#
+📺内置解码2,#genre#
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
