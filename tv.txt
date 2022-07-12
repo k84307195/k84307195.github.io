@@ -47,25 +47,7 @@ VIUTV,http://198.204.239.194:27347/livehlsplay?channel_id=30032
 J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
 J2,http://198.204.239.194:27347/livehlsplay?
 
-📺测试频道.,#genre#
 
-J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
-无线新闻,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
-翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
-无线财经,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
-明珠台,mitv://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
-RTHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
-RTHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
-香港有線新聞,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
-有線18台,mitv://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784
-有線財經資訊,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
-有線603高清,mitv://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d
-香港有線電影,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
-有線綜合娛樂,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
-有線衛視電影台,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
-TVB星河高清頻道,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
-ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
-ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
 
 📺7月8号测试,#genre#
 RTHK31,mitv://ns2.hellotvvod.com:9906/394c3c7bd87042f1ba6f0ca09fb965d6.ts
