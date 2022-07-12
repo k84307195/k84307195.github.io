@@ -22,7 +22,7 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
-📺港　澳,#gennre#
+📺港澳频道,#genre#
 凤凰电影,mitv://ns2.hellotvvod.com:9906/bd288d02a8f24a4b8b66fc8f22693fc1
 凤凰香港,mitv://ns2.hellotvvod.com:9906/de5be0035519498b94b1c61523f06b9f
 凤凰中文,mitv://ns2.hellotvvod.com:9906/e7b4279c9894444099f7a5ee3db33659
