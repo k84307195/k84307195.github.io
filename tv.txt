@@ -26,7 +26,6 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
-
 📺测试频道,#genre#
 翡翠台,mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
 翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
@@ -35,7 +34,6 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 无线新闻,http://kkmix1.f3322.net:771/hls/ch2/s.m3u8
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 明珠台,http://kkmix1.f3322.net:771/hls/ch1/s.m3u8
-
 有线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30037
 有线体育,http://198.204.239.194:27347/livehlsplay?channel_id=20198
 无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=30019
@@ -49,11 +47,6 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 VIUTV,http://198.204.239.194:27347/livehlsplay?channel_id=30032
 J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
 J2,http://198.204.239.194:27347/livehlsplay?
-
-
-
-
-
 
 🌟内置解码2,#genre#
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
@@ -73,7 +66,6 @@ RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 国际财经资讯,https://cdn.hklive.tv/xxxx/76/index.m3u8
-
 
 🇨🇳卫视频道,#genre#
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
