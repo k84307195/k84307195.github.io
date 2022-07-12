@@ -280,92 +280,6 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 国际财经资讯,https://cdn.hklive.tv/xxxx/76/index.m3u8
 
-📡地波硬解,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
-凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
-J2,https://cdn.hkyoutv.com/hls/82/index.m3u8
-翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
-翡翠台,https://cdn.hkyoutv.com/hls/81b/index.m3u8
-无线新闻,https://cdn.hkyoutv.com/hls/83/index.m3u8
-明珠台,https://cdn.hkyoutv.com/hls/84/index.m3u8
-明珠台,https://cdn.hkyoutv.com/hls/84b/index.m3u8
-无线财经,https://cdn.hkyoutv.com/hls/85/index.m3u8
-财经资讯,https://cdn.hkyoutv.com/hls/76/index.m3u8
-开电视,https://cdn.hkyoutv.com/hls/77/index.m3u8
-ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8
-ViuTVSix,https://cdn.hkyoutv.com/hls/96/index.m3u8
-ViuTVSix,https://cdn.hkyoutv.com/hls/96b/index.m3u8
-RTHK31,https://cdn.hkyoutv.com/hls/31/index.m3u8
-RTHK32,,https://cdn.hkyoutv.com/hls/32/index.m3u8
-RTHK33,https://cdn.hkyoutv.com/hls/33/index.m3u8
-
-📡地波内置.,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-开电视,https://cdn.hklive.tv/hls/77/index.m3u8
-财经资讯,https://cdn.hklive.tv/hls/76/index.m3u8
-J2,https://cdn.hklive.tv/hls/82/index.m3u8
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台,https://cdn.hklive.tv/hls/81b/index.m3u8
-无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
-无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84b/index.m3u8
-ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
-ViuTVsix,https://cdn.hklive.tv/hls/96/index.m3u8
-ViuTVsixhttps://cdn.hklive.tv/hls/96b/index.m3u8
-RTHK31,https://cdn.hklive.tv/hls/31/index.m3u8
-RTHK32,https://cdn.hklive.tv/hls/32/index.m3u8
-RTHK33,https://cdn.hklive.tv/hls/33/index.m3u8
-
-📡源码一套,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
-凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
-凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
-凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
-J2,https://cdn.hkdtmb.com/raw/82.ts
-翡翠台,https://cdn.hkdtmb.com/raw/81.ts
-翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
-无线新闻,https://cdn.hkdtmb.com/raw/83.ts
-无线新闻,http://livesec.mudu.tv/watch/ow7vfa.m3u8
-明珠台,https://cdn.hkdtmb.com/raw/84.ts
-明珠台,https://cdn.hkdtmb.com/raw/84b.ts
-TVB无线财经台,https://cdn.hkdtmb.com/raw/85.ts
-ViuTV,https://cdn.hkdtmb.com/raw/99.ts
-ViuTVsix,https://cdn.hkdtmb.com/raw/96.ts
-开电视,https://cdn.hkdtmb.com/raw/77.ts
-财经资讯,https://cdn.hkdtmb.com/raw/76.ts
-RTHK31,https://cdn.hkdtmb.com/raw/31.ts
-RTHK32,https://cdn.hkdtmb.com/raw/32.ts
-RTHK33,https://cdn.hkdtmb.com/raw/33.ts
-
-📡源码二套,#genre#
-J2,https://cdn.hklive.tv/raw/82.ts
-翡翠台,https://cdn.hklive.tv/raw/81.ts
-翡翠台,https://cdn.hklive.tv/raw/81b.ts
-无线新闻,https://cdn.hklive.tv/raw/83.ts
-开电视,https://cdn.hklive.tv/raw/77.ts
-明珠台,https://cdn.hklive.tv/raw/84.ts
-明珠台,https://cdn.hklive.tv/raw/84b.ts
-无线财经,https://cdn.hklive.tv/raw/85.ts
-ViuTV,https://cdn.hklive.tv/raw/99.ts
-ViuTVsix,https://cdn.hklive.tv/raw/96.ts
-RTHK31,https://cdn.hklive.tv/raw/31.ts
-RTHK32,https://cdn.hklive.tv/raw/32.ts
-RTHK33,https://cdn.hklive.tv/raw/33.ts
-财经资讯,https://cdn.hklive.tv/raw/76.ts
-球彩台,https://pull-hls-l1.ixigua.com/live/9952c7d45f2d137701a8ce4f92599/playlist.m3u8
-603,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
-有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 
 🇨🇳卫视频道,#genre#
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
@@ -575,5 +489,93 @@ JStar极限台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
 惊艳成人电影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 K,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+
+📡地波硬解,#genre#
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
+凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
+J2,https://cdn.hkyoutv.com/hls/82/index.m3u8
+翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
+翡翠台,https://cdn.hkyoutv.com/hls/81b/index.m3u8
+无线新闻,https://cdn.hkyoutv.com/hls/83/index.m3u8
+明珠台,https://cdn.hkyoutv.com/hls/84/index.m3u8
+明珠台,https://cdn.hkyoutv.com/hls/84b/index.m3u8
+无线财经,https://cdn.hkyoutv.com/hls/85/index.m3u8
+财经资讯,https://cdn.hkyoutv.com/hls/76/index.m3u8
+开电视,https://cdn.hkyoutv.com/hls/77/index.m3u8
+ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8
+ViuTVSix,https://cdn.hkyoutv.com/hls/96/index.m3u8
+ViuTVSix,https://cdn.hkyoutv.com/hls/96b/index.m3u8
+RTHK31,https://cdn.hkyoutv.com/hls/31/index.m3u8
+RTHK32,,https://cdn.hkyoutv.com/hls/32/index.m3u8
+RTHK33,https://cdn.hkyoutv.com/hls/33/index.m3u8
+
+📡地波内置.,#genre#
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+开电视,https://cdn.hklive.tv/hls/77/index.m3u8
+财经资讯,https://cdn.hklive.tv/hls/76/index.m3u8
+J2,https://cdn.hklive.tv/hls/82/index.m3u8
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台,https://cdn.hklive.tv/hls/81b/index.m3u8
+无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
+无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84b/index.m3u8
+ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
+ViuTVsix,https://cdn.hklive.tv/hls/96/index.m3u8
+ViuTVsixhttps://cdn.hklive.tv/hls/96b/index.m3u8
+RTHK31,https://cdn.hklive.tv/hls/31/index.m3u8
+RTHK32,https://cdn.hklive.tv/hls/32/index.m3u8
+RTHK33,https://cdn.hklive.tv/hls/33/index.m3u8
+
+📡源码一套,#genre#
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
+凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
+凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
+J2,https://cdn.hkdtmb.com/raw/82.ts
+翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
+无线新闻,https://cdn.hkdtmb.com/raw/83.ts
+无线新闻,http://livesec.mudu.tv/watch/ow7vfa.m3u8
+明珠台,https://cdn.hkdtmb.com/raw/84.ts
+明珠台,https://cdn.hkdtmb.com/raw/84b.ts
+TVB无线财经台,https://cdn.hkdtmb.com/raw/85.ts
+ViuTV,https://cdn.hkdtmb.com/raw/99.ts
+ViuTVsix,https://cdn.hkdtmb.com/raw/96.ts
+开电视,https://cdn.hkdtmb.com/raw/77.ts
+财经资讯,https://cdn.hkdtmb.com/raw/76.ts
+RTHK31,https://cdn.hkdtmb.com/raw/31.ts
+RTHK32,https://cdn.hkdtmb.com/raw/32.ts
+RTHK33,https://cdn.hkdtmb.com/raw/33.ts
+
+📡源码二套,#genre#
+J2,https://cdn.hklive.tv/raw/82.ts
+翡翠台,https://cdn.hklive.tv/raw/81.ts
+翡翠台,https://cdn.hklive.tv/raw/81b.ts
+无线新闻,https://cdn.hklive.tv/raw/83.ts
+开电视,https://cdn.hklive.tv/raw/77.ts
+明珠台,https://cdn.hklive.tv/raw/84.ts
+明珠台,https://cdn.hklive.tv/raw/84b.ts
+无线财经,https://cdn.hklive.tv/raw/85.ts
+ViuTV,https://cdn.hklive.tv/raw/99.ts
+ViuTVsix,https://cdn.hklive.tv/raw/96.ts
+RTHK31,https://cdn.hklive.tv/raw/31.ts
+RTHK32,https://cdn.hklive.tv/raw/32.ts
+RTHK33,https://cdn.hklive.tv/raw/33.ts
+财经资讯,https://cdn.hklive.tv/raw/76.ts
+球彩台,https://pull-hls-l1.ixigua.com/live/9952c7d45f2d137701a8ce4f92599/playlist.m3u8
+603,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
+有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
+
 
  🇨🇳🇺🇸🇯🇵🇰🇷🇲🇾🇲🇴🇺🇳🌐💠🎈🛰️🐱💋🚗,#genre#
