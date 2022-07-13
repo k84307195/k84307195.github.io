@@ -1,4 +1,5 @@
 🌟GaTO硬解,#genre#
+凤凰香港,http://198.204.239.194:27347/livehlsplay?channel_id=30016
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
@@ -26,26 +27,26 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
 📺测试频道,#genre#
+J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
+J2,http://198.204.239.194:27347/livehlsplay?
 翡翠台,mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
 翡翠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+翡翠台,http://198.204.239.194:27347/livehlsplay?channel_id=20128
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 无线新闻,http://kkmix1.f3322.net:771/hls/ch2/s.m3u8
+无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
+无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=30019
+无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 明珠台,http://kkmix1.f3322.net:771/hls/ch1/s.m3u8
+明珠台,http://198.204.239.194:27347/livehlsplay?channel_id=30026
 有线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30037
 有线体育,http://198.204.239.194:27347/livehlsplay?channel_id=20198
-无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=30019
-无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
-无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
-明珠台,http://198.204.239.194:27347/livehlsplay?channel_id=30026
 凤凰资讯,http://198.204.239.194:27347/livehlsplay?channel_id=30015
 凤凰中文,http://198.204.239.194:27347/livehlsplay?channel_id=30014
 凤凰香港,http://198.204.239.194:27347/livehlsplay?channel_id=30016
-翡翠台,http://198.204.239.194:27347/livehlsplay?channel_id=20128
 VIUTV,http://198.204.239.194:27347/livehlsplay?channel_id=30032
-J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
-J2,http://198.204.239.194:27347/livehlsplay?
 
 📺内置解码,#genre#
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
