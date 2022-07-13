@@ -93,6 +93,9 @@ Hands Up,mitv://ns2.hellotvvod.com:9906/43e47c450cfe4b8cb84363a3263af579
 
 
 📺内置解码,#genre#
+凤凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
+凤凰资讯,mitv://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
+凤凰香港,mitv://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
