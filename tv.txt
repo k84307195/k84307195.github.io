@@ -65,11 +65,11 @@ J2,mitv://ns2.hellotvvod.com:9906/fdd325e91c34479fab5baa5625061bf6
 明珠台,mitv://ns2.hellotvvod.com:9906/5b67439d46a8405ab435abe597b1cde3
 ViuTVsix,mitv://ns2.hellotvvod.com:9906/70526226a9184927892d315a506d2b9c
 ViuTV,mitv://ns2.hellotvvod.com:9906/a703a75806994663ae94d5e91a2747c4
-RTHK31,mitv://ns2.hellotvvod.com:9906/de8d7076569a4ea985aeaba5264abc6a
-RTHK32,mitv://ns2.hellotvvod.com:9906/9873388a74dc4ac289c3a92a9cc561a1
-开电视,mitv://ns2.hellotvvod.com:9906/59929db65176495e845713705741f131
 Now新闻台,mitv://ns2.hellotvvod.com:9906/7a7898681c3f48709f87e49bbfe399dc
 Now直播台,mitv://ns2.hellotvvod.com:9906/2f68a9720fcb49d08f3933423f86bb7d
+开电视,mitv://ns2.hellotvvod.com:9906/59929db65176495e845713705741f131
+RTHK31,mitv://ns2.hellotvvod.com:9906/de8d7076569a4ea985aeaba5264abc6a
+RTHK32,mitv://ns2.hellotvvod.com:9906/9873388a74dc4ac289c3a92a9cc561a1
 603,mitv://ns2.hellotvvod.com:9906/194395fbf8854027931caeee994df8ee
 有线新闻,mitv://ns2.hellotvvod.com:9906/339b6503355247ab88fb2e2d96e15076
 财经资讯,mitv://ns2.hellotvvod.com:9906/07aa183b2954420bbda2660f683962fc
