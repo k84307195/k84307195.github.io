@@ -13,9 +13,12 @@ J2,http://cms750.synology.me:8001/bysid/82
 无线财经,http://198.204.239.194:27347/livehlsplay?channel_id=20099
 无线财经,https://dm1133.kglink.xyz/live/02
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8
 开电视,https://dm1133.kglink.xyz/live/06
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
+财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
+有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
