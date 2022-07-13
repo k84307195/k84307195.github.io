@@ -1,5 +1,4 @@
 🌟GaTO硬解,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
