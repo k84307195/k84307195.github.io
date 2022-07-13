@@ -290,21 +290,21 @@ Sun Music,mitv://ns2.hellotvvod.com:9906/d44e2c6043444295abf050e6f0e5e505
 蜘蛛侠：英雄无归,https://cdn2.bzjupinhang.com:65/20220318/Ip4VeQmE/index.m3u8
 
 🔞天上人间_918,#genre#
-松视1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松视2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-彩虹电影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-潘朵啦玩美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦粉红台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
-HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
-Happy,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
-JStar极限台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-惊艳成人电影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-K,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+松视1,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
+松视2,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
+松视3,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
+彩虹电影,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
+HOT,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
+Happy,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
+JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
+K,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
+LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 
 
 📺梯子原生,#genre#
