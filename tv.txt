@@ -70,14 +70,14 @@ RTHK32,mitv://ns2.hellotvvod.com:9906/9873388a74dc4ac289c3a92a9cc561a1
 开电视,mitv://ns2.hellotvvod.com:9906/59929db65176495e845713705741f131
 Now新闻台,mitv://ns2.hellotvvod.com:9906/7a7898681c3f48709f87e49bbfe399dc
 Now直播台,mitv://ns2.hellotvvod.com:9906/2f68a9720fcb49d08f3933423f86bb7d
+603,mitv://ns2.hellotvvod.com:9906/194395fbf8854027931caeee994df8ee
 有线新闻,mitv://ns2.hellotvvod.com:9906/339b6503355247ab88fb2e2d96e15076
 财经资讯,mitv://ns2.hellotvvod.com:9906/07aa183b2954420bbda2660f683962fc
 体育2台,mitv://ns2.hellotvvod.com:9906/06f078ae0dc84154a4a71c8affe51059
 有线体育,mitv://ns2.hellotvvod.com:9906/e7535a495e7b443288ea8a03986491b7
+经典电影,mitv://ns2.hellotvvod.com:9906/89d535923a4545f3b1dee50e4a4e975d
 球彩台,mitv://ns2.hellotvvod.com:9906/d1314f6c636641908b0a4e759e553321
 18台,mitv://ns2.hellotvvod.com:9906/a175cb7fbbdd40ed94826c7451eea620
-603,mitv://ns2.hellotvvod.com:9906/194395fbf8854027931caeee994df8ee
-经典电影,mitv://ns2.hellotvvod.com:9906/89d535923a4545f3b1dee50e4a4e975d
 TVB综合娱乐台,mitv://ns2.hellotvvod.com:9906/6478b767228948dd961af16c80430ee0
 TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/80dbd461c95241baa4e8ecd1c7135470
 经典台,mitv://ns2.hellotvvod.com:9906/d25f03b6eef546faa5598cdd0d763261
