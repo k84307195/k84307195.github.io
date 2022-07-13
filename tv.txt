@@ -78,8 +78,8 @@ Now直播台,mitv://ns2.hellotvvod.com:9906/2f68a9720fcb49d08f3933423f86bb7d
 18台,mitv://ns2.hellotvvod.com:9906/a175cb7fbbdd40ed94826c7451eea620
 603,mitv://ns2.hellotvvod.com:9906/194395fbf8854027931caeee994df8ee
 经典电影,mitv://ns2.hellotvvod.com:9906/89d535923a4545f3b1dee50e4a4e975d
-综合娱乐台,mitv://ns2.hellotvvod.com:9906/6478b767228948dd961af16c80430ee0
-娱乐新闻台,mitv://ns2.hellotvvod.com:9906/80dbd461c95241baa4e8ecd1c7135470
+TVB综合娱乐台,mitv://ns2.hellotvvod.com:9906/6478b767228948dd961af16c80430ee0
+TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/80dbd461c95241baa4e8ecd1c7135470
 经典台,mitv://ns2.hellotvvod.com:9906/d25f03b6eef546faa5598cdd0d763261
 星河台,mitv://ns2.hellotvvod.com:9906/ba66025e74bc46c798e13fc9a7187aca
 Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
