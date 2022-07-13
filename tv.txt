@@ -17,7 +17,8 @@ J2,http://cms750.synology.me:8001/bysid/82
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
+有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
+Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
@@ -67,7 +68,7 @@ ViuTV,mitv://ns2.hellotvvod.com:9906/a703a75806994663ae94d5e91a2747c4
 RTHK31,mitv://ns2.hellotvvod.com:9906/de8d7076569a4ea985aeaba5264abc6a
 RTHK32,mitv://ns2.hellotvvod.com:9906/9873388a74dc4ac289c3a92a9cc561a1
 开电视,mitv://ns2.hellotvvod.com:9906/59929db65176495e845713705741f131
-Now新聞台,mitv://ns2.hellotvvod.com:9906/7a7898681c3f48709f87e49bbfe399dc
+Now新闻台,mitv://ns2.hellotvvod.com:9906/7a7898681c3f48709f87e49bbfe399dc
 Now直播台,mitv://ns2.hellotvvod.com:9906/2f68a9720fcb49d08f3933423f86bb7d
 有线新闻,mitv://ns2.hellotvvod.com:9906/339b6503355247ab88fb2e2d96e15076
 财经资讯,mitv://ns2.hellotvvod.com:9906/07aa183b2954420bbda2660f683962fc
