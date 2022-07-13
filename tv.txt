@@ -78,7 +78,7 @@ RTHK32,mitv://ns2.hellotvvod.com:9906/9873388a74dc4ac289c3a92a9cc561a1
 经典电影,mitv://ns2.hellotvvod.com:9906/89d535923a4545f3b1dee50e4a4e975d
 球彩台,mitv://ns2.hellotvvod.com:9906/d1314f6c636641908b0a4e759e553321
 18台,mitv://ns2.hellotvvod.com:9906/a175cb7fbbdd40ed94826c7451eea620
-TVB综合娱乐台,mitv://ns2.hellotvvod.com:9906/6478b767228948dd961af16c80430ee0
+有线综合娱乐台,mitv://ns2.hellotvvod.com:9906/6478b767228948dd961af16c80430ee0
 TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/80dbd461c95241baa4e8ecd1c7135470
 经典台,mitv://ns2.hellotvvod.com:9906/d25f03b6eef546faa5598cdd0d763261
 星河台,mitv://ns2.hellotvvod.com:9906/ba66025e74bc46c798e13fc9a7187aca
