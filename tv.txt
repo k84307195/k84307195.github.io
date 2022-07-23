@@ -1,7 +1,9 @@
 🌟GaTO硬解,#genre#
+
 凤凰香港,mitv://ns2.hellotvvod.com:9906/84546c5f1b7140b79b63ffce337f54e3
 凤凰香港,http://198.204.239.194:27347/livehlsplay?channel_id=30016
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/bf0a714e4f9f4d65a261594037c9a56a
 凤凰电影,mitv://ns2.hellotvvod.com:9906/3741b9ad04b2491c901d3861156e206b
 J2,http://cms750.synology.me:8001/bysid/82
