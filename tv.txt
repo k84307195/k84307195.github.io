@@ -35,24 +35,24 @@ TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
 📺7.24源,#genre#
-翡翠台,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=1
-翡翠台,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=2
-翡翠台,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=6
-明珠台,http://api.huanqiuzhibo.cn/hqgt.php?id=77&p=0
-明珠台,http://api.huanqiuzhibo.cn/hqgt.php?id=77&p=4
 J2,http://api.huanqiuzhibo.cn/hqgt.php?id=74&p=0
 J2,http://api.huanqiuzhibo.cn/hqgt.php?id=74&p=1
 J2,http://api.huanqiuzhibo.cn/hqgt.php?id=74&p=4
-星河台,http://api.huanqiuzhibo.cn/hqgt.php?id=76&p=0
-星河台,http://api.huanqiuzhibo.cn/hqgt.php?id=76&p=1
+翡翠台,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=1
+翡翠台,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=2
+翡翠台,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=6
 无线新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=73&p=0
 无线新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=73&p=4
 无线财经,http://api.huanqiuzhibo.cn/hqgt.php?id=79&p=1
 无线财经,http://api.huanqiuzhibo.cn/hqgt.php?id=79&p=5
+明珠台,http://api.huanqiuzhibo.cn/hqgt.php?id=77&p=0
+明珠台,http://api.huanqiuzhibo.cn/hqgt.php?id=77&p=4
+星河台,http://api.huanqiuzhibo.cn/hqgt.php?id=76&p=0
+星河台,http://api.huanqiuzhibo.cn/hqgt.php?id=76&p=1
 台视,http://api.huanqiuzhibo.cn/hqgt.php?id=45&p=1
 华视,http://api.huanqiuzhibo.cn/hqgt.php?id=46&p=1
 中视,http://api.huanqiuzhibo.cn/hqgt.php?id=47&p=1
-TVBS新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=38&p=1
+TVBS·新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=38&p=1
 民视新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=5&p=0
 寰宇新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=85&p=2
 年代新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=7&p=0
