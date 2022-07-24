@@ -34,6 +34,36 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
+📺7.24源,#genre#
+TVB·翡翠,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=1
+TVB·翡翠,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=2
+TVB·翡翠,http://api.huanqiuzhibo.cn/hqgt.php?id=78&p=6
+TVB·明珠,http://api.huanqiuzhibo.cn/hqgt.php?id=77&p=0
+TVB·明珠,http://api.huanqiuzhibo.cn/hqgt.php?id=77&p=4
+TVB·J2,http://api.huanqiuzhibo.cn/hqgt.php?id=74&p=0
+TVB·J2,http://api.huanqiuzhibo.cn/hqgt.php?id=74&p=1
+TVB·J2,http://api.huanqiuzhibo.cn/hqgt.php?id=74&p=4
+TVB·星河,http://api.huanqiuzhibo.cn/hqgt.php?id=76&p=0
+TVB·星河,http://api.huanqiuzhibo.cn/hqgt.php?id=76&p=1
+TVB·无线新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=73&p=0
+TVB·无线新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=73&p=4
+TVB·无线财经,http://api.huanqiuzhibo.cn/hqgt.php?id=79&p=1
+TVB·无线财经,http://api.huanqiuzhibo.cn/hqgt.php?id=79&p=5
+台视,http://api.huanqiuzhibo.cn/hqgt.php?id=45&p=1
+华视,http://api.huanqiuzhibo.cn/hqgt.php?id=46&p=1
+中视,http://api.huanqiuzhibo.cn/hqgt.php?id=47&p=1
+TVBS·新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=38&p=1
+民视新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=5&p=0
+寰宇新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=85&p=2
+年代新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=7&p=0
+三立新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=26&p=1
+东森新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=33&p=1
+中天新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=42&p=0
+纬来日本,http://api.huanqiuzhibo.cn/hqgt.php?id=10&p=0
+纬来综合,http://api.huanqiuzhibo.cn/hqgt.php?id=12&p=0
+纬来体育,http://api.huanqiuzhibo.cn/hqgt.php?id=11&p=1
+纬来电影,http://api.huanqiuzhibo.cn/hqgt.php?id=9&p=0
+
 📺测试频道,#genre#
 J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
 J2,http://198.204.239.194:27347/livehlsplay?
