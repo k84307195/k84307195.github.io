@@ -52,7 +52,7 @@ J2,http://api.huanqiuzhibo.cn/hqgt.php?id=74&p=4
 台视,http://api.huanqiuzhibo.cn/hqgt.php?id=45&p=1
 华视,http://api.huanqiuzhibo.cn/hqgt.php?id=46&p=1
 中视,http://api.huanqiuzhibo.cn/hqgt.php?id=47&p=1
-TVBS·新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=38&p=1
+TVBS新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=38&p=1
 民视新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=5&p=0
 寰宇新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=85&p=2
 年代新闻,http://api.huanqiuzhibo.cn/hqgt.php?id=7&p=0
