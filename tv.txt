@@ -34,6 +34,38 @@ ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 TVB功夫,P2p://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
 天映频道,P2p://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
 
+📺7.25测试,#genre#
+凤凰资讯,http://zhibotv.home.kg/43.php?id=1
+凤凰香港,http://zhibotv.home.kg/43.php?id=2
+J2,http://zhibotv.home.kg/43.php?id=12
+翡翠台,http://zhibotv.home.kg/43.php?id=10
+无线新闻,http://zhibotv.home.kg/43.php?id=8
+无线财经,http://zhibotv.home.kg/43.php?id=9
+明珠台,http://zhibotv.home.kg/43.php?id=11
+有线新闻,http://zhibotv.home.kg/43.php?id=3
+财经资讯,http://zhibotv.home.kg/43.php?id=4
+有线体育,http://zhibotv.home.kg/43.php?id=6
+603,http://zhibotv.home.kg/43.php?id=7
+18台,http://zhibotv.home.kg/43.php?id=5
+ViuTV,http://zhibotv.home.kg/43.php?id=13
+ViuTVsix,http://zhibotv.home.kg/43.php?id=14
+Now新闻台,http://zhibotv.home.kg/43.php?id=15
+Now体育台,http://zhibotv.home.kg/43.php?id=16
+Now财经台,http://zhibotv.home.kg/43.php?id=17
+Now直播台,http://zhibotv.home.kg/43.php?id=18
+开电视,http://zhibotv.home.kg/43.php?id=19
+RTHK31,http://zhibotv.home.kg/43.php?id=20
+RTHK32,http://zhibotv.home.kg/43.php?id=21
+台视,http://zhibotv.home.kg/43.php?id=27
+中视,http://zhibotv.home.kg/43.php?id=28
+华视,http://zhibotv.home.kg/43.php?id=29
+一新闻,http://zhibotv.home.kg/43.php?id=25
+中天新闻,http://zhibotv.home.kg/43.php?id=22
+东森新闻,http://zhibotv.home.kg/43.php?id=23
+东森财经,http://zhibotv.home.kg/43.php?id=24
+环宇新闻,http://zhibotv.home.kg/43.php?id=26
+
+
 📺测试频道,#genre#
 J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
 J2,http://198.204.239.194:27347/livehlsplay?
