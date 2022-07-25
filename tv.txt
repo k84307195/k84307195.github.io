@@ -63,8 +63,7 @@ RTHK32,http://zhibotv.home.kg/43.php?id=21
 中天新闻,http://zhibotv.home.kg/43.php?id=22
 东森新闻,http://zhibotv.home.kg/43.php?id=23
 东森财经,http://zhibotv.home.kg/43.php?id=24
-环宇新闻,http://zhibotv.home.kg/43.php?id=26
-
+寰宇新闻,http://zhibotv.home.kg/43.php?id=26
 
 📺测试频道,#genre#
 J2,http://198.204.239.194:27347/livehlsplay?channel_id=20057
