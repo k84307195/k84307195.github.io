@@ -16,7 +16,7 @@ J2,mitv://ns2.hellotvvod.com:9906/fdd325e91c34479fab5baa5625061bf6
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
 ViuTV,http://kkmix2.f3322.net:770/hls/ch2/s.m3u8
-ViuTVsix,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
+ViuTVsix,https://cdn.hklive.tv/hls/96/index.m3u8
 
 📺原动力源,#genre#
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
