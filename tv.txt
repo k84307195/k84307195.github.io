@@ -5,33 +5,16 @@
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/bf0a714e4f9f4d65a261594037c9a56a
 凤凰电影,mitv://ns2.hellotvvod.com:9906/3741b9ad04b2491c901d3861156e206b
-J2,http://cms750.synology.me:8001/bysid/82
-
-翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
-
+J2,mitv://ns2.hellotvvod.com:9906/fdd325e91c34479fab5baa5625061bf6
+翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
-无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
-无线新闻,https://dm1133.kglink.xyz/live/01
-
-
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
-明珠台,http://113.64.147.12:808/hls/26/index.m3u8?times=0
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
-Now新闻台,
-Now直播台,
-ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
-ViuTVsix,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-爆谷星影台,
-爆谷台,
-卫视电影台,
-美亚电影台,
-TVB功夫,
-天映频道,
-
-
+ViuTV,http://kkmix2.f3322.net:762/hls/ch1/s.m3u8
+ViuTVsix,http://kkmix2.f3322.net:762/hls/ch2/s.m3u8
 
 📺原动力源,#genre#
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
@@ -72,7 +55,8 @@ TVB功夫,mitv://ns2.hellotvvod.com:9906/aba3cd13e1ff46fcad18054183aa5bf3
 Hands Up,mitv://ns2.hellotvvod.com:9906/43e47c450cfe4b8cb84363a3263af579
 粵語片台,mitv://ns2.hellotvvod.com:9906/d2d85aebf4be4b4b8311ae0c598b20bf
 亞洲劇台,mitv://ns2.hellotvvod.com:9906/74a38c44da1344f7b7203481e3f1c454
-
+天映频道,
+卫视电影台,
 
 📺内置解码,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
