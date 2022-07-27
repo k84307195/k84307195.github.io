@@ -133,7 +133,7 @@ CinemaWorld,mitv://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458
 公視3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
 新加坡新聞,mitv://fccs.word-tv.com:9906/6261934a0007e00f19de74f21e2709b4
 
-mitv港台,#genre#
+📺mitv港台,#genre#
 無綫新闻,mitv://45.92.126.18:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫视经资讯,mitv://45.92.126.18:9906/62595c1a000d108b13b9e5d4f3816d5e
 ViuTV6,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
