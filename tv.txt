@@ -263,7 +263,6 @@ KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 倚天屠龙记之九阳神功,https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
 倚天屠龙记之圣火雄风,https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
 梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
-1921,https://hnzy3.queshechaye.com:65/20210925/YPNAZUqA/index.m3u8
 长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
 水门桥,https://apd-vlive.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/gzc_1000102_0b53d4aaiaaa6aanwg3ihfrmah6daqjqaaca.f2.mp4?vkey=48F712E5593E1DB5778AAB048086D086E515EB30AB6AD74699B4E10FCD9B1BE772370C65AC63BCE734EDE5DFFC1AB26A74CABF8B42140FD0401EDF3A6E4134BA59EDDF3A2A60ED4E45AE5A2F59230470E4634C0F4C0CD69E2040C1B5563C158D9008B145D4BEA68A10F01F866CA755FB4B935F69BFB981A35F6E8EF69266A0212A43D37B70BB3679
 蜘蛛侠：英雄无归,https://cdn2.bzjupinhang.com:65/20220318/Ip4VeQmE/index.m3u8
