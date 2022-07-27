@@ -28,19 +28,6 @@ ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 天映经典,http://120.84.96.142:808/hls/85/index.m3u8
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 
-📺7.27测试,#genre#
-翡翠台,https://23.226.14.190/hls/81/index.m3u8
-翡翠台,https://23.226.14.190/hls/81b/index.m3u8
-J2,https://23.226.14.190/hls/82/index.m3u8
-明珠台,https://23.226.14.190/hls/84/index.m3u8
-明珠台,https://23.226.14.190/hls/84b/index.m3u8
-无线新闻,https://23.226.14.190/hls/83/index.m3u8
-无线财经,https://23.226.14.190/hls/85/index.m3u8
-ViuTV,https://23.226.14.190/hls/99/index.m3u8
-ViuTVsix,https://23.226.14.190/hls/96/index.m3u8
-RTHK31,https://23.226.14.190/hls/31/index.m3u8
-RTHK32,https://23.226.14.190/hls/32/index.m3u8
-RTHK33,https://23.226.14.190/hls/33/index.m3u8
 
 📺新母鸡源,#genre#
 鳳凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
