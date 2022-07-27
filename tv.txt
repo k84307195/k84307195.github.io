@@ -8,7 +8,7 @@
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/bf0a714e4f9f4d65a261594037c9a56a
 凤凰电影,mitv://ns2.hellotvvod.com:9906/3741b9ad04b2491c901d3861156e206b
-J2,mitv://ns2.hellotvvod.com:9906/fdd325e91c34479fab5baa5625061bf6
+J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
 翡翠台,mitv://ns2.hellotvvod.com:9906/454cd2639f0d4623b05f7ff5e8152de8
