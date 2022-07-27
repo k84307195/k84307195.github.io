@@ -26,6 +26,21 @@ ViuTVsix,https://cdn.hklive.tv/hls/96/index.m3u8
 天映经典,http://120.84.96.142:808/hls/85/index.m3u8
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 
+📺7.27测试,#genre#
+翡翠台,https://23.226.14.190/hls/81/index.m3u8
+翡翠台 (中英字幕),https://23.226.14.190/hls/81b/index.m3u8
+J2,https://23.226.14.190/hls/82/index.m3u8
+明珠台,https://23.226.14.190/hls/84/index.m3u8
+明珠台2,https://23.226.14.190/hls/84b/index.m3u8
+无线新闻,https://23.226.14.190/hls/83/index.m3u8
+无线财经,https://23.226.14.190/hls/85/index.m3u8
+ViuTV,https://23.226.14.190/hls/99/index.m3u8
+ViuTVsix,https://23.226.14.190/hls/96/index.m3u8
+RTHK31,https://23.226.14.190/hls/31/index.m3u8
+RTHK32,https://23.226.14.190/hls/32/index.m3u8
+RTHK33,https://23.226.14.190/hls/33/index.m3u8
+
+
 📺原动力源,#genre#
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/bf0a714e4f9f4d65a261594037c9a56a
