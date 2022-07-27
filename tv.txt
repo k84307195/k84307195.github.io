@@ -22,7 +22,7 @@ J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
 ViuTV,http://kkmix2.f3322.net:770/hls/ch2/s.m3u8
-ViuTVsix,https://cdn.hklive.tv/hls/96/index.m3u8
+ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 东森电影,http://120.84.96.142:808/hls/32/index.m3u8
 龙祥电影,http://120.84.96.142:808/hls/35/index.m3u8
 天映经典,http://120.84.96.142:808/hls/85/index.m3u8
