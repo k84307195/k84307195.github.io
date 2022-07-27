@@ -29,6 +29,50 @@ ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 
 
+📺港台,#genre#
+翡翠台HD,http://iptv.tvfix.org/hls/jade2.m3u8
+
+TBVJ2,http://iptv.tvfix.org/hls/j2.m3u8
+
+TBVJ2,http://iptv.tvfix.org/hls/j22.m3u8
+
+有線新聞,rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
+
+无线新闻,http://51.222.193.143:10010/1
+
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+
+无线财经,http://51.222.193.143:10010/6
+
+无线财经,http://iptv.tvfix.org/hls/finance.m3u8
+
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+
+ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+
+RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
+
+RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
+
+香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
+
+香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+
+Now直播台,http://51.222.193.142:10011/8
+
+Now新聞台,http://51.222.193.142:10011/9
+
+天映经典,http://iptv.tvfix.org/hls/tyjd.m3u8
+
+TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+
+TVB星河,http://iptv.tvfix.org/hls/tvbxh.m3u8
+
+美亚电影,http://iptv.tvfix.org/hls/mydy.m3u8
+
+星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
+
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 📺原动力源,#genre#
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
