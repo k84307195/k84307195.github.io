@@ -267,24 +267,6 @@ Sun Music,mitv://ns2.hellotvvod.com:9906/d44e2c6043444295abf050e6f0e5e505
 水门桥,https://apd-vlive.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/gzc_1000102_0b53d4aaiaaa6aanwg3ihfrmah6daqjqaaca.f2.mp4?vkey=48F712E5593E1DB5778AAB048086D086E515EB30AB6AD74699B4E10FCD9B1BE772370C65AC63BCE734EDE5DFFC1AB26A74CABF8B42140FD0401EDF3A6E4134BA59EDDF3A2A60ED4E45AE5A2F59230470E4634C0F4C0CD69E2040C1B5563C158D9008B145D4BEA68A10F01F866CA755FB4B935F69BFB981A35F6E8EF69266A0212A43D37B70BB3679
 蜘蛛侠：英雄无归,https://cdn2.bzjupinhang.com:65/20220318/Ip4VeQmE/index.m3u8
 
-🔞天上人间_918,#genre#
-松视1,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
-松视2,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
-松视3,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
-彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
-彩虹电影,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
-HOT,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
-Happy,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
-JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
-K,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
-LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
-
-
 📺梯子原生,#genre#
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
