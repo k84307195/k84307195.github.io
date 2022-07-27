@@ -36,11 +36,8 @@ ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
 无线新闻,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
-
 ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
 ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
-
-
 RTHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
 RTHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
 有线新闻,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
