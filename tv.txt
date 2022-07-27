@@ -49,18 +49,18 @@ RTHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
 卫视电影,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
 星河台,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
 卫视电影台,mitv://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582
-龍祥電影台,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
-東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
-緯來電影 ,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
+龙祥电影台,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
+东森电影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
+韦来电影 ,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
 HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
-東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
+东森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
 AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
-好萊塢電影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
-龍華洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
-龍華經典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
+好莱坞电影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
+龙华洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
+龙华经典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
 天映经典,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
-韓國娛樂台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
-星衛HD電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
+韩国娱乐台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
+卫HD电影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
 电影台,mitv://fccs.word-tv.com:9906/62613d420000a1a0188e63d84b81b11c
 
 
