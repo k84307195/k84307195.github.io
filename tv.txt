@@ -28,10 +28,10 @@ ViuTVsix,https://cdn.hklive.tv/hls/96/index.m3u8
 
 📺7.27测试,#genre#
 翡翠台,https://23.226.14.190/hls/81/index.m3u8
-翡翠台 (中英字幕),https://23.226.14.190/hls/81b/index.m3u8
+翡翠台,https://23.226.14.190/hls/81b/index.m3u8
 J2,https://23.226.14.190/hls/82/index.m3u8
 明珠台,https://23.226.14.190/hls/84/index.m3u8
-明珠台2,https://23.226.14.190/hls/84b/index.m3u8
+明珠台,https://23.226.14.190/hls/84b/index.m3u8
 无线新闻,https://23.226.14.190/hls/83/index.m3u8
 无线财经,https://23.226.14.190/hls/85/index.m3u8
 ViuTV,https://23.226.14.190/hls/99/index.m3u8
