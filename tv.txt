@@ -239,6 +239,7 @@ MEZZOLIVEHD,mitv://ns2.hellotvvod.com:9906/580f08dd15b046249cc22bca88113f46
 CLASSICA 古典乐,mitv://ns2.hellotvvod.com:9906/309e9357226847adb912d0d861dcce47
 CMusic,mitv://ns2.hellotvvod.com:9906/13f1d23bec5b4d1c8e60d53af62088ca
 Sun Music,mitv://ns2.hellotvvod.com:9906/d44e2c6043444295abf050e6f0e5e505
+KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 
 🐟斗鱼轮播,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802r1ED3s3Twg_2000.flv?wsAuth=cd16a1ed2ac710ed86c9ea62315661b5&token=cpn-androidmpro-0-252802-536492a84fc6fe0c2aa79ecbc234a1a0180186b4869edef3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
