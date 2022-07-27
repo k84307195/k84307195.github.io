@@ -88,24 +88,23 @@ RTHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
 财经资讯,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
 603,mitv://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d
 有线电影,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
-综合娱乐,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
+
 卫视电影,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
 星河台,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
 卫视电影台,mitv://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582
-龙祥电影台,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
+龙祥电影,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
 东森电影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
-韦来电影 ,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
-HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
-东森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
 AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
 好莱坞电影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
 龙华洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
 龙华经典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
 天映经典,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
+纬来电影 ,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
+HBO,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 韩国娱乐台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
 卫HD电影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
 电影台,mitv://fccs.word-tv.com:9906/62613d420000a1a0188e63d84b81b11c
-
+综合娱乐,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
 
 📺内置解码,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
