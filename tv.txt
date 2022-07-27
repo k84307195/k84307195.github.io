@@ -250,7 +250,7 @@ KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 悬崖之上,https://hnzy6.liugecaiwu.com:65/20210715/TGV6HChF/index.m3u8
 长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
 
-🎞️电影频道
+🎞️电影频道,#genre#
 贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rRTzh2o9Uj_2000.flv?wsAuth=8881e22ba3634b3bc4c63a0577765cd7&token=cpn-androidmpro-0-252802-536492a84fc6fe0c8235ceba89455395bbea4d369980d054&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=d53149dfcaf1fe790604e4a752a639fa&token=cpn-androidmpro-0-20415-b6774b3b3249db170818d8a69f09c95203aedac360e509bd&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3/2793084r4j403i1U.flv?wsAuth=6f6c4bd79e84fac018871dda4ea9b7b2&token=cpn-androidmpro-0-2793084-3f569b7e953394a7cbc29931ccd48f4184abcc5edb8aa9d6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
