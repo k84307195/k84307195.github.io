@@ -1,8 +1,10 @@
 🌟GaTO硬解,#genre#
-
+凤凰香港,http://171.110.62.170:8181/tsfile/live/1071_1.m3u8
 凤凰香港,mitv://ns2.hellotvvod.com:9906/84546c5f1b7140b79b63ffce337f54e3
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰中文,http://171.110.62.170:8181/tsfile/live/1070_1.m3u8
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
+凤凰资讯,http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/bf0a714e4f9f4d65a261594037c9a56a
 凤凰电影,mitv://ns2.hellotvvod.com:9906/3741b9ad04b2491c901d3861156e206b
@@ -12,6 +14,7 @@ J2,mitv://ns2.hellotvvod.com:9906/fdd325e91c34479fab5baa5625061bf6
 翡翠台,mitv://ns2.hellotvvod.com:9906/454cd2639f0d4623b05f7ff5e8152de8
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
+星河台,http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
