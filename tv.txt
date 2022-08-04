@@ -71,39 +71,47 @@ Hands Up,mitv://ns2.hellotvvod.com:9906/43e47c450cfe4b8cb84363a3263af579
 卫视电影台,
 
 📺新母鸡源,#genre#
-凤凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
-凤凰资讯,mitv://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
-凤凰香港,mitv://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
-J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
-翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
-无线新闻,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
-ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
-ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
-RTHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
-RTHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
-有线新闻,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
-18台,mitv://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784
-财经资讯,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
-603,mitv://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d
-有线电影,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
-
-卫视电影,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
-星河台,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
-卫视电影台,mitv://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582
-龙祥电影,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
-东森电影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
-AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
-好莱坞电影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
-龙华洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
-龙华经典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
-天映经典,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
-纬来电影 ,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
-HBO,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
-韩国娱乐台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
-卫HD电影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
-电影台,mitv://fccs.word-tv.com:9906/62613d420000a1a0188e63d84b81b11c
-综合娱乐,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
-
+港台電視31,mitv://ns2.hellotvvod.com:9906/d2ed0743ab0c43b7b726498548ac4ca1
+港台电视32,mitv://ns2.hellotvvod.com:9906/fe810ef706f1443096cb7df950cfe980
+香港开电视,mitv://ns2.hellotvvod.com:9906/be34edc7498c414a8ffb0420a47f5d21
+﻿翡翠台(备),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
+J2,mitv://ns2.hellotvvod.com:9906/378ac927018c4800b7e76a4020c9c4d2
+无线新闻台(备),mitv://ns2.hellotvvod.com:9906/7eaf6705207448c9b8ec68e98a4c27fb
+无线新闻台,mitv://ns2.hellotvvod.com:9906/407fb5d11fc44abb89db4bec2f361e1b
+无线财经·资讯台,mitv://ns2.hellotvvod.com:9906/3bb2222330874f87a204a1a4bd336a9d
+ViuTVsix,mitv://ns2.hellotvvod.com:9906/ce24d2709cc54d958af0b0fb70cec5b4
+ViuTV,mitv://ns2.hellotvvod.com:9906/7f6355fa49c740a4883b166fe9b52899
+凤凰中文台,mitv://ns2.hellotvvod.com:9906/0b5ad84b256544e7b3f9560f09d643d7
+凤凰资讯台,mitv://ns2.hellotvvod.com:9906/73257b49c2c9418ba46eac6dac2f4533
+凤凰香港台,mitv://ns2.hellotvvod.com:9906/00038905807a4a1989018d8dc6bb153c
+TVB星河(粤),mitv://ns2.hellotvvod.com:9906/f62e72a8594d4dfab4b83a31f57c44dc
+阳光卫视,mitv://ns2.hellotvvod.com:9906/e1f74db9fc9b44289ff3982eb55341dc
+澳门-MACAU,mitv://ns2.hellotvvod.com:9906/72a2755d950c4ce0b4bd3791d19800c6
+澳门莲花,mitv://ns2.hellotvvod.com:9906/9708b51f75b740b1b9b9ed548549781d
+now新闻台,mitv://ns2.hellotvvod.com:9906/f32572889a6141a5a0df234290b9f367
+now直播台,mitv://ns2.hellotvvod.com:9906/659de2e811b146eabf63d599d9103d94
+HKC电影台,mitv://ns2.hellotvvod.com:9906/93b9375af6a9476f80c827da7d94328c
+凤凰电影台,mitv://ns2.hellotvvod.com:9906/797091de3e8d4b059e7c8bc3d8c3b611
+HKC新闻台,mitv://ns2.hellotvvod.com:9906/95ff4b4a6ea14a5faaaae8bd6cf1e197
+HKC财经资讯台,mitv://ns2.hellotvvod.com:9906/a8fb576b347c40b4803dc03825716847
+HKC 18,mitv://ns2.hellotvvod.com:9906/5748b81344684339943ee3eb4d40cac7
+HKC 603,mitv://ns2.hellotvvod.com:9906/ca9d7742128e4896be319b61eac063bc
+HKC體育台,mitv://ns2.hellotvvod.com:9906/46759f1d455b421f9bd1dd2fe48ff4ed
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/2faabd303fe24c67bd5314e255ace7dc
+HKC综合娱乐台,mitv://ns2.hellotvvod.com:9906/160635fe0a584dbc9ae611d9a94d12c9
+TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/65bf272526a54e848ad57233b1c8a19f
+翡翠台,mitv://ns2.hellotvvod.com:9906/ad8348afd16d40eda47552a19ab9d807
+TVB经典台,mitv://ns2.hellotvvod.com:9906/6dd61b3f12af4e74a77cc5e2b2caefc2
+Thrill,mitv://ns2.hellotvvod.com:9906/325d7f89a5a14a80ad140a595c8c09b2
+明珠台,mitv://ns2.hellotvvod.com:9906/533c075b326045919a101b391c318d94
+18台,mitv://ns2.hellotvvod.com:9906/18052ac03d1a43c5a9db1d85e17bf131
+爆谷星影台,mitv://ns2.hellotvvod.com:9906/0d80c62ac6484dae8c3457c9e234450b
+美亚电影台(粤语),mitv://ns2.hellotvvod.com:9906/88ece3d3b7884fb986a224aac8ac8987
+Hands Up,mitv://ns2.hellotvvod.com:9906/fbc72668e3284c8eaeda5cb0aab2211a
+粤语片台,mitv://ns2.hellotvvod.com:9906/c28c3ef6f7974c7991d1930113f1fe5b
+亚洲剧台,mitv://ns2.hellotvvod.com:9906/bd74c8f7c9254d029f4bd95fd3334c51
+功夫台,mitv://ns2.hellotvvod.com:9906/7e4b15020ead4f8783bfbeefb3e94ab8
+爆谷台,mitv://ns2.hellotvvod.com:9906/42a0a6fc05bb4f39bd1d7141cab1e4fd
 📺内置解码,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
