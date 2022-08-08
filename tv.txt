@@ -15,15 +15,15 @@ J2,mitv://ns2.hellotvvod.com:9906/fdd325e91c34479fab5baa5625061bf6
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 星河台,http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
+开电视,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8?blog.ntnas.top
 开电视,https://epg.pm/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8?blog.ntnas.top
-开电视,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8?blog.ntnas.top
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8?blog.ntnas.top
+财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8?blog.ntnas.top
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?blog.ntnas.top
