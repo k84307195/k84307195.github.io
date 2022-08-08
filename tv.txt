@@ -122,7 +122,8 @@ Hands Up,mitv://ns2.hellotvvod.com:9906/5bf89a712321439d8f944fd91b56b997
 亚洲剧台,mitv://ns2.hellotvvod.com:9906/71f5195bafb34ca2bc900dee8ffb674f
 功夫台,mitv://ns2.hellotvvod.com:9906/7769a5798cae496f824707f3af669bff
 爆谷台,mitv://ns2.hellotvvod.com:9906/6966b3e8df2946128dda5f52105666cc
-
+天映频道,mitv://ns2.hellotvvod.com:9906/a0c390dbc03b49e9b8dd7686428bedce
+翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/9f73ba73474446a69114845800d7482b
 
 
 📺内置解码,#genre#
