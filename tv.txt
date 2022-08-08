@@ -7,7 +7,7 @@
 凤凰资讯,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top
 凤凰资讯,http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰电影,mitv://ns2.hellotvvod.com:9906/3741b9ad04b2491c901d3861156e206b
+凤凰电影,mitv://ns2.hellotvvod.com:9906/e8ce90281fbf4a8f8e86fee1b2559690
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
@@ -116,6 +116,7 @@ Thrill,mitv://ns2.hellotvvod.com:9906/9d3edae6b1b642db997711d5a8dea997
 明珠台,mitv://ns2.hellotvvod.com:9906/34eee4af52814f53bb64f43981a0c8a3
 18台,mitv://ns2.hellotvvod.com:9906/2f4b7048b07c498fad079d0bd8240a7d
 爆谷星影台,mitv://ns2.hellotvvod.com:9906/7e919be933d74926b56a43399f4cff6f
+爆谷台,mitv://ns2.hellotvvod.com:9906/6966b3e8df2946128dda5f52105666cc
 美亚电影台(粤语),mitv://ns2.hellotvvod.com:9906/bcde74703ea04b40baef86b24f0d3db9
 Hands Up,mitv://ns2.hellotvvod.com:9906/5bf89a712321439d8f944fd91b56b997
 粤语片台,mitv://ns2.hellotvvod.com:9906/54d1e4cd538847ebacf1ea10b6f35da2
@@ -124,7 +125,9 @@ Hands Up,mitv://ns2.hellotvvod.com:9906/5bf89a712321439d8f944fd91b56b997
 爆谷台,mitv://ns2.hellotvvod.com:9906/6966b3e8df2946128dda5f52105666cc
 天映频道,mitv://ns2.hellotvvod.com:9906/a0c390dbc03b49e9b8dd7686428bedce
 翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/9f73ba73474446a69114845800d7482b
-
+卫视电影台,mitv://ns2.hellotvvod.com:9906/23ade85dafce4df6a6a3569e35cc2fe3
+东森电影台,mitv://ns2.hellotvvod.com:9906/4d52e75bf0394e9d9a1569f0de2d2419
+龙祥电影,mitv://ns2.hellotvvod.com:9906/3671b0fb49db40408ab61d2e19e5c631
 
 📺内置解码,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
