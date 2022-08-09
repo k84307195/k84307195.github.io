@@ -241,33 +241,6 @@ KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 水门桥,https://apd-vlive.apdcdn.tc.qq.com/vipzj.video.tc.qq.com/gzc_1000102_0b53d4aaiaaa6aanwg3ihfrmah6daqjqaaca.f2.mp4?vkey=48F712E5593E1DB5778AAB048086D086E515EB30AB6AD74699B4E10FCD9B1BE772370C65AC63BCE734EDE5DFFC1AB26A74CABF8B42140FD0401EDF3A6E4134BA59EDDF3A2A60ED4E45AE5A2F59230470E4634C0F4C0CD69E2040C1B5563C158D9008B145D4BEA68A10F01F866CA755FB4B935F69BFB981A35F6E8EF69266A0212A43D37B70BB3679
 蜘蛛侠：英雄无归,https://cdn2.bzjupinhang.com:65/20220318/Ip4VeQmE/index.m3u8
 
-📺梯子原生,#genre#
-RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
-有线新闻,http://livetv.dnsfor.me/channel.5.m3u8
-财经资讯,http://livetv.dnsfor.me/channel.6.m3u8
-有线直播,http://livetv.dnsfor.me/channel.7.m3u8
-开电视,http://livetv.dnsfor.me/channel.9.m3u8
-无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
-无线财经,http://livetv.dnsfor.me/channel.11.m3u8
-Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
-Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
-
-📺内置解码2,#genre#
-J2,https://live.hkanime.com.hk/xxxx/82/index.m3u8
-翡翠台,https://live.hkanime.com.hk/xxxx/81/index.m3u8
-无线新闻,https://live.hkanime.com.hk/xxxx/83/index.m3u8
-明珠台,https://live.hkanime.com.hk/xxxx/84/index.m3u8
-明珠台,https://cdn.hklive.hk/xxxx/84b/index.m3u8
-无线财经,https://live.hkanime.com.hk/xxxx/85/index.m3u8
-开电视,https://live.hkanime.com.hk/xxxx/77/index.m3u8
-财经资讯,https://live.hkanime.com.hk/xxxx/76/index.m3u8
-ViuTV,https://live.hkanime.com.hk/xxxx/99/index.m3u8
-ViuTVsix,https://live.hkanime.com.hk/xxxx/96/index.m3u8
-RTHK31,https://live.hkanime.com.hk/xxxx/31/index.m3u8
-RTHK32,https://live.hkanime.com.hk/xxxx/32/index.m3u8
-RTHK33,https://live.hkanime.com.hk/xxxx/33/index.m3u8
-
 📡地波硬解,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
