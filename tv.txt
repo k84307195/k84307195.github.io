@@ -8,14 +8,11 @@
 凤凰资讯,http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
-无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
-无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
-明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 星河台,http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
 开电视,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8?blog.ntnas.top
@@ -23,21 +20,26 @@ J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8?blog.ntnas.top
-财经资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8?blog.ntnas.top
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8?blog.ntnas.top
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?blog.ntnas.top
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?blog.ntnas.top
-Viutv,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
 ViuTV,http://kkmix2.f3322.net:770/hls/ch2/s.m3u8
 ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?blog.ntnas.top
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
+
+📺8.9测试,#genre#
+翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
+明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+财经资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
 
 📺内置解码,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
