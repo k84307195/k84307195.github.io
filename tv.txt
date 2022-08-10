@@ -61,6 +61,7 @@ HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 J2,http://120.84.96.75:808/hls/86/index.m3u8
+J2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
 翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
 翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
@@ -69,6 +70,10 @@ J2,http://120.84.96.75:808/hls/86/index.m3u8
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 财经资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+ViuTV,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
+ViuTVsix,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
+澳视澳门,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/19
+澳门资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/20
 
 📺内置解码,#genre#
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
