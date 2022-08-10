@@ -18,6 +18,7 @@ J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 星河台,http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
+星河台,http://113.64.147.60:808/hls/135/index.m3u8
 开电视,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8?blog.ntnas.top
 开电视,https://epg.pm/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8?blog.ntnas.top
