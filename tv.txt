@@ -38,6 +38,19 @@ ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?blog.ntnas.top
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 
+🌟梯子源,#genre#
+HK TVB 翡翠台(JADE),http://iptv12k.com:35461/live/80301070602/456776/9568.m3u8
+HKC 有线综合娱乐,http://iptv12k.com:35461/live/80301070602/456776/9561.m3u8
+Now星影台,http://iptv12k.com:35461/live/80301070602/456776/9549.ts
+Now爆谷台,http://iptv12k.com:35461/live/80301070602/456776/9550.ts
+Now剧集台,http://iptv12k.com:35461/live/80301070602/456776/9546.ts
+Now华剧台,http://iptv12k.com:35461/live/80301070602/456776/9545.ts
+TVB粤语片,http://iptv12k.com:35461/live/80301070602/456776/9526.ts
+TVB星河,http://iptv12k.com:35461/live/80301070602/456776/9521.ts
+TVB 千禧經典台,http://iptv12k.com:35461/live/80301070602/456776/9519.m3u8
+The Roundup 2022,http://iptv12k.com:35461/movie/80301070602/456776/9440.mkv
+
+
 🇭🇰香港频道,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
