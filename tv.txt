@@ -75,6 +75,18 @@ ViuTVsix,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
 澳视澳门,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/19
 澳门资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/20
 
+🇭🇰香港梯子,#genre#
+HK TVB 翡翠台(JADE),http://iptv12k.com:35461/live/80301070602/456776/9568.m3u8
+HKC 有线综合娱乐,http://iptv12k.com:35461/live/80301070602/456776/9561.m3u8
+Now星影台,http://iptv12k.com:35461/live/80301070602/456776/9549.ts
+Now爆谷台,http://iptv12k.com:35461/live/80301070602/456776/9550.ts
+Now剧集台,http://iptv12k.com:35461/live/80301070602/456776/9546.ts
+Now华剧台,http://iptv12k.com:35461/live/80301070602/456776/9545.ts
+TVB粤语片,http://iptv12k.com:35461/live/80301070602/456776/9526.ts
+TVB星河,http://iptv12k.com:35461/live/80301070602/456776/9521.ts
+TVB 千禧經典台,http://iptv12k.com:35461/live/80301070602/456776/9519.m3u8
+The Roundup 2022,http://iptv12k.com:35461/movie/80301070602/456776/9440.mkv
+
 🇨🇳卫视频道,#genre#
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
 湖南卫视,rtsp://125.88.53.79:554/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7ENkc6QNZEfJ1Hqm12eGaKxw%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000000000000050000000000000195%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605707754,cntv-hunan
