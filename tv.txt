@@ -28,6 +28,7 @@ J2,https://epg.pm/stream/4453b4054ef36b1e4a771d13c73507e88fd993aa286208a2a2d8362
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 Now新闻,http://xindapc.qicp.vip:5502/now.php?id=332
+有线新闻,http://dianshi5.zhxinda.xyz:5911/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8?blog.ntnas.top
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8?blog.ntnas.top
