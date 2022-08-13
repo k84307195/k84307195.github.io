@@ -42,6 +42,31 @@ ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?blog.ntnas.top
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 
+📺内置解码,#genre#
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
+翡翠台(备),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
+无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8
+无线财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
+开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
+财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
+有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTVSix,https://cdn.hklive.tv/xxxx/96/index.m3u8
+RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+国际财经资讯,https://cdn.hklive.tv/xxxx/76/index.m3u8
+
 🇭🇰香港频道,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -346,30 +371,7 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 603,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
 有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 
-📺内置解码,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
-翡翠台(备),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
-明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
-明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8
-无线财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
-开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8
-有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
-ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
-ViuTVSix,https://cdn.hklive.tv/xxxx/96/index.m3u8
-RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
-RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
-国际财经资讯,https://cdn.hklive.tv/xxxx/76/index.m3u8
+
 
 🇨🇳广州备用,#genre#
 广州综合,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2 
