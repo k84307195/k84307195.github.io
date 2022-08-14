@@ -259,15 +259,15 @@ Sun Music,mitv://ns2.hellotvvod.com:9906/d44e2c6043444295abf050e6f0e5e505
 KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 
 🐟斗鱼轮播,#genre#
-贝爷影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/252802rRTzh2o9Uj_2000.flv?wsAuth=8881e22ba3634b3bc4c63a0577765cd7&token=cpn-androidmpro-0-252802-536492a84fc6fe0c8235ceba89455395bbea4d369980d054&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=d53149dfcaf1fe790604e4a752a639fa&token=cpn-androidmpro-0-20415-b6774b3b3249db170818d8a69f09c95203aedac360e509bd&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-欧美大片2,http://tc-tct.douyucdn2.cn/dyliveflv3/2793084r4j403i1U.flv?wsAuth=6f6c4bd79e84fac018871dda4ea9b7b2&token=cpn-androidmpro-0-2793084-3f569b7e953394a7cbc29931ccd48f4184abcc5edb8aa9d6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-粤语电影1,http://tc-tct.douyucdn2.cn/dyliveflv3a/5033502rNOtYDGbW.flv?wsAuth=063e0be69fc5b8f7f456218a80d99ca8&token=cpn-androidmpro-0-5033502-e87fb2e05db6d5d18181858e31f98038d663bb9fe3f56dd7&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-粤语电影2,http://tc-tct.douyucdn2.cn/dyliveflv3/6566671rcwuKbhDs.flv?wsAuth=2166183cd7c0a9f7b484d83d288b665c&token=cpn-androidmpro-0-6566671-e1f409a777b7d49692cc98ab8657f301208e85ae076e771c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-粤语电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/2466104r10o3E8U1.flv?wsAuth=b024c3fca5944da5b212c89bd99cad6d&token=cpn-androidmpro-0-2466104-09fd8b41302171bd472827dcbbbefe81d3b125db475d2810&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-粤语电影4,http://tc-tct.douyucdn2.cn/dyliveflv3a/8603174rja92xTRd.flv?wsAuth=3e48efa6068d794c3733325b11971308&token=cpn-androidmpro-0-8603174-8f495c66f44b1e32e3bbafe29ecbef4c46e367419e2eb172&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-粤语电影5,http://tc-tct.douyucdn2.cn/dyliveflv3/1226741rzt9929jL.flv?wsAuth=64f85868493ff9cab0cb6419d1b027e6&token=cpn-androidmpro-0-1226741-0dc52b22d0295689235218b1d9694df4e172c73cc6e8f7a3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-4K HDR视界,http://tc-tct.douyucdn2.cn/dyliveflv3/9249162rnAElu97i.flv?wsAuth=ab07cff3012f69d6a22e6681dc9d30e1&token=cpn-androidmpro-0-9249162-a702b1b6c2fccdd66d54060d51a1e993221ff4bdcca606d7&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+贝爷影厅,http://epg.112114.xyz/douyu/252802
+欧美大片1,http://epg.112114.xyz/douyu/20415
+欧美大片2,http://epg.112114.xyz/douyu/2793084
+粤语电影1,http://epg.112114.xyz/douyu/5033502
+粤语电影2,http://epg.112114.xyz/douyu/6566671
+粤语电影3,http://epg.112114.xyz/douyu/2466104
+粤语电影4,http://epg.112114.xyz/douyu/8603174
+粤语电影5,http://epg.112114.xyz/douyu/1226741
+4K HDR视界,http://epg.112114.xyz/douyu/9249162
 粤语港片.,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 粤语港片,http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
 古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
