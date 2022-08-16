@@ -369,7 +369,7 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 
 
 
-🇨🇳广州备用,#genre#
+🇨🇳广州软解,#genre#
 广州综合,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2 
 广州新闻,rtsp://183.59.131.100:554/PLTV/88888905/224/3221230113/453206913.smil?0&accountinfo=%7E%7EV2.0%7E0SFQT4d134tJBYGpDmeXDQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2 
 广州影视,rtsp://183.59.131.37:554/PLTV/88888905/224/3221230115/453198755.smil?0&accountinfo=%7E%7EV2.0%7ENaCaue7LGOmXprWOEgXTzw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2 
