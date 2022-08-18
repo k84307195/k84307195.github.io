@@ -1,6 +1,5 @@
 🌟GaTO,#genre#
-凤凰香港,http://171.110.62.170:8181/tsfile/live/1071_1.m3u8?blog.ntnas.top
-凤凰香港,http://171.110.62.170:8181/tsfile/live/1071_1.m3u8
+凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
 凤凰中文,http://171.110.62.170:8181/tsfile/live/1070_1.m3u8
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
@@ -41,8 +40,7 @@ HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 
 📺内置解码,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
