@@ -7,11 +7,8 @@
 凤凰资讯,http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-J2,http://120.84.96.75:808/hls/86/index.m3u8
 J2,http://120.84.96.195:808/hls/86/index.m3u8
-J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-J2,https://epg.pm/stream/4453b4054ef36b1e4a771d13c73507e88fd993aa286208a2a2d83621d35c1b07.m3u8
-J2,https://j3.lhlh.app/mv.m3u8
+J2,http://120.84.96.75:808/hls/86/index.m3u8
 
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
