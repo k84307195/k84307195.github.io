@@ -87,6 +87,13 @@ TVB 星河,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrM
 天映频道,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
 卫视电影台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
 美亚电影,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
+澳视澳门,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4y0TQ3cg7tAymp78D5O7ro
+澳门资讯,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze-NGAOoJtBA76lfWmOTuG28
+澳視葡語,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze3cQrZBwbi8jyChOpy3JIWk
+澳門Macau,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze3-kDnzdx36cMmiKi9fqG5g
+澳视体育,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze_qIpTbYliF7fgVouOPuwbM
+澳视卫星,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4xyCH6kxor1wigWikFnAwI
+澳视体育,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze41D14lsaPfJHO3IW6GOFMM
 
 🇭🇰香港频道,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
