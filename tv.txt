@@ -62,6 +62,31 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 
+📺秒开测试,#genre#
+凤凰香港,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeye785m1oylb49vvydnP6RY
+凤凰卫视,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze-C6IgcRwozk4eW0CGKnEqc
+凤凰资讯,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze8TMsBd9j6U2e7uAgvfjsX8
+翡翠台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
+明珠台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
+无线新闻,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
+有线新闻,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
+NOW新闻,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
+Viutv,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze007IYn8wyf4bDLwU3ze8CI
+Viutv 6,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
+无线财经,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
+有线财经,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
+J 2,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
+有线603,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
+18台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1rSSWHFOlAXCefNn8fkSUg
+港台31,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
+港台32,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
+香港开电视,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze5TAJU33UnQNLgJWVy75cyg
+爆谷台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+TVB经典台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze53WLv53IMxpHZj9SFFJ_kQ
+TVB 星河,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
+天映频道,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
+卫视电影台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
+美亚电影,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
 
 🇭🇰香港频道,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
