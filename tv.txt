@@ -9,7 +9,7 @@
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 J2,http://120.84.96.195:808/hls/86/index.m3u8
 J2,http://120.84.96.75:808/hls/86/index.m3u8
-TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
@@ -35,6 +35,7 @@ ViuTV,http://kkmix2.f3322.net:770/hls/ch2/s.m3u8
 ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
 HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?blog.ntnas.top
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
+TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 📺内置解码,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
