@@ -8,7 +8,7 @@
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 J2,http://120.84.96.195:808/hls/86/index.m3u8
-J2,http://120.84.96.75:808/hls/86/index.m3u8.
+J2,http://120.84.96.75:808/hls/86/index.m3u8
 
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
