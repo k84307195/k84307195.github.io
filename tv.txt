@@ -398,7 +398,13 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 603,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
 有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 
-
+🇨🇳广州电视,#genre#
+广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
+广州竞赛,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
+广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
+南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 
 🇨🇳广州软解,#genre#
 广州综合,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2 
