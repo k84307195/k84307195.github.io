@@ -96,6 +96,20 @@ TVB 星河,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrM
 澳视体育,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze41D14lsaPfJHO3IW6GOFMM
 
 📺8.23测试,#genre#
+RHK31台,https://cdn.hklive.tv:443/xxxx/31/index.m3u8
+RHK32台,https://cdn.hklive.tv:443/xxxx/32/index.m3u8
+RHK33台,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
+翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
+明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
+J2台,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
+无线新闻台,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
+无线财经台,https://cdn.hklive.tv:443/xxxx/85/index.m3u8
+viutv,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
+viutv6,https://cdn.hklive.tv:443/xxxx/96/index.m3u8
+开电视台,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
+香港国际台,https://cdn.hklive.tv:443/xxxx/76/index.m3u8
+78台,https://cdn.hklive.tv:443/xxxx/78/index.m3u8
+
 
 🇭🇰香港频道,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
