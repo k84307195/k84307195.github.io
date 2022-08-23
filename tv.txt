@@ -95,6 +95,8 @@ TVB 星河,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrM
 澳视卫星,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4xyCH6kxor1wigWikFnAwI
 澳视体育,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze41D14lsaPfJHO3IW6GOFMM
 
+📺8.23测试,#genre#
+
 🇭🇰香港频道,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
