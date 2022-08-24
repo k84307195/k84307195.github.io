@@ -70,20 +70,20 @@ RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 明珠台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
 无线新闻,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
 有线新闻,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
-NOW新闻,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
+NOW新闻台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
 Viutv,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze007IYn8wyf4bDLwU3ze8CI
-Viutv 6,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
+ViuTVSix,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
 无线财经,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
 有线财经,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
-J 2,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
-有线603,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
+J2,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
+603,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex_BDbLbOaKN3RoqagvKf9c
 18台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1rSSWHFOlAXCefNn8fkSUg
-港台31,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
-港台32,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
+RTHK31,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
+RTHK32,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
 香港开电视,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze5TAJU33UnQNLgJWVy75cyg
 爆谷台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
 TVB经典台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze53WLv53IMxpHZj9SFFJ_kQ
-TVB 星河,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
+TVB星河台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
 天映频道,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
 卫视电影台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
 美亚电影,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
@@ -96,17 +96,17 @@ TVB 星河,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrM
 澳视体育,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze41D14lsaPfJHO3IW6GOFMM
 
 📺8.23测试,#genre#
-RHK31台,https://cdn.hklive.tv:443/xxxx/31/index.m3u8
-RHK32台,https://cdn.hklive.tv:443/xxxx/32/index.m3u8
-RHK33台,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
+RTHK31,https://cdn.hklive.tv:443/xxxx/31/index.m3u8
+RTHK32,https://cdn.hklive.tv:443/xxxx/32/index.m3u8
+RTHK33,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
 翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
 明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
 J2台,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
-无线新闻台,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
-无线财经台,https://cdn.hklive.tv:443/xxxx/85/index.m3u8
-viutv,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
-viutv6,https://cdn.hklive.tv:443/xxxx/96/index.m3u8
-开电视台,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
+无线新闻,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
+无线财经,https://cdn.hklive.tv:443/xxxx/85/index.m3u8
+ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
+ViuTVsix,https://cdn.hklive.tv:443/xxxx/96/index.m3u8
+开电视,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
 香港国际台,https://cdn.hklive.tv:443/xxxx/76/index.m3u8
 78台,https://cdn.hklive.tv:443/xxxx/78/index.m3u8
 
