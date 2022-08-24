@@ -101,7 +101,7 @@ RTHK32,https://cdn.hklive.tv:443/xxxx/32/index.m3u8
 RTHK33,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
 翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
 明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
-J2台,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
+J2,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
 无线新闻,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
 无线财经,https://cdn.hklive.tv:443/xxxx/85/index.m3u8
 ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
