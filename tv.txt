@@ -123,10 +123,22 @@ Now直播台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeUJULLp81oWfUkw
 有线直播,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeIc4Iw9CdT5_-tkHUVQkd0/m3u8
 
 
+📺8.23测试,#genre#
+RTHK31,https://cdn.hklive.tv:443/xxxx/31/index.m3u8
+RTHK32,https://cdn.hklive.tv:443/xxxx/32/index.m3u8
+RTHK33,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
+翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
+明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
+J2,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
+无线新闻,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
+无线财经,https://cdn.hklive.tv:443/xxxx/85/index.m3u8
+ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
+ViuTVsix,https://cdn.hklive.tv:443/xxxx/96/index.m3u8
+开电视,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
+香港国际台,https://cdn.hklive.tv:443/xxxx/76/index.m3u8
+78台,https://cdn.hklive.tv:443/xxxx/78/index.m3u8
 
-
-
-📺地波内置#genre#
+📺香港内置,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
@@ -152,20 +164,6 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 
-📺8.23测试,#genre#
-RTHK31,https://cdn.hklive.tv:443/xxxx/31/index.m3u8
-RTHK32,https://cdn.hklive.tv:443/xxxx/32/index.m3u8
-RTHK33,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
-翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
-明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
-J2,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
-无线新闻,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
-无线财经,https://cdn.hklive.tv:443/xxxx/85/index.m3u8
-ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
-ViuTVsix,https://cdn.hklive.tv:443/xxxx/96/index.m3u8
-开电视,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
-香港国际台,https://cdn.hklive.tv:443/xxxx/76/index.m3u8
-78台,https://cdn.hklive.tv:443/xxxx/78/index.m3u8
 
 🇨🇳卫视频道,#genre#
 南方卫视,rtsp://183.59.70.73:554/PLTV/88888905/224/3221230001/10000100000000060000000011293289_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiKe-NYf8wqbfEoP3btv9QA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052020101699000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605706102,cntv-nanfangweishi
