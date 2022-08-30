@@ -37,7 +37,233 @@ HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-📺内置解码,#genre#
+
+📺hstv,#genre#
+翡翠台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWuLSnYtdgam2wJLYOBjMtU/m3u8
+明珠台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeP0bjoOjOQhM7tbpTTqUe4/m3u8
+无线新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYC4nMBc_9XnO3ZHlw-oujg/m3u8
+有线新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmX0MVYHlp7MnOTMxqZIqgUM/m3u8
+NOW新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmTXNmmOx5Kt2SHCe4wP-Msk/m3u8
+Viutv,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYdujxdFdCRk9TnZ1q3rZEk/m3u8
+Viutv 6,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmXGABus3tS9nC2RiUEo6Nrk/m3u8
+无线财经,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmazbJSUgL2MVXMo0qaIaOn0/m3u8
+有线财经,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmU7iV5ZXpelIrVS0ZNdNN_M/m3u8
+J 2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdmmD6hVss8S_SaJl5FgoLg/m3u8
+有线603,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmc1v3xzb286AZ2puayy9UQQ/m3u8
+18台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdS_9aPq-UANC6V7ctbrubo/m3u8
+港台31,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xma7dfG-Y7TszgvcjtcUlGns/m3u8
+港台32,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWEHinFdb0AFTcKAH5RoLoM/m3u8
+香港开电视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xme_baPh4gIxmnbRs5vE2EP4/m3u8
+凤凰香港,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeaeMOWESStSTgy0GQvJJsk/m3u8
+凤凰卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xma07CbCr50ai-Rrr3klmbRw/m3u8
+凤凰资讯,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmct3PNyhXV5RCcfdj65INLg/m3u8
+澳视澳门,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbvWKgNAir0UGxjyGII1xkA/m3u8
+澳门资讯,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmemQVAFbvmlaQPksEtfLgZc/m3u8
+澳視葡語,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQUZFDlrQ-X8gDveP2NFq6w/m3u8
+澳門Macau,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbKv2Rua1LqSVqTQ4w-oXOw/m3u8
+澳视体育,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmT_oBB3sxIHZUGbltrfJBnw/m3u8
+澳视卫星,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWFhyra3ILTNhJPs5_5URh4/m3u8
+澳视体育,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZa3_V3hzpkqZqyGS8weEwo/m3u8
+爆谷台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmV356VKSEXsGQWDMIqII63w/m3u8
+TVB经典台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVCw6bGaO2XQSZjtuZVcsOs/m3u8
+TVB 星河,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVDjDULxrP97JHv1Sga5FKw/m3u8
+天映频道,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZnSxR-FmYNuzCQbqSMlvHY/m3u8
+卫视电影台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQqB8yoTVyseKl9i64T2K_8/m3u8
+美亚电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcRt1qxuOm5ZMGyNTJXvTBM/m3u8
+港版美亚电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaW36dAVn8tlpohxmo462uU/m3u8
+CCTV-1高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSwbjBWQokyDHHz5UNJiHmY/m3u8
+CCTV-2高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWwLkZE7_gZ9FvXQ8T71m7Y/m3u8
+CCTV-3高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeaEo1E5cEp1aJFZ_AFeC6A/m3u8
+CCTV-4高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZMe7P5A1rX-m3oWvuzjtBA/m3u8
+CCTV-5高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVjuIf9ZST_YQ701e24CGCU/m3u8
+CCTV-5+高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdd7XaBCuA7eVaANQGX0ZMU/m3u8
+CCTV-6高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSwQ3o8pGqZDRVbH6WRaLGo/m3u8
+CCTV-7高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmR8cVTPMO5_0rvL7YzTybzo/m3u8
+CCTV-8高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmd1Fobvs12311Rr35oOrXhA/m3u8
+CCTV-9高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWg0Gn57XO4S8r4CgglZMzM/m3u8
+CCTV-10高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmXGjAgTEE6g_Lm3xqpvrPjY/m3u8
+CCTV-11高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVBu-Wy2L-u6pw3YzSIuupY/m3u8
+CCTV-12高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYF9tFo3BVcpWafYgYAkCgM/m3u8
+CCTV-13高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSV_U6cdOVCg8WSd-7Nptt4/m3u8
+CCTV-14高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmR8ncGi70C2wSpKRJLkr_Qg/m3u8
+CCTV-15高清,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xma5g6i-vxW8_Zi53TwGwNe8/m3u8
+中天新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfqgp6Xc-9xmtBS8C9SYzYM/m3u8
+中视新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQEZHQxXBMQhe4TYPsYoJoo/m3u8
+民视新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYv2iPj3pTpbXP5fiUg1Zs4/m3u8
+东森新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQ9xEoxFeYzZZFWgA5kMTYc/m3u8
+东森财经,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYDtJjLznupJKF7b0D2SpAg/m3u8
+寰宇新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWD3NdW7Cx5Nfc2S-a4KkUQ/m3u8
+台视新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZY4eVFmv0LTLqCHhv1Jbbc/m3u8
+壹新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSxRE-qXlN6DJGeJhAeZYVU/m3u8
+三立iNEWS,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmd9WmvghPjSxMsftiHkV5Vg/m3u8
+三立LIVE,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSNUOBmYW-ZSn9qK0Vyc49s/m3u8
+镜新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSyZOZHRbuWExOPmEYH8KfY/m3u8
+华视新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xma_C-M38qJaz_n0KWd8T1Bw/m3u8
+非凡新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUqTr3cW8nUtey02V8NoWzQ/m3u8
+年代新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdZ_oi7MYcwQFfDVJ-FyN9g/m3u8
+TVBS新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSjx76KoI7qyyBS9XRGs1Xw/m3u8
+ABC新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRk1aHSyosYDfSL_wd8bKiI/m3u8
+BBC World News,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbzZ6XrVYjbNnAi-FdjINts/m3u8
+Bloomberg新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUYpWwdtfdAFcAWQAqicrEA/m3u8
+CBS新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmR6Z4oAwZuIgGPDQQbQbflo/m3u8
+CBSN新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmb5SSN_LPoenQNGlDIE6JQI/m3u8
+CNN,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWro0wbG4tE-0ZVhKPbyENM/m3u8
+CNBC,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZm4NO9UMdlTvec2zYmBTR4/m3u8
+CGTN,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZy-Q2XczLGQ8CaVnCKBQPo/m3u8
+DW,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmXhXpad0F7ZgbStaxKEhbSw/m3u8
+FRACE 24,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdrXDCXAgp6ejld2RcKl2VQ/m3u8
+FOX新闻,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcaiArA_zNBlgDeNSPBqZUs/m3u8
+珠江台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmU8QuLM7Ou3hfTjdwEQcrQA/m3u8
+广东体育,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRDM_0zLooSrUP4h__ZPD48/m3u8
+广东南方卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmScCbJOfovrZwWq9CrJM1x8/m3u8
+广东卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xme3d3EA0izBVMHSIDpVFvao/m3u8
+广西卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSthQmNCx_9oiNec6bXZB7Q/m3u8
+江苏卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdvD9Ed4iQLH8YNURua006M/m3u8
+浙江卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSvSHprtkOShugu4UmIfw9E/m3u8
+深圳卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbxCO3lwW7SVKHUG2XcXGBE/m3u8
+湖北卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeDcB2iEBmGoOXNniiATP4A/m3u8
+湖南卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaY9gDMQ_7fQS-EQTkUyWWE/m3u8
+福建东南卫视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfHVEMMTv6yk-lrGyjrJHpk/m3u8
+中视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUb6wBY_N_CQEFCcEa2o5t4/m3u8
+民视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbP1vlQtOEpWgV1EinmfqHg/m3u8
+民视台湾,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaql-oqiSnHoye7XCFC70dE/m3u8
+华视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcODpIL3GV12qW4kmE7YfVE/m3u8
+公视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUF6wYsdvfFjvV5tloDuA_I/m3u8
+公视3,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfgizfHyWKkdDBzr692Fa5c/m3u8
+八大第一,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmXIgt36FWVBlTwIoHsIARSY/m3u8
+八大综合,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmd43ypd9aeFOnerNDmtoFiM/m3u8
+八大戏剧,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmS9OxMovF7bhfH7rDYpgWFs/m3u8
+八大娱乐,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdOEopiav4AwEkp7nHT2WIU/m3u8
+三立台湾,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWwcmFNVefxdv7Ew1VrA8GQ/m3u8
+三立综合,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVKgSLs5Z31M7EMG5vIA-xg/m3u8
+三立都会,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmY2tW-o3XbqvDVY2W1FEmZQ/m3u8
+TVBS欢乐,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xma8uOUsObdEF84-KPsjfgAY/m3u8
+中天娱乐,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYc0YRo0SNn69Sxqyc1vkr0/m3u8
+中天综合,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWePD2W5FTw-Y64H0-jUlBo/m3u8
+中天亚洲,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSmW0PpmDbox3bdgYxHM1TM/m3u8
+东森综合,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcPJAlUJMe1cXfHVel23MHA/m3u8
+东森超视,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmU3ISwiUA_mPjidXoP_D3eM/m3u8
+龙华戏剧,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRi2NfaLUP_QYurssALxCXw/m3u8
+龙华经典,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmddY3ZsXsVpixsqaO0QyQjo/m3u8
+龙华偶像,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcgjjHcaNecJsN78WjiaJMo/m3u8
+靖天国际,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUJARhZRc6X5cSHEgO-ytXE/m3u8
+靖天咨询,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYYvqerEUqh9Y4ytoAPZ5T4/m3u8
+靖天卡通,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfOER_OGBWRxNyRmsJvhwCQ/m3u8
+阿里郎,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUBFTpsmBtwcFuc8Dj5HbKo/m3u8
+ELTA影剧,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSCVaJMvJ-8EGQxuadJX3FQ/m3u8
+纬来体育,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbwKkKWsWTgM4kE33PGLfP8/m3u8
+ELEVEN体育1,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYWzhOiIGBLSK0TOy2XXNMc/m3u8
+ELEVEN体育2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWwaGY1Z5VCghnaHVS0oEB4/m3u8
+博斯运动1,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmTf9GSJ9EWfFY5PtvWKQP1s/m3u8
+博斯运动2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRoAixbNL246J452PmLZYQE/m3u8
+博斯高球1,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdTCeJgooT1G0n3o2ACs0qU/m3u8
+博斯高球2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYO6t93XyW0l7XmSUvOktXw/m3u8
+博斯网球,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmScueJNRX8HJjiCn28rrjwI/m3u8
+Supersports 1,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZPM2QH9Fmi7Y9pckJ0Qpec/m3u8
+Supersports 2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRyrjrf6e8Cvv1uOCWj_Pt0/m3u8
+Supersports 3,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRaExxU3B1fCImANADTSJW0/m3u8
+Supersports 4,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmevHti3UTuPZEUTU-j_8sXo/m3u8
+RTM Sports,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQUHGUuCin7h0tpTH0ChMNQ/m3u8
+Beinsports3,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVH4Y78zDtOkgdzuwK8k6Ic/m3u8
+WWE,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcRMIibpm4ChgLPgvlV9GxQ/m3u8
+NBA TV,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmahRLJpAynTfMp8z1K8rziY/m3u8
+Eurosports HD,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbcZrKldGw3f_te42qhEEZc/m3u8
+Astro Golf,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUYUaieOnimOuCiv4B-KE7g/m3u8
+Beinsports3HD,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWXWzByoGtDahvwW4IV5DDo/m3u8
+Arena,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRMPA0XZJQW3C30yjaWSNjY/m3u8
+Arena2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmW-nwg_P7eJ6Dev2OmKLPYs/m3u8
+SPO TV GP,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbPhPFtBT3v6jbMxL3lMpxc/m3u8
+sonysix,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUTIxi2yKzTyENgXWKubpOo/m3u8
+Champions TV1,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWheufi9orBJGaLimutNNho/m3u8
+Champions TV2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmTNIRWB9zREBA9yjXHogPUA/m3u8
+Champions TV3,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmd05ZzRe-HF7RN5_lfVUw4U/m3u8
+BT ESPN,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYxXqTs4jJJ9LrUXoRwS-jo/m3u8
+Skysports Action,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeO8kKeCJL0kw-YbHb2iWsk/m3u8
+Skysports Arena,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZp5BwwKz0LK11IY_IQotN0/m3u8
+Skysports Cricket,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfVk_JD_myButrzcQ9Mp-cQ/m3u8
+Skysports EPL,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfvd5LUrtmKy2X3Jg2WvUPU/m3u8
+Skysports F1,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmW_a42VnDbzkfTlEH1g6FRI/m3u8
+Skysports Football,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSVGYHPnN5L4MMtegbl_710/m3u8
+Skysports Golf,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmW9Ng1XG1IyBbCULUzeL8v4/m3u8
+super Golf,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmev73tD-Cf-saJzPVB4V9-Y/m3u8
+one golf,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcdWsT7xnYuWopaJGjfiG20/m3u8
+x golf,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaqFK6AjTDdwksrSQqf3JgQ/m3u8
+NBC GOLF,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWdkbch29CE3hgxy5p4QXCE/m3u8
+NOW爆谷,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVMl09z39p0HhFuGlYgU1ds/m3u8
+HBO HD,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmb4STeNFOdHbuWiVAA2oGVs/m3u8
+HBO强档,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUZjcgLtsvbQ4ljJhWR87vY/m3u8
+HBO Signature,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmT7-3eGiYnP6ot4ZiACzJhQ/m3u8
+HBO family,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVOM1BH0MZMVgmxCjj5uXnw/m3u8
+Hollywood Movies,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmX-xduLsW0F2Cdr4YPPZuYk/m3u8
+CINEMAX,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQ9H-W8HbEi36gGDg_mqqMU/m3u8
+AXN Taiwan,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRtTX_WrE2cgex2gF6hkMO8/m3u8
+CatchPlay电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRggZvOeftnmQ7XSRpl7Xkc/m3u8
+东森电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZbdMjF59hhlD2rD2bl-rnE/m3u8
+东森洋片,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSahlxvBTuYp6OqY9smkTyo/m3u8
+东森戏剧,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYqqXGBsp2ABu7CPT34uTXQ/m3u8
+龙华洋片,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcdTsSgcvRwr0-djcl3Yl3g/m3u8
+龙翔时代,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRs-2UNtUP-nI36eEqhUEdA/m3u8
+卫视中文,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmU79RzihQ9iUeqvW7OPS0xE/m3u8
+天映频道,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSkuyL1LtDz6e20wUHMD9Gg/m3u8
+天映经典,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmTIK8OGcvkyJu_-MeXugIQM/m3u8
+星卫电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZ0YUhotHQkPG3HkXI8UI7I/m3u8
+美亚电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmRFeSPUKVhMhEarZo4vAL6s/m3u8
+星空电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbkyCWB-iosYrzgw6_UbHzU/m3u8
+卫视西片,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaxyFX6r4skZjfYvnbLWhVI/m3u8
+FOX MOVIES HD,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQkjIuDx5nifLj_4Rra1Gfc/m3u8
+Animax,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfz2ilQqLk-DjwfGIJ3ZTiU/m3u8
+好莱坞电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSePsjymiDnyaE2jUgoCx2k/m3u8
+纬来电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmXiE2fr0IShndRcJcqGinxo/m3u8
+SPACE,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVO2eoSXZPx8ryTp4KbkvBU/m3u8
+TNT,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmVoj85aYWWMVpzzQvZ1D434/m3u8
+AXNHD,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmY6BM2Vz3hAhOp3UI3X4O_c/m3u8
+A&E,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSmHjxnhdYBB2RmOFF_iAkY/m3u8
+Warner TV,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQhK3923lKdKhoRK3TBqB1E/m3u8
+One,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfffjDX_noBkKPcKubcWgsc/m3u8
+Axn,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmd_3nIZH1j27zi5ZSDvuiZY/m3u8
+Thrill,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmblihFx-yh51gwJ-8vlzcPc/m3u8
+Hits Movie,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmTxGzRL2NtKV9bSDqY6a9QQ/m3u8
+tvN Movie,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYdLh1mWfymZ5iEmCbW9flE/m3u8
+国家地理,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmed8wSjBPv9HLECCt4wnrsI/m3u8
+国家地理野生,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeXzqR6f922vhOC9ViGW_UA/m3u8
+动物星球,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcD7A18soJuLmYGOpSsS9Ag/m3u8
+探索频道,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmZ3hiQP2Hcdt5HhsLbQrPFU/m3u8
+探索动力,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmYgy71IJmPGAR2Gq5c82Csg/m3u8
+探索科学,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaJlqEDNN2QstCuW9KgGOfg/m3u8
+探索亚洲,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeAD2Pg3t7InKOeWQZkFZ0Y/m3u8
+探索发现,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmes4vpl4DtwNtY8wog1atoo/m3u8
+EVE旅游,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmTxmLUvOcTi44584DAT07Zc/m3u8
+TLC,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQDvdwWFlXc-l90C05IIhhs/m3u8
+BBC Earth HD,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSt_e-3pMtU_FofHBy4B8OQ/m3u8
+History,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaZFJwKunIMp0a2MC4PrFJg/m3u8
+BBC Earth Lifestyle,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbKpUSaHS0R6k8K_2VgZ0FQ/m3u8
+HGTV,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmQxw1j09a6SZlCkeeyZtB0s/m3u8
+TVBS HD,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmd-Qi0J_EuRBrgZIea5sZY8/m3u8
+Al-Jazeera,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaBIsmFaSyN0LIZfteG6nec/m3u8
+Russia Times,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeah6-AA0mmN5L8Z-Hnnj9Q/m3u8
+NHK World,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSBCjtx6Ugzp2gSn4f8JxOI/m3u8
+HSTV精选,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcUvbOo5iSw5VxoFY3fySN8/m3u8
+HSTV精选2,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmT6pBFI2qxKjVZEYGbXbqZE/m3u8
+KTSF 26,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmSWJQhCl18WCI0oWREQQ2ng/m3u8
+TVB 千禧經典台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmUPUhEpf0U0K3VyRCcfMu58/m3u8
+TVB 娱乐新闻台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmWyGICkJI7wLU4RBXaM2rpA/m3u8
+TVB 星河,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmcG9dGEBuLxQX89Kwb-NK3k/m3u8
+美亚电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmU8Jwcl5Dgp8z-5KL3byxfA/m3u8
+Now星影台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmXUv4IfbG7HJ2Jpwz6GbS3U/m3u8
+Now爆谷台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmbjmbTTqR4kPiFcX0-njwb4/m3u8
+Now财经台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmTwikrPikWBOzpWzKT8Hxjc/m3u8
+Now直播台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeUJULLp81oWfUkwNlKEwT8/m3u8
+有线603,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmaeIGOrMd0yuWdqurag4-wU/m3u8
+有线电影,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeZCuUizVO9TQmq3mZ1iBsw/m3u8
+有线综合娱乐,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmfMqpgodpZ1-zjsWoYlCDjQ/m3u8
+有线财经台,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmdPthmp3w0EnYDacs4F4zPE/m3u8
+有线直播,http://hs.crtvhstv.xyz:80/play/hQfkCr00s50MznI5By9xmeIc4Iw9CdT5_-tkHUVQkd0/m3u8
+
+
+
+
+
+
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
