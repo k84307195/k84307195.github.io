@@ -245,7 +245,7 @@ KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 
 🎞️新片速递,#genre#
 明日战记,https://pps.sd-play.com/20220811/vaIRRARs/1200kb/hls/index.m3u8
-明日战记2https://m3u8.zhisongip.com:38741/video/ec6ffb1c459430ea99cff11493377e86.m3u8
+明日战记,2https://m3u8.zhisongip.com:38741/video/ec6ffb1c459430ea99cff11493377e86.m3u8
 重装机甲4巨兽来袭,https://c2.monidai.com/20220831/AxZVmZrg/index.m3u8
 神探大战 粤语,https://www.ldxmcloud.com/20220828/Ea7HURz2/1100kb/hls/index.m3u8
 神探大战 粤语2,https://www.ldxmcloud.com/20220828/Ea7HURz2/index.m3u8
