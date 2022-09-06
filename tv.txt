@@ -38,6 +38,27 @@ HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
+🇭香港频道,#genre#
+凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港,rtmp://pull-rtmp-l6.ixigua.com/live/哦欧u哈哈哈哈哈哈哈.flv
+TVB翡翠台,rtmp://pull-rtmp-l6.ixigua.com/live/GG分分彩v不v.flv
+TVBJ2,rtmp://pull-rtmp-l6.ixigua.com/live/多大的热天府大道hbd.flv
+无线新闻,rtmp://pull-rtmp-l6.ixigua.com/live/动态图复旦大学宣传广告.flv
+无线财经新闻,rtmp://pull-rtmp-l6.ixigua.com/live/发货打虎上山d.flv
+有线新闻,rtmp://pull-rtmp-l6.ixigua.com/live/有线新闻.flv
+天映电影,rtmp://pull-rtmp-l6.ixigua.com/live/盗墓笔记吧.flv
+ViuTV,rtmp://pull-rtmp-l6.ixigua.com/live/广告费多大尺寸.flv
+ViuSixTV,rtmp://pull-rtmp-l6.ixigua.com/live/防护好搞个vvv菊花.flv
+RHK31,rtmp://pull-rtmp-l6.ixigua.com/live/讴歌挺多的.flv
+香港开电视,http://127.0.0.1:19395/209.141.61.221:30002/hls/1/mydy/index.m3u8
+Now新闻,rtmp://pull-rtmp-l6.ixigua.com/live/福特野马.flv
+Now财经新闻,rtmp://pull-rtmp-l6.ixigua.com/live/大姑父反反复复d.flv
+Now爆谷,rtmp://pull-rtmp-l6.ixigua.com/live/老朱交道不是大.flv
+私人影院,http://27.47.69.150:808/hls/57/index.m3u8
+有线财经新闻,rtmp://pull-rtmp-l6.ixigua.com/live/粉条豆腐浮浮沉沉.flv
+TVB星河国语,rtmp://pull-rtmp-l6.ixigua.com/live/贵妃椅地铁大厦.flv
+
 🇭🇰香港内置,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
