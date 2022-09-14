@@ -369,7 +369,7 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 广州法治,rtsp://183.59.153.37:554/PLTV/88888905/224/3221230168/453206912.smil?0&accountinfo=%7E%7EV2.0%7EUSiyCu_w9WF99m5iQxHYRA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2 
 广州竞赛,rtsp://183.59.153.37:554/PLTV/88888905/224/3221230122/453206917.smil?0&accountinfo=%7E%7EV2.0%7EYewCUd3e3HXUSDKCfQk-Jw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 
-🇨🇳广州备用,#genre#
+🇨🇳ICBC,#genre#
 广州法治,http://ye23.win/iptv/gztv.php?id=fazhi
 广州法治,http://2941.vicp.net:8888/udp/239.253.43.74:5146
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
