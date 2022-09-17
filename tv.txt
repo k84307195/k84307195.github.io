@@ -40,45 +40,22 @@ TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2
 
 
  🇭🇰晴天频道,#genre#
-凤凰电影,mitv://ns1.hellotvvod.com:9906/d4c33084745649c7be82be967458a227
-凤凰香港,mitv://ns1.hellotvvod.com:9906/57ca26c9e4514b10be53a05af6e1eedc
-凤凰中文,mitv://ns1.hellotvvod.com:9906/59a5da2ec0db4af28d50df6122e2f2e2
-凤凰资讯,mitv://ns1.hellotvvod.com:9906/d353ff579ae44023ae1078e24cbefc21
-翡翠台,mitv://ns1.hellotvvod.com:9906/cd153f19aecd4a63942e98048c14a40f
-明珠台,mitv://ns1.hellotvvod.com:9906/9d78b84c273e4922948f4e5926615afa
-TVB经典台,mitv://ns1.hellotvvod.com:9906/6c82a743dec540f29d95129ed3c90647
-TVB星河(粤),mitv://ns1.hellotvvod.com:9906/9d44d9c4102c4f5bb1b6733718e5fe08
-TVB娱乐新闻台,mitv://ns1.hellotvvod.com:9906/6b2555a831bc43c2882e0d2632603480
-功夫台,mitv://ns1.hellotvvod.com:9906/c0e41258758d46b28acb510d7ddd27c5
-J2,mitv://ns1.hellotvvod.com:9906/ddec778e9454402586d4c1b68f25a3ef
-无线财经,mitv://ns1.hellotvvod.com:9906/47ff889fdf994643b428e4c24c6b3f14
-无线新闻,mitv://ns1.hellotvvod.com:9906/e32945728c7a4b8d901f0aff8eb0c27b
-无线新闻,mitv://ns1.hellotvvod.com:9906/d0c60aa2e2124ec585f3920ee76b6108
-18台,mitv://ns1.hellotvvod.com:9906/b3e96a03b026456da5baa7c944044b26
-Hands Up,mitv://ns1.hellotvvod.com:9906/89827f07e68d49428e89f93c9ed5fcd9
-有线 18,mitv://ns1.hellotvvod.com:9906/ad2956c5b96849e380956ea799d9e0e3
-有线 Sports Plus 1,mitv://ns1.hellotvvod.com:9906/5b084b1132b949eab6a7073a8c46ed29
-有线电影台,mitv://ns1.hellotvvod.com:9906/8d4da6656cb3478cac17534067cdb533
-有线体育台,mitv://ns1.hellotvvod.com:9906/9c4d711e5554413188be57421e813d3f
-有线新闻台,mitv://ns1.hellotvvod.com:9906/d483d802d9af42fd98bdf2417d578a01
-有线综合娱乐台,mitv://ns1.hellotvvod.com:9906/14ba29350bf5475ea70500b8634fbd13
-有线财经资讯台,mitv://ns1.hellotvvod.com:9906/2ced1b583be548c0a44ec66a10014c2f
-香港603,mitv://ns1.hellotvvod.com:9906/7578b1ded83342989378a3ba601eed92
-粤语片台,mitv://ns1.hellotvvod.com:9906/7c667a5341bc455ea4ec71a67101b43e
-ViuTV,mitv://ns1.hellotvvod.com:9906/53304b6dfffb4d4783bf0a018ae7de7c
-ViuTVsix,mitv://ns1.hellotvvod.com:9906/b95906f9807a4a6e9e8995440d6deeef
-now新闻台,mitv://ns1.hellotvvod.com:9906/2e1aecab067d416fbb7f42186a7bbc3c
-now直播台,mitv://ns1.hellotvvod.com:9906/25b6936fdf9846acbc47058150c0ad38
-港台电视31,mitv://ns1.hellotvvod.com:9906/a59213b8845c451c8c3787d3d4a70d99
-港台电视32,mitv://ns1.hellotvvod.com:9906/c55986c653ee4da685bb42ab4dd9b707
-爆谷台,mitv://ns1.hellotvvod.com:9906/6395badcaaf3436fa85e8bb8589397bd
-爆谷星影台,mitv://ns1.hellotvvod.com:9906/56409dc29b314cdf91eb09135ed8cb9e
-Thrill,mitv://ns1.hellotvvod.com:9906/cb40f6b156a947638ab47bf7ee97dd97
-香港开电视,mitv://ns1.hellotvvod.com:9906/eb21cf56a30f4166b3ecf56c3b8d3928
-美亚电影台(粤语),mitv://ns1.hellotvvod.com:9906/8d0b03ab36dd4972acfde9d503fa3bb7
-亚洲剧台,mitv://ns1.hellotvvod.com:9906/45b138268e5b41ec80165118d6eba2e4
-
-
+TVBS,http://173.211.42.73:8278/tvbs/playlist.m3u8?tid=MCAC6901345769013457&ct=19237&tsum=0280036cc04ba19ae41f86db72b83b2c
+中天新闻,http://173.211.42.73:8278/ctinews/playlist.m3u8?tid=MF5F4060926640609266&ct=19237&tsum=4ea19b019ee13898b179359fb93fc53f
+中视新闻,http://173.211.42.73:8278/zhongshinews_twn/playlist.m3u8?tid=MA1A6580642765806427&ct=19237&tsum=59acf2ede586f26d66765d911a2ba9c0
+凤凰香港,http://173.211.42.73:8278/hkphoenix_twn/playlist.m3u8?tid=MCEC5533442155334421&ct=19237&tsum=d7b31be640bf0f3bdc9b577c70065a06
+翡翠台,http://173.211.42.73:8278/jade_twn/playlist.m3u8?tid=MFAF3621176136211761&ct=19237&tsum=d11caa3f055194051ba8b93c6575dbd1
+无线新闻台,http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
+J2,http://173.211.42.73:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
+j2,http://173.211.42.73:8278/j2_twn/playlist.m3u8?tid=MB5B6842920868429208&ct=19011&tsum=4d1ce6f71a7ef4ab924bdb47bef079ad
+TVB星河频道,http://173.211.42.73:8278/Xinhe/playlist.m3u8?tid=MCFC5459176154591761&ct=19049&tsum=f091ae72f813dea6073
+RTHK31,http://173.211.42.73:8278/rhk31_twn/playlist.m3u8?tid=MBFB6508588865085888&ct=19237&tsum=09e192db535f9d7e484d42bab663510c
+RTHK32,http://173.211.42.73:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
+ViuTV,http://173.211.42.73:8278/9ae6d37d9a/playlist.m3u8?tid=MA4A8144846981448469&ct=19237&tsum=c5d5c1e69521c7b32c9df9c7b7d2b418
+VIUTV6,http://173.211.42.73:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+天映頻道,http://173.211.42.73:8278/Celestial/playlist.m3u8?tid=MB0B9965728799657287&ct=19234&tsum=58be4ca2b0bc94038a6bc33b46fcf71f
+美亚电影,http://173.211.42.73:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
+无线新闻,http://61.222.202.191:80/live/yzyh.php?id=12
 
  🇭🇰香港频道,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
