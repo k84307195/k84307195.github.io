@@ -10,11 +10,12 @@
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 J2,http://120.84.96.195:808/hls/86/index.m3u8
 J2,http://120.84.96.75:808/hls/86/index.m3u8
-
+翡翠台,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
+无线新闻,http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 星河台,http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
