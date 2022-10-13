@@ -39,136 +39,6 @@ HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-🇭🇰星火频道,#genre#
-TVB无线新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt1&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#ad#@http://app.xinghuozhibo.net/dl/gt3.php?id=inews_xin_wen_tai_647&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVB无线财经资讯台,http://app.xinghuozhibo.net/dl/gt.php?id=gt2&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=tmb85&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVBClassic,http://app.xinghuozhibo.net/dl/gt.php?id=gt3&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=TYJD_5186&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVB星河,http://app.xinghuozhibo.net/dl/gt3.php?id=tvb_xing_he_tai_xing_he_517&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt5&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVB翡翠台,http://app.xinghuozhibo.net/dl/gt.php?id=gt10&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#ad#@http://app.xinghuozhibo.net/dl/gt3.php?id=jade_5065&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=7303&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt6&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt7&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVBJ2,http://app.xinghuozhibo.net/dl/gt3.php?id=j_2_638&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#ad#@http://app.xinghuozhibo.net/dl/gt3.php?id=j2_5729&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt8&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt9&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVBPearl,http://app.xinghuozhibo.net/dl/gt.php?id=gt11&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=5192&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-ViuTV,http://app.xinghuozhibo.net/dl/gt3.php?id=5193&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt12&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-ViuTVSix,http://app.xinghuozhibo.net/dl/gt3.php?id=5195&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt13&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-RTHK32,http://app.xinghuozhibo.net/dl/gt3.php?id=rhk32_80&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt14&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-RTHK31,http://app.xinghuozhibo.net/dl/gt3.php?id=rhk_31_646&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt15&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HKC电影台,http://app.xinghuozhibo.net/dl/gt3.php?id=yxdy5959&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt19&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HKC603,http://app.xinghuozhibo.net/dl/gt.php?id=gt20&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=hkc603&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HKC有线18台,http://app.xinghuozhibo.net/dl/gt.php?id=gt21&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=hk18_5000&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-香港开电视,http://app.xinghuozhibo.net/dl/gt3.php?id=xgkds_81&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt.php?id=gt22&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HKC新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt23&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#ad#@http://app.xinghuozhibo.net/dl/gt3.php?id=you_xian_inews_648&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HKC有线财经台,http://app.xinghuozhibo.net/dl/gt.php?id=gt24&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=5210&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-Now财经台,http://app.xinghuozhibo.net/dl/gt.php?id=gt27&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-Now新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt28&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-Now直播台,http://app.xinghuozhibo.net/dl/gt.php?id=gt29&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-纬来电影,http://app.xinghuozhibo.net/dl/gt.php?id=gt31&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wei_lai_dian_ying_tai_734&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-纬来日本,http://app.xinghuozhibo.net/dl/gt.php?id=gt32&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wei_lai_ri_ben_tai_733&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-纬来体育台,http://app.xinghuozhibo.net/dl/gt.php?id=gt33&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wlty_5003&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-纬来综合台,http://app.xinghuozhibo.net/dl/gt.php?id=gt34&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wei_lai_zong_he_tai_739&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-纬来戏剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt35&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wei_lai_xi_ju_tai_738&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-纬来育乐台,http://app.xinghuozhibo.net/dl/gt.php?id=gt36&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wei_lai_yu_le_hd_462&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-东森洋片台,http://app.xinghuozhibo.net/dl/gt.php?id=gt37&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=dong_sen_yang_pian_ettv_western_729&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-东森电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt38&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=dong_sen_dian_ying_ettv_movie_788&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-好莱坞电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt39&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=hao_lai_wu_dian_ying_hd_454&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-卫视中文台,http://app.xinghuozhibo.net/dl/gt.php?id=gt40&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wei_shi_zhong_wen_tai_star_movies_chinese_794&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-美亚电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt41&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=mei_ya_dian_ying_766&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-卫视电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt42&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=wei_shi_dian_ying_tai_815&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-星卫电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt43&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=xing_wei_dian_ying_769&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-星卫娱乐台,http://app.xinghuozhibo.net/dl/gt.php?id=gt44&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=xing_wei_yu_le_tai_1753&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-AXN,http://app.xinghuozhibo.net/dl/gt.php?id=gt45&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=axn_hd_540&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HBOFamily,http://app.xinghuozhibo.net/dl/gt.php?id=gt46&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=hbo_family_709&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HBOHits,http://app.xinghuozhibo.net/dl/gt.php?id=gt48&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-HBOSignature,http://app.xinghuozhibo.net/dl/gt.php?id=gt49&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-Cinemax,http://app.xinghuozhibo.net/dl/gt.php?id=gt50&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-壹电影,http://app.xinghuozhibo.net/dl/gt.php?id=gt51&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-DiscoveryChannel,http://app.xinghuozhibo.net/dl/gt.php?id=gt52&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-DiscoverySC,http://app.xinghuozhibo.net/dl/gt.php?id=gt53&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-DiscoveryTurbo,http://app.xinghuozhibo.net/dl/gt.php?id=gt54&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-Discoveryturbo,http://app.xinghuozhibo.net/dl/gt.php?id=gt55&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-NatGeo,http://app.xinghuozhibo.net/dl/gt.php?id=gt57&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-NatGeoWild,http://app.xinghuozhibo.net/dl/gt.php?id=gt58&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-莲花卫视,http://app.xinghuozhibo.net/dl/gt.php?id=gt59&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CelestialMovies天映频道,http://app.xinghuozhibo.net/dl/gt.php?id=gt60&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CCM天映经典频道,http://app.xinghuozhibo.net/dl/gt.php?id=gt62&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-八大戏剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt63&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-八大娱乐台,http://app.xinghuozhibo.net/dl/gt.php?id=gt64&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-八大综合台,http://app.xinghuozhibo.net/dl/gt.php?id=gt65&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-八大第一台,http://app.xinghuozhibo.net/dl/gt.php?id=gt66&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-龙详时代,http://app.xinghuozhibo.net/dl/gt.php?id=gt67&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-非凡新闻,http://app.xinghuozhibo.net/dl/gt.php?id=gt68&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-星空卫视,http://app.xinghuozhibo.net/dl/gt.php?id=gt69&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-CNN,http://app.xinghuozhibo.net/dl/gt.php?id=gt70&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-BBCWorldNews,http://app.xinghuozhibo.net/dl/gt.php?id=gt71&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-民视,http://app.xinghuozhibo.net/dl/gt.php?id=gt72&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-台视,http://app.xinghuozhibo.net/dl/gt.php?id=gt73&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=tai_shi_4075&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-中视,http://app.xinghuozhibo.net/dl/gt.php?id=gt74&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-华视,http://app.xinghuozhibo.net/dl/gt.php?id=gt75&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-ELEVEN1,http://app.xinghuozhibo.net/dl/gt.php?id=gt77&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-ELEVEN2,http://app.xinghuozhibo.net/dl/gt.php?id=gt78&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-WIN综合台,http://app.xinghuozhibo.net/dl/gt.php?id=gt79&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-TVBS欢乐台,http://app.xinghuozhibo.net/dl/gt.php?id=gt80&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-TVBS新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt81&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-壹电视新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt82&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=
-东森财经新闻,http://app.xinghuozhibo.net/dl/gt.php?id=gt83&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=dong_sen_cai_jing_xin_wen_5039&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-东森新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt84&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=dong_sen_xin_wen_tai_1725&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-台视新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt85&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=tai_shi_xin_wen_4116&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-三立LIVE新闻,http://app.xinghuozhibo.net/dl/gt.php?id=gt86&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=san_li_xin_wen_5023&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-三立iNews,http://app.xinghuozhibo.net/dl/gt.php?id=gt87&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=san_li_iNEWS_5015&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVBS56,http://app.xinghuozhibo.net/dl/gt.php?id=gt88&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=tvbs_4113&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-华视新闻资讯,http://app.xinghuozhibo.net/dl/gt.php?id=gt89&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=hua_shi_xin_wen_4118&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-民视台湾台,http://app.xinghuozhibo.net/dl/gt.php?id=gt91&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=min_shi_tai_wan_tai_4073&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-民视新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt92&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=min_shi_xin_wen_tai_4110&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-民视影剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt93&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=min_shi_ying_ju_tai_4101&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-民视综艺台,http://app.xinghuozhibo.net/dl/gt.php?id=gt94&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-民视旅游台,http://app.xinghuozhibo.net/dl/gt.php?id=gt95&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=min_shi_lv_you_tai_4147&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-华语戏剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt96&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-华语综艺台,http://app.xinghuozhibo.net/dl/gt.php?id=gt97&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-影迷数位纪实台,http://app.xinghuozhibo.net/dl/gt.php?id=gt98&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191#@http://app.xinghuozhibo.net/dl/gt3.php?id=ying_mi_shu_wei_dian_ying_tai_4124&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-MTVLive,http://app.xinghuozhibo.net/dl/gt.php?id=gt99&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-History历史频道,http://app.xinghuozhibo.net/dl/gt.php?id=gt100&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-History历史频道2,http://app.xinghuozhibo.net/dl/gt.php?id=gt101&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CI罪案侦查频道,http://app.xinghuozhibo.net/dl/gt.php?id=gt102&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-电影原声台CMusic,http://app.xinghuozhibo.net/dl/gt.php?id=gt103&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-NickJr.儿童频道,http://app.xinghuozhibo.net/dl/gt.php?id=gt104&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-中天综合台,http://app.xinghuozhibo.net/dl/gt.php?id=gt105&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-TVBS精采台,http://app.xinghuozhibo.net/dl/gt.php?id=gt106&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-尼克儿童频道,http://app.xinghuozhibo.net/dl/gt.php?id=gt107&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-MOMO亲子台,http://app.xinghuozhibo.net/dl/gt.php?id=gt108&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CNBCAsia,http://app.xinghuozhibo.net/dl/gt.php?id=gt109&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CN卡通,http://app.xinghuozhibo.net/dl/gt.php?id=gt110&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CATCHPLAYBeyond,http://app.xinghuozhibo.net/dl/gt.php?id=gt111&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-三立综合台,http://app.xinghuozhibo.net/dl/gt.php?id=gt112&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-LoveNature,http://app.xinghuozhibo.net/dl/gt.php?id=gt113&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CTI中天新闻,http://app.xinghuozhibo.net/dl/gt.php?id=gt114&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-影迷数位电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt115&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CNEX视纳华仁纪实,http://app.xinghuozhibo.net/dl/gt.php?id=gt116&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-韩国娱乐台KMTV,http://app.xinghuozhibo.net/dl/gt.php?id=gt117&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-amc最爱电影,http://app.xinghuozhibo.net/dl/gt.php?id=gt118&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-八大精彩台,http://app.xinghuozhibo.net/dl/gt.php?id=gt119&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-八大综艺台,http://app.xinghuozhibo.net/dl/gt.php?id=gt120&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-公视戏剧,http://app.xinghuozhibo.net/dl/gt.php?id=gt121&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-靖洋戏剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt122&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-靖天综合台,http://app.xinghuozhibo.net/dl/gt.php?id=gt123&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-靖天日本台,http://app.xinghuozhibo.net/dl/gt.php?id=gt124&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-采昌影剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt125&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-NiceTV靖天欢乐台,http://app.xinghuozhibo.net/dl/gt.php?id=gt126&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-靖天戏剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt127&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-靖天电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt128&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-靖天育乐台,http://app.xinghuozhibo.net/dl/gt.php?id=gt129&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-靖天资讯台,http://app.xinghuozhibo.net/dl/gt.php?id=gt131&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-爱尔达娱乐台,http://app.xinghuozhibo.net/dl/gt.php?id=gt133&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-CATCHPLAY电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt135&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-中视经典台,http://app.xinghuozhibo.net/dl/gt.php?id=gt136&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-龙华电影台,http://app.xinghuozhibo.net/dl/gt.php?id=gt137&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-博斯高球台,http://app.xinghuozhibo.net/dl/gt.php?id=gt138&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-博斯高球二台,http://app.xinghuozhibo.net/dl/gt.php?id=gt139&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-龙华日韩台,http://app.xinghuozhibo.net/dl/gt.php?id=gt140&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-寰宇新闻台,http://app.xinghuozhibo.net/dl/gt.php?id=gt141&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-亚洲旅游台,http://app.xinghuozhibo.net/dl/gt.php?id=gt142&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-龙华戏剧台,http://app.xinghuozhibo.net/dl/gt.php?id=gt143&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-ELTV生活英语台,http://app.xinghuozhibo.net/dl/gt.php?id=gt144&tm=1665637934&key=5cba8b96cea20003d6cd492b19a7c191
-
-
-
 🇭🇰晴天频道,#genre#
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
@@ -181,8 +51,7 @@ RTHK 31,http://radius.8866.org:800/hls/89/index.m3u8
 RTHK 32,http://radius.8866.org:800/hls/90/index.m3u8
 RTHK 33,http://radius.8866.org:800/hls/91/index.m3u8
 
-
- 🇭🇰香港频道,#genre#
+🇭🇰香港频道,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,rtmp://pull-rtmp-l6.ixigua.com/live/哦欧u哈哈哈哈哈哈哈.flv
