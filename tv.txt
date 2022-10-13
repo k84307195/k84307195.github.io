@@ -41,58 +41,17 @@ TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2
 
 
 🇭🇰晴天频道,#genre#
-港台電視31,P2p://ns1.hellotvvod.com:9906/ac3566de7d694013b314422f45f5d489
-港台电视32,P2p://ns1.hellotvvod.com:9906/f7ec4a643d9d442a9b8877d2346002a5
-香港开电视,P2p://ns1.hellotvvod.com:9906/85f67c4ba13a48e6a3640dc3a33f0664
-﻿翡翠台(备),P2p://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
-J2,P2p://ns1.hellotvvod.com:9906/9450745386b54265a8545207642f6ef3
-无线新闻台(备),P2p://ns1.hellotvvod.com:9906/6ce4ec74efc745d1a1de188c83998b93
-无线新闻台,P2p://ns1.hellotvvod.com:9906/4420b03b9a9d41fcb689e0942ba3a597
-无线财经·资讯台,P2p://ns1.hellotvvod.com:9906/d93d3975e202442b9236ab9efb7ccaed
-ViuTVsix,P2p://ns1.hellotvvod.com:9906/ccfc5b06a2b2416b87751797039b5571
-ViuTV,P2p://ns1.hellotvvod.com:9906/6a8301b74ec445f1b409dd7f7c1d29c0
-凤凰中文台,P2p://ns1.hellotvvod.com:9906/83f91e289db74fb784e7c85cc2700e84
-凤凰资讯台,P2p://ns1.hellotvvod.com:9906/64fd39ea43ea442da01a0724358159b5
-凤凰香港台,P2p://ns1.hellotvvod.com:9906/6e93395708f048d6b6545664e69fc7b3
-TVB星河(粤),P2p://ns1.hellotvvod.com:9906/2a630ce6882040bcb88adb2fe8eeb27d
-now新闻台,P2p://ns1.hellotvvod.com:9906/4a46e2f2cef6453488f00c995bbf01e3
-now直播台,P2p://ns1.hellotvvod.com:9906/569f6bf263c64850ae53b5345fd30448
-HKC电影台,P2p://ns1.hellotvvod.com:9906/0eb7b2f3b7dc4cb8a1e39f1d247a5ead
-凤凰电影台,P2p://ns1.hellotvvod.com:9906/2546e7b069444e14868a5c8594cc0635
-HKC新闻台,P2p://ns1.hellotvvod.com:9906/a0ba6dabaab64a5c933ed36a4e43ecfe
-HKC财经资讯台,P2p://ns1.hellotvvod.com:9906/2fcc065db8ba4d7aa6d313054ff20537
-HKC 18,P2p://ns1.hellotvvod.com:9906/a48948f5a9ca4c1e80f0521172f9c0e7
-HKC 603,P2p://ns1.hellotvvod.com:9906/c604206a82294cf187acca6b9ab9ca85
-HKC體育台,P2p://ns1.hellotvvod.com:9906/e5c35eeb0bf9402fbf343bcebf8dbfd1
-HKC Sports Plus 1,P2p://ns1.hellotvvod.com:9906/4ee89ec4e7444f5781fa62b264574335
-HKC综合娱乐台,P2p://ns1.hellotvvod.com:9906/5ff478a548264fbd9c4d4f2c5b2b4897
-TVB娱乐新闻台,P2p://ns1.hellotvvod.com:9906/c12ba00d8095430a84ffe47b1e3178be
-翡翠台,P2p://ns1.hellotvvod.com:9906/95e49f5f257943fd9a81a33c15020621
-TVB经典台,P2p://ns1.hellotvvod.com:9906/6a5cd3058d7f4e8f97e0cef76dcfd74a
-Thrill,P2p://ns1.hellotvvod.com:9906/f5b6097145f544c5bd354c3b4273522a
-明珠台,P2p://ns1.hellotvvod.com:9906/0612f16c6a644395a0d77a90f6b3fe4a
-18台,P2p://ns1.hellotvvod.com:9906/2457e38c1461494f877a2b8d0c7755fe
-爆谷星影台,P2p://ns1.hellotvvod.com:9906/0e4cccfcd7de4d2c949eb55755731d63
-美亚电影台(粤语),P2p://ns1.hellotvvod.com:9906/4eaa1584e77345b88394215d2d3063d9
-Hands Up,P2p://ns1.hellotvvod.com:9906/ff22e916798a4c0492627c5e6a46cb79
-粤语片台,P2p://ns1.hellotvvod.com:9906/b8a9a9fbeb5f4ef4a15127b3b6d19471
-亚洲剧台,P2p://ns1.hellotvvod.com:9906/db59c8070b3f45789ebc65837d39c67c
-功夫台,P2p://ns1.hellotvvod.com:9906/209a921d807940e3bae8977bcb1d0eaf
-爆谷台,P2p://ns1.hellotvvod.com:9906/b70b2c18e6d04c17943030010de1c431
-天映频道,P2p://ns1.hellotvvod.com:9906/9d1115586ab44f6293d5638de12600f8
-翡翠台(华丽台),P2p://ns1.hellotvvod.com:9906/2593b5d6c10a4524b22d2b7e54d6aa24
-天映频道,P2p://ns1.hellotvvod.com:9906/9d1115586ab44f6293d5638de12600f8
-中天亚洲台,P2p://ns1.hellotvvod.com:9906/249b536410794663be6f525ab01d671e
-TVB星河(粤),P2p://ns1.hellotvvod.com:9906/2a630ce6882040bcb88adb2fe8eeb27d
-天映经典,P2p://ns1.hellotvvod.com:9906/2ac338d50ba04db2ae324f611f9e0027
-广东南方卫视,P2p://ns1.hellotvvod.com:9906/6a5f4d7a20ee4bd98492f5bb0cfac44a
-珠江台,P2p://ns1.hellotvvod.com:9906/ba97113b5a814e6c98170ebd154ad5f5
-金鹰卡通,P2p://ns1.hellotvvod.com:9906/8945ee45caa5456b84df7175bc4374f4
-魅力足球,P2p://ns1.hellotvvod.com:9906/403e6a1e8a6943059de606e0530c3b41
-五星体育,P2p://ns1.hellotvvod.com:9906/7da0c6f06d51417e8cdd58962a0168a4
-广东体育,P2p://ns1.hellotvvod.com:9906/c114d4ab48e341e8b51834778342c28a
-CCTV16,P2p://ns1.hellotvvod.com:9906/efe9b89e22f6466395fd13d270373e38
-广东影视,P2p://ns1.hellotvvod.com:9906/59128c23e5144483a21710aac0b7d9ce
+翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
+明珠台,http://radius.8866.org:800/hls/84/index.m3u8
+J2台,http://radius.8866.org:800/hls/81/index.m3u8
+无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
+无线财经资讯台,http://radius.8866.org:800/hls/83/index.m3u8
+ViuTV Six,http://radius.8866.org:800/hls/85/index.m3u8
+ViuTV,http://radius.8866.org:800/hls/86/index.m3u8
+RTHK 31,http://radius.8866.org:800/hls/89/index.m3u8
+RTHK 32,http://radius.8866.org:800/hls/90/index.m3u8
+RTHK 33,http://radius.8866.org:800/hls/91/index.m3u8
+
 
  🇭🇰香港频道,#genre#
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
