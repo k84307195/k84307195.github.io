@@ -319,7 +319,7 @@ MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
 MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
 
 
-🐟斗鱼轮播,#genre#
+🐟魅颜轮播,#genre#
 贝爷影厅,http://epg.112114.xyz/douyu/252802
 欧美大片1,http://epg.112114.xyz/douyu/20415
 欧美大片2,http://epg.112114.xyz/douyu/2793084
