@@ -51,27 +51,6 @@ RTHK 31,http://radius.8866.org:800/hls/89/index.m3u8
 RTHK 32,http://radius.8866.org:800/hls/90/index.m3u8
 RTHK 33,http://radius.8866.org:800/hls/91/index.m3u8
 
-🇭🇰香港频道,#genre#
-凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港,rtmp://pull-rtmp-l6.ixigua.com/live/哦欧u哈哈哈哈哈哈哈.flv
-TVB翡翠台,rtmp://pull-rtmp-l6.ixigua.com/live/GG分分彩v不v.flv
-TVBJ2,rtmp://pull-rtmp-l6.ixigua.com/live/多大的热天府大道hbd.flv
-无线新闻,rtmp://pull-rtmp-l6.ixigua.com/live/动态图复旦大学宣传广告.flv
-无线财经新闻,rtmp://pull-rtmp-l6.ixigua.com/live/发货打虎上山d.flv
-有线新闻,rtmp://pull-rtmp-l6.ixigua.com/live/有线新闻.flv
-天映电影,rtmp://pull-rtmp-l6.ixigua.com/live/盗墓笔记吧.flv
-ViuTV,rtmp://pull-rtmp-l6.ixigua.com/live/广告费多大尺寸.flv
-ViuSixTV,rtmp://pull-rtmp-l6.ixigua.com/live/防护好搞个vvv菊花.flv
-RHK31,rtmp://pull-rtmp-l6.ixigua.com/live/讴歌挺多的.flv
-香港开电视,http://127.0.0.1:19395/209.141.61.221:30002/hls/1/mydy/index.m3u8
-Now新闻,rtmp://pull-rtmp-l6.ixigua.com/live/福特野马.flv
-Now财经新闻,rtmp://pull-rtmp-l6.ixigua.com/live/大姑父反反复复d.flv
-Now爆谷,rtmp://pull-rtmp-l6.ixigua.com/live/老朱交道不是大.flv
-私人影院,http://27.47.69.150:808/hls/57/index.m3u8
-有线财经新闻,rtmp://pull-rtmp-l6.ixigua.com/live/粉条豆腐浮浮沉沉.flv
-TVB星河国语,rtmp://pull-rtmp-l6.ixigua.com/live/贵妃椅地铁大厦.flv
-
 🇭🇰香港内置,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -277,14 +256,22 @@ CGTN纪录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 国际教育2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 国际教育3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 国际教育4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+
 🇨🇳广州频道,#genre#
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
-广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
-广州竞赛,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
-广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
-南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+广州法治,http://ye23.win/iptv/gztv.php?id=fazhi
+广州法治,http://2941.vicp.net:8888/udp/239.253.43.74:5146
+广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
+广州竞赛,http://2941.vicp.net:8888/udp/239.253.43.75:5146
+广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
+广州新闻,http://2941.vicp.net:8888/udp/239.253.43.72:5146
+广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
+广州影视,http://2941.vicp.net:8888/udp/239.253.43.73:5146
+广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
+广州综合,http://2941.vicp.net:8888/udp/239.253.43.71:5146
+
+
+
 
 🇨🇳广东频道,#genre#
 广东综艺4K,rtsp://183.59.70.76:554/PLTV/88888905/224/3221229713/10000100000000060000000008646185_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EG5fEQeO2yT2LgijcyazKdg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052017120499000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73226&online=1605706505
@@ -446,15 +433,13 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 
 
 🇨🇳广州备用,#genre#
-广州法治,http://ye23.win/iptv/gztv.php?id=fazhi
-广州法治,http://2941.vicp.net:8888/udp/239.253.43.74:5146
-广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
-广州竞赛,http://2941.vicp.net:8888/udp/239.253.43.75:5146
-广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
-广州新闻,http://2941.vicp.net:8888/udp/239.253.43.72:5146
-广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
-广州影视,http://2941.vicp.net:8888/udp/239.253.43.73:5146
-广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
-广州综合,http://2941.vicp.net:8888/udp/239.253.43.71:5146
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
+广州竞赛,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
+广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
+南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+
 
 🇨🇳🇺🇸🇯🇵🇰🇷🇲🇾🇲🇴🇺🇳🌐💠🎈🛰️🐱💋🚗,#genre#
