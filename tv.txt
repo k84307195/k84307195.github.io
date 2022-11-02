@@ -39,18 +39,6 @@ HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.
 恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-🇭🇰晴天频道,#genre#
-翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
-明珠台,http://radius.8866.org:800/hls/84/index.m3u8
-J2台,http://radius.8866.org:800/hls/81/index.m3u8
-无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
-无线财经资讯台,http://radius.8866.org:800/hls/83/index.m3u8
-ViuTV Six,http://radius.8866.org:800/hls/85/index.m3u8
-ViuTV,http://radius.8866.org:800/hls/86/index.m3u8
-RTHK 31,http://radius.8866.org:800/hls/89/index.m3u8
-RTHK 32,http://radius.8866.org:800/hls/90/index.m3u8
-RTHK 33,http://radius.8866.org:800/hls/91/index.m3u8
-
 🇭🇰香港内置,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
