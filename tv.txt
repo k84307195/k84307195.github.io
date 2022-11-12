@@ -65,6 +65,22 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
  
+🇭🇰香港频道,#genre#
+TVB翡翠,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/81/index.m3u8
+TVB J2,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/82/index.m3u8
+TVB News,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/83/index.m3u8
+TVB Pearl,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/84/index.m3u8
+TVB明珠（粤语）,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/84b/index.m3u8
+TVB财经,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/85/index.m3u8
+ViuTVSix,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/96/index.m3u8
+ViuTV,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/99/index.m3u8
+HOY TV,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/77/index.m3u8
+HOY资讯,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/77/index.m3u8
+RTHK31,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/31/index.m3u8
+RTHK32,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/32/index.m3u8
+RTHK33,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/33/index.m3u8
+RTHK34,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/34/index.m3u8
+HKIBC,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/76/index.m3u8
 
  
 🇨🇳卫视频道,#genre#
