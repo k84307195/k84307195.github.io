@@ -55,7 +55,7 @@ J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 无线财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
 Now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
 HOY TV,https://cdn.hklive.tv/xxxx/77/index.m3u8
-HOY TV咨询台,https://cdn.hklive.tv/xxxx/78/index.m3u8
+HOY咨询台,https://cdn.hklive.tv/xxxx/78/index.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
 有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
