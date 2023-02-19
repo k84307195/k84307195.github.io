@@ -153,6 +153,18 @@ HKIBC,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/76/index.m3u8
 甘肃卫视,http://fxhack.f3322.org:8000/udp/239.77.0.189:5146
 
 🇨🇳中央频道,#genre#
+CCTV-1,http://fxhack.f3322.org:8000/udp/239.77.1.17:5146
+CCTV-1,http://fxhack.f3322.org:8000/udp/239.77.1.144:5146
+CCTV-1,http://fxhack.f3322.org:8000/udp/239.77.0.86:5146
+CCTV-1,http://fxhack.f3322.org:8000/udp/239.77.0.129:5146
+CCTV-2,http://fxhack.f3322.org:8000/udp/239.77.1.158:5146
+CCTV-2,http://fxhack.f3322.org:8000/udp/239.253.43.17:5146
+CCTV-2,http://fxhack.f3322.org:8000/udp/239.77.0.137:5146
+CCTV-3,http://fxhack.f3322.org:8000/udp/239.77.0.169:5146
+CCTV-3,http://fxhack.f3322.org:8000/udp/239.77.0.175:5146
+CCTV-4,http://fxhack.f3322.org:8000/udp/239.77.1.163:5146
+CCTV-4,http://fxhack.f3322.org:8000/udp/239.77.1.166:5146
+CCTV-4,http://fxhack.f3322.org:8000/udp/239.77.0.78:5146
 CCTV-5,http://fxhack.f3322.org:8000/udp/239.77.0.170:5146
 CCTV-5,http://fxhack.f3322.org:8000/udp/239.77.0.177:5146
 CCTV-5+,http://fxhack.f3322.org:8000/udp/239.77.0.87:5146
@@ -213,6 +225,7 @@ CGTN俄语,http://fxhack.f3322.org:8000/udp/239.253.43.201:5146
 CGTN法语,http://fxhack.f3322.org:8000/udp/239.77.0.228:5146
 CGTN西班牙语,http://fxhack.f3322.org:8000/udp/239.77.0.221:5146
 CGTN阿拉伯语,http://fxhack.f3322.org:8000/udp/239.253.43.200:5146
+
 🇨🇳广州频道,#genre#
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
