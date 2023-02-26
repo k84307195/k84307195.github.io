@@ -1,44 +1,3 @@
-🌟GaTO,#genre#
-凤凰香港,http://tptv.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
-凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
-凤凰中文,http://171.110.62.170:8181/tsfile/live/1070_1.m3u8
-凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
-凤凰资讯,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top
-凤凰资讯,http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-J2,http://120.84.96.195:808/hls/86/index.m3u8
-J2,http://120.84.96.75:808/hls/86/index.m3u8
-翡翠台,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
-翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
-翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
-翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
-翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
-无线新闻,http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
-无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
-明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
-星河台,http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
-星河台,http://113.64.147.60:808/hls/135/index.m3u8
-开电视,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8?blog.ntnas.top
-开电视,https://epg.pm/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8?blog.ntnas.top
-开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8?blog.ntnas.top
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
-开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
-有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8?blog.ntnas.top
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8?blog.ntnas.top
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8?blog.ntnas.top
-RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?blog.ntnas.top
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?blog.ntnas.top
-ViuTV,http://kkmix2.f3322.net:770/hls/ch2/s.m3u8
-ViuTVsix,mitv://45.92.126.18:9906/627160d00008ced7098cbc29e23c5e0c
-HKIBC香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8?blog.ntnas.top
-恐怖电影,http://akm-tct.douyucdn.cn/live/263824rDqYbJThkR.m3u8
-TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-
 🇭🇰香港内置,#genre#
 凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -330,7 +289,7 @@ MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
 MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
 
 
-🐟魅颜轮播,#genre#
+🐟斗鱼轮播,#genre#
 贝爷影厅,http://epg.112114.xyz/douyu/252802
 欧美大片1,http://epg.112114.xyz/douyu/20415
 欧美大片2,http://epg.112114.xyz/douyu/2793084
@@ -472,4 +431,4 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 
 
 
-🇨🇳🇺🇸🇯🇵🇰🇷🇲🇾🇲🇴🇺🇳🌐💠🎈🛰️🐱💋🚗,#genre#
+🇨🇳🇺🇸🇯🇵🇰🇷🇲🇾🇲🇴🇺🇳🌐🌟💠🎈🛰️🐱💋🚗,#genre#
