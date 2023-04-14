@@ -27,21 +27,60 @@ RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
  
 🇭🇰香港频道,#genre#
-TVB翡翠,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/81/index.m3u8
-TVB J2,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/82/index.m3u8
-TVB News,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/83/index.m3u8
-TVB Pearl,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/84/index.m3u8
-TVB明珠（粤语）,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/84b/index.m3u8
-TVB财经,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/85/index.m3u8
-ViuTVSix,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/96/index.m3u8
-ViuTV,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/99/index.m3u8
-HOY TV,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/77/index.m3u8
-HOY资讯,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/77/index.m3u8
-RTHK31,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/31/index.m3u8
-RTHK32,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/32/index.m3u8
-RTHK33,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/33/index.m3u8
-RTHK34,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/34/index.m3u8
-HKIBC,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/76/index.m3u8
+凤凰卫视中文,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=1
+凤凰卫视资讯,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=2
+TVB翡翠台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=5
+TVB无线新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=6
+TVB财经体育资讯台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=7
+TVB J2台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=8
+TVB明珠台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=9
+香港有线新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=11
+香港有线18台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=12
+香港有线高清603台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=13
+香港有线体育台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=14
+香港有线财经资讯台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=15
+NOW新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=17
+ViuTV,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=19
+ViuTVSix,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=20
+香港国际财经台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=22
+HOY资讯台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=23
+HOY TV,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=24
+港台电视31,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=26
+港台电视32,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=27
+香港卫视HKS,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=30
+耀才财经,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=32
+澳门莲花,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=35
+澳門卫视,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=36
+澳视资讯,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=37
+澳視澳門,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=38
+澳門Macau,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=39
+澳视综艺,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=40
+中天新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=43
+东森新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=44
+东森财经新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=45
+中视新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=46
+台视新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=47
+三立新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=48
+三立iNEWS,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=49
+民视新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=50
+华视新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=51
+镜电视新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=52
+寰宇新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=53
+TVBS新闻台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=54
+TVBS HD,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=56
+TVBS欢乐台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=57
+中视HD,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=60
+台视HD,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=61
+民视HD,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=62
+华视HD,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=63
+纬来体育台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=73
+纬来日本台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=74
+纬来育乐台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=75
+ELEVEN 1,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=76
+ELEVEN 2,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=77
+爱尔达体育1台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=79
+爱尔达体育2台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=80
+爱尔达体育3台,http://47.113.189.55/iptv/iptv.php?key=3b36460a91f8de28fac8f1758dcb012d&id=81
 
  
 🇨🇳卫视频道,#genre#
