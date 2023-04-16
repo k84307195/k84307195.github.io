@@ -44,13 +44,6 @@ CCTV-14,http://nsszds.f3322.net:8081/hls/14/index.m3u8
 CCTV-15高清,http://nsszds.f3322.net:8081/hls/15/index.m3u8
 CCTV5+高清,http://nsszds.f3322.net:8081/hls/16/index.m3u8
 CCTV-17,http://nsszds.f3322.net:8081/hls/17/index.m3u8
-南山有线,http://nsszds.f3322.net:8081/hls/18/index.m3u8
-揭西台,http://nsszds.f3322.net:8081/hls/19/index.m3u8
-本祖国同胞,http://nsszds.f3322.net:8081/hls/135/index.m3u8
-揭阳公共,http://nsszds.f3322.net:8081/hls/22/index.m3u8
-揭阳综合,http://nsszds.f3322.net:8081/hls/21/index.m3u8
-潮州综合,http://nsszds.f3322.net:8081/hls/23/index.m3u8
-汕头台,http://nsszds.f3322.net:8081/hls/24/index.m3u8
 翡翠台,http://nsszds.f3322.net:8081/hls/25/index.m3u8
 明珠台,http://nsszds.f3322.net:8081/hls/26/index.m3u8
 广东公共,http://nsszds.f3322.net:8081/hls/27/index.m3u8
@@ -156,7 +149,13 @@ CCTV-4,http://nsszds.f3322.net:8081/hls/131/index.m3u8
 CCTV-10,http://nsszds.f3322.net:8081/hls/133/index.m3u8
 CCTV-12,http://nsszds.f3322.net:8081/hls/134/index.m3u8
 中国气象,http://nsszds.f3322.net:8081/hls/33/index.m3u
-
+南山有线,http://nsszds.f3322.net:8081/hls/18/index.m3u8
+揭西台,http://nsszds.f3322.net:8081/hls/19/index.m3u8
+本祖国同胞,http://nsszds.f3322.net:8081/hls/135/index.m3u8
+揭阳公共,http://nsszds.f3322.net:8081/hls/22/index.m3u8
+揭阳综合,http://nsszds.f3322.net:8081/hls/21/index.m3u8
+潮州综合,http://nsszds.f3322.net:8081/hls/23/index.m3u8
+汕头台,http://nsszds.f3322.net:8081/hls/24/index.m3u8
  
 🇨🇳卫视频道,#genre#
 安徽卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
