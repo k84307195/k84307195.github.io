@@ -1,8 +1,7 @@
 🇭🇰香港内置,#genre#
-凤凰香港,http://120.84.96.195:808/hls/81/index.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯高清,http://nsszds.f3322.net:8081/hls/36/index.m3u8
+凤凰卫视高清,http://nsszds.f3322.net:8081/hls/37/index.m3u8
+凤凰深圳旁边高清,http://nsszds.f3322.net:8081/hls/38/index.m3u8
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
@@ -27,6 +26,12 @@ RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
  
 🇭🇰酒店秒开,#genre#
+凤凰资讯高清,http://nsszds.f3322.net:8081/hls/36/index.m3u8
+凤凰卫视高清,http://nsszds.f3322.net:8081/hls/37/index.m3u8
+凤凰深圳旁边高清,http://nsszds.f3322.net:8081/hls/38/index.m3u8
+翡翠台,http://nsszds.f3322.net:8081/hls/25/index.m3u8
+明珠台,http://nsszds.f3322.net:8081/hls/26/index.m3u8
+
 CCTV-1高清,http://nsszds.f3322.net:8081/hls/138/index.m3u8
 CCTV-2高清,http://nsszds.f3322.net:8081/hls/2/index.m3u8
 CCTV-3高清,http://nsszds.f3322.net:8081/hls/3/index.m3u8
@@ -44,8 +49,7 @@ CCTV-14,http://nsszds.f3322.net:8081/hls/14/index.m3u8
 CCTV-15高清,http://nsszds.f3322.net:8081/hls/15/index.m3u8
 CCTV5+高清,http://nsszds.f3322.net:8081/hls/16/index.m3u8
 CCTV-17,http://nsszds.f3322.net:8081/hls/17/index.m3u8
-翡翠台,http://nsszds.f3322.net:8081/hls/25/index.m3u8
-明珠台,http://nsszds.f3322.net:8081/hls/26/index.m3u8
+
 广东公共,http://nsszds.f3322.net:8081/hls/27/index.m3u8
 广东体育高清,http://nsszds.f3322.net:8081/hls/1/index.m3u8
 广东新闻,http://nsszds.f3322.net:8081/hls/28/index.m3u8
@@ -55,10 +59,7 @@ CCTV-17,http://nsszds.f3322.net:8081/hls/17/index.m3u8
 广东少儿,http://nsszds.f3322.net:8081/hls/32/index.m3u8
 动作电影,http://nsszds.f3322.net:8081/hls/34/index.m3u8
 家庭影院,http://nsszds.f3322.net:8081/hls/35/index.m3u8
-凤凰资讯高清,http://nsszds.f3322.net:8081/hls/36/index.m3u8
-凤凰卫视高清,http://nsszds.f3322.net:8081/hls/37/index.m3u8
-凤凰深圳旁边高清,http://nsszds.f3322.net:8081/hls/38/index.m3u8
-揭西高清,http://nsszds.f3322.net:8081/hls/39/index.m3u8
+
 珠江卫视高清,http://nsszds.f3322.net:8081/hls/41/index.m3u8
 浙江卫视高清,http://nsszds.f3322.net:8081/hls/43/index.m3u8
 湖南卫视高清,http://nsszds.f3322.net:8081/hls/42/index.m3u8
@@ -156,7 +157,8 @@ CCTV-12,http://nsszds.f3322.net:8081/hls/134/index.m3u8
 揭阳综合,http://nsszds.f3322.net:8081/hls/21/index.m3u8
 潮州综合,http://nsszds.f3322.net:8081/hls/23/index.m3u8
 汕头台,http://nsszds.f3322.net:8081/hls/24/index.m3u8
- 
+揭西高清,http://nsszds.f3322.net:8081/hls/39/index.m3u8
+
 🇨🇳卫视频道,#genre#
 安徽卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 北京卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
