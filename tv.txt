@@ -26,9 +26,6 @@ RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
  
 🇭🇰酒店秒开,#genre#
-凤凰资讯高清,http://nsszds.f3322.net:8081/hls/36/index.m3u8
-凤凰卫视高清,http://nsszds.f3322.net:8081/hls/37/index.m3u8
-凤凰深圳旁边高清,http://nsszds.f3322.net:8081/hls/38/index.m3u8
 TVB翡翠台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=5 
 TVB无线新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=6 
 TVB财经体育资讯台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=7 TVB J2台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=8 
