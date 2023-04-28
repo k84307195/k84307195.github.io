@@ -1,7 +1,6 @@
 🇭🇰香港内置,#genre#
-凤凰资讯高清,http://nsszds.f3322.net:8081/hls/36/index.m3u8
-凤凰卫视高清,http://nsszds.f3322.net:8081/hls/37/index.m3u8
-凤凰深圳旁边高清,http://nsszds.f3322.net:8081/hls/38/index.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
@@ -26,37 +25,8 @@ RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
  
 🇭🇰酒店秒开,#genre#
-TVB翡翠台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=5 
-TVB无线新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=6 
-TVB财经体育资讯台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=7 TVB J2台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=8 
-TVB明珠台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=9 
-香港有线新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=11 
-香港有线18台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=12 
-香港有线高清603台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=13 
-香港有线体育台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=14 
-香港有线财经资讯台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=15 
-NOW新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=17 ViuTV,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=19 
-ViuTVSix,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=20 
-香港国际财经台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=22
- HOY资讯台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=23 
-HOY TV,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=24
- 港台电视31,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=26
- 港台电视32,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=27 
-香港卫视HKS,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=30 
-耀才财经,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=32 
-澳门莲花,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=35 
-澳門卫视,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=36 
-澳视资讯,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=37
- 澳視澳門,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=38
- 澳門Macau,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=39 
-澳视综艺,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=40 
-中天新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=43
- 东森新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=44 
-东森财经新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=45 
-中视新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=46 
-台视新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=47 
-三立新闻台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=48
-
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 CCTV1综合高清,http://jylt.jdshipin.com:808/hls/101/index.m3u8
 CCTV2财经高清,http://jylt.jdshipin.com:808/hls/102/index.m3u8
 CCTV3综艺高清,http://jylt.jdshipin.com:808/hls/3/index.m3u8
