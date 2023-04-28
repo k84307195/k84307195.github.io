@@ -1,4 +1,5 @@
 🇭🇰香港内置,#genre#
+凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
@@ -25,6 +26,7 @@ RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
  
 🇭🇰酒店秒开,#genre#
+凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 CCTV1综合高清,http://jylt.jdshipin.com:808/hls/101/index.m3u8
