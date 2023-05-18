@@ -13,11 +13,7 @@ J2台,http://cdn.hkdtmb.com/raw/82.ts
 無綫財經·資訊台,http://cdn.hkdtmb.com/raw/85.ts
 ViuTV,http://cdn.hkdtmb.com/raw/99.ts
 ViuTVSix,http://cdn.hkdtmb.com/raw/96.ts
-Now新闻台,http://cdn.hkdtmb.com/raw/332.ts
-有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
-国际财经资讯,https://cdn.hklive.tv/xxxx/76/index.m3u8
+
 
 🇭🇰香港内置,#genre#
 凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
