@@ -1,3 +1,19 @@
+🇭🇰香港ts,#genre#
+港台電視31,http://cdn.hkdtmb.com/raw/31.ts
+港台電視32,http://cdn.hkdtmb.com/raw/32.ts
+港台電視33,http://cdn.hkdtmb.com/raw/33.ts
+CGTN紀錄頻道,http://cdn.hkdtmb.com/raw/34.ts
+HOY TV,http://cdn.hkdtmb.com/raw/77.ts
+HOY TV 資訊台,http://cdn.hkdtmb.com/raw/78.ts
+香港國際財經台,http://cdn.hkdtmb.com/raw/76.ts
+翡翠台,http://cdn.hkdtmb.com/raw/81.ts
+J2台,http://cdn.hkdtmb.com/raw/82.ts
+無綫新聞台,http://cdn.hkdtmb.com/raw/83.ts
+明珠台,http://cdn.hkdtmb.com/raw/84.ts
+無綫財經·資訊台,http://cdn.hkdtmb.com/raw/85.ts
+ViuTV,http://cdn.hkdtmb.com/raw/99.ts
+ViuTVSix,http://cdn.hkdtmb.com/raw/96.ts
+
 🇭🇰香港内置,#genre#
 凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
