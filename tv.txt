@@ -74,7 +74,7 @@ CCTV17农村农业,http://jylt.jdshipin.com:808/hls/117/index.m3u8
 广东珠江高清,http://jylt.jdshipin.com:808/hls/122/index.m3u8
 广东岭南戏曲,http://jylt.jdshipin.com:808/hls/143/index.m3u8
 广东少儿,http://jylt.jdshipin.com:808/hls/120/index.m3u8
-广东公共,http://jylt.jdshipin.com:808/hls/148/index.m3u8
+广东公共,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdgg&auth=rinimabi#http://jylt.jdshipin.com:808/hls/148/index.m3u8
 大湾区卫视,http://jylt.jdshipin.com:808/hls/67/index.m3u8
 深圳卫视高清,http://jylt.jdshipin.com:808/hls/125/index.m3u8
 湖南卫视高清,http://jylt.jdshipin.com:808/hls/126/index.m3u8
