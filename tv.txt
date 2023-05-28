@@ -241,6 +241,7 @@ CGTN,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8
 广东阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
 
 🇨🇳广东组播,#genre#
+广东珠江【测试】,rtp://239.77.0.1:5146
 广东卫视,http://fuhome.vicp.fun:4000/rtp/239.77.1.19:5146
 广东卫视,http://fuhome.vicp.fun:4000/rtp/239.77.1.152:5146
 广东卫视,http://fuhome.vicp.fun:4000/rtp/239.77.0.84:5146
