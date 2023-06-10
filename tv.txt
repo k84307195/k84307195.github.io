@@ -2,7 +2,7 @@
 
 
 🇭🇰香港内置,#genre#
-J 2(挂梯可加速),http://magicluweibo.com/hehe/36.php
+
 凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
