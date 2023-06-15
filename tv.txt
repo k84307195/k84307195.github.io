@@ -439,9 +439,31 @@ CINEMAX(HK),http://bad-ass.site/pachong.php?user=guest&id=1266
 HBO Signature(HK),http://bad-ass.site/pachong.php?user=guest&id=1267
 HBO(HK),http://bad-ass.site/pachong.php?user=guest&id=1268
 
+🇭🇰香港新地,#genre#
+港台電視31,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/31/index.m3u8?token=TzA24JK7ZUp8qivbhLFAwA&expires=1730047591
+港台電視32,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/32/index.m3u8?token=NW0h0_OHRadurunEQhUW3A&expires=1730047591
+港台電視33,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/33/index.m3u8?token=ALG8waVMQ_0iZ-N6wkKQ6w&expires=1730047591
+CGTN紀錄頻道,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/34/index.m3u8?token=OppJgDJrDQWQERgkzKUfJw&expires=1730047591
+HOY TV,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/77/index.m3u8?token=1E2QlfAw9S7Pr10ElkevsA&expires=1730047591
+HOY TV 資訊台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/78/index.m3u8?token=fTBphjWOqwMNcKHUI_ZP_w&expires=1730047591
+香港國際財經台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/76/index.m3u8?token=ZPbJFq0cHt84JrdyFRQK_g&expires=1730047591
+翡翠台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/81/index.m3u8?token=kg4X2Sd_IWwmmcLNmOwD5Q&expires=1730047591
+J2台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/82/index.m3u8?token=PrEgIFb9LBC5g_RxIdM9FA&expires=1730047591
+無綫新聞台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/83/index.m3u8?token=ZYnlpEmjEV4A_oyRQEGFYw&expires=1730047591
+明珠台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/84/index.m3u8?token=aHdSpKUjGAigOkZwJ6OcTA&expires=1730047591
+無綫財經·資訊台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/85/index.m3u8?token=0JeranAM5Vg1pubN8a9zGA&expires=1730047591
+ViuTV,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/99/index.m3u8?token=fFm2CSBOtUVZJpUtaVxzXQ&expires=1730047591
+ViuTVSix,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/96/index.m3u8?token=mkGu0t9Fd1_l8LbTpv9F5g&expires=1730047591
+Viu,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/102/index.m3u8?token=zdAz2d1ff44ICnDHM5ruEA&expires=1730047591
+Now 新聞台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/332/index.m3u8?token=2znlDsgfGo59RaCW_n702Q&expires=1730047591
+Now Sports 精選,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/630/index.m3u8?token=hrdaTTl_PAIs7yBwg9klQg&expires=1730047591
+Now Sports 1台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/631/index.m3u8?token=6g9KqLPsgejg2xPmgeS3Jg&expires=1730047591
+SUPER FREE,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/001/index.m3u8?token=Fnof12dLhgIOXpu0VG3HJg&expires=1730047591
+Hands Up Channel,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/100/index.m3u8?token=OjMqok8nRaLMDY-KexHPBg&expires=1730047591
+美亞電影台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/201/index.m3u8?token=wKSesUrq3OHhIqdh6kyBpg&expires=1730047591
+
 
 🇭🇰香港内置,#genre#
-
 凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
