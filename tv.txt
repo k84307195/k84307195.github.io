@@ -24,7 +24,7 @@ Hands Up Channel,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/100/index.m3u8?to
 美亞電影台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/201/index.m3u8?token=wKSesUrq3OHhIqdh6kyBpg&expires=1730047591
 
 🇨🇳卫视频道,#genre#
-广东卫视,http://mail.owenxuan.com:10000/udp/225.1.101.151:7523
+广东卫视,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdxw&auth=rinimabi#http://mail.owenxuan.com:10000/udp/225.1.101.151:7523
 浙江卫视,http://mail.owenxuan.com:10000/udp/225.1.101.154:7523
 江苏卫视,http://mail.owenxuan.com:10000/udp/225.1.101.153:7523
 湖南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.199:7523
