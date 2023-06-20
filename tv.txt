@@ -4,7 +4,7 @@
 港台電視31,https://cdn.hkdtmb.com/31/index.m3u8?token=SamdJV0-uOW3nGiF9szOqA&expires=1701626456
 港台電視32,https://cdn.hkdtmb.com/32/index.m3u8?token=0uRl6sc6uWZXYxLypYikAw&expires=1701626513
 港台電視33,https://cdn.hkdtmb.com/33/index.m3u8?token=F36A_dk7Mshm6AfZ3wBo4g&expires=1701626561
-https://cdn.hkdtmb.com/34/index.m3u8?token=0VZRYAgyI35Yc5Lfxfvnig&expires=1701626612
+港台電視34,https://cdn.hkdtmb.com/34/index.m3u8?token=0VZRYAgyI35Yc5Lfxfvnig&expires=1701626612
 CGTN紀錄頻道,https://cdn.hkdtmb.com/34/index.m3u8?token=0VZRYAgyI35Yc5Lfxfvnig&expires=1701626612
 HOY TV,https://cdn.hkdtmb.com/77/index.m3u8?token=VxEmFVjdZX8N1aNpZzTrlg&expires=1701626754
 HOY TV 資訊台,https://cdn.hkdtmb.com/78/index.m3u8?token=veOB9epwvwGnkwTR22TKfw&expires=1701626792
@@ -19,7 +19,7 @@ ViuTV,https://cdn.hkdtmb.com/99/index.m3u8?token=ZtF9gvuYXReRw1VNTrEiog&expires=
 ViuTVSix,https://cdn.hkdtmb.com/96/index.m3u8?token=uC833MmVXUM-0davaaXdbQ&expires=1701627125
 Viu,https://cdn-02.hkdtmb.com//102/index.m3u8?token=eIIupoy2uAd36aVbdw7gYQ&expires=1701627211
 Now 新聞台,https://cdn-02.hkdtmb.com//332/index.m3u8?token=95A7PDAUS1WbtjKT5A1Jjw&expires=1701627249
-Now 英超https://cdn-02.hkdtmb.com//621/index.m3u8?token=EkEKvCzGoPFWUDvZaq4JMQ&expires=1701627287
+Now 英超,https://cdn-02.hkdtmb.com//621/index.m3u8?token=EkEKvCzGoPFWUDvZaq4JMQ&expires=1701627287
 Now Sports 精選,https://cdn-02.hkdtmb.com//630/index.m3u8?token=Jjff5inIwWL0ixrddUeB6w&expires=1701627403
 Now Sports 1台,https://cdn-02.hkdtmb.com//631/index.m3u8?token=Gj0ETMgeTqVsF0KYvrIkig&expires=1701627452
 Now Sports 2台,https://cdn-02.hkdtmb.com//632/index.m3u8?token=cSLEyRjpKCFzdDVvs5jqxg&expires=1701627533
