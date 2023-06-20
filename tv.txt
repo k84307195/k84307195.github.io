@@ -18,7 +18,7 @@ J2台,https://cdn.hkdtmb.com/82/index.m3u8?token=jiU0Rm6se_I1i2WA-Fjbvg&expires=
 ViuTV,https://cdn.hkdtmb.com/99/index.m3u8?token=ZtF9gvuYXReRw1VNTrEiog&expires=1701627171
 ViuTVSix,https://cdn.hkdtmb.com/96/index.m3u8?token=uC833MmVXUM-0davaaXdbQ&expires=1701627125
 Viu,https://cdn-02.hkdtmb.com//102/index.m3u8?token=eIIupoy2uAd36aVbdw7gYQ&expires=1701627211
-Now 新聞台,https://cdn-02.hkdtmb.com//332/index.m3u8?token=95A7PDAUS1WbtjKT5A1Jjw&expires=1701627249
+Now 新聞台,https://cdn-02.hkdtmb.com//332/index.m3u8?token=We0xQ_-KUUy961ogjqP2hA&expires=1701630908
 Now 英超,https://cdn-02.hkdtmb.com//621/index.m3u8?token=EkEKvCzGoPFWUDvZaq4JMQ&expires=1701627287
 Now Sports 精選,https://cdn-02.hkdtmb.com//630/index.m3u8?token=Jjff5inIwWL0ixrddUeB6w&expires=1701627403
 Now Sports 1台,https://cdn-02.hkdtmb.com//631/index.m3u8?token=Gj0ETMgeTqVsF0KYvrIkig&expires=1701627452
