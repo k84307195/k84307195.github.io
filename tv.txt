@@ -18,7 +18,7 @@ J2台,https://cdn.hkdtmb.com/82/index.m3u8?token=jiU0Rm6se_I1i2WA-Fjbvg&expires=
 ViuTV,https://cdn.hkdtmb.com/99/index.m3u8?token=ZtF9gvuYXReRw1VNTrEiog&expires=1701627171
 ViuTVSix,https://cdn.hkdtmb.com/96/index.m3u8?token=uC833MmVXUM-0davaaXdbQ&expires=1701627125
 Viu,https://cdn-02.hkdtmb.com//102/index.m3u8?token=eIIupoy2uAd36aVbdw7gYQ&expires=1701627211
-Now 新聞台,https://cdn-02.hkdtmb.com//332/index.m3u8?token=We0xQ_-KUUy961ogjqP2hA&expires=1701630908
+Now 新聞台,http://cdn-02.hkdtmb.com//332/index.m3u8?token=zh8kZMTy9tAsfd1qU1n8fw&expires=1701725755
 Now 英超,https://cdn-02.hkdtmb.com//621/index.m3u8?token=EkEKvCzGoPFWUDvZaq4JMQ&expires=1701627287
 Now Sports 精選,https://cdn-02.hkdtmb.com//630/index.m3u8?token=Jjff5inIwWL0ixrddUeB6w&expires=1701627403
 Now Sports 1台,https://cdn-02.hkdtmb.com//631/index.m3u8?token=Gj0ETMgeTqVsF0KYvrIkig&expires=1701627452
@@ -27,7 +27,7 @@ Now Sports 3台,https://cdn-02.hkdtmb.com//633/index.m3u8?token=YlwdvlzHS_9KAePZ
 SUPER FREE,https://cdn-02.hkdtmb.com//001/index.m3u8?token=GArRDGNT4zUPJcSXO0Q1Kw&expires=1701627702
 Hands Up Channel,https://cdn-02.hkdtmb.com//100/index.m3u8?token=H3gFW9AzUltmZEbXvIsNpg&expires=1701627739
 美亞電影台,http://cdn-02.hkdtmb.com//201/index.m3u8?token=XKTu0xW9qTZ9FTgcRSmuYA&expires=1701724877
-翡翠台4K,http://cdn-02.hkdtmb.com//981/index.m3u8?token=h-t6oNPGLi9bJYl8qgimhQ&expires=1701725164
+翡翠台4K,http://cdn-02.hkdtmb.com//981/index.m3u8?token=kGeVZfBbGqrrl5JXdctvoA&expires=1701725503
 
 🇨🇳卫视频道,#genre#
 广东卫视,http://mail.owenxuan.com:10000/udp/225.1.101.151:7523
