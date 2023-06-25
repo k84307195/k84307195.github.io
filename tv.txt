@@ -10,9 +10,9 @@ HOY TV,https://cdn.hkdtmb.com/dtmb/77/index.m3u8?token=_ONA5J8ZyM3ANq2jW6PyLQ&ex
 HOY TV 資訊台,https://cdn.hkdtmb.com/dtmb/78/index.m3u8?token=y4_2sOCsiNHM7YHl9eFnOg&expires=1702059961
 翡翠台,https://cdn.hkdtmb.com/dtmb/81/index.m3u8?token=uHjDeQLUcG1a6dK92AW4yg&expires=1702059848
 J2台,https://cdn.hkdtmb.com/dtmb/82/index.m3u8?token=E9khCEB9f5TVDEZsC2_XIw&expires=1701967854
-無綫新聞台,https://cdn.hkdtmb.com/dtmb/83/index.m3u8?token=QyTfxreva5we1ZqaeWgfrA&expires=1701967876
-明珠台丽音,https://cdn.hkdtmb.com/dtmb/84/index.m3u8?token=vQtipKNwcwIuNGCE5WUE_Q&expires=1701967534
-明珠台原声,https://cdn.hkdtmb.com/dtmb/84b/index.m3u8?token=bJmsvhuzRNktE845ZTPPeQ&expires=1701967567
+無綫新聞台,https://cdn.hkdtmb.com/dtmb/83/index.m3u8?token=lNfYfDPZTLi5q4MM5lVPRg&expires=1702060230
+明珠台丽音,https://cdn.hkdtmb.com/dtmb/84/index.m3u8?token=JW0cU-GkUStNv5B_9arIRA&expires=1702060266
+明珠台原声,https://cdn.hkdtmb.com/dtmb/84b/index.m3u8?token=nmELeZPSfrHNFijH_QCVvQ&expires=17020602947
 無綫財經·資訊台,https://cdn.hkdtmb.com/dtmb/85/index.m3u8?token=jnR8-oHKa8dMWDFLsO3zOQ&expires=1701967590
 ViuTVSix,https://cdn.hkdtmb.com/dtmb/96/index.m3u8?token=BgI2kYgnRXX6EorQVOB8Eg&expires=1701967617
 ViuTV,https://cdn.hkdtmb.com/99/index.m3u8?token=k6A-4vKXfYPToVj_RuBEFg&expires=1701891753
