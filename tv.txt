@@ -6,8 +6,8 @@
 港台電視33,https://cdn.hkdtmb.com/dtmb/33/index.m3u8?token=JeUtj1jB9a6Zc6HlZN-Kbw&expires=1701967715
 港台電視34,https://cdn.hkdtmb.com/dtmb/34/index.m3u8?token=A5-ZrZG7TD-LAlDCtgL7Ww&expires=1701967738
 香港國際財經台,https://cdn.hkdtmb.com/dtmb/76/index.m3u8?token=dldHD532zMjNqz6XxwO9GQ&expires=1701967763
-HOY TV,https://cdn.hkdtmb.com/dtmb/77/index.m3u8?token=_rQskfW4FBgW4nFvv3GwqA&expires=1701967781
-HOY TV 資訊台,https://cdn.hkdtmb.com/dtmb/78/index.m3u8?token=ujkYMTIbzdqbqFF3jgzD-g&expires=1701967806
+HOY TV,https://cdn.hkdtmb.com/dtmb/77/index.m3u8?token=_ONA5J8ZyM3ANq2jW6PyLQ&expires=1702059918
+HOY TV 資訊台,https://cdn.hkdtmb.com/dtmb/78/index.m3u8?token=y4_2sOCsiNHM7YHl9eFnOg&expires=1702059961
 翡翠台,https://cdn.hkdtmb.com/dtmb/81/index.m3u8?token=uHjDeQLUcG1a6dK92AW4yg&expires=1702059848
 J2台,https://cdn.hkdtmb.com/dtmb/82/index.m3u8?token=E9khCEB9f5TVDEZsC2_XIw&expires=1701967854
 無綫新聞台,https://cdn.hkdtmb.com/dtmb/83/index.m3u8?token=QyTfxreva5we1ZqaeWgfrA&expires=1701967876
