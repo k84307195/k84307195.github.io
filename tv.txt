@@ -1,4 +1,4 @@
-🇭🇰香港新地,#genre#
+🇭🇰香港地1,#genre#
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 港台電視31,https://cdn.hkdtmb.com/dtmb/31/index.m3u8?token=Wvb0WDgoXoVWer-lq71fbA&expires=1702135655
@@ -27,6 +27,24 @@ SUPER FREE,http://cdn.hkdtmb.com/NonSugar/001/index.m3u8?token=yjNX2ffPazJKwEEfB
 Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5udW12F6Vjkww&expires=1701964770
 美亞電影台,http://cdn.hkdtmb.com/NonSugar/201/index.m3u8?token=CLGudI6NWALPcRLNMk0Jng&expires=1701964737
 翡翠台4K,http://cdn.hkdtmb.com/NonSugar/81b/index.m3u8?token=4JvlW9sJSGo2ARyzigQH8g&expires=1701964695
+
+🇭🇰香港地2,#genre#
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+港台電視31,http://hklive.tv/dtmb/31/index.m3u8?token=QrNmjmunAwLMT8ZD1cVX3w&expires=1688905056
+港台電視32,http://hklive.tv/dtmb/32/index.m3u8?token=TmfL9fb4m4C7hMTUBCtyTA&expires=1688905056
+港台電視33,http://hklive.tv/dtmb/33/index.m3u8?token=pRalpSWWEuyXdn1Mz2ePiw&expires=1688905056
+HOY TV,http://hklive.tv/dtmb/77/index.m3u8?token=zRUmlzUD4R7xslAa50fBrA&expires=1688905056
+HOY TV 資訊台,http://hklive.tv/dtmb/78/index.m3u8?token=jwqYHMWeWhzCFq2lCRCT4g&expires=1688905056
+香港國際財經台,http://hklive.tv/dtmb/76/index.m3u8?token=xteOUeSV1wImU6LhyM9XXA&expires=1688905056
+翡翠台,http://hklive.tv/dtmb/81/index.m3u8?token=_oWOQpYWtJfrjVUKuO_m_g&expires=1688905056
+J2台,http://hklive.tv/dtmb/82/index.m3u8?token=HfxRoWSuH0SlyPRbe7C_bw&expires=1688905056
+無綫新聞台,http://hklive.tv/dtmb/83/index.m3u8?token=1PLvzuxohr3LOGtstrz_Cg&expires=1688905056
+明珠台,http://hklive.tv/dtmb/84/index.m3u8?token=CW-bsLSjatBObMRtXWLcuA&expires=1688905056
+無綫財經·資訊台,http://hklive.tv/dtmb/85/index.m3u8?token=31k43vvWDLizwaVqdNcnFg&expires=1688905056
+ViuTV,http://hklive.tv/dtmb/99/index.m3u8?token=Mh9jw9d4hB9e6pIwg97r-Q&expires=1688905056
+ViuTVSix,http://hklive.tv/dtmb/96/index.m3u8?token=hcPV_nUysLVZ6SNGis57QA&expires=1688905056
+
 
 🇨🇳卫视频道,#genre#
 广东卫视,http://mail.owenxuan.com:10000/udp/225.1.101.151:7523
