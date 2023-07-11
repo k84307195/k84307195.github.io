@@ -31,6 +31,23 @@ Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5u
 🇭🇰香港地2,#genre#
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+港台電視31,https://hklive.tv/dtmb/31/index.m3u8?token=DxbiOv78uuW2IS6mWgCnYQ&expires=1689132444
+港台電視32,https://hklive.tv/dtmb/32/index.m3u8?token=ATLzVAg6CV4OIT27cejKJA&expires=1689132444
+港台電視33,https://hklive.tv/dtmb/33/index.m3u8?token=-DntR6U-uPVvQDWFAXBdeQ&expires=1689132444
+HOY TV,https://hklive.tv/dtmb/77/index.m3u8?token=hzRsyvyPWGcV1biDMVCfNg&expires=1689132444
+HOY TV 資訊台,https://hklive.tv/dtmb/78/index.m3u8?token=6bI4RtKZRNXe6hXBErw2Yw&expires=1689132444
+香港國際財經台,https://hklive.tv/dtmb/76/index.m3u8?token=_8_nIIGapesPJ_DF_OemBA&expires=1689132444
+翡翠台,https://hklive.tv/dtmb/81/index.m3u8?token=1ziNpS2BeXQ1yKyuImB0qw&expires=1689132444
+J2台,https://hklive.tv/dtmb/82/index.m3u8?token=4cp9tZzoiMT_awOwjf5SNw&expires=1689132444
+無綫新聞台,https://hklive.tv/dtmb/83/index.m3u8?token=R5E77-xh9e7MqdoijixLDg&expires=1689132444
+明珠台,https://hklive.tv/dtmb/84/index.m3u8?token=Q6EykwgeZrBRwa8u93pfaA&expires=1689132444
+無綫財經·資訊台,https://hklive.tv/dtmb/85/index.m3u8?token=PjpdB28XTD3Xi_p04gjZVw&expires=1689132444
+ViuTV,https://hklive.tv/dtmb/99/index.m3u8?token=CGxV4Fb9jdmRcGtlUhU15w&expires=1689132444
+ViuTVSix,https://hklive.tv/dtmb/96/index.m3u8?token=cy9-BPcnFSuwkvKtTEb8yw&expires=1689132444
+
+🇭🇰香港地3,#genre#
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 港台電視31,http://hklive.tv/dtmb/31/index.m3u8?token=QrNmjmunAwLMT8ZD1cVX3w&expires=1688905056
 港台電視32,http://hklive.tv/dtmb/32/index.m3u8?token=TmfL9fb4m4C7hMTUBCtyTA&expires=1688905056
 港台電視33,http://hklive.tv/dtmb/33/index.m3u8?token=pRalpSWWEuyXdn1Mz2ePiw&expires=1688905056
