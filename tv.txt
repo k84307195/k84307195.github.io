@@ -144,35 +144,7 @@ TVB明珠台,http://mail.owenxuan.com:10000/udp/225.1.101.139:7523
 广东综艺4K,http://mail.owenxuan.com:10000/udp/225.1.101.44:7523
 广东经济科教,http://mail.owenxuan.com:10000/udp/225.1.101.211:7523
 
-🇨🇳广东频道,#genre#
-广东经济,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
-广东4K超高清,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
-广东影视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs4&auth=rinimabi
-广东少儿,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs5&auth=rinimabi
-广东新闻,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdxw&auth=rinimabi
-广东民生,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdgg&auth=rinimabi
-广东房产,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdfc&auth=rinimabi
-广东珠江,http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
-广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
-广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
-广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
-广州法治,http://www.nettvpro.live/hls/guangzhou.php?id=fazhi
-广州影视,http://www.nettvpro.live/hls/guangzhou.php?id=yingshi
-南国都市,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
-深圳众创TV,https://lglivepull.sznews.com/live/2645.m3u8
-汕头综合,http://27.41.249.80:801/hls/500/index.m3u8
-汕头经济生活,http://27.41.249.80:801/hls/501/index.m3u8
-汕头三台,http://27.41.249.80:801/hls/502/index.m3u8
-潮州综合,http://27.41.249.80:801/hls/503/index.m3u8
-潮阳台,http://27.41.249.80:801/hls/531/index.m3u8
-梅州时政综合,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
-梅州客家生活,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
-广东河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-广东河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-广东阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
-广东阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
+
 
 🇨🇳广东移动,#genre#
 广东卫视FHD,http://183.234.194.165:8888/udp/239.20.0.99:3004 
@@ -495,26 +467,6 @@ RTHK33,https://cdn.hklive.tv/raw/33.ts
 有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
 
 
-🇨🇳广州备用,#genre#
-广州法治,http://ye23.win/iptv/gztv.php?id=fazhi
-广州法治,http://2941.vicp.net:8888/udp/239.253.43.74:5146
-广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
-广州竞赛,http://2941.vicp.net:8888/udp/239.253.43.75:5146
-广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
-广州新闻,http://2941.vicp.net:8888/udp/239.253.43.72:5146
-广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
-广州影视,http://2941.vicp.net:8888/udp/239.253.43.73:5146
-广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
-广州综合,http://2941.vicp.net:8888/udp/239.253.43.71:5146
-
-🇨🇳广州后备,#genre#
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
-广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
-广州竞赛,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
-广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
-南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 
 
 
