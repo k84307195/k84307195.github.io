@@ -32,20 +32,20 @@ Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5u
 🇭🇰香港地2,#genre#
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-港台電視31,http://hkdtmb.com/dtmb/31/index.m3u8?token=J9FXWTIpNz4WHnpln-9uhQ&expires=1690381904
-港台電視32,http://hkdtmb.com/dtmb/32/index.m3u8?token=mCKUrEVCORLfKvfVjbonbA&expires=1690381904
-港台電視33,http://hkdtmb.com/dtmb/33/index.m3u8?token=UQ3eA-c-F96ShGlPFoXxjg&expires=1690381904
-HOY TV,http://hkdtmb.com/dtmb/77/index.m3u8?token=wCO7OIUPSgGNcLFVWGUBpQ&expires=1690381904
-HOY TV 資訊台,http://hkdtmb.com/dtmb/78/index.m3u8?token=utqsAN8qtsqqzzD39fxXfQ&expires=1690381904
-香港國際財經台,http://hkdtmb.com/dtmb/76/index.m3u8?token=y9ro5NbvHEU2Sc0FBU231g&expires=1690381904
-翡翠台,http://hkdtmb.com/dtmb/81/index.m3u8?token=ZRFXvRG-oeMMwUgU0edcRg&expires=1690381904
-J2台,http://hkdtmb.com/dtmb/82/index.m3u8?token=1D10No1skMm_iSioLjdHmg&expires=1690381904
-無綫新聞台,http://hkdtmb.com/dtmb/83/index.m3u8?token=c0T7aQUtI-Ay0F_yhgD5gw&expires=1690381904
-明珠台,http://hkdtmb.com/dtmb/84/index.m3u8?token=YBJqZfKcZ-9a8hQFxaqvJA&expires=1690381904
-無綫財經·資訊台,http://hkdtmb.com/dtmb/85/index.m3u8?token=zT69-Ij8dBjB8zQQ9DJFdg&expires=1690381904
-ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=r9TAhv6ATSJ-8y4IkYvLgQ&expires=1690381904
-ViuTVSix,http://hkdtmb.com/dtmb/96/index.m3u8?token=rXU4CwUZGUuKN-bZAfMHvw&expires=1690381904
-Now 新聞台,http://hkdtmb.com/dtmb/332/index.m3u8?token=JyNGxmh04LGdqY9h6BzFww&expires=1690381904
+港台電視31,http://hkdtmb.com/dtmb/31/index.m3u8?token=hwf7Rng4zs69euZ3GfFHow&expires=1690428483
+港台電視32,http://hkdtmb.com/dtmb/32/index.m3u8?token=KV7OT3m9wzGUQUCG-7oaZw&expires=1690428483
+港台電視33,http://hkdtmb.com/dtmb/33/index.m3u8?token=gK7LYY-kuHQaovw2rOKh_A&expires=1690428483
+HOY TV,http://hkdtmb.com/dtmb/77/index.m3u8?token=7aE-6Occquzn7JYOAhJMTw&expires=1690428483
+HOY TV 資訊台,http://hkdtmb.com/dtmb/78/index.m3u8?token=MuD6M4_biz_3o-Mh0er6Sg&expires=1690428483
+香港國際財經台,http://hkdtmb.com/dtmb/76/index.m3u8?token=i_5cDOTllNSGAwcYf-EIGw&expires=1690428483
+翡翠台,http://hkdtmb.com/dtmb/81/index.m3u8?token=fdQgx46JvGe7dLlMSJGvGA&expires=1690428483
+J2台,http://hkdtmb.com/dtmb/82/index.m3u8?token=n1snXaWwbkFnmn1U2UyiGQ&expires=1690428483
+無綫新聞台,http://hkdtmb.com/dtmb/83/index.m3u8?token=62OdS6hlIigNRY4a2bx3bg&expires=1690428483
+明珠台,http://hkdtmb.com/dtmb/84/index.m3u8?token=VF3i_ZCYPKEcjzAOgkPHuQ&expires=1690428483
+無綫財經·資訊台,http://hkdtmb.com/dtmb/85/index.m3u8?token=0tB364UIEIbUfirdasrdwQ&expires=1690428483
+ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=rGhJ4it9JXjrT5bqJwpDKA&expires=1690428483
+ViuTVSix,http://hkdtmb.com/dtmb/96/index.m3u8?token=Kx1be707yLdgckVAsJpZfA&expires=1690428483
+Now 新聞台,http://hkdtmb.com/dtmb/332/index.m3u8?token=V-xYq2rcS8Dqo42fOHXcJQ&expires=1690428483
 
 
 
