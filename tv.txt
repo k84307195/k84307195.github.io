@@ -45,57 +45,107 @@ ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=5cRFt2kPSjKu5RQyAH3eLA&expires=
 ViuTVSix,http://hkdtmb.com/dtmb/96/index.m3u8?token=5d8lOQcYDdK44WjF1ibwgw&expires=1691076427
 Now 新聞台,http://hkdtmb.com/dtmb/332/index.m3u8?token=op71r4lahD1tiZhsiC0wJQ&expires=1691076427
 
-
-
-
 🇨🇳卫视频道,#genre#
-广东卫视,http://mail.owenxuan.com:10000/udp/225.1.101.151:7523
-浙江卫视,http://mail.owenxuan.com:10000/udp/225.1.101.154:7523
-江苏卫视,http://mail.owenxuan.com:10000/udp/225.1.101.153:7523
-湖南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.199:7523
-深圳卫视,http://mail.owenxuan.com:10000/udp/225.1.101.144:7523
-广西卫视,http://mail.owenxuan.com:10000/udp/225.1.101.21:7523
-海南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.4:7523
-北京卫视,http://mail.owenxuan.com:10000/udp/225.1.101.150:7523
-天津卫视,http://mail.owenxuan.com:10000/udp/225.1.101.136:7523
-四川卫视,http://mail.owenxuan.com:10000/udp/225.1.101.29:7523
-辽宁卫视,http://mail.owenxuan.com:10000/udp/225.1.101.146:7523
-东方卫视,http://mail.owenxuan.com:10000/udp/225.1.101.145:7523
-吉林卫视,http://mail.owenxuan.com:10000/udp/225.1.101.155:7523
-江西卫视,http://mail.owenxuan.com:10000/udp/225.1.101.118:7523
-河南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.91:7523
-河南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.200:7523
-河北卫视,http://mail.owenxuan.com:10000/udp/225.1.101.127:7523
-重庆卫视,http://mail.owenxuan.com:10000/udp/225.1.101.105:7523
-东南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.89:7523
-贵州卫视,http://mail.owenxuan.com:10000/udp/225.1.101.58:7523
-安徽卫视,http://mail.owenxuan.com:10000/udp/225.1.101.57:7523
-湖北卫视,http://mail.owenxuan.com:10000/udp/225.1.101.112:7523
-黑龙江卫视,http://mail.owenxuan.com:10000/udp/225.1.101.61:7523
-山东卫视,http://mail.owenxuan.com:10000/udp/225.1.101.185:7523
-青海卫视,http://mail.owenxuan.com:10000/udp/225.1.101.20:7523
-云南卫视,http://mail.owenxuan.com:10000/udp/225.1.101.204:7523
-三沙卫视,http://mail.owenxuan.com:10000/udp/225.1.101.173:7523
+浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
+浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
+浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8   
+江苏卫视    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8? 
+江苏卫视    2K,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8   
+江西卫视    2K,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8   
+广东卫视    2K,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8   
+广西卫视    2K,http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8    
+深圳卫视    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?   
+安徽卫视    2K,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8   
+北京卫视    2K,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8 
+北京卫视    2K,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8    
+天津卫视    2K,http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8 
+天津卫视    2K,http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8    
+东方卫视    2K,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8 
+东方卫视    2K,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8    
+山东卫视    2K,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8 
+山东卫视    2K,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8   
+湖北卫视    2K,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8 
+湖北卫视    2K,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8       
+湖南卫视    2K,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8      
+重庆卫视    2K,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8    
+青海卫视    2K,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8   
+吉林卫视    2K,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8  
 
 🇨🇳中央频道,#genre#
-CCTV-2,http://mail.owenxuan.com:10000/udp/225.1.101.26:7523
-CCTV-3,http://mail.owenxuan.com:10000/udp/225.1.101.121:7523
-CCTV-4,http://mail.owenxuan.com:10000/udp/225.1.101.52:7523
-CCTV-5,http://mail.owenxuan.com:10000/udp/225.1.101.187:7523
-CCTV-5+,http://mail.owenxuan.com:10000/udp/225.1.101.124:7523
-CCTV-6,http://mail.owenxuan.com:10000/udp/225.1.101.94:7523
-CCTV-7,http://mail.owenxuan.com:10000/udp/225.1.101.27:7523
-CCTV-8,http://mail.owenxuan.com:10000/udp/225.1.101.98:7523
-CCTV-9,http://mail.owenxuan.com:10000/udp/225.1.101.28:7523
-CCTV-10,http://mail.owenxuan.com:10000/udp/225.1.101.30:7523
-CCTV-11,http://mail.owenxuan.com:10000/udp/225.1.101.100:7523
-CCTV-13,http://mail.owenxuan.com:10000/udp/225.1.101.125:7523
-CCTV-13,http://mail.owenxuan.com:10000/udp/225.1.101.33:7523
-CCTV-14,http://mail.owenxuan.com:10000/udp/225.1.101.34:7523
-CCTV-15,http://mail.owenxuan.com:10000/udp/225.1.101.160:7523
-CCTV-16,http://mail.owenxuan.com:10000/udp/225.1.101.133:7523
-CCTV-17,http://mail.owenxuan.com:10000/udp/225.1.101.161:7523
-CCTV-4K,http://mail.owenxuan.com:10000/udp/225.1.101.109:7523
+CCTV-1    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?  
+CCTV-1    2K,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8 
+CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8 
+CCTV-1    2K,http://39.134.61.219/PLTV/88888888/224/3221226443/index.m3u8   
+CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8  
+CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?   
+CCTV-3    2K,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8   
+CCTV-4    2K,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0  
+CCTV-4    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8? 
+CCTV-4    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?   
+CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?  
+CCTV-5    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8 
+CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8   
+CCTV-5+   2K,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0  
+CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8? 
+CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8   
+CCTV-6    2K,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8 
+CCTV-6    2K,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8   
+CCTV-7    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8  
+CCTV-8    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?  
+CCTV-8    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8 
+CCTV-8    2K,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8   
+CCTV-9    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?  
+CCTV-9    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8 
+CCTV-9    2K,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8   
+CCTV-10   2K,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8  
+CCTV-10   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?        
+CCTV-13   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?  
+CCTV-13   2K,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8 
+CCTV-13   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8 
+CCTV-13   2K,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8  
+CCTV-14   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?   
+CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?    
+CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?  
+CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8 
+CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
+都市频道    2K,http://jycb.f3322.net:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0  
+民生频道    2K,http://jycb.f3322.net:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0  
+法治频道    2K,http://jycb.f3322.net:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0  
+电视频道    2K,http://jycb.f3322.net:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0  
+新闻频道    2K,http://jycb.f3322.net:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0  
+移动戏曲    2K,http://jycb.f3322.net:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0  
+文博    2K,http://jycb.f3322.net:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0  
+戏曲    2K,http://jycb.f3322.net:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0  
+功夫    2K,http://jycb.f3322.net:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0  
+百姓调解    2K,http://jycb.f3322.net:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0   
+无心小神通,http://36.158.237.9/live-bvc/927098/live_1732430975_70369112_1500/index.m3u8
+记忆岁片,http://111.48.57.9/live-bvc/716200/live_3537110751512601_83893155_minihevc/index.m3u8
+古爷邵氏连播,http://117.169.96.239/live-bvc/927098/live_3494374507809179_78838633/index.m3u8
+怀旧经典,http://111.48.57.42/live-bvc/541821/live_3494375782877430_9545327_1500/index.m3u8
+经典神话,http://111.48.57.32/live-bvc/717540/live_3493076649642831_51577378_1500/index.m3u8
+粤语猛片,http://111.48.57.9/live-bvc/927098/live_253715487_2055442_minihevc/index.m3u8
+林正英经典僵尸,http://111.48.57.33/live-bvc/927098/live_3494375743032210_50252964_minihevc/index.m3u8
+历史古剧,http://111.31.127.235:485/live-bvc/734672/live_564333686_74262024_minihevc/index.m3u8
+香港电影馆,http://36.158.237.9/live-bvc/716200/live_9893930_5827058_minihevc/index.m3u8
+邵氏经典电影,http://111.48.57.34/live-bvc/575473/live_330620777_7206322_1500/index.m3u8
+经典怀旧影厅,http://36.158.237.9/live-bvc/716200/live_3494370523219999_77689554_1500/index.m3u8
+海爷影厅1,http://36.158.237.6/live-bvc/927098/live_72527478_3402580/index.m3u8
+海爷影厅2,http://111.2.79.213:485/live-bvc/156617/live_280698572_9101071/index.m3u8
+海爷影厅3,http://112.45.122.99/live-bvc/848063/live_1789393054_11001389/index.m3u8
+海爷影厅4,http://111.31.127.233:485/live-bvc/644386/live_52370715_1734265/index.m3u8
+经典老剧,http://36.158.237.6/live-bvc/716200/live_3493265714186453_9483800/index.m3u8
+邵氏武侠,http://36.158.237.9/live-bvc/873023/live_412063654_1560062_1500/index.m3u8
+经典电视剧,http://111.48.57.41/live-bvc/761090/live_518461924_80848762_1500/index.m3u8
+怀旧电视剧,http://111.48.57.42/live-bvc/295692/live_282198131_6517319_1500/index.m3u8
+刑侦剧,http://111.48.57.37/live-bvc/761090/live_203974539_64691892_1500/index.m3u8
+慢熟草莓直播间,http://112.46.158.30:485/live-bvc/588720/live_612655351_41807966_1500/index.m3u8
+喜剧僵尸,http://111.48.57.31/live-bvc/445839/live_547627209_69149047_1500/index.m3u8
+古装老剧,http://223.111.250.36/live-bvc/877989/live_17241096_9424813_1500/index.m3u8
+武侠影剧,http://111.48.57.42/live-bvc/445839/live_312060764_1449088_1500/index.m3u8
+超级下饭剧,http://111.48.57.37/live-bvc/322154/live_1279741536_52662407_1500/index.m3u8
+经典香港剧,http://117.169.96.230/live-bvc/445839/live_98583136_44829102_1500/index.m3u8
+经典电视剧剧场,http://111.48.57.42/live-bvc/848063/live_72364922_79972860/index.m3u8
+电视古剧,http://111.48.57.35/live-bvc/322154/live_14034663_5741314_1500/index.m3u8
 
 🇨🇳广州频道,#genre#
 TVB翡翠台,http://mail.owenxuan.com:10000/udp/225.1.101.45:7523
