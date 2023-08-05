@@ -28,24 +28,6 @@ Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5u
 美亞電影台,http://cdn.hkdtmb.com/NonSugar/201/index.m3u8?token=CLGudI6NWALPcRLNMk0Jng&expires=1701964737
 翡翠台4K,http://cdn.hkdtmb.com/NonSugar/81b/index.m3u8?token=4JvlW9sJSGo2ARyzigQH8g&expires=1701964695
 
-
-🇭🇰香港地2,#genre#
-港台電視31,http://hkdtmb.com/dtmb/31/index.m3u8?token=six0evb18mL4bLk0uMXMFA&expires=1691244751
-港台電視32,http://hkdtmb.com/dtmb/32/index.m3u8?token=0Wmh1JdX8vfjYpKl60N0Aw&expires=1691244751
-港台電視33,http://hkdtmb.com/dtmb/33/index.m3u8?token=eBuXPF1lI0clFyHJA606pg&expires=1691244751
-HOY TV,http://hkdtmb.com/dtmb/77/index.m3u8?token=tXI9VfgqpEbrN8IUdpyI0Q&expires=1691244751
-HOY TV 資訊台,http://hkdtmb.com/dtmb/78/index.m3u8?token=eycIyoaIzemv39ZZykPkSw&expires=1691244751
-香港國際財經台,http://hkdtmb.com/dtmb/76/index.m3u8?token=5ZsIQF0xfCwFJqdcp-3fZQ&expires=1691244751
-翡翠台,http://hkdtmb.com/dtmb/81/index.m3u8?token=WNEIHXOWo8ON5868nDdSqA&expires=1691244751
-J2台,http://hkdtmb.com/dtmb/82/index.m3u8?token=HrOFkv7gBQWtyM58TSIN2w&expires=1691244751
-無綫新聞台,http://hkdtmb.com/dtmb/83/index.m3u8?token=S6ShFqETUX53ggZRdd2tMQ&expires=1691244751
-明珠台,http://hkdtmb.com/dtmb/84/index.m3u8?token=oKg-I0qy_pdml0fGLZlwmw&expires=1691244751
-無綫財經·資訊台,http://hkdtmb.com/dtmb/85/index.m3u8?token=oje3DsOuh-caTWg3LbM49w&expires=1691244751
-ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=_HcXDrWpFTi4I56PxixxRg&expires=1691244751
-ViuTVSix,http://hkdtmb.com/dtmb/96/index.m3u8?token=HFwTekQ9WJ34RQYOFWbSQQ&expires=1691244751
-Now 新聞台,http://hkdtmb.com/dtmb/332/index.m3u8?token=lmGgmK-Hv9U-vLknskW4vw&expires=1691244751
-
-
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
 浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
@@ -109,31 +91,20 @@ CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?  
 CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8 
 CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
-都市频道    2K,http://jycb.f3322.net:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0  
-民生频道    2K,http://jycb.f3322.net:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0  
-法治频道    2K,http://jycb.f3322.net:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0  
-电视频道    2K,http://jycb.f3322.net:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0  
-新闻频道    2K,http://jycb.f3322.net:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0  
-移动戏曲    2K,http://jycb.f3322.net:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0  
-文博    2K,http://jycb.f3322.net:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0  
-戏曲    2K,http://jycb.f3322.net:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0  
-功夫    2K,http://jycb.f3322.net:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0  
-百姓调解    2K,http://jycb.f3322.net:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0   
 
 
 🇨🇳广州频道,#genre#
-TVB翡翠台,http://mail.owenxuan.com:10000/udp/225.1.101.45:7523
-TVB明珠台,http://mail.owenxuan.com:10000/udp/225.1.101.139:7523
-广州南国都市4K,http://mail.owenxuan.com:10000/udp/225.1.101.202:7523
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广州影视,http://mail.owenxuan.com:10000/udp/225.1.101.5:7523
-广州法治,http://mail.owenxuan.com:10000/udp/225.1.101.203:7523
-广州新闻,http://mail.owenxuan.com:10000/udp/225.1.101.159:7523
-广州频道,http://mail.owenxuan.com:10000/udp/225.1.101.158:7523
-广东珠江,http://mail.owenxuan.com:10000/udp/225.1.101.106:7523
-广东体育,http://mail.owenxuan.com:10000/udp/225.1.101.102:7523
-广东综艺4K,http://mail.owenxuan.com:10000/udp/225.1.101.44:7523
-广东经济科教,http://mail.owenxuan.com:10000/udp/225.1.101.211:7523
+广州综合,http://88888.55555.io:2345/udp/239.253.43.66:5146
+广州综合高清,http://88888.55555.io:2345/udp/239.253.43.71:5146
+广州新闻,http://88888.55555.io:2345/udp/239.253.43.67:5146
+广州新闻高清,http://88888.55555.io:2345/udp/239.253.43.72:5146
+广州影视,http://88888.55555.io:2345/udp/239.253.43.68:5146
+广州影视高清,http://88888.55555.io:2345/udp/239.253.43.73:5146
+广州法治,http://88888.55555.io:2345/udp/239.253.43.69:5146
+广州法治高清,http://88888.55555.io:2345/udp/239.253.43.74:5146
+广州竞赛,http://88888.55555.io:2345/udp/239.253.43.70:5146
+广州竞赛高清,http://88888.55555.io:2345/udp/239.253.43.75:5146
+南国都市 4K,http://88888.55555.io:2345/udp/239.77.0.233:5146
 
 
 
@@ -183,19 +154,6 @@ TVB明珠台,http://mail.owenxuan.com:10000/udp/225.1.101.139:7523
 广东综艺 宽色域(4k),http://88888.55555.io:2345/udp/239.77.0.246:5146
 广东综艺(4k),http://88888.55555.io:2345/udp/239.77.0.245:5146
 广东综艺 宽色域AVS2(4k) (AVS2),http://88888.55555.io:2345/udp/239.77.0.252:5146
-广州综合,http://88888.55555.io:2345/udp/239.253.43.66:5146
-广州综合高清,http://88888.55555.io:2345/udp/239.253.43.71:5146
-广州新闻,http://88888.55555.io:2345/udp/239.253.43.67:5146
-广州新闻高清,http://88888.55555.io:2345/udp/239.253.43.72:5146
-广州影视,http://88888.55555.io:2345/udp/239.253.43.68:5146
-广州影视高清,http://88888.55555.io:2345/udp/239.253.43.73:5146
-广州法治,http://88888.55555.io:2345/udp/239.253.43.69:5146
-广州法治高清,http://88888.55555.io:2345/udp/239.253.43.74:5146
-广州竞赛,http://88888.55555.io:2345/udp/239.253.43.70:5146
-广州竞赛高清,http://88888.55555.io:2345/udp/239.253.43.75:5146
-南国都市 4K,http://88888.55555.io:2345/udp/239.77.0.233:5146
-
-
 
 ⚽️体育频道,#genre#
 广东体育高清,http://jylt.jdshipin.com:808/hls/22/index.m3u8
