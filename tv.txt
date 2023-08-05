@@ -1,5 +1,6 @@
 🇭🇰香港地1,#genre#
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰香港,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhhk
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 港台電視31,https://cdn.hkdtmb.com/dtmb/31/index.m3u8?token=Wvb0WDgoXoVWer-lq71fbA&expires=1702135655
 港台電視32,https://cdn.hkdtmb.com/dtmb/32/index.m3u8?token=9biucdCbEqmzpG189t6RHw&expires=1702135682
