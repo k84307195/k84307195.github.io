@@ -30,20 +30,20 @@ Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5u
 
 
 🇭🇰香港地2,#genre#
-港台電視31,http://hkdtmb.com/dtmb/31/index.m3u8?token=Ua7HIyA1EbHj9AR3WGcoKw&expires=1691076427
-港台電視32,http://hkdtmb.com/dtmb/32/index.m3u8?token=yuNncSi8dsiUPOZylU0Xsg&expires=1691076427
-港台電視33,http://hkdtmb.com/dtmb/33/index.m3u8?token=2NtsgNUYJdL8ex7RngyQTQ&expires=1691076427
-HOY TV,http://hkdtmb.com/dtmb/77/index.m3u8?token=D-QcE86aB_Fz6fYVCXP0bg&expires=1691076427
-HOY TV 資訊台,http://hkdtmb.com/dtmb/78/index.m3u8?token=wAs9k5J0AwX4-zK_j8YTdw&expires=1691076427
-香港國際財經台,http://hkdtmb.com/dtmb/76/index.m3u8?token=fuPxKHUL1PDmYaL9PGxwDQ&expires=1691076427
-翡翠台,http://hkdtmb.com/dtmb/81/index.m3u8?token=Pu1eRFrpH2c_EFHaECIm8Q&expires=1691076427
-J2台,http://hkdtmb.com/dtmb/82/index.m3u8?token=7KjE8K6Ym7n6V2chgyQeBQ&expires=1691076427
-無綫新聞台,http://hkdtmb.com/dtmb/83/index.m3u8?token=t8yz9M2JjAg7rBN5jkujoQ&expires=1691076427
-明珠台,http://hkdtmb.com/dtmb/84/index.m3u8?token=ijHokob6jIuWoHH7ySN1mQ&expires=1691076427
-無綫財經·資訊台,http://hkdtmb.com/dtmb/85/index.m3u8?token=yTVpVYbFGMjdLOyUxLz3Yg&expires=1691076427
-ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=5cRFt2kPSjKu5RQyAH3eLA&expires=1691076427
-ViuTVSix,http://hkdtmb.com/dtmb/96/index.m3u8?token=5d8lOQcYDdK44WjF1ibwgw&expires=1691076427
-Now 新聞台,http://hkdtmb.com/dtmb/332/index.m3u8?token=op71r4lahD1tiZhsiC0wJQ&expires=1691076427
+港台電視31,http://hkdtmb.com/dtmb/31/index.m3u8?token=Ajn7qqxU7aDGvDelzfnGkQ&expires=1691239916
+港台電視32,http://hkdtmb.com/dtmb/32/index.m3u8?token=sSux4M13_ysBoTdvwgC3Mg&expires=1691239916
+港台電視33,http://hkdtmb.com/dtmb/33/index.m3u8?token=cAikRzaYg5iDLtiwKinh2A&expires=1691239916
+HOY TV,http://hkdtmb.com/dtmb/77/index.m3u8?token=FUp5GZLDyOhbh_sUar16kQ&expires=1691239916
+HOY TV 資訊台,http://hkdtmb.com/dtmb/78/index.m3u8?token=DLzsHKjd6AoKy0ZBnCBu_g&expires=1691239916
+香港國際財經台,http://hkdtmb.com/dtmb/76/index.m3u8?token=B1vmblAT_5J0oZOJr-keJw&expires=1691239916
+翡翠台,http://hkdtmb.com/dtmb/81/index.m3u8?token=FBMT5yMqrT3luTTaZF-ESg&expires=1691239916
+J2台,http://hkdtmb.com/dtmb/82/index.m3u8?token=pPpPgzSyzynkZ078BxYSsQ&expires=1691239916
+無綫新聞台,http://hkdtmb.com/dtmb/83/index.m3u8?token=ZM61bQ9UX_gMzG6GQImmzA&expires=1691239916
+明珠台,http://hkdtmb.com/dtmb/84/index.m3u8?token=OnazZapTII2fn06CsyuTPw&expires=1691239916
+無綫財經·資訊台,http://hkdtmb.com/dtmb/85/index.m3u8?token=msGku1A-xdYBUNIJ4sXmZA&expires=1691239916
+ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=xssxspgQFCRQITsxn-kDtw&expires=1691239916
+ViuTVSix,http://hkdtmb.com/dtmb/96/index.m3u8?token=bdp3xzCSzVsUVhm4cTU8Iw&expires=1691239916
+Now 新聞台,http://hkdtmb.com/dtmb/332/index.m3u8?token=CX2NcqI5HpIW-br8ajhZMw&expires=1691239916
 
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
