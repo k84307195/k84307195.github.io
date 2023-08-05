@@ -1,4 +1,4 @@
-🇭🇰香港地1,#genre#
+🇭🇰香港地波,#genre#
 凤凰中文, http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
