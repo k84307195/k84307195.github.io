@@ -31,21 +31,7 @@ Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5u
 美亞電影台,http://cdn.hkdtmb.com/NonSugar/201/index.m3u8?token=CLGudI6NWALPcRLNMk0Jng&expires=1701964737
 翡翠台4K,http://cdn.hkdtmb.com/NonSugar/81b/index.m3u8?token=4JvlW9sJSGo2ARyzigQH8g&expires=1701964695
 
-🇭🇰香港地2,#genre#
-港台電視31,http://hkdtmb.com/dtmb/31/index.m3u8?token=LZPEjRxGXpbTg7os6tsQbA&expires=1691329388
-港台電視32,http://hkdtmb.com/dtmb/32/index.m3u8?token=pcEmt_aFmU8KjSVwSF6HSA&expires=1691329388
-港台電視33,http://hkdtmb.com/dtmb/33/index.m3u8?token=Ssqpy4DRj3iWmy2qFX4RXg&expires=1691329388
-HOY TV,http://hkdtmb.com/dtmb/77/index.m3u8?token=xZUyQKRqaEYcBesZ1dZ4tg&expires=1691329388
-HOY TV 資訊台,http://hkdtmb.com/dtmb/78/index.m3u8?token=QQ_Fj3l4YP9ordPv6E4FXA&expires=1691329388
-香港國際財經台,http://hkdtmb.com/dtmb/76/index.m3u8?token=hBWTAzt2vqxp60-mNw1V4g&expires=1691329388
-翡翠台,http://hkdtmb.com/dtmb/81/index.m3u8?token=QbYkcAlyN5IISUHeZyYNNg&expires=1691329388
-J2台,http://hkdtmb.com/dtmb/82/index.m3u8?token=aSz6OgkdOApQImxX2J2HLg&expires=1691329388
-無綫新聞台,http://hkdtmb.com/dtmb/83/index.m3u8?token=YVn_P8XmMNb2rp9EtTgaIg&expires=1691329388
-明珠台,http://hkdtmb.com/dtmb/84/index.m3u8?token=CHb5tlNRVRKnLRbOhOvQKA&expires=1691329388
-無綫財經·資訊台,http://hkdtmb.com/dtmb/85/index.m3u8?token=ZRf2JGvCApM1-dspC6n9PQ&expires=1691329388
-ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=0JHLLe4azFLEps504rtJxw&expires=1691329388
-ViuTVSix,http://hkdtmb.com/dtmb/96/index.m3u8?token=7W89bTsqwGkzfb849w5m4Q&expires=1691329388
-Now 新聞台,http://hkdtmb.com/dtmb/332/index.m3u8?token=cJMA-ZmlGIv2_HPCoylNiA&expires=1691329388
+
 
 🇭🇰香港直连,#genre#
 測試01,https://sc2022.stream-link.org/tv2306.php?id=c01
