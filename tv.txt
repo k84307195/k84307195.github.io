@@ -31,6 +31,90 @@ Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5u
 美亞電影台,http://cdn.hkdtmb.com/NonSugar/201/index.m3u8?token=CLGudI6NWALPcRLNMk0Jng&expires=1701964737
 翡翠台4K,http://cdn.hkdtmb.com/NonSugar/81b/index.m3u8?token=4JvlW9sJSGo2ARyzigQH8g&expires=1701964695
 
+🇭🇰香港直连,#genre#
+測試01,https://sc2022.stream-link.org/tv2306.php?id=c01
+測試02,https://sc2022.stream-link.org/tv2306.php?id=c02
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
+J2台,https://sc2022.stream-link.org/tv2306.php?id=h03
+無綫新聞台,https://sc2022.stream-link.org/tv2306.php?id=h04
+無綫財經·體育·資訊台,https://sc2022.stream-link.org/tv2306.php?id=h05
+無綫新聞台,https://sc2022.stream-link.org/tv2306.php?id=h06
+無綫財經·體育·資訊台,https://sc2022.stream-link.org/tv2306.php?id=h07
+Now新聞台,https://sc2022.stream-link.org/tv2306.php?id=h08
+港台电视31,https://sc2022.stream-link.org/tv2306.php?id=h09
+港台电视32,https://sc2022.stream-link.org/tv2306.php?id=h10
+港台电视33,https://sc2022.stream-link.org/tv2306.php?id=h11
+中央新聞台,https://sc2022.stream-link.org/tv2306.php?id=h12
+香港國際財經台(第一聲道),https://sc2022.stream-link.org/tv2306.php?id=h13
+香港國際財經台(第二聲道),https://sc2022.stream-link.org/tv2306.php?id=h14
+香港開電視(第一聲道),https://sc2022.stream-link.org/tv2306.php?id=h15
+香港開電視(第二聲道),https://sc2022.stream-link.org/tv2306.php?id=h16
+香港開電視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h17
+鳳凰衛視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h18
+鳳凰衛視中文台,https://sc2022.stream-link.org/tv2306.php?id=h19
+鳳凰衛視香港台,https://sc2022.stream-link.org/tv2306.php?id=h20
+澳門蓮花衛視,https://sc2022.stream-link.org/tv2306.php?id=h21
+TVB華語劇台,https://sc2022.stream-link.org/tv2306.php?id=h22
+TVB星河台,https://sc2022.stream-link.org/tv2306.php?id=h23
+TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
+五星體育,https://sc2022.stream-link.org/tv2306.php?id=e90
+緯來體育,https://sc2022.stream-link.org/tv2306.php?id=e91
+北京體育休閒,https://sc2022.stream-link.org/tv2306.php?id=e92
+ABC News Australia,https://sc2022.stream-link.org/tv2306.php?id=e01
+ABC News Live,https://sc2022.stream-link.org/tv2306.php?id=e02
+ANN News,https://sc2022.stream-link.org/tv2306.php?id=e03
+Asianet News,https://sc2022.stream-link.org/tv2306.php?id=e04
+BBC News,https://sc2022.stream-link.org/tv2306.php?id=e05
+Bloomberg,https://sc2022.stream-link.org/tv2306.php?id=e06
+CBN News,https://sc2022.stream-link.org/tv2306.php?id=e07
+CBS News,https://sc2022.stream-link.org/tv2306.php?id=e08
+CNA News,https://sc2022.stream-link.org/tv2306.php?id=e09
+CNBC Marathon,https://sc2022.stream-link.org/tv2306.php?id=e10
+CNN Live,https://sc2022.stream-link.org/tv2306.php?id=e11
+DW News,https://sc2022.stream-link.org/tv2306.php?id=e12
+EURO News,https://sc2022.stream-link.org/tv2306.php?id=e13
+Fox Live,https://sc2022.stream-link.org/tv2306.php?id=e14
+France 24 English,https://sc2022.stream-link.org/tv2306.php?id=e15
+GB News,https://sc2022.stream-link.org/tv2306.php?id=e16
+Haber Turk,https://sc2022.stream-link.org/tv2306.php?id=e17
+NBC News,https://sc2022.stream-link.org/tv2306.php?id=e18
+NHK World Japan,https://sc2022.stream-link.org/tv2306.php?id=e19
+SKY News,https://sc2022.stream-link.org/tv2306.php?id=e20
+Radio Ticino,https://sc2022.stream-link.org/tv2306.php?id=e21
+Smithsonian Channel,https://sc2022.stream-link.org/tv2306.php?id=e22
+Love Nature,https://sc2022.stream-link.org/tv2306.php?id=e23
+Lego,https://sc2022.stream-link.org/tv2306.php?id=e24
+東森新聞,https://sc2022.stream-link.org/tv2306.php?id=t01
+東森財經新聞,https://sc2022.stream-link.org/tv2306.php?id=t02
+中天新聞,https://sc2022.stream-link.org/tv2306.php?id=t03
+華視,https://sc2022.stream-link.org/tv2306.php?id=t04
+華視新聞,https://sc2022.stream-link.org/tv2306.php?id=t05
+中視新聞,https://sc2022.stream-link.org/tv2306.php?id=t06
+民視新聞,https://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇國際新聞,https://sc2022.stream-link.org/tv2306.php?id=t08
+寰宇台灣新聞,https://sc2022.stream-link.org/tv2306.php?id=t09
+三立財經新聞,https://sc2022.stream-link.org/tv2306.php?id=t10
+三立新聞,https://sc2022.stream-link.org/tv2306.php?id=t11
+三立新聞+,https://sc2022.stream-link.org/tv2306.php?id=t12
+台視新聞,https://sc2022.stream-link.org/tv2306.php?id=t13
+TVBS新聞,https://sc2022.stream-link.org/tv2306.php?id=t14
+TVBS財經,https://sc2022.stream-link.org/tv2306.php?id=t15
+TVBS歡樂台,https://sc2022.stream-link.org/tv2306.php?id=t16
+中天亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t17
+TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
+民視HD,https://sc2022.stream-link.org/tv2306.php?id=t19
+民視第一台,https://sc2022.stream-link.org/tv2306.php?id=t20
+民視台灣台,https://sc2022.stream-link.org/tv2306.php?id=t21
+民視綜藝台,https://sc2022.stream-link.org/tv2306.php?id=t22
+民視影劇台,https://sc2022.stream-link.org/tv2306.php?id=t23
+民視旅遊台,https://sc2022.stream-link.org/tv2306.php?id=t24
+三立台灣,https://sc2022.stream-link.org/tv2306.php?id=t25
+三立都會,https://sc2022.stream-link.org/tv2306.php?id=t26
+天才衝衝衝,https://sc2022.stream-link.org/tv2306.php?id=t27
+東森yoyo,https://sc2022.stream-link.org/tv2306.php?id=t28
+
+
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
 浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
