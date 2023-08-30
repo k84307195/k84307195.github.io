@@ -35,7 +35,7 @@ Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5u
 
 🇭🇰香港直连,#genre#
 測試01,https://sc2022.stream-link.org/tv2306.php?id=c01
-Now新闻台,https://sc2022.stream-link.org/tv2306.php?id=c02
+測試02,https://sc2022.stream-link.org/tv2306.php?id=c02
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
 J2台,https://sc2022.stream-link.org/tv2306.php?id=h03
