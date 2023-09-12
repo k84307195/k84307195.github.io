@@ -1,35 +1,19 @@
 🇭🇰香港地波,#genre#
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-香港文旅,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
-港台電視31,https://cdn.hkdtmb.com/dtmb/31/index.m3u8?token=Wvb0WDgoXoVWer-lq71fbA&expires=1702135655
-港台電視32,https://cdn.hkdtmb.com/dtmb/32/index.m3u8?token=9biucdCbEqmzpG189t6RHw&expires=1702135682
-港台電視33,https://cdn.hkdtmb.com/dtmb/33/index.m3u8?token=6MGLLkcq7n6j-PiUOZa_Zg&expires=1702135717
-港台電視34,https://cdn.hkdtmb.com/dtmb/34/index.m3u8?token=aXNYSyKTMA-GO7dTdSDeRw&expires=1702135742
-香港國際財經台,https://cdn.hkdtmb.com/dtmb/76/index.m3u8?token=1tUvmtNMy-6rNGESQDKMhQ&expires=1702135767
-HOY TV,https://cdn.hkdtmb.com/dtmb/77/index.m3u8?token=huQYMoeb3FF4I_BbAapdXA&expires=1702135796
-HOY TV 資訊台,https://cdn.hkdtmb.com/dtmb/78/index.m3u8?token=kLwLGdiB_tBWW8ii95iUxQ&expires=1702135822
-翡翠台,https://cdn.hkdtmb.com/dtmb/81/index.m3u8?token=DtAUhFuw0FwEDO8OPY8CUw&expires=1702135273
-J2台,https://cdn.hkdtmb.com/dtmb/82/index.m3u8?token=mWxbSKQ9HmcFb0ozWZQtOA&expires=1702135385
-無綫新聞台,https://cdn.hkdtmb.com/dtmb/83/index.m3u8?token=YrgX67mXYTYOXiyM8MlF5w&expires=1702135346
-明珠台丽音,https://cdn.hkdtmb.com/dtmb/84/index.m3u8?token=ihb22V1FMpmkcEMKOrxKJA&expires=1702135426
-明珠台原声,https://cdn.hkdtmb.com/dtmb/84b/index.m3u8?token=Y8Ws9Dcw2tWs6VUD2GpL0A&expires=1702135458
-無綫財經·資訊台,https://cdn.hkdtmb.com/dtmb/85/index.m3u8?token=8k2lFt3MUD7lD46cOiEe3w&expires=1702135492
-ViuTVSix,https://cdn.hkdtmb.com/dtmb/96/index.m3u8?token=0k_O2xpbAVxGlJjP4MoRwg&expires=1702135521
-ViuTV,https://cdn.hkdtmb.com/dtmb/99/index.m3u8?token=eO3KhveeZTGclSVk6mllaA&expires=1702135548
-Viu,https://cdn.hkdtmb.com/GayTv/102/index.m3u8?token=J6j-8XsLKnVw1LaoPtCHzQ&expires=1702135617
-Now 新聞台,http://cdn.hkdtmb.com/GayTv/332/index.m3u8?token=apAhGaU-sksYE0cUtSE-gA&expires=1702135863
-Now 英超,hhttp://cdn.hkdtmb.com/GayTv/621/index.m3u8?token=VgoJlkC5t91ERPtJGJPrOQ&expires=1701964265
-Now Sports 精選,http://cdn.hkdtmb.com/GayTv/630/index.m3u8?token=Rdv-sppeikxDAh0LpmgQXg&expires=1701964342
-Now Sports 1台,http://cdn.hkdtmb.com/GayTv/631/index.m3u8?token=XPTEJ00NklqvhAkV05im-g&expires=1701964486
-Now Sports 2台,http://cdn.hkdtmb.com/GayTv/632/index.m3u8?token=aIbphOAMaHxJWxoE7-a8Og&expires=1701964612
-Now Sports 3台,http://cdn.hkdtmb.com/GayTv/633/index.m3u8?token=6pDv02KdY0tLFEvy3F1sHw&expires=1701964561
-SUPER FREE,http://cdn.hkdtmb.com/NonSugar/001/index.m3u8?token=yjNX2ffPazJKwEEfBfMyYQ&expires=1701964660
-Hands Up Channel,http://cdn.hkdtmb.com/NonSugar/100/index.m3u8?token=8dKgLpYTn5udW12F6Vjkww&expires=1701964770
-美亞電影台,http://cdn.hkdtmb.com/NonSugar/201/index.m3u8?token=CLGudI6NWALPcRLNMk0Jng&expires=1701964737
-翡翠台4K,http://cdn.hkdtmb.com/NonSugar/81b/index.m3u8?token=4JvlW9sJSGo2ARyzigQH8g&expires=1701964695
+J2台,http://119.123.213.41:9001/bysid/82
+翡翠台,http://119.123.213.41:9000/bysid/1
+無綫新聞台,http://119.123.213.41:9001/bysid/83
+ViuTVsix,http://119.123.213.41:9000/bysid/96
+ViuTV,http://119.123.213.41:9000/bysid/99
+無綫財經資訊台,http://119.123.213.41:9001/bysid/85
+明珠台,http://119.123.213.41:9001/bysid/2
+HOYTV,http://119.123.213.41:9003/bysid/77
+HOY 資訊台,http://119.123.213.41:9003/bysid/78
+港台電視 31,http://119.123.213.41:9002/bysid/31
+港台電視 32,http://119.123.213.41:9002/bysid/32
+中央電視台綜合頻道（CCTV-1綜合),http://119.123.213.41:9002/bysid/33
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://119.123.213.41:9002/bysid/34
+香港國際財經台,http://119.123.213.41:9003/bysid/76
+
 
 
 
@@ -197,52 +181,56 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
 
 
-🇨🇳广东移动,#genre#
-广东卫视,http://88888.55555.io:2345/udp/239.77.0.2:5146
-广东卫视,http://88888.55555.io:2345/udp/239.77.1.2:5146
-广东卫视高清,http://88888.55555.io:2345/udp/239.77.1.19:5146
-广东卫视高清,http://88888.55555.io:2345/udp/239.77.1.152:5146
-广东卫视高清,http://88888.55555.io:2345/udp/239.77.0.84:5146
-广东卫视超清,http://88888.55555.io:2345/udp/239.77.0.166:5146
-广东珠江,http://88888.55555.io:2345/udp/239.77.0.3:5146
-广东珠江,http://88888.55555.io:2345/udp/239.77.1.94:5146
-广东珠江高,http://88888.55555.io:2345/udp/239.77.0.1:5146
-广东珠江超清,http://88888.55555.io:2345/udp/239.77.0.114:5146
-广东新闻,http://88888.55555.io:2345/udp/239.77.0.4:5146
-广东新闻,http://88888.55555.io:2345/udp/239.77.0.190:5146
-广东新闻高清,http://88888.55555.io:2345/udp/239.77.0.173:5146
-广东公共,http://88888.55555.io:2345/udp/239.77.0.5:5146
-广东公共高清,http://88888.55555.io:2345/udp/239.77.0.225:5146
-广东体育,http://88888.55555.io:2345/udp/239.77.0.6:5146
-广东体育（深圳）,http://88888.55555.io:2345/udp/239.77.1.97:5146
-广东体育高清-测试,http://88888.55555.io:2345/udp/239.77.0.112:5146
-广东体育超清,http://88888.55555.io:2345/udp/239.77.0.168:5146
-广东国际,http://88888.55555.io:2345/udp/239.77.0.7:5146
-经济科教,http://88888.55555.io:2345/udp/239.77.0.8:5146
-经济科教高清,http://88888.55555.io:2345/udp/239.77.0.85:5146
-经济科教超清,http://88888.55555.io:2345/udp/239.77.0.167:5146
-南方卫视,http://88888.55555.io:2345/udp/239.77.0.9:5146
-南方卫视高清,http://88888.55555.io:2345/udp/239.77.0.215:5146
-南方卫视（上星）,http://88888.55555.io:2345/udp/239.77.1.12:5146
-广东影视,http://88888.55555.io:2345/udp/239.77.0.11:5146
-广东影视高清,http://88888.55555.io:2345/udp/239.77.0.217:5146
-广东少儿,http://88888.55555.io:2345/udp/239.77.0.12:5146
-广东少儿高清,http://88888.55555.io:2345/udp/239.77.0.250:5146
-嘉佳卡通,http://88888.55555.io:2345/udp/239.77.0.13:5146
-嘉佳卡通,http://88888.55555.io:2345/udp/239.77.1.15:5146
-嘉佳卡通高清,http://88888.55555.io:2345/udp/239.77.0.179:5146
-南方购物-精选,http://88888.55555.io:2345/udp/239.77.0.19:5146
-南方购物,http://88888.55555.io:2345/udp/239.77.0.22:5146
-岭南戏曲,http://88888.55555.io:2345/udp/239.77.0.16:5146
-广东房产,http://88888.55555.io:2345/udp/239.77.0.14:5146
-现代教育,http://88888.55555.io:2345/udp/239.77.0.18:5146
-广东移动,http://88888.55555.io:2345/udp/239.77.0.20:5146
-广东综艺 4K50p,http://88888.55555.io:2345/udp/239.77.1.236:5146
-广东综艺 4K,http://88888.55555.io:2345/udp/239.77.1.237:5146
-广东综艺(4k),http://88888.55555.io:2345/udp/239.77.0.244:5146
-广东综艺 宽色域(4k),http://88888.55555.io:2345/udp/239.77.0.246:5146
-广东综艺(4k),http://88888.55555.io:2345/udp/239.77.0.245:5146
-广东综艺 宽色域AVS2(4k) (AVS2),http://88888.55555.io:2345/udp/239.77.0.252:5146
+🇨🇳广东酒店,#genre#
+CCTV-1高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1041_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1043_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+福建东南卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+厦门卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0129_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+海南卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+广东珠江高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+广东民生高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+广东新闻高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+经济科教高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+嘉佳卡通高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1058_1.m3u8?key=txiptv&playlive=0&authid=0
+卡酷动画,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1059_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ⚽️体育频道,#genre#
 广东体育高清,http://jylt.jdshipin.com:808/hls/22/index.m3u8
