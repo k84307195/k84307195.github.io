@@ -180,57 +180,6 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
 
 
-🇨🇳广东酒店,#genre#
-CCTV-1高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1041_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1043_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-福建东南卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-厦门卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0129_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-海南卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-广东珠江高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-广东民生高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-广东少儿高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-经济科教高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-嘉佳卡通高清,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1058_1.m3u8?key=txiptv&playlive=0&authid=0
-卡酷动画,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1059_1.m3u8?key=txiptv&playlive=0&authid=0
-
 ⚽️体育频道,#genre#
 广东体育高清,http://jylt.jdshipin.com:808/hls/22/index.m3u8
 CCTV5,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -240,7 +189,6 @@ CCTV5+,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
 MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
-
 
 🐟斗鱼轮播,#genre#
 电影频道
@@ -261,135 +209,12 @@ MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
 宇哥电影,http://epg.112114.xyz/douyu/413573
 
 🎞️新片速递,#genre#
-明日战记 国语,https://rongxingvr22.rx9696mv.com:44333/auTa1wr2e1gvX5_ERIfy31nDSw0cYJx6TJW5ftOA_1G9Tu3cEZpZJ3ob-m5ysI5hWpTLxE5qqfJURkJx69OBZA/RongXingVR.m3u8
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
-重装机甲4巨兽来袭,https://c2.monidai.com/20220831/AxZVmZrg/index.m3u8
-神探大战 粤语,https://www.ldxmcloud.com/20220828/Ea7HURz2/1100kb/hls/index.m3u8
-神探大战 粤语2,https://www.ldxmcloud.com/20220828/Ea7HURz2/index.m3u8
-神探大战 国语,https://yk.rongxingvr.cc:2222/youku222/3cd5c1744718ebb7827c501c542e1984.m3u8
-倚天屠龙记之九阳神功,https://new.iskcd.com/20220131/29JNIyrM/index.m3u8
-倚天屠龙记之圣火雄风,https://new.iskcd.com/20220203/kPUftLxS/1100kb/hls/index.m3u8
-梅艳芳,https://v4.cdtlas.com/20211119/WXeyqkiU/1200kb/hls/index.m3u8
-长津湖,https://new.iskcd.com/20220101/qWktP3un/index.m3u8
-长津湖2,https://d10a1e585d12d42d82b182459b9bba67.rdt.tfogc.com:49156/vipzj.video.tc.qq.com/gzc_1000102_0b53buaacaaauyabnr7uvbq4adodaeaqabka.f10217.mp4?vkey=BAF74294987615B3D5F26D8ADABC8C8453B9E81A89A5DB2398349F74345E13FEAF6D3E737B15EA068ABA820F18C75E37823EF4CCF5BFF390AA32BE85D32B2EDB5C03322DE2250C55C791BC5A7E07F711BA87DAF5F91C74D0680812354F5D1AFF3F53324F5C365C9E48B5B2215670E40AB495831BBD94F27B&sp=0&guid=fe92053753ac140079f1b604c8848487
-水门桥,https://yk.rongxingvr.cc:2222/youku222/04a39b1b24b2e3810d4ffa306a3a25a7.m3u8
-蜘蛛侠：英雄无归,https://cdn2.bzjupinhang.com:65/20220318/Ip4VeQmE/index.m3u8
 
 📡地波内置,#genre#
 凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台(备),http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
-明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
-明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8
-无线财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
-Now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
-HOY TV,https://cdn.hklive.tv/xxxx/77/index.m3u8
-HOY咨询台,https://cdn.hklive.tv/xxxx/78/index.m3u8
-有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
-国际财经资讯,https://cdn.hklive.tv/xxxx/76/index.m3u8
-ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
-ViuTVSix,https://cdn.hklive.tv/xxxx/96/index.m3u8
-RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
-RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
-RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
-
-
-📡地波硬解,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
-凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
-J2,https://cdn.hkyoutv.com/hls/82/index.m3u8
-翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
-翡翠台,https://cdn.hkyoutv.com/hls/81b/index.m3u8
-无线新闻,https://cdn.hkyoutv.com/hls/83/index.m3u8
-明珠台,https://cdn.hkyoutv.com/hls/84/index.m3u8
-明珠台,https://cdn.hkyoutv.com/hls/84b/index.m3u8
-无线财经,https://cdn.hkyoutv.com/hls/85/index.m3u8
-财经资讯,https://cdn.hkyoutv.com/hls/76/index.m3u8
-开电视,https://cdn.hkyoutv.com/hls/77/index.m3u8
-ViuTV,https://cdn.hkyoutv.com/hls/99/index.m3u8
-ViuTVSix,https://cdn.hkyoutv.com/hls/96/index.m3u8
-ViuTVSix,https://cdn.hkyoutv.com/hls/96b/index.m3u8
-RTHK31,https://cdn.hkyoutv.com/hls/31/index.m3u8
-RTHK32,,https://cdn.hkyoutv.com/hls/32/index.m3u8
-RTHK33,https://cdn.hkyoutv.com/hls/33/index.m3u8
-
-📡地波内置.,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-开电视,https://cdn.hklive.tv/hls/77/index.m3u8
-财经资讯,https://cdn.hklive.tv/hls/76/index.m3u8
-J2,https://cdn.hklive.tv/hls/82/index.m3u8
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台,https://cdn.hklive.tv/hls/81b/index.m3u8
-无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
-无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84b/index.m3u8
-ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
-ViuTVsix,https://cdn.hklive.tv/hls/96/index.m3u8
-ViuTVsixhttps://cdn.hklive.tv/hls/96b/index.m3u8
-RTHK31,https://cdn.hklive.tv/hls/31/index.m3u8
-RTHK32,https://cdn.hklive.tv/hls/32/index.m3u8
-RTHK33,https://cdn.hklive.tv/hls/33/index.m3u8
-
-📡源码一套,#genre#
-凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
-凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
-凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
-凤凰中文,http://www.fdkj.net:9901/tsfile/live/1001_1.m3u8
-J2,https://cdn.hkdtmb.com/raw/82.ts
-翡翠台,https://cdn.hkdtmb.com/raw/81.ts
-翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
-无线新闻,https://cdn.hkdtmb.com/raw/83.ts
-无线新闻,http://livesec.mudu.tv/watch/ow7vfa.m3u8
-明珠台,https://cdn.hkdtmb.com/raw/84.ts
-明珠台,https://cdn.hkdtmb.com/raw/84b.ts
-TVB无线财经台,https://cdn.hkdtmb.com/raw/85.ts
-ViuTV,https://cdn.hkdtmb.com/raw/99.ts
-ViuTVsix,https://cdn.hkdtmb.com/raw/96.ts
-开电视,https://cdn.hkdtmb.com/raw/77.ts
-财经资讯,https://cdn.hkdtmb.com/raw/76.ts
-RTHK31,https://cdn.hkdtmb.com/raw/31.ts
-RTHK32,https://cdn.hkdtmb.com/raw/32.ts
-RTHK33,https://cdn.hkdtmb.com/raw/33.ts
-
-📡源码二套,#genre#
-J2,https://cdn.hklive.tv/raw/82.ts
-翡翠台,https://cdn.hklive.tv/raw/81.ts
-翡翠台,https://cdn.hklive.tv/raw/81b.ts
-无线新闻,https://cdn.hklive.tv/raw/83.ts
-开电视,https://cdn.hklive.tv/raw/77.ts
-明珠台,https://cdn.hklive.tv/raw/84.ts
-明珠台,https://cdn.hklive.tv/raw/84b.ts
-无线财经,https://cdn.hklive.tv/raw/85.ts
-ViuTV,https://cdn.hklive.tv/raw/99.ts
-ViuTVsix,https://cdn.hklive.tv/raw/96.ts
-RTHK31,https://cdn.hklive.tv/raw/31.ts
-RTHK32,https://cdn.hklive.tv/raw/32.ts
-RTHK33,https://cdn.hklive.tv/raw/33.ts
-财经资讯,https://cdn.hklive.tv/raw/76.ts
-球彩台,https://pull-hls-l1.ixigua.com/live/9952c7d45f2d137701a8ce4f92599/playlist.m3u8
-603,https://pull-hls-l1.ixigua.com/live/8852c7d45f2d137701a8ce4f92588/playlist.m3u8
-有线新闻,https://pull-hls-l1.ixigua.com/live/1232c7d45f2d137701a8ce4f92123/playlist.m3u8
-
 
 
 
