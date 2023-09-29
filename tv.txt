@@ -166,18 +166,30 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
 
 🇨🇳广州频道,#genre#
-广州综合,http://88888.55555.io:2345/udp/239.253.43.66:5146
-广州综合高清,http://88888.55555.io:2345/udp/239.253.43.71:5146
-广州新闻,http://88888.55555.io:2345/udp/239.253.43.67:5146
-广州新闻高清,http://88888.55555.io:2345/udp/239.253.43.72:5146
-广州影视,http://88888.55555.io:2345/udp/239.253.43.68:5146
-广州影视高清,http://88888.55555.io:2345/udp/239.253.43.73:5146
-广州法治,http://88888.55555.io:2345/udp/239.253.43.69:5146
-广州法治高清,http://88888.55555.io:2345/udp/239.253.43.74:5146
-广州竞赛,http://88888.55555.io:2345/udp/239.253.43.70:5146
-广州竞赛高清,http://88888.55555.io:2345/udp/239.253.43.75:5146
-南国都市 4K,http://88888.55555.io:2345/udp/239.77.0.233:5146
-
+广东卫视,http://angtv.cn/jd/gd.php?id=gdws
+广东珠江,http://angtv.cn/jd/gd.php?id=gdzj
+广东体育,http://angtv.cn/jd/gd.php?id=gdty
+广东民生,http://angtv.cn/jd/gd.php?id=gdms
+广东嘉佳卡通,http://angtv.cn/jd/gd.php?id=jjkt
+广东少儿,http://angtv.cn/jd/gd.php?id=gdse
+广东影视,http://angtv.cn/jd/gd.php?id=gdys
+广东大湾区卫视,http://angtv.cn/jd/gd.php?id=dwqws
+广东新闻标清,http://angtv.cn/jd/gd.php?id=gdxw
+广东经济科教标清,http://angtv.cn/jd/gd.php?id=gdjj
+广东岭南戏曲标清,http://angtv.cn/jd/gd.php?id=gdxq
+广东现代教育标清,http://angtv.cn/jd/gd.php?id=xdjy
+喜粤影视推荐,http://angtv.cn/jd/gd.php?id=ystj
+广东中国交通,http://angtv.cn/jd/gd.php?id=gdjt
+凤凰卫视标清,http://angtv.cn/jd/gd.php?id=fhws
+翡翠台标清,http://angtv.cn/jd/gd.php?id=fct
+明珠台标清,http://angtv.cn/jd/gd.php?id=mzt
+揭阳综合,http://angtv.cn/jd/gd.php?id=jyzh
+汕头综合,http://angtv.cn/jd/gd.php?id=stzh
+汕尾综合,http://angtv.cn/jd/gd.php?id=swzh
+惠州一套,http://angtv.cn/jd/gd.php?id=hz1
+惠州二套,http://angtv.cn/jd/gd.php?id=hz2
+三沙卫视,http://angtv.cn/jd/gd.php?id=ssws
+CETV早期教育,http://angtv.cn/jd/gd.php?id=zqjy
 
 
 ⚽️体育频道,#genre#
