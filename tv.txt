@@ -147,7 +147,7 @@ CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
 
-🇨🇳广州频道,#genre#
+🇨🇳广东频道,#genre#
 广东卫视,http://angtv.cn/jd/gd.php?id=gdws
 广东珠江,http://angtv.cn/jd/gd.php?id=gdzj
 广东体育,http://angtv.cn/jd/gd.php?id=gdty
