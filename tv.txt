@@ -219,8 +219,6 @@ MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
 MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
 
 🔞天上人间_918,#genre#
-🚀地波一套,#genre#
-💋一本道_918,#genre#
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
 一本道3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1
@@ -239,5 +237,8 @@ MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
 一本道5,https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8.web.pad
 一本道6,https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8.web.pad
 一本道7,https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8?skipl=1
+🚀地波一套,#genre#
+
+
 
 🇨🇳🇺🇸🇯🇵🇰🇷🇲🇾🇲🇴🇺🇳🌐🌟💠🎈🛰️🐱💋🚗,#genre#
