@@ -81,7 +81,6 @@ TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 天才衝衝衝,https://sc2022.stream-link.org/tv2306.php?id=t27
 東森yoyo,https://sc2022.stream-link.org/tv2306.php?id=t28
 
-
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
 浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
@@ -146,7 +145,6 @@ CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8 
 CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
-
 🇨🇳广东频道,#genre#
 广东卫视,http://angtv.cn/jd/gd.php?id=gdws
 广东珠江,http://angtv.cn/jd/gd.php?id=gdzj
@@ -173,7 +171,6 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 三沙卫视,http://angtv.cn/jd/gd.php?id=ssws
 CETV早期教育,http://angtv.cn/jd/gd.php?id=zqjy
 
-
 ⚽️体育频道,#genre#
 广东体育,http://angtv.cn/jd/gd.php?id=gdty
 CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?  
@@ -182,7 +179,6 @@ CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-5+   2K,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0  
 CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8? 
 CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8   
-
 
 🐟斗鱼轮播,#genre#
 电影频道
@@ -203,7 +199,6 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 宇哥电影,http://epg.112114.xyz/douyu/413573
 
 🎞️新片速递,#genre#
-
 封神 朝歌风云,https://lf6-douyin-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
@@ -218,26 +213,8 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m
 MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
 MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
 
-🔞天上人间_918,#genre#
-一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
-一本道2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
-一本道3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1
-一本道4,https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8?skipl=1
-一本道5,https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8?skipl=1
-一本道6,https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8?skipl=1
-一本道7,https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8
-一本道8,https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8
-一本道9,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8
-一本道10,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8
-一本道11,https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8
-一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
-一本道2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-一本道3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-一本道4,https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8.web.pad
-一本道5,https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8.web.pad
-一本道6,https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8.web.pad
-一本道7,https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8?skipl=1
-🚀地波一套,#genre#
+
+
 
 
 
