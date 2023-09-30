@@ -208,10 +208,10 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
 
-📡地波内置,#genre#
-凤凰香港,https://epg.pw/stream/38b23fcfedbc418c4eee06d6cf17040b3bb70e150b3c21860d21c73b19033735.m3u8
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+📡凤凰频道,#genre#
+凤凰中文,http://ceshi.huanqiuzhibo.cn/ceshi.php?id=phoenixtv_hd
+凤凰资讯,http://ceshi.huanqiuzhibo.cn/ceshi.php?id=phoenixinfo_hd
+凤凰香港,http://ceshi.huanqiuzhibo.cn/ceshi.php?id=hkphoenix_twn
 
 🎵音乐频道,#genre#
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
