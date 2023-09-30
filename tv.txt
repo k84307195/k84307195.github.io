@@ -1,4 +1,7 @@
 🇭🇰香港直连,#genre#
+凤凰中文[1280x720],http://php.17186.eu.org/phtv/fhzw.m3u8 
+凤凰资讯[1280x720],http://php.17186.eu.org/phtv/fhzx.m3u8 
+凤凰香港[1280x720],http://php.17186.eu.org/phtv/fhxg.m3u8
 測試01,https://sc2022.stream-link.org/tv2306.php?id=c01
 測試02,https://sc2022.stream-link.org/tv2306.php?id=c02
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
