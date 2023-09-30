@@ -203,6 +203,8 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 宇哥电影,http://epg.112114.xyz/douyu/413573
 
 🎞️新片速递,#genre#
+
+封神第一部：朝歌风云,https://lf9-open-ma-pkg.bytemastatic.com/obj/tos-cn-i-siecs4i2o7/oQVNnRLhAo4lAI4EIBfyCpAzQBG7AggcNthV7G?x-expires=1696048476&x-signature=dd99TTgGoyCoWXdcb86xTyqhaAK%3D&6080.mp4
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
 
