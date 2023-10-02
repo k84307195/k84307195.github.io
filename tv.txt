@@ -250,7 +250,7 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 📡凤凰频道,#genre#
 凤凰中文,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://183.250.157.35:8880/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://ceshi.huanqiuzhibo.cn/ceshi.php?id=hkphoenix_twn
+凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
 🎵音乐频道,#genre#
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
