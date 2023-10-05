@@ -270,7 +270,7 @@ J2,http://r.jdshipin.com/Nr5jq
 📡测试频道.,#genre#
 J2台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-25079cd6-c859-4006-9b47-9c4f4dc962da/index.m3u8?by=yeslivetv.com
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-193a4295-d82b-4dc2-aae0-9113a9f2e1ea/index.m3u8?by=yeslivetv.com
-無綫新聞台,
+無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4b30dd35-4711-419a-9b42-de620aec12f5/index.m3u8?by=yeslivetv.com
 無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 HOY TV開電視,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5a6e1a11-1c02-41e0-8696-a7f31d6f8719/index.m3u8?by=yeslivetv.com
