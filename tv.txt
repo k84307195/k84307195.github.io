@@ -259,9 +259,9 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 J2,http://r.jdshipin.com/Nr5jq
-翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-193a4295-d82b-4dc2-aae0-9113a9f2e1ea/index.m3u8?by=yeslivetv.com#http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-无线新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4b30dd35-4711-419a-9b42-de620aec12f5/index.m3u8?by=yeslivetv.com#http://r.jdshipin.com/CkuBd
+无线新闻,http://r.jdshipin.com/CkuBd
 明珠台,http://r.jdshipin.com/ZQ4kN
 东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
