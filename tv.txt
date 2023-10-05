@@ -4,6 +4,7 @@
 凤凰香港[1280x720],http://php.17186.eu.org/phtv/fhxg.m3u8
 測試01(DAZN F1),https://sc2022.stream-link.org/tv2306.php?id=c01
 測試02(DAZN 西甲),https://sc2022.stream-link.org/tv2306.php?id=c02
+爆谷台,http://27.102.128.25:8080/live/baogu.m3u8
 華麗(翡翠台),https://sc2022.stream-link.org/tv2306.php?id=h26
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
