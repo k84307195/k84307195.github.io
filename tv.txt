@@ -247,7 +247,8 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
-
+孤注一掷清晰版,https://hd.ijycnd.com/play/zbqmMMkb/index.m3u8
+孤注一掷,https://hd.ijycnd.com/play/zbqmMMkb
 📡凤凰频道,#genre#
 凤凰中文,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
