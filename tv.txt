@@ -4,7 +4,6 @@
 凤凰香港[1280x720],http://php.17186.eu.org/phtv/fhxg.m3u8
 測試01(DAZN F1),https://sc2022.stream-link.org/tv2306.php?id=c01
 測試02(DAZN 西甲),https://sc2022.stream-link.org/tv2306.php?id=c02
-爆谷台,http://27.102.128.25:8080/live/baogu.m3u8
 華麗(翡翠台),https://sc2022.stream-link.org/tv2306.php?id=h26
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
@@ -256,12 +255,6 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
-🎵音乐频道,#genre#
-MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
-MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
-
-
 📡测试频道,#genre#
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
@@ -272,7 +265,10 @@ J2,http://r.jdshipin.com/Nr5jq
 明珠台,http://r.jdshipin.com/ZQ4kN
 东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+爆谷台,http://27.102.128.25:8080/live/baogu.m3u8
 
-
-
+🎵音乐频道,#genre#
+MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
+MTV Live,mitv://ns2.hellotvvod.com:9906/8134e7ab46af4924ab202ef7300cb189
 🇨🇳🇺🇸🇯🇵🇰🇷🇲🇾🇲🇴🇺🇳🌐🌟💠🎈🛰️🐱💋🚗,#genre#
