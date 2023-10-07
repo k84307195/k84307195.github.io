@@ -265,7 +265,7 @@ J2,http://r.jdshipin.com/Nr5jq
 明珠台,http://r.jdshipin.com/ZQ4kN
 东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
-爆谷台,http://27.102.128.25:8080/live/baogu.m3u8
+爆谷台,http://159.75.221.205:8090/live/baogu.m3u8
 
 📡测试频道.,#genre#
 鳳凰衛視中文台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8?by=yeslivetv.com
