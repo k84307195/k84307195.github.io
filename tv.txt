@@ -1520,7 +1520,7 @@ J2,http://r.jdshipin.com/Nr5jq
 
 📡测试频道.,#genre#
 鳳凰衛視中文台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-9500585d-11b7-404b-9967-6639d66246e3/index.m3u8?by=yeslivetv.com
-鳳凰衛視資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3b92ffff-6a06-4bac-bd4d-ac609f549550.flv?by=yeslivetv
+鳳凰衛視資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3b92ffff-6a06-4bac-bd4d-ac609f549550.flv?by=yeslivetv.com
 J2台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-70069a7b-2925-4440-bb13-7379b419912c/index.m3u8?by=yeslivetv.com
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8d3ff8b3-8731-473b-afaf-c6c6aaee6c5e/index.m3u8?by=yeslivetv.com
 無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4b30dd35-4711-419a-9b42-de620aec12f5/index.m3u8?by=yeslivetv.com
