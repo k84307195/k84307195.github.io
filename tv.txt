@@ -1524,7 +1524,7 @@ J2台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-70069a7b-2925-4440-bb13-7379
 無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 HOY TV開電視,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5a6e1a11-1c02-41e0-8696-a7f31d6f8719/index.m3u8?by=yeslivetv.com
-ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-49bd217b-caa3-4aa4-99c1-d8760bcf55d9/index.m3u8?by=yeslivetv.com
+ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-93d53b1a-bb73-4ea0-be17-5c76f5b81e85/index.m3u8?by=yeslivetv.com
 ViuTV Six,https://pull-f5-spe.ixigua.com/live/YesLiveTV-94500c9e-ec51-46bb-8e40-ccc2d43d79a5.flv?by=yeslivetv.com
 香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e635488/index.m3u8?by=yeslivetv.com
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
