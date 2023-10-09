@@ -1822,6 +1822,17 @@ ViuTV Six,https://pull-f5-spe.ixigua.com/live/YesLiveTV-94500c9e-ec51-46bb-8e40-
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 
+💋天上人间.,#genre#
+1.松视1台,p3p://108.181.32.169:21906/641a7fef0001cbadc0dd785024cf7b16
+2.松视3台,p3p://108.181.32.169:21906/641a8072000b7475c0df7a8149c10bc0
+3.松视2台,p3p://108.181.32.169:21906/641a80840007ebe4c0dfbfea75246776
+4.HAPPY,p3p://108.181.32.169:21906/641a803200002963c0de7d9d18c613b0
+5.彩虹K,p3p://108.181.32.169:21906/641a80460008b827c0decdee29e32e4a
+6.玩美台,p3p://108.181.32.169:21906/641a809400078800c0dffe502ef54240
+7.亚视香蕉台,p3p://108.181.32.169:21906/641a80a30005f9aac0e038823bb70f3f
+8.ATV 垫台,p3p://108.181.32.169:21906/641a80b3000e6c47c0e0793a487a2d83
+9.极限台HOT,p3p://108.181.32.169:21906/641a80c500043976c0e0bced75a64dff
+10.彩虹电影,p3p://108.181.32.169:21906/641a8056000984f3c0df0ca20be706a6
 
 🎵音乐频道,#genre#
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
