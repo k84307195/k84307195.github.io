@@ -468,7 +468,7 @@ CGTN俄语高清,http://cloud.bytelife.top:4022/udp/239.253.43.201:5146
 
 
 ⚽️体育频道,#genre#
-广东体育,http://angtv.cn/jd/gd.php?id=gdty
+广东体育,http://cloud.bytelife.top:4022/udp/239.77.0.112:5146#http://cloud.bytelife.top:4022/udp/239.77.0.168:5146
 CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?  
 CCTV-5    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8 
 CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8   
