@@ -1,4 +1,56 @@
-
+秒看TV,#genre#
+翡翠台,tvbus://4d3SqDabh2a6UV4qgbN4tRUZmSYF7rXws7b9LY1gpy39dDU2nK
+无线新闻台,tvbus://3evy6CsmpNykm7tDRnZJhVhUHToPpEGnGyREkE2Yu8X3EPgnPx
+Now 新闻台,tvbus://4VDtZGrPTbAiPGNG5hjua2hM925H5nWvDwyP6w7SiB3Y7WqDiX
+Baby,tvbus://3C3K3d4pNQtA2nZnnC5sBQzuWDbJv9nvvktp1wSQ6xCvrHEjjP
+CN卡通,tvbus://3awwyYtNCtisF8RuuGv7A8vwTGg5uVWQGRnHYt68unfNhHQb44
+CBeebies,tvbus://4BeNXMvoM7E9KXfwCanwTuYPC6pu2j7PkGzwCDZXmpx8bQ7q7s
+Cartoonito,tvbus://4DrQ584nsRYws1c2TKKKubmGbLYrFHRkpi6QvoV6FDhscpNKd2
+MOMO亲子台,tvbus://3VV3Zk3KWmeWJH5dE88FmZKeuBp8jzx6sENZSLCeThtubfoNfm
+东森幼幼台,tvbus://4Luy2FdfRBuCdPZxkCJYiQRgrkHsk1WNiGUKujHnDt7qWH2CMG
+纬来电影台,tvbus://43HRfpwoSWhpLQmA6MWVaZ1xr4hnKxzaPbSa4oiM95k5Y1Lpkj
+东森电影台,tvbus://348orevWcpLkbQKQrQxJRQzVFZ7CrFfXtaxKC8FVoi9npVE6Tj
+星卫HD电影,tvbus://34zdvA13ZUfU6nWZ3TZXoz9AxorzkDGPoAEqtWgyiXKsJRK7oD
+三立台湾台,tvbus://4H644KqrJqg4wErjcJ3Xm86t9wugo4rJBgB3yqy2F9tE9dTg2Y
+Now英超4K(粤),tvbus://4RtQthJJhrCDyzXjZZgnUmxabYMfxkWLoSQaLL7m8gMfiLhH2v
+Now英超一台(粤),tvbus://4DQGv5RpdrKn2CkMqR3Muk5PFyu2bH3GtdNWd7Vhc2CyHqzS9s
+Astro Asian Games785,tvbus://3kXGpEvGXSwM4m25vcjBpf1j24dcZZ2ZhtEd4upFFBuVBJ1MnF
+Astro Asian Games786,tvbus://4XnP3Hi1esutZvjYCi1vxjE83V3YLDHASCsnPEyVryyf9kAdoN
+Astro Asian Games787,tvbus://4q611P19rvJsKx6gbXypKE3SymTZgMjfkXmMDN2iPymWdgwYP3
+Astro Asian Games788,tvbus://4dLiyzbjWctP5vFNwsjvSQftz1jiCfNJw9UbC6XyAN7T44Avnr
+Astro Asian Games789,tvbus://3wMkGJQoHi8tA3YnNVqPUHV4Mfk4XrcHYhVNaxhsKuxGS25nXs
+Astro Asian Games790,tvbus://4ECAp2qraEe8edanJB62ekJwBUWEGzzjqkHDHkxZu8Y9PfcQ2k
+博斯无限台,tvbus://4LdJHPShwcdFpoCFkBWpfyjE4Sfam6WuTDUkBVeTG1ihaQMDpH
+ELTA体育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
+ELTA体育2台,tvbus://4miUK2SiFdeyUG3detwN8X7qhzL4wvJeNd5bvkg9CWLeYZjP2d
+ELTA体育3台,tvbus://48dzHwkYta7JJNEFTQejMSuWXi88Taf2q3b6SUPcZmXeZjqUnv
+ELTA体育4台,tvbus://4ssNUJwejFvjkosWzvx48AtyGNmQ9AS8oJnvaeu9fxcNE6v8Mv
+镜__新闻台,tvbus://4Fy11NHufGpbNFxUVRfU9dLwF9aoLCFtZMkBwcNdM2Xfn8D9s2
+台视新闻台,tvbus://3FrEoPYHD8a3qmU6gyRqsXLrAhqKbTL9L5VfAMU1Cm1KbRi2UT
+中视新闻台,tvbus://3GhBHADDzxQoGe48TALBuBzEQ5QnmwnsedBZLLRUTUoEGjzjBf
+民视新闻台,tvbus://4fkVA3fKkiGYfufmQ8CBki5jVmSdxf45Yk29PXdDaZf27uLJMc
+TVBS新闻台,tvbus://4eo36T1aYocFEbbKgJE69a4MUdmVg6usyfamgxVUDmxUbwzvFa
+东森新闻台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
+中天新闻台,tvbus://2z8mkJLwLddTaNVrZYXzW5iTNRZjtWpCco7AF96PEUce5rkEva
+中天新闻二,tvbus://3gZwNpAFXpqAC4R824sLgXRKDYmsLbmptR8Rhsw2weZhMQQEmd
+中天亚洲台,tvbus://3ggm9Vc9FBGDb1vaoRKBudGcHsRCsCqxY4FK62Xcqme8i6kRWR
+寰宇新闻台,tvbus://3vRrZL4okgTs1Jy91SzRBficqeCZuRwjdcZPqndBL5UYw1YNor
+亚洲新闻台,tvbus://42EcCJDpKkgGeANRTHHf92RiG9zqPFKeudGJUtXki5DaJFNj3A
+凤凰资讯台,tvbus://4nsBj7PY12TUvtsdvUUdxMEwabpYo5v3WqhW13YSkFny9v1Ycs
+寰宇新闻台湾台,tvbus://2zjhviTkR5hQ3k5TWh759EGnJEDryP18mFMDqvmp9XmTVi9JmK
+RT,tvbus://3cwLz9kFVTJpR5rbcji4Gw8pNRehjmccdkZ95QJDMYTJ27PGWz
+DW,tvbus://3ttekTRS5ejuVnAPfaqXMssBVpf4hhRv433DviHKr6nnb4dnRy
+Sky news,tvbus://4CDxyuv36HrLBmHL9ZWpRos5Twf583nVnhxH9MwGQNUUPgfk4P
+ABC News,tvbus://4mEBu1qDvnx17Nd8thxXjESnCcPuhjvGzetvvNHYkMZuUX5kCF
+Bloomberg,tvbus://3uRXEWfSCBiZNskuLmWD6MFcwmSFU563dNiKXhCr4PTVRrpWt2
+Россия-24,tvbus://3cXV7Ye4UGmQu9Zq6MYN4sRjx29E79SVhxjBAb4SJeVkByaVtq
+FRANCE 24,tvbus://3LBb9S1XpqRTgLemJoUwRqrJfz6sNnTM6eTZxjhF6856yvmt3f
+Euronews,tvbus://3am6JLJ1skF5EeicmtXAYJW82x8ZKs6r6Bugn3WAHmtHpgZLaS
+Al Jazeera,tvbus://3Qm6aeFQTHkwJEuTCnNdz9cwfXgkdUSYPCNFtwLYtR3k6fUoNP
+华藏卫视,tvbus://4gtmvBfKYSvtk3eDxzJeB2PtuWTXneBrSqro3ccmueGvgwnuFg
+大爱一台,tvbus://44Jfzxh5CtPs11bX8rNULecriUZCunuSEkwPXaGHbbWqxmHRay
+World Fashion,tvbus://4Z15e3GvqLfPgQaj9L15zDxxSQdW2VH1x3pkAW4qQbyEDVTdeR
+FashionBox,tvbus://3tnfRRnRrU5PiyuwEUQX2TKJHwfW8htZXz7DhrMh77hu8W8p2J
 
 🇭🇰香港直连,#genre#
 凤凰中文[1280x720],http://php.17186.eu.org/phtv/fhzw.m3u8 
