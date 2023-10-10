@@ -215,10 +215,6 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 CETV早期教育,http://angtv.cn/jd/gd.php?id=zqjy
 
 🇨🇳广东组播,#genre#
-全球免费电视资源TG群：https://t.me/y688m
-潮州综合高清,http://cloud.bytelife.top:4022/udp/239.253.43.70:5146
-潮州民生高清,http://cloud.bytelife.top:4022/udp/239.253.43.75:5146 
-岭南戏曲,http://cloud.bytelife.top:4022/udp/239.77.0.16:5146
 广东卫视,http://cloud.bytelife.top:4022/udp/239.77.0.2:5146
 广东卫视,http://cloud.bytelife.top:4022/udp/239.77.1.2:5146
 广东卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.19:5146
@@ -246,16 +242,6 @@ CETV早期教育,http://angtv.cn/jd/gd.php?id=zqjy
 大湾区卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.215:5146
 广东影视,http://cloud.bytelife.top:4022/udp/239.77.0.11:5146
 广东影视高清,http://cloud.bytelife.top:4022/udp/239.77.0.217:5146
-广东少儿,http://cloud.bytelife.top:4022/udp/239.77.0.12:5146
-广东少儿高清,http://cloud.bytelife.top:4022/udp/239.77.0.250:5146
-嘉佳卡通,http://cloud.bytelife.top:4022/udp/239.77.0.13:5146
-嘉佳卡通,http://cloud.bytelife.top:4022/udp/239.77.1.15:5146
-嘉佳卡通高清,http://cloud.bytelife.top:4022/udp/239.77.0.179:5146
-南方购物-精选,http://cloud.bytelife.top:4022/udp/239.77.0.19:5146
-南方购物,http://cloud.bytelife.top:4022/udp/239.77.0.22:5146
-岭南戏曲,http://cloud.bytelife.top:4022/udp/239.77.0.16:5146
-广东房产,http://cloud.bytelife.top:4022/udp/239.77.0.14:5146
-现代教育,http://cloud.bytelife.top:4022/udp/239.77.0.18:5146
 广东移动,http://cloud.bytelife.top:4022/udp/239.77.0.20:5146
 广东综艺 4K50p,http://cloud.bytelife.top:4022/udp/239.77.1.236:5146
 广东综艺 4K,http://cloud.bytelife.top:4022/udp/239.77.1.237:5146
