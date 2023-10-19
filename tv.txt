@@ -523,7 +523,7 @@ Now爆谷台,http://159.75.221.205:8090/live/baogu.m3u8
 📡测试频道.,#genre#
 鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-2736a923-cc81-400f-9f47-6849c075757c/index.m3u8?by=yeslivetv.com
 鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8428c4bf-a2bb-4b67-ac17-742bfbf24685/index.m3u8?by=yeslivetv.com
-翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-9fa681c4-637d-49d1-862e-8a51e12f6750/index.m3u8?by=yeslivetv.com
+翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5ff5da44-1005-4c70-a653-eaa39d0672d9/index.m3u8?by=yeslivetv.com
 無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
 無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
