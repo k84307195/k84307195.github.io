@@ -530,7 +530,7 @@ HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac
 HOY TV開電視,https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8?by=yeslivetv.com
 ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8?by=yeslivetv.com
 ViuTV Six,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
-香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e635488/index.m3u8?by=yeslivetv.com
+香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 🎵音乐频道,#genre#
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
