@@ -521,9 +521,9 @@ J2,http://r.jdshipin.com/Nr5jq
 Now爆谷台,http://159.75.221.205:8090/live/baogu.m3u8
 
 📡测试频道.,#genre#
-鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-2736a923-cc81-400f-9f47-6849c075757c/index.m3u8?by=yeslivetv.com
-鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8428c4bf-a2bb-4b67-ac17-742bfbf24685/index.m3u8?by=yeslivetv.com
-翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1e963fb2-7b50-4fcd-baf0-12370ce4e799/index.m3u8?by=yeslivetv.com
+鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-42c71193-7c0a-4766-8148-cb109212859f/index.m3u8?by=yeslivetv.com
+鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-120361b8-c34f-4aad-a920-2e39759c4efa/index.m3u8?by=yeslivetv.com
+翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-430e29fb-9581-4404-ac71-c1a44b5cac4c/index.m3u8?by=yeslivetv.com
 無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
 無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
@@ -532,6 +532,7 @@ ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f163
 ViuTV Six,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
 香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
 🎵音乐频道,#genre#
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV,mitv://ns2.hellotvvod.com:9906/96a6443f54704e909ecfb327f6d12c2e
