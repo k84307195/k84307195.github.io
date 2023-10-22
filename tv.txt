@@ -518,9 +518,10 @@ J2,http://r.jdshipin.com/Nr5jq
 明珠台,http://r.jdshipin.com/ZQ4kN
 东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
-Now爆谷台,http://159.75.221.205:8090/live/baogu.m3u8
+
 
 📡测试频道.,#genre#
+鳳凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-42c71193-7c0a-4766-8148-cb109212859f/index.m3u8?by=yeslivetv.com
 鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-120361b8-c34f-4aad-a920-2e39759c4efa/index.m3u8?by=yeslivetv.com
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-430e29fb-9581-4404-ac71-c1a44b5cac4c/index.m3u8?by=yeslivetv.com
