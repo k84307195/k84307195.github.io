@@ -522,7 +522,7 @@ J2,http://r.jdshipin.com/Nr5jq
 
 📡测试频道.,#genre#
 鳳凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
-鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-27faca31-d666-4b5d-9df3-e86716ab3e8a/index.m3u8?by=yeslivetv.com
+鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-199fb381-7d46-4ac0-b30c-a2a929a41db9/index.m3u8?by=yeslivetv.com
 鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5c5dd006-4736-40a9-baeb-dddc66873cce/index.m3u8?by=yeslivetv.com
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-711a21e2-b32b-4da0-9704-b49f4537c3f7/index.m3u8?by=yeslivetv.com
 無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
