@@ -535,8 +535,7 @@ ViuTV Six,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 🎵音乐频道,#genre#
-小小,#genre#
- 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
+💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
 🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
