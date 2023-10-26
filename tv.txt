@@ -522,8 +522,8 @@ J2,http://r.jdshipin.com/Nr5jq
 
 📡测试频道.,#genre#
 鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-199fb381-7d46-4ac0-b30c-a2a929a41db9/index.m3u8?by=yeslivetv.com
-鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1db8c354-3755-41b8-8500-518a3b3270ce/index.m3u8?by=yeslivetv.com
-翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-779a061f-1255-4966-b86c-899b21c2bd8e/index.m3u8?by=yeslivetv.com
+鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/5b424e21-9171-4725-9a25-d28ba8a1f2ac/index.m3u8?by=yeslivetv.com
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/8d6ccec7-eaa3-4b62-bc17-e9cb461e1f98/index.m3u8?by=yeslivetv.com
 無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
 無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
