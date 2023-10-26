@@ -521,7 +521,7 @@ J2,http://r.jdshipin.com/Nr5jq
 
 
 📡测试频道.,#genre#
-鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-199fb381-7d46-4ac0-b30c-a2a929a41db9/index.m3u8?by=yeslivetv.com
+鳳凰中文,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/5b424e21-9171-4725-9a25-d28ba8a1f2ac/index.m3u8?by=yeslivetv.com
 J2,http://r.jdshipin.com/Nr5jq
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/8d6ccec7-eaa3-4b62-bc17-e9cb461e1f98/index.m3u8?by=yeslivetv.com
