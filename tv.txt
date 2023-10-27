@@ -485,13 +485,8 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 粤语电影1,http://epg.112114.xyz/douyu/5033502
 粤语电影2,http://epg.112114.xyz/douyu/6566671
 粤语电影3,http://epg.112114.xyz/douyu/1226741
-粤语港片,http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key=007540012225a9e4f7bc6db7846c01b66&dis
-周星驰,http://epg.112114.xyz/douyu/3990812
 刘德华,http://epg.112114.xyz/douyu/2516864
-刘德华.,http://epg.112114.xyz/douyu/8985415
 林正英,http://epg.112114.xyz/douyu/218859
-林正英.,http://epg.112114.xyz/douyu/7356023
-喜剧经典,http://epg.112114.xyz/douyu/9650887
 宇哥电影,http://epg.112114.xyz/douyu/413573
 
 🎞️新片速递,#genre#
