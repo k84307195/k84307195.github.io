@@ -123,6 +123,19 @@ TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 天才衝衝衝,https://sc2022.stream-link.org/tv2306.php?id=t27
 東森yoyo,https://sc2022.stream-link.org/tv2306.php?id=t28
 
+🇭🇰香港频道,#genre#
+鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/e8b571f2-16eb-482c-aa6c-8c8d7708504f/index.m3u8?by=yeslivetv.com
+鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/5b424e21-9171-4725-9a25-d28ba8a1f2ac/index.m3u8?by=yeslivetv.com
+J2,http://r.jdshipin.com/Nr5jq
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/beebf2b0-ac46-4513-a87c-892f225c545a/index.m3u8?by=yeslivetv.com
+無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
+無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
+HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
+HOY TV開電視,https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8?by=yeslivetv.com
+ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8?by=yeslivetv.com
+ViuTV Six,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
+香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
+Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
@@ -515,19 +528,6 @@ J2,http://r.jdshipin.com/Nr5jq
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 
 
-📡测试频道.,#genre#
-鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/e8b571f2-16eb-482c-aa6c-8c8d7708504f/index.m3u8?by=yeslivetv.com
-鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/5b424e21-9171-4725-9a25-d28ba8a1f2ac/index.m3u8?by=yeslivetv.com
-J2,http://r.jdshipin.com/Nr5jq
-翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/beebf2b0-ac46-4513-a87c-892f225c545a/index.m3u8?by=yeslivetv.com
-無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
-無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
-HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-HOY TV開電視,https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8?by=yeslivetv.com
-ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8?by=yeslivetv.com
-ViuTV Six,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
-香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
-Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 🎵音乐频道,#genre#
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
