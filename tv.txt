@@ -527,7 +527,20 @@ J2,http://r.jdshipin.com/Nr5jq
 东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 
-
+📡测试地波,#genre#
+J2,https://u3.dtmb-s1.cc/82/index.m3u8?token=FqUhlPS-KY68DYqsuBFqkA&expires=1698701538
+翡翠台,https://u3.dtmb-s1.cc/81/index.m3u8?token=2ldS8fvDoPSqocVZOoWlww&expires=1698701216
+无线新闻,https://u1.dtmb-s1.cc/83/index.m3u8?token=FHjJbZXqC-F5Me22xqvrcw&expires=1698701415
+無綫財經·體育·資訊台,https://u1.dtmb-s1.cc/85/index.m3u8?token=hKyb2dLP3OuSVrF0RmMhTQ&expires=1698701536
+明珠台,https://u3.dtmb-s1.cc/84/index.m3u8?token=9vlOJiH4O4acwZfxrKJ1-w&expires=1698701537
+明珠台.,https://u3.dtmb-s1.cc/84b/index.m3u8?token=9xGNmJF74VvgivCt4sj_zQ&expires=1698701537
+HOY TV,https://u2.dtmb-s1.cc/77/index.m3u8?token=IQ45ab6otGLaC13AuF7I8g&expires=1698701916
+HOY TV資訊台,https://u1.dtmb-s1.cc/78/index.m3u8?token=UhhEQx3L1eAu2mVfy2kwdA&expires=1698701848
+香港國際財經台,https://u2.dtmb-s1.cc/76/index.m3u8?token=xw0Rixa4DaqqwMJ7RDxYdw&expires=1698701991
+ViuTV,https://u3.dtmb-s1.cc/99/index.m3u8?token=70OYnkcdocvwygTjRm9Www&expires=1698702070
+ViuTV Six,https://u3.dtmb-s1.cc/96/index.m3u8?token=MK8fRhAk5eQ4a4lDqm0yJA&expires=1698702069
+港台電視 31,https://u2.dtmb-s1.cc/31/index.m3u8?token=fcJTq3CwFMoUM7OsTlR71Q&expires=1698702178
+港台電視 32,https://u3.dtmb-s1.cc/32/index.m3u8?token=snrNIi2G9m6AY1ZWZBdvXg&expires=1698702230
 
 🎵音乐频道,#genre#
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
