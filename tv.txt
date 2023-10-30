@@ -125,7 +125,7 @@ TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 
 🇭🇰香港频道,#genre#
 鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/e8b571f2-16eb-482c-aa6c-8c8d7708504f/index.m3u8?by=yeslivetv.com
-鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/5b424e21-9171-4725-9a25-d28ba8a1f2ac/index.m3u8?by=yeslivetv.com
+鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/fde4c006-3094-463e-a995-d20b46486d65/index.m3u8?by=yeslivetv.com
 J2,http://r.jdshipin.com/Nr5jq
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/beebf2b0-ac46-4513-a87c-892f225c545a/index.m3u8?by=yeslivetv.com
 無綫新聞台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
