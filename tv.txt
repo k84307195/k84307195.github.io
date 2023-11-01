@@ -130,6 +130,7 @@ J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/447113885-679947255/index.m3u8?b
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/626081092-615457614/index.m3u8?by=yeslivetv.com
 無綫新聞台,https://pull-f5-spe.ixigua.com/yeslivetv.com/321969001-224604748/index.m3u8?by=yeslivetv.com
 無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/yeslivetv.com/597832359-442795908/index.m3u8?by=yeslivetv.com
+Now新聞台,https://sc2022.stream-link.org/tv2306.php?id=h20
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 HOY TV開電視,https://pull-f5-spe.ixigua.com/yeslivetv.com/873823182-51085598/index.m3u8?by=yeslivetv.com
 ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/120495621-679947255/index.m3u8?by=yeslivetv.com
