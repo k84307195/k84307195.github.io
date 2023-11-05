@@ -124,7 +124,7 @@ TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 東森yoyo,https://sc2022.stream-link.org/tv2306.php?id=t28
 
 🇭🇰香港频道,#genre#
-鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/592947253-711982631/index.m3u8?by=yeslivetv.com
+鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/9c7163f5-294a-4079-9064-7bf964124b8b/index.m3u8?by=yeslivetv.com
 鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8?by=yeslivetv.com
 J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/6027316-581799927/index.m3u8?by=yeslivetv.com
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8?by=yeslivetv.com
