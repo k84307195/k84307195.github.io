@@ -124,19 +124,18 @@ TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 東森yoyo,https://sc2022.stream-link.org/tv2306.php?id=t28
 
 🇭🇰香港频道,#genre#
-鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/9c7163f5-294a-4079-9064-7bf964124b8b/index.m3u8?by=yeslivetv.com
-鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/874444352-484223946/index.m3u8?by=yeslivetv.com
-J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/637880646-562850308/index.m3u8?by=yeslivetv.com
-翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/341497518-241767049/index.m3u8?by=yeslivetv.com
-無綫新聞台,https://pull-f5-spe.ixigua.com/yeslivetv.com/390722565-631910643/index.m3u8?by=yeslivetv.com
-無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/yeslivetv.com/722750670-854271229/index.m3u8?by=yeslivetv.com
+鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/914285507-529566539/index.m3u8?by=yeslivetv.com
+鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/844227634-868790463/index.m3u8?by=yeslivetv.com
+J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/821572238-387406036/index.m3u8?by=yeslivetv.com
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/324658828-346112874/index.m3u8?by=yeslivetv.com
+無綫新聞台,https://pull-f5-spe.ixigua.com/yeslivetv.com/581170229-231118615/index.m3u8?by=yeslivetv.com
+無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/yeslivetv.com/59845317-72714185/index.m3u8?by=yeslivetv.com
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-HOY TV開電視,https://pull-f5-spe.ixigua.com/yeslivetv.com/802961196-127510101/index.m3u8?by=yeslivetv.com
-ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/81163153-690036203/index.m3u8?by=yeslivetv.com
-ViuTV Six,https://pull-f5-spe.ixigua.com/yeslivetv.com/880485427-491179750/index.m3u8?by=yeslivetv.com
+HOY TV開電視,https://pull-f5-spe.ixigua.com/yeslivetv.com/769520674-593501266/index.m3u8?by=yeslivetv.com
+ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/119373976-970846198/index.m3u8?by=yeslivetv.com
+ViuTV Six,https://pull-f5-spe.ixigua.com/yeslivetv.com/479393555-351016213/index.m3u8?by=yeslivetv.com
 香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
 浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
