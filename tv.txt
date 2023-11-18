@@ -528,18 +528,18 @@ J2,http://r.jdshipin.com/Nr5jq
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 
 📡测试地波,#genre#
-港台電視31,https://s1.dtmb-s2.cc/528786733?token=QHGJq-j7ZlRS_9_9RxcgkQ&expires=1700231597
-港台電視32,https://s1.dtmb-s2.cc/1851610327?token=SthvuopzVO43MJh4dYNUrw&expires=1700231597
-HOY TV,https://s1.dtmb-s2.cc/221297259?token=uYu-fYdZU-2Kk8u_xaaqLA&expires=1700231597
-HOY TV 資訊台,https://s1.dtmb-s2.cc/291137206?token=M7-ZEeR5Uv-knwzcpNWJbg&expires=1700231597
-香港國際財經台,https://s1.dtmb-s2.cc/1611294562?token=ZMOV6hTuhmWoHhItdjLEXw&expires=1700231597
-翡翠台,https://s1.dtmb-s2.cc/395667279?token=2vexyIt4Bi9aBUf65EgNUQ&expires=1700231597
-J2台,https://s1.dtmb-s2.cc/1503166743?token=ahZNVRiMahZrSUwjJvfHnA&expires=1700231597
-無綫新聞台,https://s1.dtmb-s2.cc/1150705605?token=2baMGuaVE3x3m_FQZZzs3g&expires=1700231597
-明珠台,https://s1.dtmb-s2.cc/1019895273?token=vLogfNPgQLhjT-_JRHEjtQ&expires=1700231597
-無綫財經·資訊台,https://s1.dtmb-s2.cc/145388171?token=h2T9HghJCHKiqpK3COGg2Q&expires=1700231597
-ViuTV,https://s1.dtmb-s2.cc/1982439607?token=tCHTbLRYLZaqM6EO27kobg&expires=1700231597
-ViuTVSix,https://s1.dtmb-s2.cc/1568415035?token=Iv6AvhaOje8P3jaT2fTrPA&expires=1700231597
+港台電視31,https://s3.dtmb-s2.cc/528786733?token=_d9a_IPUCi_MlLPAazg6JQ&expires=1700322828
+港台電視32,https://s3.dtmb-s2.cc/1851610327?token=NiWjfSnT1AK7Qf4zOzodPg&expires=1700322828
+HOY TV,https://s3.dtmb-s2.cc/221297259?token=r_Xs5iK_YD5bKT7__T8fiw&expires=1700322828
+HOY TV 資訊台,https://s3.dtmb-s2.cc/291137206?token=tCabCE17BJmbK5iNda5UzA&expires=1700322828
+香港國際財經台,https://s3.dtmb-s2.cc/1611294562?token=8z2fMPtjXCJnvSJQtuxd_g&expires=1700322828
+翡翠台,https://s3.dtmb-s2.cc/395667279?token=rqqjFAEhOI5xTnwpbl-I7Q&expires=1700322828
+J2台,https://s3.dtmb-s2.cc/1503166743?token=kRmv1Isv9Gz4q2-s6hnwQQ&expires=1700322828
+無綫新聞台,https://s3.dtmb-s2.cc/1150705605?token=EBK57eyMEK1DsUZI7M9YVQ&expires=1700322828
+明珠台,https://s3.dtmb-s2.cc/1019895273?token=-VoFe9Khcb7tua8Bl6YyqQ&expires=1700322828
+無綫財經·資訊台,https://s3.dtmb-s2.cc/145388171?token=ehEfWBF5U7hP4iSMNmGk0w&expires=1700322828
+ViuTV,https://s3.dtmb-s2.cc/1982439607?token=JQWsTDMit_uVIZNtnMV-Ww&expires=1700322828
+ViuTVSix,https://s3.dtmb-s2.cc/1568415035?token=jtaAeUySx69t6BzXRcSDvA&expires=1700322828
 
 🎵音乐频道,#genre#
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
