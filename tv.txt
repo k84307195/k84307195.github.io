@@ -519,13 +519,27 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 📡测试频道,#genre#
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-J2,http://r.jdshipin.com/Nr5jq
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-无线新闻,http://r.jdshipin.com/CkuBd
-明珠台,http://r.jdshipin.com/ZQ4kN
-东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+港台電視31,https://s3.dtmb-s2.cc/528786733?token=5Ap2iuGf6gmCDZF-ZT_8QA&expires=1700484766
+港台電視32,https://s3.dtmb-s2.cc/1851610327?token=UKRZ_F6NTADPkxXq3eGWsg&expires=1700484766
+HOY TV,https://s3.dtmb-s2.cc/221297259?token=nZcdYSQ4ACGv3OmEwtJzJA&expires=1700484766
+HOY TV 資訊台,https://s3.dtmb-s2.cc/291137206?token=8lmgu4suQqCoUGuJUSAH1w&expires=1700484766
+香港國際財經台,https://s3.dtmb-s2.cc/1611294562?token=y3ecMXtWHeWfTxk0jEh1ZA&expires=1700484766
+翡翠台,https://s3.dtmb-s2.cc/395667279?token=MBK7UckT7gbXz7x8Vgu5cA&expires=1700484766
+J2台,https://s3.dtmb-s2.cc/1503166743?token=lrEZIJaWtBB2EmZS2QwzXg&expires=1700484766
+無綫新聞台,https://s3.dtmb-s2.cc/1150705605?token=Iz9tKDSW4BNJfPLBwJnDHw&expires=1700484766
+明珠台,https://s3.dtmb-s2.cc/1019895273?token=NmygUPpKvVmXjVKzZcGzdg&expires=1700484766
+無綫財經·資訊台,https://s3.dtmb-s2.cc/145388171?token=5fRGO7mMY2NDwuKEWw7FEQ&expires=1700484766
+ViuTV,https://s3.dtmb-s2.cc/1982439607?token=61JPmLHAHKX9YxWJgkwiWw&expires=1700484766
+ViuTVSix,https://s3.dtmb-s2.cc/1568415035?token=bQQ6WwgksyGqGfrAtKZ3fg&expires=1700484766
+Viu,https://s3.dtmb-s2.cc/dvb-steam/102/index.m3u8?token=sCRDBn6L_Ldu3u6EGEKZnQ&expires=1700484766
+Now News,https://s3.dtmb-s2.cc/dvb-steam/332/index.m3u8?token=WudXawobapNfd7v2rtKFnA&expires=1700484766
+Now Sports Prime,https://s3.dtmb-s2.cc/dvb-steam/630/index.m3u8?token=FcKSnMuT0j2Xh7PAtUpWgQ&expires=1700484766
+Now Sports 1,https://s3.dtmb-s2.cc/dvb-steam/631/index.m3u8?token=eZG4VhRWxNA--Q-PhmkGAg&expires=1700484766
+J,https://s3.dtmb-s2.cc/dvb-steam/J/index.m3u8?token=R9ixujMY5nBt3i-uJ223bg&expires=1700484766
+Kids,https://s3.dtmb-s2.cc/dvb-steam/KID/index.m3u8?token=jRbXjrDlKyE_fhCb3aYVUQ&expires=1700484766
+Animax,https://s3.dtmb-s2.cc/dvb-steam/Animax/index.m3u8?token=Np8ygVyln_21oHU_PnkHEA&expires=1700484766
+YouTube Music Prime,https://s3.dtmb-s2.cc/dvb-steam/youtube/index.m3u8?token=2-lvjz_wsgIMkwOdEYH1Bw&expires=1700484766
+
 
 📡测试地波,#genre#
 鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-199fb381-7d46-4ac0-b30c-a2a929a41db9/index.m3u8?by=yeslivetv.com
