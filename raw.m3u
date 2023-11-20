@@ -1,0 +1,42 @@
+#EXTM3U x-tvg-url="https://hklive.tv/epg?ok"
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://hklive.tv/png_logo/31.png" group-title="[DTMB] 482MHz-602MHz",港台電視31
+https://s3.dtmb-s2.cc/528786733?token=5Ap2iuGf6gmCDZF-ZT_8QA&expires=1700484766
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://hklive.tv/png_logo/32.png" group-title="[DTMB] 482MHz-602MHz",港台電視32
+https://s3.dtmb-s2.cc/1851610327?token=UKRZ_F6NTADPkxXq3eGWsg&expires=1700484766
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://hklive.tv/png_logo/77.png" group-title="[DTMB] 482MHz-602MHz",HOY TV
+https://s3.dtmb-s2.cc/221297259?token=nZcdYSQ4ACGv3OmEwtJzJA&expires=1700484766
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://hklive.tv/png_logo/78.png" group-title="[DTMB] 482MHz-602MHz",HOY TV 資訊台
+https://s3.dtmb-s2.cc/291137206?token=8lmgu4suQqCoUGuJUSAH1w&expires=1700484766
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://hklive.tv/png_logo/76.png" group-title="[DTMB] 482MHz-602MHz",香港國際財經台
+https://s3.dtmb-s2.cc/1611294562?token=y3ecMXtWHeWfTxk0jEh1ZA&expires=1700484766
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://hklive.tv/png_logo/81.png" group-title="[DTMB] 482MHz-602MHz",翡翠台
+https://s3.dtmb-s2.cc/395667279?token=MBK7UckT7gbXz7x8Vgu5cA&expires=1700484766
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://hklive.tv/png_logo/82.png" group-title="[DTMB] 482MHz-602MHz",J2台
+https://s3.dtmb-s2.cc/1503166743?token=lrEZIJaWtBB2EmZS2QwzXg&expires=1700484766
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://hklive.tv/png_logo/83.png" group-title="[DTMB] 482MHz-602MHz",無綫新聞台
+https://s3.dtmb-s2.cc/1150705605?token=Iz9tKDSW4BNJfPLBwJnDHw&expires=1700484766
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://hklive.tv/png_logo/84.png" group-title="[DTMB] 482MHz-602MHz",明珠台
+https://s3.dtmb-s2.cc/1019895273?token=NmygUPpKvVmXjVKzZcGzdg&expires=1700484766
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://hklive.tv/png_logo/85.png" group-title="[DTMB] 482MHz-602MHz",無綫財經·資訊台
+https://s3.dtmb-s2.cc/145388171?token=5fRGO7mMY2NDwuKEWw7FEQ&expires=1700484766
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://hklive.tv/png_logo/99.png" group-title="[DTMB] 482MHz-602MHz",ViuTV
+https://s3.dtmb-s2.cc/1982439607?token=61JPmLHAHKX9YxWJgkwiWw&expires=1700484766
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTVSix" tvg-logo="https://hklive.tv/png_logo/96.png" group-title="[DTMB] 482MHz-602MHz",ViuTVSix
+https://s3.dtmb-s2.cc/1568415035?token=bQQ6WwgksyGqGfrAtKZ3fg&expires=1700484766
+#EXTINF:-1 tvg-id="102" tvg-name="Viu" tvg-logo="https://hklive.tv/png_logo/102.png" group-title="[OTT/Web] NOW TV",Viu
+https://s3.dtmb-s2.cc/dvb-steam/102/index.m3u8?token=sCRDBn6L_Ldu3u6EGEKZnQ&expires=1700484766
+#EXTINF:-1 tvg-id="332" tvg-name="Now News" tvg-logo="https://hklive.tv/png_logo/332.png" group-title="[OTT/Web] NOW TV",Now News
+https://s3.dtmb-s2.cc/dvb-steam/332/index.m3u8?token=WudXawobapNfd7v2rtKFnA&expires=1700484766
+#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://hklive.tv/png_logo/630.png" group-title="[OTT/Web] NOW TV",Now Sports Prime
+https://s3.dtmb-s2.cc/dvb-steam/630/index.m3u8?token=FcKSnMuT0j2Xh7PAtUpWgQ&expires=1700484766
+#EXTINF:-1 tvg-id="631" tvg-name="Now Sports 1" tvg-logo="https://hklive.tv/png_logo/631.png" group-title="[OTT/Web] NOW TV",Now Sports 1
+https://s3.dtmb-s2.cc/dvb-steam/631/index.m3u8?token=eZG4VhRWxNA--Q-PhmkGAg&expires=1700484766
+#EXTINF:-1 tvg-id="J" tvg-name="Jade" tvg-logo="https://hklive.tv/png_logo/81.png" group-title="[OTT/Web] Super",J
+https://s3.dtmb-s2.cc/dvb-steam/J/index.m3u8?token=R9ixujMY5nBt3i-uJ223bg&expires=1700484766
+#EXTINF:-1 tvg-id="100" tvg-name="Kids" tvg-logo="https://hklive.tv/png_logo/100.png" group-title="[OTT/Web] Super",Kids
+https://s3.dtmb-s2.cc/dvb-steam/KID/index.m3u8?token=jRbXjrDlKyE_fhCb3aYVUQ&expires=1700484766
+#EXTINF:-1 tvg-id="504" tvg-name="Animax" tvg-logo="https://hklive.tv/png_logo/504.png" group-title="[OTT/Web] Super",Animax
+https://s3.dtmb-s2.cc/dvb-steam/Animax/index.m3u8?token=Np8ygVyln_21oHU_PnkHEA&expires=1700484766
+#EXTINF:-1 tvg-id="yt" tvg-name="YouTube Prime" tvg-logo="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc" group-title="[OTT/Web] MUSIC",YouTube Music Prime
+https://s3.dtmb-s2.cc/dvb-steam/youtube/index.m3u8?token=2-lvjz_wsgIMkwOdEYH1Bw&expires=1700484766
+
