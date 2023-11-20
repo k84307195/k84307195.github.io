@@ -528,18 +528,21 @@ J2,http://r.jdshipin.com/Nr5jq
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 
 📡测试地波,#genre#
-港台電視31,https://s3.dtmb-s2.cc/528786733?token=_d9a_IPUCi_MlLPAazg6JQ&expires=1700322828
-港台電視32,https://s3.dtmb-s2.cc/1851610327?token=NiWjfSnT1AK7Qf4zOzodPg&expires=1700322828
-HOY TV,https://s3.dtmb-s2.cc/221297259?token=r_Xs5iK_YD5bKT7__T8fiw&expires=1700322828
-HOY TV 資訊台,https://s3.dtmb-s2.cc/291137206?token=tCabCE17BJmbK5iNda5UzA&expires=1700322828
-香港國際財經台,https://s3.dtmb-s2.cc/1611294562?token=8z2fMPtjXCJnvSJQtuxd_g&expires=1700322828
-翡翠台,https://s3.dtmb-s2.cc/395667279?token=rqqjFAEhOI5xTnwpbl-I7Q&expires=1700322828
-J2台,https://s3.dtmb-s2.cc/1503166743?token=kRmv1Isv9Gz4q2-s6hnwQQ&expires=1700322828
-無綫新聞台,https://s3.dtmb-s2.cc/1150705605?token=EBK57eyMEK1DsUZI7M9YVQ&expires=1700322828
-明珠台,https://s3.dtmb-s2.cc/1019895273?token=-VoFe9Khcb7tua8Bl6YyqQ&expires=1700322828
-無綫財經·資訊台,https://s3.dtmb-s2.cc/145388171?token=ehEfWBF5U7hP4iSMNmGk0w&expires=1700322828
-ViuTV,https://s3.dtmb-s2.cc/1982439607?token=JQWsTDMit_uVIZNtnMV-Ww&expires=1700322828
-ViuTVSix,https://s3.dtmb-s2.cc/1568415035?token=jtaAeUySx69t6BzXRcSDvA&expires=1700322828
+鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-199fb381-7d46-4ac0-b30c-a2a929a41db9/index.m3u8?by=yeslivetv.com
+鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5c5dd006-4736-40a9-baeb-dddc66873cce/index.m3u8?by=yeslivetv.com
+J2,https://cdn.hkdvb.com/dvb-steam/82/index.m3u8?token=gpp5TaH3YDiK7xOinhbczA&expires=1700483181
+翡翠台,https://cdn.hkdvb.com/dvb-steam/81/index.m3u8?token=QpDpKs1jLLwj6pCctSWf2g&expires=1700482718
+無綫新聞台,https://cdn.hkdvb.com/dvb-steam/83/index.m3u8?token=7dfI1tJ4w0TMiH-5c0T1vQ&expires=1700483074
+明珠台,https://cdn.hkdvb.com/dvb-steam/84/index.m3u8?token=pLKO8NYGP8fA2autFIpYmw&expires=1700483286
+無綫財經·體育·資訊台,https://cdn.hkdvb.com/dvb-steam/85/index.m3u8?token=9U9ZR9hyKfoyTp4m2VGuOg&expires=1700483319
+HOY資訊台,https://cdn.hkdvb.com/dvb-steam/78/index.m3u8?token=z9zSV5Ac7sPSBOET0GMx2Q&expires=1700484120
+HOY TV開電視,https://cdn.hkdvb.com/dvb-steam/77/index.m3u8?token=a8IxkKZEzJ2wGV_ZElXuiQ&expires=1700484161
+ViuTV,https://cdn.hkdvb.com/dvb-steam/99/index.m3u8?token=yRPqRyIFc53lZ1-K14oFdA&expires=1700483110
+ViuTV Six,https://cdn.hkdvb.com/dvb-steam/96/index.m3u8?token=vLC8u1MdZ7n-MwOMECfEng&expires=1700483148
+香港國際財經台,https://cdn.hkdvb.com/dvb-steam/76/index.m3u8?token=d_nFRqcxgLE1Wx7qpYWQjg&expires=1700484210
+Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+港台电视31,https://cdn.hkdvb.com/dvb-steam/31/index.m3u8?token=cvaO-EAdrybEiiDfP_r6Tw&expires=1700483482
+港台电视32,https://cdn.hkdvb.com/dvb-steam/32/index.m3u8?token=j330QhSAnxe8jHQMD2x8hw&expires=1700483990
 
 🎵音乐频道,#genre#
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
