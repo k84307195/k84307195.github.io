@@ -517,26 +517,27 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
 📡测试频道,#genre#
-港台電視31,https://s2.dtmb-s2.cc/528786733?token=68zXqQ_5gqeqIqpvQlvOug&expires=1700540375
-港台電視32,https://s2.dtmb-s2.cc/1851610327?token=PEON9UaCNXDZj_LCZuOcRg&expires=1700540375
-HOY TV,https://s2.dtmb-s2.cc/221297259?token=m8wb1M4ZQjtqEIcELlHNgQ&expires=1700540375
-HOY TV 資訊台,https://s2.dtmb-s2.cc/291137206?token=u0515vmC7fAq3koWhrhjMg&expires=1700540375
-香港國際財經台,https://s2.dtmb-s2.cc/1611294562?token=hWkNPuomJC-GCoAap_A4kQ&expires=1700540375
-翡翠台,https://s2.dtmb-s2.cc/395667279?token=KntHrTv9lLlfSEC27prpGw&expires=1700540375
-J2台,https://s2.dtmb-s2.cc/1503166743?token=2S95hBww7tbVV1j8Y5Pgdw&expires=1700540375
-無綫新聞台,https://s2.dtmb-s2.cc/1150705605?token=bh48sBnQHPHHyzaUPrcj7Q&expires=1700540375
-明珠台,https://s2.dtmb-s2.cc/1019895273?token=o1TXQHE-XFpfi7Mtr7YvXQ&expires=1700540375
-無綫財經·資訊台,https://s2.dtmb-s2.cc/145388171?token=H5O8HmebXKpHGvpDG2oDsQ&expires=1700540375
-ViuTV,https://s2.dtmb-s2.cc/1982439607?token=CB3r33xTj2HPuA5XN1uL5Q&expires=1700540375
-ViuTVSix,https://s2.dtmb-s2.cc/1568415035?token=PJUZ8Fh9M4vYQYDRNAc5BA&expires=1700540375
-Viu,https://s2.dtmb-s2.cc/dvb-steam/102/index.m3u8?token=NJHTvRaoao5ipPeTavFTLQ&expires=1700540375
-Now News,https://s2.dtmb-s2.cc/dvb-steam/332/index.m3u8?token=CS8kZ4dY1M4CO6FkT7nRig&expires=1700540375
-Now Sports Prime,https://s2.dtmb-s2.cc/dvb-steam/630/index.m3u8?token=Hc6CH1takc6aa_laBYXPqQ&expires=1700540375
-Now Sports 1,https://s2.dtmb-s2.cc/dvb-steam/631/index.m3u8?token=flrey_PvKnzz-zaJH-tO2w&expires=1700540375
-J,https://s2.dtmb-s2.cc/dvb-steam/J/index.m3u8?token=ZFzwlZ4NxApxuiTYlbTkeQ&expires=1700540375
-Kids,https://s2.dtmb-s2.cc/dvb-steam/KID/index.m3u8?token=X6yzANGr7ktMheTyugL2Sw&expires=1700540375
-Animax,https://s2.dtmb-s2.cc/dvb-steam/Animax/index.m3u8?token=Nr6fcS5vwwBPK8hIELgj9A&expires=1700540375
-YouTube Music Prime,https://s2.dtmb-s2.cc/dvb-steam/youtube/index.m3u8?token=err6GDpDM5UuX_cQeQjDyg&expires=1700540375
+港台電視31,https://s3.dtmb-s2.cc/528786733?token=CUadOSeQjRMLMCrTbyZSZg&expires=1700586207
+港台電視32,https://s3.dtmb-s2.cc/1851610327?token=jRJfyirNg2LLOQWGDrRyeQ&expires=1700586207
+HOY TV,https://s3.dtmb-s2.cc/221297259?token=TsPp8IJXbk1bbyJ3QDAE6A&expires=1700586207
+HOY TV 資訊台,https://s3.dtmb-s2.cc/291137206?token=r53n5N6YgPJlzgApUMUgRQ&expires=1700586207
+香港國際財經台,https://s3.dtmb-s2.cc/1611294562?token=GW9iUpdH0mrpKZknx28Z6Q&expires=1700586207
+翡翠台,https://s3.dtmb-s2.cc/395667279?token=6OmAyRPFkMPUIk5qUVMESg&expires=1700586207
+J2台,https://s3.dtmb-s2.cc/1503166743?token=6kokaajLBEQTTys8fip-_w&expires=1700586207
+無綫新聞台,https://s3.dtmb-s2.cc/1150705605?token=hvWxAHxkIumCb7OcPwxOCQ&expires=1700586207
+明珠台,https://s3.dtmb-s2.cc/1019895273?token=JpnBiKypMwOFTaA1DHa1tw&expires=1700586207
+無綫財經·資訊台,https://s3.dtmb-s2.cc/145388171?token=m9_JVNXD7WmpSAN2Ne-6sw&expires=1700586207
+ViuTV,https://s3.dtmb-s2.cc/1982439607?token=Y77fBiNcrFsTWhjDTrrYqw&expires=1700586207
+ViuTVSix,https://s3.dtmb-s2.cc/1568415035?token=OUGb9e2XPMfj8YUSTsrqfQ&expires=1700586207
+Viu,https://s3.dtmb-s2.cc/dvb-steam/102/index.m3u8?token=vEqa1r-qJ6YGZ_UNb34BwA&expires=1700586207
+Now News,https://s3.dtmb-s2.cc/dvb-steam/332/index.m3u8?token=coo0o58BbbIsrjvtwhYzSQ&expires=1700586207
+Now Sports Prime,https://s3.dtmb-s2.cc/dvb-steam/630/index.m3u8?token=iEey47is9Y9uMXXIt2SsRg&expires=1700586207
+Now Sports 1,https://s3.dtmb-s2.cc/dvb-steam/631/index.m3u8?token=rT7gpfMbOxUCwhutWx9ywA&expires=1700586207
+J,https://s3.dtmb-s2.cc/dvb-steam/J/index.m3u8?token=8e_UDgVxt4cSbA_qgo7uDg&expires=1700586207
+Kids,https://s3.dtmb-s2.cc/dvb-steam/KID/index.m3u8?token=M2_jjAOH4vx0763WczCbsQ&expires=1700586207
+Animax,https://s3.dtmb-s2.cc/dvb-steam/Animax/index.m3u8?token=wldTW3OtmAoHoPZXxx4AIQ&expires=1700586207
+YouTube Music Prime,https://s3.dtmb-s2.cc/dvb-steam/youtube/index.m3u8?token=-lUor-xWpe3_sxHw8zLgvw&expires=1700586207
+
 
 
 
