@@ -542,8 +542,8 @@ YouTube Music Prime,https://s3.dtmb-s2.cc/dvb-steam/youtube/index.m3u8?token=-lU
 
 
 📡测试地波,#genre#
-鳳凰中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-199fb381-7d46-4ac0-b30c-a2a929a41db9/index.m3u8?by=yeslivetv.com
-鳳凰資訊,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5c5dd006-4736-40a9-baeb-dddc66873cce/index.m3u8?by=yeslivetv.com
+鳳凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8 
+鳳凰資訊,http://php.17186.eu.org/phtv/fhzx.m3u8 
 J2,https://cdn.hkdvb.com/dvb-steam/82/index.m3u8?token=gpp5TaH3YDiK7xOinhbczA&expires=1700483181
 翡翠台,https://cdn.hkdvb.com/dvb-steam/81/index.m3u8?token=QpDpKs1jLLwj6pCctSWf2g&expires=1700482718
 無綫新聞台,https://cdn.hkdvb.com/dvb-steam/83/index.m3u8?token=7dfI1tJ4w0TMiH-5c0T1vQ&expires=1700483074
