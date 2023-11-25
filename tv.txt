@@ -517,29 +517,26 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
 📡测试频道,#genre#
-港台電視31,https://s3.dtmb-s2.cc/528786733?token=CUadOSeQjRMLMCrTbyZSZg&expires=1700586207
-港台電視32,https://s3.dtmb-s2.cc/1851610327?token=jRJfyirNg2LLOQWGDrRyeQ&expires=1700586207
-HOY TV,https://s3.dtmb-s2.cc/221297259?token=TsPp8IJXbk1bbyJ3QDAE6A&expires=1700586207
-HOY TV 資訊台,https://s3.dtmb-s2.cc/291137206?token=r53n5N6YgPJlzgApUMUgRQ&expires=1700586207
-香港國際財經台,https://s3.dtmb-s2.cc/1611294562?token=GW9iUpdH0mrpKZknx28Z6Q&expires=1700586207
-翡翠台,https://s3.dtmb-s2.cc/395667279?token=6OmAyRPFkMPUIk5qUVMESg&expires=1700586207
-J2台,https://s3.dtmb-s2.cc/1503166743?token=6kokaajLBEQTTys8fip-_w&expires=1700586207
-無綫新聞台,https://s3.dtmb-s2.cc/1150705605?token=hvWxAHxkIumCb7OcPwxOCQ&expires=1700586207
-明珠台,https://s3.dtmb-s2.cc/1019895273?token=JpnBiKypMwOFTaA1DHa1tw&expires=1700586207
-無綫財經·資訊台,https://s3.dtmb-s2.cc/145388171?token=m9_JVNXD7WmpSAN2Ne-6sw&expires=1700586207
-ViuTV,https://s3.dtmb-s2.cc/1982439607?token=Y77fBiNcrFsTWhjDTrrYqw&expires=1700586207
-ViuTVSix,https://s3.dtmb-s2.cc/1568415035?token=OUGb9e2XPMfj8YUSTsrqfQ&expires=1700586207
-Viu,https://s3.dtmb-s2.cc/dvb-steam/102/index.m3u8?token=vEqa1r-qJ6YGZ_UNb34BwA&expires=1700586207
-Now News,https://s3.dtmb-s2.cc/dvb-steam/332/index.m3u8?token=coo0o58BbbIsrjvtwhYzSQ&expires=1700586207
-Now Sports Prime,https://s3.dtmb-s2.cc/dvb-steam/630/index.m3u8?token=iEey47is9Y9uMXXIt2SsRg&expires=1700586207
-Now Sports 1,https://s3.dtmb-s2.cc/dvb-steam/631/index.m3u8?token=rT7gpfMbOxUCwhutWx9ywA&expires=1700586207
-J,https://s3.dtmb-s2.cc/dvb-steam/J/index.m3u8?token=8e_UDgVxt4cSbA_qgo7uDg&expires=1700586207
-Kids,https://s3.dtmb-s2.cc/dvb-steam/KID/index.m3u8?token=M2_jjAOH4vx0763WczCbsQ&expires=1700586207
-Animax,https://s3.dtmb-s2.cc/dvb-steam/Animax/index.m3u8?token=wldTW3OtmAoHoPZXxx4AIQ&expires=1700586207
-YouTube Music Prime,https://s3.dtmb-s2.cc/dvb-steam/youtube/index.m3u8?token=-lUor-xWpe3_sxHw8zLgvw&expires=1700586207
-
-
-
+鳳凰中文,https://euorigin.scdn.pp.ua/live/phoenix_chinese.m3u8?token=zSBzwXVl91sOGTrOxjgUhA&expires=1700950509
+鳳凰資訊,https://euorigin.scdn.pp.ua/live/phoenix_infonews.m3u8?token=OpgwbACKJFSI3VHGYmc7MQ&expires=1700950542
+J2,https://cdn.hkdvb.com/dvb-steam/82/index.m3u8?token=gpp5TaH3YDiK7xOinhbczA&expires=1700483181
+翡翠台,https://euorigin.scdn.pp.ua/live/tvb_jade.m3u8?token=g5ZZen5jIawH5JgyL6Z6qA&expires=1700950067
+無綫新聞台,https://euorigin.scdn.pp.ua/live/tvb_news.m3u8?token=FYja3IypbjEw7V8F8Y5-MQ&expires=1700950305
+明珠台,https://euorigin.scdn.pp.ua/live/tvb_pearl.m3u8?token=YcxhTyYd2TMAt1gwrubnPA&expires=1700950336
+無綫財經·體育·資訊台,https://euorigin.scdn.pp.ua/live/tvb_finance.m3u8?token=eb7-oJrr3pJ7H-15BjSU3g&expires=1700950463
+HOY資訊台,https://as1.scdn.pp.ua/live/hoy78.m3u8?token=IBTAOyOMwaOdisWQp1RxqQ&expires=1700950254
+HOY TV開電視,https://euorigin.scdn.pp.ua/live/hoy77.m3u8?token=TPH16cTqpYH4qWv4ur--BA&expires=1700950219
+ViuTV,https://euorigin.scdn.pp.ua/live/viu.m3u8?token=7sS3TQit6AO10Ixho5muYg&expires=1700950403
+ViuTV Six,https://euorigin.scdn.pp.ua/live/viu6.m3u8?token=ICJBPmRHJn9RQCkinh3iNg&expires=1700950433
+香港國際財經台,https://as1.scdn.pp.ua/live/hoy76.m3u8?token=r7MCyjjl8Rx5dsgt1cBwPQ&expires=1700950182
+Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+港台电视31,https://cdn.hkdvb.com/dvb-steam/31/index.m3u8?token=cvaO-EAdrybEiiDfP_r6Tw&expires=1700483482
+港台电视32,https://cdn.hkdvb.com/dvb-steam/32/index.m3u8?token=j330QhSAnxe8jHQMD2x8hw&expires=1700483990
+封神 朝歌风云,https://lf6-douyin-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
+绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
+消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
+明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
+孤注一掷清晰版,https://hd.ijycnd.com/play/zbqmMMkb/index.m3u8
 
 📡测试地波,#genre#
 鳳凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8 
