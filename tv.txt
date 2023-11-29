@@ -127,7 +127,7 @@ TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/200613054-266175084/index.m3u8?by=yeslivetv.com
 鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/818469421-869503556/index.m3u8?by=yeslivetv.com
 J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/302815229-395467781/index.m3u8?by=yeslivetv.com
-翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/277790373-626690615/index.m3u8?by=yeslivetv.com
+翡翠台,https://s1.dtmb-s2.cc/dvb-steam/81/index-81-1-v.m3u8?token=h8fPHAOC8z2KsdvSz9668w&expires=1701283109
 無綫新聞台,https://pull-f5-spe.ixigua.com/yeslivetv.com/846708467-211643287/index.m3u8?by=yeslivetv.com
 無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/yeslivetv.com/365991165-699243283/index.m3u8?by=yeslivetv.com
 HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
