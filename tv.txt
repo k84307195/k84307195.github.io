@@ -131,6 +131,7 @@ ViuTV,https://s1.dtmb-s2.cc/ott-steam/99/index.m3u8?token=VpNSCcubKknjJSMXAth1KA
 ViuTV Six,https://s1.dtmb-s2.cc/dvb-steam/96/index.m3u8?token=0FaB36rLv7xBbFmmT_zraA&expires=1701352231
 J2台,https://s1.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=yMFQIF7PXK9wdyn5z5rfbw&expires=1701352231
 無綫新聞台,https://s1.dtmb-s2.cc/ott-steam/83/index.m3u8?token=Kg8vS9J0om-QDn2Fmn9dIw&expires=1701352231
+無綫新聞台.,https://s1.dtmb-s1.cc/dvb-steam/83/index-83-1-v-fhd.m3u8?token=zVmNnaa14ceXsB80kvlVxw&expires=1701352872
 明珠台,https://s1.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=ea0ux_4jke5q4qn5Aa4krw&expires=1701352231
 無綫財經·資訊台,https://s1.dtmb-s2.cc/ott-steam/85/index.m3u8?token=isVCI3pggBThC5yAgplrAw&expires=1701352231
 港台電視31,https://s1.dtmb-s2.cc/ott-steam/31/index.m3u8?token=cCXcQp_Lb4HLxO_Sej2Qmg&expires=1701352231
