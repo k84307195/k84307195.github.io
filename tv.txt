@@ -126,15 +126,31 @@ TVBS亞洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
 🇭🇰香港频道,#genre#
 鳳凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/200613054-266175084/index.m3u8?by=yeslivetv.com
 鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/818469421-869503556/index.m3u8?by=yeslivetv.com
-J2,https://s1.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=TjvDI4i_kn2IRSy2qxpWcw&expires=1701240295
-翡翠台,https://s1.dtmb-s1.cc/dvb-steam/81/index-81-1-v.m3u8?token=i1Cx0-1SrKnh7YL0hZMA_A&expires=1701283587
-無綫新聞台,https://pull-f5-spe.ixigua.com/yeslivetv.com/846708467-211643287/index.m3u8?by=yeslivetv.com
-無綫財經·體育·資訊台,https://pull-f5-spe.ixigua.com/yeslivetv.com/365991165-699243283/index.m3u8?by=yeslivetv.com
-HOY資訊台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-HOY TV開電視,https://pull-f5-spe.ixigua.com/yeslivetv.com/985615210-398508110/index.m3u8?by=yeslivetv.com
-ViuTV,https://s1.dtmb-s2.cc/dvb-steam/99/index-99-1-v.m3u8?token=lNX3o-OyXga-Xb_5d8HXDQ&expires=1701283385m
-ViuTV Six,https://s1.dtmb-s1.cc/dvb-steam/96/index-96-1-v.m3u8?token=uXFDxloq-R_qUb9S57w76g&expires=1701283446
-香港國際財經台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
+翡翠台,https://s1.dtmb-s2.cc/dvb-steam/81/index.m3u8?token=vSaGy_KVIIs0uO3cuvutgA&expires=1701352231
+ViuTV,https://s1.dtmb-s2.cc/ott-steam/99/index.m3u8?token=VpNSCcubKknjJSMXAth1KA&expires=1701352231
+ViuTV Six,https://s1.dtmb-s2.cc/dvb-steam/96/index.m3u8?token=0FaB36rLv7xBbFmmT_zraA&expires=1701352231
+J2台,https://s1.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=yMFQIF7PXK9wdyn5z5rfbw&expires=1701352231
+無綫新聞台,https://s1.dtmb-s2.cc/ott-steam/83/index.m3u8?token=Kg8vS9J0om-QDn2Fmn9dIw&expires=1701352231
+明珠台,https://s1.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=ea0ux_4jke5q4qn5Aa4krw&expires=1701352231
+無綫財經·資訊台,https://s1.dtmb-s2.cc/ott-steam/85/index.m3u8?token=isVCI3pggBThC5yAgplrAw&expires=1701352231
+港台電視31,https://s1.dtmb-s2.cc/ott-steam/31/index.m3u8?token=cCXcQp_Lb4HLxO_Sej2Qmg&expires=1701352231
+港台電視32,https://s1.dtmb-s2.cc/ott-steam/32/index.m3u8?token=5KHJKYR3fakKVWem-5lFiA&expires=1701352231
+HOY TV,https://s1.dtmb-s2.cc/dvb-steam/77/index.m3u8?token=hJbte8yPHW-tTupVf-XefQ&expires=1701352231
+HOY TV 資訊台,https://s1.dtmb-s2.cc/dvb-steam/78/index.m3u8?token=C6J9qiGdLSZ8AMsaJFCytw&expires=1701352231
+HOY 國際財經台,https://s1.dtmb-s2.cc/dvb-steam/76/index.m3u8?token=MsJr6xuAyZ6wFrXfUYmbxg&expires=1701352231
+Viu,https://s1.dtmb-s2.cc/ott-steam/102/index.m3u8?token=W6GlJeEWNlCaFb0gKVzR6w&expires=1701352231
+Jelli,https://s1.dtmb-s2.cc/ott-steam/108/index.m3u8?token=FvsNtofPylTu92bR5YpRyA&expires=1701352231
+Now Live,https://s1.dtmb-s2.cc/ott-steam/331/index.m3u8?token=2PNmoccta0y5q-QtGjjvzg&expires=1701352231
+Now News,https://s1.dtmb-s2.cc/ott-steam/332/index.m3u8?token=VWnxfvPnS87Ohpho2Z2lUw&expires=1701352231
+Now BNC,https://s1.dtmb-s2.cc/ott-steam/333/index.m3u8?token=vm0rpR9QMR4Sl9988zcX_A&expires=1701352231
+Now Sports Prime,https://s1.dtmb-s2.cc/ott-steam/630/index.m3u8?token=liSnnbkX4r8Cd1CTkeyNNQ&expires=1701352231
+Now Sports 1,https://s1.dtmb-s2.cc/ott-steam/631/index.m3u8?token=GL9v2IoeqmXt3CWS8tiTBg&expires=1701352231
+J,https://s1.dtmb-s2.cc/ott-steam/J/index.m3u8?token=E8inZjlWt7SvLzpzeOU1pQ&expires=1701352231
+Kids,https://s1.dtmb-s2.cc/ott-steam/100/index.m3u8?token=vsAQnbq97p2OfpQEIHuIcg&expires=1701352231
+Mei Ah,https://s1.dtmb-s2.cc/ott-steam/201/index.m3u8?token=rYnU069Z3rphF8-5KBoChw&expires=1701352231
+Animax,https://s1.dtmb-s2.cc/ott-steam/504/index.m3u8?token=u_XNG2SalmBH3QgC-ps3AQ&expires=1701352231
+YouTube Music Prime,https://s1.dtmb-s2.cc/dvb-steam/youtube/index.m3u8?token=rOmzagXHOG0LzJHygLDKwQ&expires=1701352231
+
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 🇨🇳卫视频道,#genre#
