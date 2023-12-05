@@ -541,14 +541,6 @@ J2台,https://s2.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=D7vIUaGXcs8WMGstSF9BVg
 無綫新聞台,https://s2.dtmb-s2.cc/dvb-steam/83/index.m3u8?token=J3vIkCDJIHCR21W7bNFAUg&expires=1701825368
 明珠台,https://s2.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=7GlCu7AJtFy0ObxbI7HMng&expires=1701825368
 無綫財經·資訊台,https://s2.dtmb-s2.cc/dvb-steam/85/index.m3u8?token=mVEVoO0Gt6LBTTr6sq49zQ&expires=1701825368
-翡翠台 (濕婆),https://s2.dtmb-s2.cc/ott-steam/J/index.m3u8?token=Q92IEM0alw4YiZuY9MiTzg&expires=1701825368
-J2台 (濕婆),https://s2.dtmb-s2.cc/ott-steam/82/index.m3u8?token=GhWtQIak8iA9KAn1Yi1ztw&expires=1701825368
-無綫新聞台 (濕婆),https://s2.dtmb-s2.cc/ott-steam/83/index.m3u8?token=LTc9WQPBv-FyzxkZdqMC7g&expires=1701825368
-明珠台 (濕婆),https://s2.dtmb-s2.cc/ott-steam/84/index.m3u8?token=6F-hLSFUoaCJyZjXpwudSA&expires=1701825368
-無綫財經·資訊台 (濕婆),https://s2.dtmb-s2.cc/ott-steam/85/index.m3u8?token=quHGyTDKdxL0q5K8RyX3AA&expires=1701825368
-超級兒童頻道 Super Kids,https://s2.dtmb-s2.cc/ott-steam/100/index.m3u8?token=AuwdFXE44LILdiqCLGoA9Q&expires=1701825368
-美亞電影頻道,https://s2.dtmb-s2.cc/ott-steam/201/index.m3u8?token=2dsMg-0HCYqGy6DJxYHCkg&expires=1701825368
-索尼動物頻道,https://s2.dtmb-s2.cc/ott-steam/504/index.m3u8?token=zR8Z4AbkbXTXYejL0rAh_Q&expires=1701825368
 HOY TV,https://s2.dtmb-s2.cc/dvb-steam/77/index.m3u8?token=oZv9gSb7EdLuN0FN9S-y8Q&expires=1701825368
 HOY TV 資訊台,https://s2.dtmb-s2.cc/dvb-steam/78/index.m3u8?token=zGqR0sPG9Ba5njyGpVT5UA&expires=1701825368
 HOY TV 國際財經台,https://s2.dtmb-s2.cc/dvb-steam/76/index.m3u8?token=VdfKhl3_93jGAvla-XflIg&expires=1701825368
@@ -556,22 +548,15 @@ ViuTV,https://s2.dtmb-s2.cc/dvb-steam/99/index.m3u8?token=6OtqGr5iRy80KjgP40SbMg
 ViuTV OTT,https://s2.dtmb-s2.cc/ott-steam/99/index.m3u8?token=ZVcS0BJqTZFKwogltjRCUQ&expires=1701825368
 ViuTV Six,https://s2.dtmb-s2.cc/dvb-steam/96/index.m3u8?token=IaVOn8DnSGb1zw-aq7iSgA&expires=1701825368
 Viu Drama,https://s2.dtmb-s2.cc/ott-steam/102/index.m3u8?token=N9ZQx72akPU6zaBKbVmnUw&expires=1701825368
-Now Jelli 紫金國際台,https://s2.dtmb-s2.cc/ott-steam/108/index.m3u8?token=J5nbOlclOBTyKm692Wu14g&expires=1701825368
-Now Popcorn 爆谷台,https://s2.dtmb-s2.cc/ott-steam/133/index.m3u8?token=pyMLFbrkSIkmxvUuxe8x5Q&expires=1701825368
-Now Superstars 星影台,https://s2.dtmb-s2.cc/ott-steam/138/index.m3u8?token=wCeg0_qxGIVc2x3A_8mYKg&expires=1701825368
-Now Live 實況台,https://s2.dtmb-s2.cc/ott-steam/331/index.m3u8?token=CsEzgTE_NBq1x8DdEqq95Q&expires=1701825368
 Now News 新聞台,https://s2.dtmb-s2.cc/ott-steam/332/index.m3u8?token=K4W9wY0QeCcNz9-uD-ccNw&expires=1701825368
-Now BNC 財經台,https://s2.dtmb-s2.cc/ott-steam/333/index.m3u8?token=cGni6PSxTH7zyV6x0v21nQ&expires=1701825368
 Now Sports 英超1台,https://s2.dtmb-s2.cc/ott-steam/621/index.m3u8?token=JYCO6su82C90mCrWEysOPg&expires=1701825368
 Now Sports Prime,https://s2.dtmb-s2.cc/ott-steam/630/index.m3u8?token=bSU-2o6hHtD4KxLdprOCew&expires=1701825368
-Now Sports 1台,https://s2.dtmb-s2.cc/ott-steam/631/index.m3u8?token=KOOADgLSL27JGdVoKwd5Gg&expires=1701825368
 Now Sports 2台,https://s2.dtmb-s2.cc/ott-steam/632/index.m3u8?token=W4RwXqzGTccn7m3Q7vjEeg&expires=1701825368
 港台電視31,https://s2.dtmb-s2.cc/ott-steam/31/index.m3u8?token=q--TqikL2vyyI-wl6iJ1AQ&expires=1701825368
 港台電視32,https://s2.dtmb-s2.cc/ott-steam/32/index.m3u8?token=Lm-3E6gQOGbAdAFwQuBk-Q&expires=1701825368
 港台電視33,https://s2.dtmb-s2.cc/ott-steam/33/index.m3u8?token=h6YZ79cwZ1xOJyWb_cyurQ&expires=1701825368
 港台電視34,https://s2.dtmb-s2.cc/ott-steam/34/index.m3u8?token=fqITElYvJGVEQuhyFga1IQ&expires=1701825368
 港台電視35,https://s2.dtmb-s2.cc/ott-steam/35/index.m3u8?token=At2UAoinL14CxrYc88_wdw&expires=1701825368
-
 封神 朝歌风云,https://lf6-douyin-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
