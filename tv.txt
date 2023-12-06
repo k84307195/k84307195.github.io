@@ -108,6 +108,8 @@ ELTA娛樂台,https://sc2024.stream-link.org/tv2306.php?id=t38
 Love Nature,https://sc2024.stream-link.org/tv2306.php?id=t39
 
 🇭🇰香港频道,#genre#
+鳳凰衛視資訊台,https://sc2024.stream-link.org/tv2306.php?id=h18
+鳳凰衛視中文台,https://sc2024.stream-link.org/tv2306.php?id=h19
 翡翠台,https://s2.dtmb-s2.cc/dvb-steam/81/index.m3u8?token=jlQrb6qfWujeLBTOP8k17w&expires=1701825368
 J2台,https://s2.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=D7vIUaGXcs8WMGstSF9BVg&expires=1701825368
 無綫新聞台,https://s2.dtmb-s2.cc/dvb-steam/83/index.m3u8?token=J3vIkCDJIHCR21W7bNFAUg&expires=1701825368
