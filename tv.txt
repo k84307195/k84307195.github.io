@@ -481,27 +481,25 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 
 📡测试频道,#genre#
-翡翠台,https://s2.dtmb-s2.cc/dvb-steam/81/index.m3u8?token=jlQrb6qfWujeLBTOP8k17w&expires=1701825368
-J2台,https://s2.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=D7vIUaGXcs8WMGstSF9BVg&expires=1701825368
-無綫新聞台,https://s2.dtmb-s2.cc/dvb-steam/83/index.m3u8?token=J3vIkCDJIHCR21W7bNFAUg&expires=1701825368
-明珠台,https://s2.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=7GlCu7AJtFy0ObxbI7HMng&expires=1701825368
-無綫財經·資訊台,https://s2.dtmb-s2.cc/dvb-steam/85/index.m3u8?token=mVEVoO0Gt6LBTTr6sq49zQ&expires=1701825368
-HOY TV,https://s2.dtmb-s2.cc/dvb-steam/77/index.m3u8?token=oZv9gSb7EdLuN0FN9S-y8Q&expires=1701825368
-HOY TV 資訊台,https://s2.dtmb-s2.cc/dvb-steam/78/index.m3u8?token=zGqR0sPG9Ba5njyGpVT5UA&expires=1701825368
-HOY TV 國際財經台,https://s2.dtmb-s2.cc/dvb-steam/76/index.m3u8?token=VdfKhl3_93jGAvla-XflIg&expires=1701825368
-ViuTV,https://s2.dtmb-s2.cc/dvb-steam/99/index.m3u8?token=6OtqGr5iRy80KjgP40SbMg&expires=1701825368
-ViuTV OTT,https://s2.dtmb-s2.cc/ott-steam/99/index.m3u8?token=ZVcS0BJqTZFKwogltjRCUQ&expires=1701825368
-ViuTV Six,https://s2.dtmb-s2.cc/dvb-steam/96/index.m3u8?token=IaVOn8DnSGb1zw-aq7iSgA&expires=1701825368
-Viu Drama,https://s2.dtmb-s2.cc/ott-steam/102/index.m3u8?token=N9ZQx72akPU6zaBKbVmnUw&expires=1701825368
-Now News 新聞台,https://s2.dtmb-s2.cc/ott-steam/332/index.m3u8?token=K4W9wY0QeCcNz9-uD-ccNw&expires=1701825368
-Now Sports 英超1台,https://s2.dtmb-s2.cc/ott-steam/621/index.m3u8?token=JYCO6su82C90mCrWEysOPg&expires=1701825368
-Now Sports Prime,https://s2.dtmb-s2.cc/ott-steam/630/index.m3u8?token=bSU-2o6hHtD4KxLdprOCew&expires=1701825368
-Now Sports 2台,https://s2.dtmb-s2.cc/ott-steam/632/index.m3u8?token=W4RwXqzGTccn7m3Q7vjEeg&expires=1701825368
-港台電視31,https://s2.dtmb-s2.cc/ott-steam/31/index.m3u8?token=q--TqikL2vyyI-wl6iJ1AQ&expires=1701825368
-港台電視32,https://s2.dtmb-s2.cc/ott-steam/32/index.m3u8?token=Lm-3E6gQOGbAdAFwQuBk-Q&expires=1701825368
-港台電視33,https://s2.dtmb-s2.cc/ott-steam/33/index.m3u8?token=h6YZ79cwZ1xOJyWb_cyurQ&expires=1701825368
-港台電視34,https://s2.dtmb-s2.cc/ott-steam/34/index.m3u8?token=fqITElYvJGVEQuhyFga1IQ&expires=1701825368
-港台電視35,https://s2.dtmb-s2.cc/ott-steam/35/index.m3u8?token=At2UAoinL14CxrYc88_wdw&expires=1701825368
+翡翠台,https://s2.dtmb-s2.cc/dvb-steam/81/index.m3u8?token=UJDTLysSISUQNQZ3jPwJCg&expires=1702231918
+J2台,https://s2.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=hE_5_wki40MaKQMMzuhVxQ&expires=1702231918
+無綫新聞台,https://s2.dtmb-s2.cc/dvb-steam/83/index.m3u8?token=nVGT2B08xZnTuv7eEnePCg&expires=1702231918
+明珠台,https://s2.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=kMKD720tFpUZlmDgS-Ny2Q&expires=1702231918
+無綫財經·資訊台,https://s2.dtmb-s2.cc/dvb-steam/85/index.m3u8?token=CZHCPVl_uNJaXUUDeC3YLw&expires=1702231918
+HOY TV,https://s2.dtmb-s2.cc/dvb-steam/77/index.m3u8?token=Bp84RzH488hzytNZLt07fg&expires=1702231918
+HOY TV 資訊台,https://s2.dtmb-s2.cc/dvb-steam/78/index.m3u8?token=fHUXQLyRoxmYLLC8EaOJIA&expires=1702231918
+HOY TV 國際財經台,https://s2.dtmb-s2.cc/dvb-steam/76/index.m3u8?token=6DuSO_gHECCMKJFHqk-zTg&expires=1702231918
+ViuTV,https://s2.dtmb-s2.cc/dvb-steam/99/index.m3u8?token=PoLUNLs6HB5kWUaDCG6cEQ&expires=1702231918
+ViuTV OTT,https://s2.dtmb-s2.cc/ott-steam/99/index.m3u8?token=NWq9KjwiL3r0Eib9a_A40w&expires=1702231918
+ViuTV Six,https://s2.dtmb-s2.cc/dvb-steam/96/index.m3u8?token=mMwKIuF250fGveKTUoKnZg&expires=1702231918
+Viu Drama,https://s2.dtmb-s2.cc/ott-steam/102/index.m3u8?token=03XxrEl25bgSeddIA8P6dg&expires=1702231918
+Now News 新聞台,https://s2.dtmb-s2.cc/ott-steam/332/index.m3u8?token=0Ti73y9rL_m2DCHDPAEdug&expires=1702231918
+token=nW8JXN5N9LUlBgluHWqVhg&expires=1702231918
+港台電視31,https://s2.dtmb-s2.cc/ott-steam/31/index.m3u8?token=f6bLEIhWzWUIG6GTn6PjhA&expires=1702231918
+港台電視32,https://s2.dtmb-s2.cc/ott-steam/32/index.m3u8?token=OhE01k67hTQ_C4SkINooOg&expires=1702231918
+港台電視33,https://s2.dtmb-s2.cc/ott-steam/33/index.m3u8?token=XCJ9FkKb2aoqWHZecAlazg&expires=1702231918
+港台電視34,https://s2.dtmb-s2.cc/ott-steam/34/index.m3u8?token=hUU6CdYbOLIYwVy9eTkofw&expires=1702231918
+港台電視35,https://s2.dtmb-s2.cc/ott-steam/35/index.m3u8?token=QItz9XzbXlR-Ik3INc7z9A&expires=1702231918
 封神 朝歌风云,https://lf6-douyin-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
