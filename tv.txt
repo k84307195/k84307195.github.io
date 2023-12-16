@@ -484,7 +484,7 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 
 📡测试频道,#genre#
-翡翠台,https://s2.dtmb-s2.cc/dvb-steam/81/index.m3u8?token=UJDTLysSISUQNQZ3jPwJCg&expires=1702231918
+翡翠台,https://g1.hkcso.com/dvb-steam/81/index-81-1-v.m3u8?token=N-P8-RcFh72s0vZN0UZXZw&expires=1702724783
 J2台,https://s2.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=hE_5_wki40MaKQMMzuhVxQ&expires=1702231918
 無綫新聞台,https://s2.dtmb-s2.cc/dvb-steam/83/index.m3u8?token=nVGT2B08xZnTuv7eEnePCg&expires=1702231918
 明珠台,https://s2.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=kMKD720tFpUZlmDgS-Ny2Q&expires=1702231918
