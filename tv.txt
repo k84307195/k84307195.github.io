@@ -367,6 +367,24 @@ CGTN俄语高清,http://cloud.bytelife.top:4022/udp/239.253.43.201:5146
 吉林延边卫视,http://cloud.bytelife.top:4022/udp/239.77.0.10:5146
 延边卫视,http://cloud.bytelife.top:4022/udp/239.77.1.99:5146
 
+🇨🇳广东电视,#genre#
+广东卫视,http://219.135.208.218:8083/tsfile/live/0016_1.m3u8
+广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
+广东新闻,http://219.135.208.218:8083/tsfile/live/0018_1.m3u8
+广东公共,http://219.135.208.218:8083/tsfile/live/0019_1.m3u8
+广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
+广东国际,http://219.135.208.218:8083/tsfile/live/1001_1.m3u8
+广东经济科教,http://219.135.208.218:8083/tsfile/live/1002_1.m3u8
+广东南方卫视,http://219.135.208.218:8083/tsfile/live/1003_1.m3u8
+广东综艺,http://219.135.208.218:8083/tsfile/live/1004_1.m3u8
+广东影视,http://219.135.208.218:8083/tsfile/live/1005_1.m3u8
+广东少儿,http://219.135.208.218:8083/tsfile/live/1006_1.m3u8
+凤凰资讯,http://113.117.74.99:8081/hls/36/index.m3u8#http://113.117.74.52:8081/hls/36/index.m3u8
+凤凰卫视,http://113.117.74.99:8081/hls/37/index.m3u8
+凤凰资讯,http://udnhls.skilldns.com:80/fhzx.m3u8
+凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+凤凰卫视,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+
 
 
 ⚽️体育频道,#genre#
