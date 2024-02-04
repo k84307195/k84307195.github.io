@@ -434,7 +434,7 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 封神 朝歌风云,https://lf6-douyin-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
 绝地追击,https://bf.hhuus.com/play/QeZNn82e/index.m3u8
 消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
-明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
+明日战记 粤语,https://vip.kuaikan-play1.com/20230508-114/YHHbSRL0/hls/index.m3u8
 养蜂人,https://leshiyuncdn.ahjunqin.top/20240202/Vp44Zjd6/2000kb/hls/index.m3u8
 孤注一掷,https://v8.suonizy-youku.com/202402/03/MbzhskzAyW1/video/2000k_0X1080_64k_25/hls/index.m3u8
 爆裂点,https://v8.suonizy-youku.com/202401/26/n9B2gXzJke1/video/2000k_0X1080_64k_25/hls/index.m3u8
