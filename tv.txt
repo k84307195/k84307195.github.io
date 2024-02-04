@@ -438,7 +438,7 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 养蜂人,https://leshiyuncdn.ahjunqin.top/20240202/Vp44Zjd6/2000kb/hls/index.m3u8
 孤注一掷,https://v8.suonizy-youku.com/202402/03/MbzhskzAyW1/video/2000k_0X1080_64k_25/hls/index.m3u8
 爆裂点,https://v8.suonizy-youku.com/202401/26/n9B2gXzJke1/video/2000k_0X1080_64k_25/hls/index.m3u8
-海王2失落的王国,https://v8.suonizy-youku.com/202401/23/gw6yWi9CxB1/video/2000k_0X1080_64k_25/hls/index.m3u8
+海王2失落的王国,https://vip.kuaikan-cdn3.com/20240125/YoYWDA6T/3606kb/hls/index.m3u8
 荒野2024,https://v8.suonizy-youku.com/202401/26/1BSk1BryLi1/video/2000k_0X1080_64k_25/hls/index.m3u8
 坚如磐石,https://pptv.1080tg.com/202312/14/6B1nYMzC763/video/900k_0X480_64k_25/hls/index.m3u8
 
