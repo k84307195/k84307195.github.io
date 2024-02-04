@@ -435,7 +435,7 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
-孤注一掷清晰版,https://hd.ijycnd.com/play/zbqmMMkb/index.m3u8
+孤注一掷,https://v8.suonizy-youku.com/202402/03/MbzhskzAyW1/video/2000k_0X1080_64k_25/hls/index.m3u8
 
 
 📡测试频道,#genre#
