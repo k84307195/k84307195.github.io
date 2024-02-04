@@ -435,6 +435,7 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
 消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
 明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
+养蜂人,https://leshiyuncdn.ahjunqin.top/20240202/Vp44Zjd6/2000kb/hls/index.m3u8
 孤注一掷,https://v8.suonizy-youku.com/202402/03/MbzhskzAyW1/video/2000k_0X1080_64k_25/hls/index.m3u8
 爆裂点,https://v8.suonizy-youku.com/202401/26/n9B2gXzJke1/video/2000k_0X1080_64k_25/hls/index.m3u8
 海王2失落的王国,https://v8.suonizy-youku.com/202401/23/gw6yWi9CxB1/video/2000k_0X1080_64k_25/hls/index.m3u8
@@ -460,11 +461,7 @@ token=nW8JXN5N9LUlBgluHWqVhg&expires=1702231918
 港台電視33,https://s2.dtmb-s2.cc/ott-steam/33/index.m3u8?token=XCJ9FkKb2aoqWHZecAlazg&expires=1702231918
 港台電視34,https://s2.dtmb-s2.cc/ott-steam/34/index.m3u8?token=hUU6CdYbOLIYwVy9eTkofw&expires=1702231918
 港台電視35,https://s2.dtmb-s2.cc/ott-steam/35/index.m3u8?token=QItz9XzbXlR-Ik3INc7z9A&expires=1702231918
-封神 朝歌风云,https://lf6-douyin-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
-绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
-消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
-明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
-孤注一掷清晰版,https://hd.ijycnd.com/play/zbqmMMkb/index.m3u8
+
 
 
 🎵音乐频道,#genre#
