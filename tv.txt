@@ -438,6 +438,8 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 孤注一掷,https://v8.suonizy-youku.com/202402/03/MbzhskzAyW1/video/2000k_0X1080_64k_25/hls/index.m3u8
 爆裂点,https://v8.suonizy-youku.com/202401/26/n9B2gXzJke1/video/2000k_0X1080_64k_25/hls/index.m3u8
 海王2失落的王国,https://v8.suonizy-youku.com/202401/23/gw6yWi9CxB1/video/2000k_0X1080_64k_25/hls/index.m3u8
+荒野2024,https://v8.suonizy-youku.com/202401/26/1BSk1BryLi1/video/2000k_0X1080_64k_25/hls/index.m3u8
+
 📡测试频道,#genre#
 翡翠台,https://g1.hkcso.com/dvb-steam/81/index-81-1-v.m3u8?token=N-P8-RcFh72s0vZN0UZXZw&expires=1702724783
 J2台,https://s2.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=hE_5_wki40MaKQMMzuhVxQ&expires=1702231918
