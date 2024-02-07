@@ -47,6 +47,7 @@ CGTN English[回看],https://cdn.hkdtmb.com/hls/vod/35.m3u8?token=81591487306734
 
 
 
+
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
 浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
