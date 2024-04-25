@@ -16,9 +16,6 @@ CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=815914873
 CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=815914873057608
 
 
-
-
-
 🇨🇳中央频道,#genre#
 CCTV-1    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?  
 CCTV-1    2K,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8 
