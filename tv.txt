@@ -1,19 +1,19 @@
 🇭🇰香港地波,#genre#
-翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=815914873072364
-J2台[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=815914873072364
-News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=815914873072364
-Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=815914873072364
-Info 財經 體育 資訊台[直播],https://live.hkdvb.com/hls/live/85.m3u8?token=815914873072364
+翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=815914873046307
+J2台[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=815914873046307
+News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=815914873046307
+Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=815914873046307
+Info 財經 體育 資訊台[直播],https://live.hkdvb.com/hls/live/85.m3u8?token=815914873046307
 {HOY} 奇妙電視,https://info.hkanimal.com/png_logo/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
-HOY TV 資訊台[直播],https://live.hkdvb.com/hls/live/78.m3u8?token=815914873072364
-HOY 國際財經台[直播],https://live.hkdvb.com/hls/live/76.m3u8?token=815914873072364
+HOY TV 資訊台[直播],https://live.hkdvb.com/hls/live/78.m3u8?token=815914873046307
+HOY 國際財經台[直播],https://live.hkdvb.com/hls/live/76.m3u8?token=815914873046307
 {NowTV} Now Player,https://info.hkanimal.com/png_logo/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
-ViuTV Six[直播],https://live.hkdvb.com/hls/live/96.m3u8?token=815914873072364
+ViuTV Six[直播],https://live.hkdvb.com/hls/live/96.m3u8?token=815914873046307
 {RTHK} 香港電台,https://info.hkanimal.com/png_logo/31.png" group-title="{RTHK} 香港電台", 港台電視 31[直播]
-港台電視 32[直播],https://live.hkdvb.com/hls/live/32.m3u8?token=815914873072364
-CCTV-1  港澳版[直播],https://live.hkdvb.com/hls/live/33.m3u8?token=815914873072364
-CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=815914873072364
-CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=815914873072364
+港台電視 32[直播],https://live.hkdvb.com/hls/live/32.m3u8?token=815914873046307
+CCTV-1  港澳版[直播],https://live.hkdvb.com/hls/live/33.m3u8?token=815914873046307
+CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=815914873046307
+CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=815914873046307
 
 
 
