@@ -1,5 +1,5 @@
 🇭🇰香港地波,#genre#
-翡翠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=815914873012480
+翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=815914873012480
 TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=815914873012480
 News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=815914873012480
 Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=815914873012480
