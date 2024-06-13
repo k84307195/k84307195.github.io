@@ -38,31 +38,6 @@ CCTV-15 音乐,https://histar.zapi.us.kg/?id=cctv15
 CCTV-16 奥林匹克,https://histar.zapi.us.kg/?id=cctv16
 CCTV-17 农业农村,https://histar.zapi.us.kg/?id=cctv17
 
-🇨🇳卫视频道,#genre#
-浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
-浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
-浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8   
-江苏卫视    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8? 
-江苏卫视    2K,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8   
-江西卫视    2K,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8   
-广东卫视    2K,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8   
-广西卫视    2K,http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8    
-深圳卫视    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?   
-安徽卫视    2K,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8   
-北京卫视    2K,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8 
-北京卫视    2K,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8    
-天津卫视    2K,http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8 
-天津卫视    2K,http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8    
-东方卫视    2K,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8 
-东方卫视    2K,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8    
-山东卫视    2K,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8 
-山东卫视    2K,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8   
-湖北卫视    2K,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8 
-湖北卫视    2K,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8       
-湖南卫视    2K,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8      
-重庆卫视    2K,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8    
-青海卫视    2K,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8   
-吉林卫视    2K,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8  
 
 
 🇨🇳卫视频道.,#genre#
