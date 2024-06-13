@@ -40,7 +40,7 @@ CCTV-17 农业农村,https://histar.zapi.us.kg/?id=cctv17
 
 
 
-🇨🇳卫视频道.,#genre#
+🇨🇳卫视频道,#genre#
 北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
 天津卫视,mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
 河北卫视,mitv://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb17
