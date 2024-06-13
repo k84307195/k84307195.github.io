@@ -41,39 +41,36 @@ CCTV-17 农业农村,https://histar.zapi.us.kg/?id=cctv17
 
 
 🇨🇳卫视频道.,#genre#
-广东卫视,http://aiyun.work.gd/jd.php?id=广东卫视
-深圳卫视,http://aiyun.work.gd/jd.php?id=深圳卫视
-湖南卫视,http://aiyun.work.gd/jd.php?id=湖南卫视
-安徽卫视,http://aiyun.work.gd/jd.php?id=安徽卫视
-浙江卫视,http://aiyun.work.gd/jd.php?id=浙江卫视
-江苏卫视,http://aiyun.work.gd/jd.php?id=江苏卫视
-北京卫视,http://aiyun.work.gd/jd.php?id=北京卫视
-东方卫视,http://aiyun.work.gd/jd.php?id=东方卫视
-天津卫视,http://aiyun.work.gd/jd.php?id=天津卫视
-河南卫视,http://aiyun.work.gd/jd.php?id=河南卫视
-湖北卫视,http://aiyun.work.gd/jd.php?id=湖北卫视
-广西卫视,http://aiyun.work.gd/jd.php?id=广西卫视
-四川卫视,http://aiyun.work.gd/jd.php?id=四川卫视
-重庆卫视,http://aiyun.work.gd/jd.php?id=重庆卫视
-江西卫视,http://aiyun.work.gd/jd.php?id=江西卫视
-黑龙江卫视,http://aiyun.work.gd/jd.php?id=黑龙江卫视
-辽宁卫视,http://aiyun.work.gd/jd.php?id=辽宁卫视
-云南卫视,http://aiyun.work.gd/jd.php?id=云南卫视
-河北卫视,http://aiyun.work.gd/jd.php?id=河北卫视
-贵州卫视,http://aiyun.work.gd/jd.php?id=贵州卫视
-青海卫视,http://aiyun.work.gd/jd.php?id=青海卫视
-吉林卫视,http://aiyun.work.gd/jd.php?id=吉林卫视
-山西卫视,http://aiyun.work.gd/jd.php?id=山西卫视
-陕西卫视,http://aiyun.work.gd/jd.php?id=陕西卫视
-东南卫视,http://aiyun.work.gd/jd.php?id=东南卫视
-新疆卫视,http://aiyun.work.gd/jd.php?id=新疆卫视
-西藏卫视,http://aiyun.work.gd/jd.php?id=西藏卫视
-山东卫视,http://aiyun.work.gd/jd.php?id=山东卫视
-翡翠台,http://aiyun.work.gd/jd.php?id=翡翠台
-明珠台,http://aiyun.work.gd/jd.php?id=明珠台
-星空卫视,http://aiyun.work.gd/jd.php?id=星空卫视
-凤凰中文,http://aiyun.work.gd/jd.php?id=凤凰中文
-澳亚卫视,http://aiyun.work.gd/jd.php?id=澳亚卫视
+北京卫视,mitv://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
+天津卫视,mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
+河北卫视,mitv://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb17
+黑龙江卫视,mitv://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3
+辽宁卫视,mitv://generationnexxxt.com:19806/4b1903b35f804f1180a4b346efbabfc9
+东方卫视,mitv://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
+江苏卫视,mitv://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e
+浙江卫视,mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+江西卫视,mitv://generationnexxxt.com:19806/d3548b106a7d45b4972427c3a75135ab
+山东卫视,mitv://generationnexxxt.com:19806/be77ccef4df042ab909e0a2586844431
+东南卫视,mitv://generationnexxxt.com:19806/00aae4669ca24ddabf43997323ceef8e
+湖北卫视,mitv://generationnexxxt.com:19806/7553b94400ac4d85b752579acb37c0ce
+湖南卫视,mitv://generationnexxxt.com:19806/45dc7947c5574ebfb0e68e5d0a537ed0
+深圳卫视,mitv://generationnexxxt.com:19806/b8c8ef10f65649c9a43388d771203f61
+广东卫视,mitv://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
+广西卫视,mitv://generationnexxxt.com:19806/eb435193f43d4c8ca09c9ce477d4d7b9
+重庆卫视,mitv://generationnexxxt.com:19806/c173700eaecc412695b37ac062b6abac
+云南卫视,mitv://generationnexxxt.com:19806/9203ba029385410793e3f2b7bffb3335
+星空卫视,mitv://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
+大湾区卫视,mitv://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
+珠江台,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
+动漫秀场,mitv://generationnexxxt.com:19806/b04bd3e03b1747aab44579ca81c664c8
+魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+五星体育,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
+广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
+私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
+广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
+CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 
 🇨🇳广东电视,#genre#
 广东珠江,http://aiyun.work.gd/jd.php?id=广东珠江
