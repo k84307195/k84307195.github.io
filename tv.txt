@@ -89,15 +89,12 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 嘉佳卡通,http://aiyun.work.gd/jd.php?id=嘉佳卡通
 岭南戏曲,http://aiyun.work.gd/jd.php?id=岭南戏曲
 
-
 ⚽️体育频道,#genre#
-广东体育,http://cloud.bytelife.top:4022/udp/239.77.0.112:5146#http://cloud.bytelife.top:4022/udp/239.77.0.168:5146
-CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?  
-CCTV-5    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8 
-CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8   
-CCTV-5+   2K,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8? 
-CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8   
+CCTV-5 体育,https://histar.zapi.us.kg/?id=cctv5
+CCTV-5+ 体育赛事,https://histar.zapi.us.kg/?id=cctv5plus
+广东体育,mitv://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
+魅力足球,mitv://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+五星体育,mitv://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
 
 🐟斗鱼轮播,#genre#
 电影频道
@@ -125,28 +122,6 @@ CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 坚如磐石,https://pptv.1080tg.com/202312/14/6B1nYMzC763/video/900k_0X480_64k_25/hls/index.m3u8
 
 📡测试频道,#genre#
-翡翠台,https://g1.hkcso.com/dvb-steam/81/index-81-1-v.m3u8?token=N-P8-RcFh72s0vZN0UZXZw&expires=1702724783
-J2台,https://s2.dtmb-s2.cc/dvb-steam/82/index.m3u8?token=hE_5_wki40MaKQMMzuhVxQ&expires=1702231918
-無綫新聞台,https://s2.dtmb-s2.cc/dvb-steam/83/index.m3u8?token=nVGT2B08xZnTuv7eEnePCg&expires=1702231918
-明珠台,https://s2.dtmb-s2.cc/dvb-steam/84/index.m3u8?token=kMKD720tFpUZlmDgS-Ny2Q&expires=1702231918
-無綫財經·資訊台,https://s2.dtmb-s2.cc/dvb-steam/85/index.m3u8?token=CZHCPVl_uNJaXUUDeC3YLw&expires=1702231918
-HOY TV,https://s2.dtmb-s2.cc/dvb-steam/77/index.m3u8?token=Bp84RzH488hzytNZLt07fg&expires=1702231918
-HOY TV 資訊台,https://s2.dtmb-s2.cc/dvb-steam/78/index.m3u8?token=fHUXQLyRoxmYLLC8EaOJIA&expires=1702231918
-HOY TV 國際財經台,https://s2.dtmb-s2.cc/dvb-steam/76/index.m3u8?token=6DuSO_gHECCMKJFHqk-zTg&expires=1702231918
-ViuTV,https://s2.dtmb-s2.cc/dvb-steam/99/index.m3u8?token=PoLUNLs6HB5kWUaDCG6cEQ&expires=1702231918
-ViuTV OTT,https://s2.dtmb-s2.cc/ott-steam/99/index.m3u8?token=NWq9KjwiL3r0Eib9a_A40w&expires=1702231918
-ViuTV Six,https://s2.dtmb-s2.cc/dvb-steam/96/index.m3u8?token=mMwKIuF250fGveKTUoKnZg&expires=1702231918
-Viu Drama,https://s2.dtmb-s2.cc/ott-steam/102/index.m3u8?token=03XxrEl25bgSeddIA8P6dg&expires=1702231918
-Now News 新聞台,https://s2.dtmb-s2.cc/ott-steam/332/index.m3u8?token=0Ti73y9rL_m2DCHDPAEdug&expires=1702231918
-token=nW8JXN5N9LUlBgluHWqVhg&expires=1702231918
-港台電視31,https://s2.dtmb-s2.cc/ott-steam/31/index.m3u8?token=f6bLEIhWzWUIG6GTn6PjhA&expires=1702231918
-港台電視32,https://s2.dtmb-s2.cc/ott-steam/32/index.m3u8?token=OhE01k67hTQ_C4SkINooOg&expires=1702231918
-港台電視33,https://s2.dtmb-s2.cc/ott-steam/33/index.m3u8?token=XCJ9FkKb2aoqWHZecAlazg&expires=1702231918
-港台電視34,https://s2.dtmb-s2.cc/ott-steam/34/index.m3u8?token=hUU6CdYbOLIYwVy9eTkofw&expires=1702231918
-港台電視35,https://s2.dtmb-s2.cc/ott-steam/35/index.m3u8?token=QItz9XzbXlR-Ik3INc7z9A&expires=1702231918
-
-
-
 🎵音乐频道,#genre#
 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
