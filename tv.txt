@@ -1,5 +1,5 @@
 🇭🇰香港地波,#genre#
-{TVB}    無綫電視,https://info.hkanimal.com/png_logo/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
+翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=815914873050639
 TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=815914873050639
 News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=815914873050639
 Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=815914873050639
