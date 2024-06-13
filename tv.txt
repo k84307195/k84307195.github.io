@@ -19,42 +19,24 @@ CGTN English,https://live.hkdvb.com/hls/live/35.m3u8?token=815914873050639
 
 
 🇨🇳中央频道,#genre#
-CCTV-1    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?  
-CCTV-1    2K,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8 
-CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8 
-CCTV-1    2K,http://39.134.61.219/PLTV/88888888/224/3221226443/index.m3u8   
-CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8  
-CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?   
-CCTV-3    2K,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8   
-CCTV-4    2K,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV-4    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8? 
-CCTV-4    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?   
-CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?  
-CCTV-5    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8 
-CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8   
-CCTV-5+   2K,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8? 
-CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8   
-CCTV-6    2K,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8 
-CCTV-6    2K,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8   
-CCTV-7    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8  
-CCTV-8    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?  
-CCTV-8    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8 
-CCTV-8    2K,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8   
-CCTV-9    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?  
-CCTV-9    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8 
-CCTV-9    2K,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8   
-CCTV-10   2K,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8  
-CCTV-10   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?        
-CCTV-13   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?  
-CCTV-13   2K,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8 
-CCTV-13   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8 
-CCTV-13   2K,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8  
-CCTV-14   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?   
-CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?    
-CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?  
-CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8 
-CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
+CCTV-1 综合,https://histar.zapi.us.kg/?id=cctv1
+CCTV-2 财经,https://histar.zapi.us.kg/?id=cctv2
+CCTV-3 综艺,https://histar.zapi.us.kg/?id=cctv3
+CCTV-4 中文国际,https://histar.zapi.us.kg/?id=cctv4
+CCTV-5 体育,https://histar.zapi.us.kg/?id=cctv5
+CCTV-5+ 体育赛事,https://histar.zapi.us.kg/?id=cctv5plus
+CCTV-6 电影,https://histar.zapi.us.kg/?id=cctv6
+CCTV-7 国防军事,https://histar.zapi.us.kg/?id=cctv7
+CCTV-8 电视剧,https://histar.zapi.us.kg/?id=cctv8
+CCTV-9 纪录,https://histar.zapi.us.kg/?id=cctv9
+CCTV-10 科教,https://histar.zapi.us.kg/?id=cctv10
+CCTV-11 戏曲,https://histar.zapi.us.kg/?id=cctv11
+CCTV-12 社会与法,https://histar.zapi.us.kg/?id=cctv12
+CCTV-13 新闻,https://histar.zapi.us.kg/?id=cctv13
+CCTV-14 少儿,https://histar.zapi.us.kg/?id=cctv14
+CCTV-15 音乐,https://histar.zapi.us.kg/?id=cctv15
+CCTV-16 奥林匹克,https://histar.zapi.us.kg/?id=cctv16
+CCTV-17 农业农村,https://histar.zapi.us.kg/?id=cctv17
 
 🇨🇳卫视频道,#genre#
 浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
