@@ -28,33 +28,26 @@ RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=815914873083295
 
 
 🇨🇳中央频道,#genre#
-CCTV-1_综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV-2_财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-3_综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4_中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5_体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+_体育赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-6_电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7_国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8_电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9_纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10_科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV-11_戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV-12_社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13_新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-14_少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15_音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-16_奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17_农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
+CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
+CCTV2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
+CCTV3,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv3
+CCTV4,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv4
+CCTV5,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5
+CCTV5+,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5p
+CCTV6,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv6
+CCTV7,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv7
+CCTV8,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv8
+CCTV9,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv9
+CCTV10,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv10
+CCTV11,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv11
+CCTV12,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv12
+CCTV13,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
+CCTV14,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv14
+CCTV15,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv15
+CCTV16,http://www.erbao1981.top:8188/udp/239.76.246.98:1234
+CCTV17,http://www.erbao1981.top:8188/udp/239.76.245.239:1234
+CCTV-4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 
 🇨🇳卫视频道,#genre#
