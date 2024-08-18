@@ -1,10 +1,10 @@
 🇭🇰香港地波,#genre#
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=815914873083295
-Popc[直播],https://live.hkdvb.com/hls/live/801.m3u8?token=815914873083295
-美亞[直播],https://live.hkdvb.com/hls/live/802.m3u8?token=815914873083295
-華語劇台[直播],https://live.hkdvb.com/hls/live/803.m3u8?token=815914873083295
-粵語片台[直播],https://live.hkdvb.com/hls/live/804.m3u8?token=815914873083295
-翡翠4K[直播],https://live.hkdvb.com/hls/live/800.m3u8?token=815914873083295
+Popc,https://live.hkdvb.com/hls/live/801.m3u8?token=815914873083295
+美亞电影,https://live.hkdvb.com/hls/live/802.m3u8?token=815914873083295
+華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=815914873083295
+粵語片台,https://live.hkdvb.com/hls/live/804.m3u8?token=815914873083295
+翡翠4K,https://live.hkdvb.com/hls/live/800.m3u8?token=815914873083295
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=815914873083295
 新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=815914873083295
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=815914873083295
