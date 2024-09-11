@@ -27,52 +27,42 @@ RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=815914873083295
 RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=815914873083295
 
 🇭🇰港奥频道,#genre#
-凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰卫视中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8
-凤凰中文,http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8
-凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
-星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
-星空国际,http://13457610200.8866.org:2018/live/星空国际/index.m3u8
-私人影院,http://13457610200.8866.org:2018/live/影视频道HD/index.m3u8
-中国电影,http://13457610200.8866.org:2018/live/中国电影/index.m3u8
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-鳳凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-https://ali.hlspull.yximgs.com/live/12344.flv
-NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 
-凤凰卫视资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰卫视中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
-TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-无线新闻备,http://live.cooltv.top/tv/tvb.php?id=2&hq
-重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-经典神话台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
-经典都市台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-香港凤凰频道,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
-香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+
+
+🇭🇰港奥频道1,#genre#
+{TVB}    無綫電視,https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
+TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=815914873083295
+News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=815914873083295
+Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=815914873083295
+鳳凰香港台[直播],https://live.hkdvb.com/hls/live/85.m3u8?token=815914873083295
+翡翠4K[直播],https://live.hkdvb.com/hls/live/800.m3u8?token=815914873083295
+Popc[直播],https://live.hkdvb.com/hls/live/801.m3u8?token=815914873083295
+美亞[直播],https://live.hkdvb.com/hls/live/802.m3u8?token=815914873083295
+華語劇台[直播],https://live.hkdvb.com/hls/live/803.m3u8?token=815914873083295
+粵語片台[直播],https://live.hkdvb.com/hls/live/804.m3u8?token=815914873083295
+{HOY} 奇妙電視,https://live.hkdvb.com/static/logos/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
+HOY TV 資訊台[直播],https://live.hkdvb.com/hls/live/78.m3u8?token=815914873083295
+HOY 國際財經台[直播],https://live.hkdvb.com/hls/live/76.m3u8?token=815914873083295
+{NowTV} Now Player,https://live.hkdvb.com/static/logos/99.png" group-title="{NowTV} Now Player", ViuTV[直播]
+ViuTV Six[直播],https://live.hkdvb.com/hls/live/96.m3u8?token=815914873083295
+Now Superstars 星影台[直播],https://live.hkdvb.com/hls/live/138.m3u8?token=815914873083295
+Now NEWS 新聞台[直播],https://live.hkdvb.com/hls/live/332.m3u8?token=815914873083295
+Now Sports 英超1台[直播],https://live.hkdvb.com/hls/live/621.m3u8?token=815914873083295
+Now Sports Prime[直播],https://live.hkdvb.com/hls/live/630.m3u8?token=815914873083295
+Now Sports 632[直播],https://live.hkdvb.com/hls/live/632.m3u8?token=815914873083295
+{RTHK} 香港電台,https://live.hkdvb.com/static/logos/31.png" group-title="{RTHK} 香港電台", 港台電視 31[直播]
+港台電視 32[直播],https://live.hkdvb.com/hls/live/32.m3u8?token=815914873083295
+CCTV-1  港澳版[直播],https://live.hkdvb.com/hls/live/33.m3u8?token=815914873083295
+CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=815914873083295
+CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=815914873083295
+RTHK36[直播],https://live.hkdvb.com/hls/live/36.m3u8?token=815914873083295
+
+
+
 🇹🇼台湾频道,#genre#
 TVBS,http://154.216.191.38:8500/live.m3u8?c=1
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
