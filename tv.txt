@@ -30,33 +30,12 @@ RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=815914873098134
 
 
 🇹🇼台湾频道,#genre#
-TVBS,http://154.216.191.38:8500/live.m3u8?c=1
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
-亚洲旅游台,http://37.27.111.214:8080/live/10/hls.m3u8
-民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-国会频道2,http://37.27.111.214:8080/live/104/hls.m3u8
-镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
-寰宇财经新闻,http://37.27.111.214:8080/live/65/hls.m3u8
-中视闽南台,rtmp://f13h.mine.nu/sat/tv091
-台视闽南台,rtmp://f13h.mine.nu/sat/tv071
-华视闽南台,rtmp://f13h.mine.nu/sat/tv111
-东森超视台,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+东森新闻,http://146.56.173.26:9000/live.m3u8?token=Npvs-u7y1&c=194
+东森财经新闻,http://146.56.173.26:9000/live.m3u8?token=Gb14vwrHn&c=195
+中天新闻,http://146.56.173.26:9000/live.m3u8?token=KN8hsnBWQ&c=141
+非凡新闻,http://146.56.173.26:9000/live.m3u8?token=gfXuHtgio&c=142
+TVB翡翠台,http://ali.hlspull.yximgs.com/live/FEICUI6632.flv
+
 
 🇨🇳中央频道,#genre#
 CCTV1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
