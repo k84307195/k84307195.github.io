@@ -1,7 +1,7 @@
 🇭🇰香港地波,#genre#
 鳯凰資訊,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
 鳯凰中文,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
-鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=815914873098134
+鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=815914873018705
 Popc,https://live.hkdvb.com/hls/live/801.m3u8?token=815914873018705
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=815914873018705
 美亞电影,https://live.hkdvb.com/hls/live/802.m3u8?token=815914873018705
