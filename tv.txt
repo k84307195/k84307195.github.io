@@ -45,6 +45,23 @@ HOY TV,http://feng163.com:9003/bysid/77
 HOY 資訊台,http://feng163.com:9003/bysid/78
 
 
+🇭🇰香港临2,#genre#
+凤凰卫视,http://154.201.80.186/mlTW588.php?id=phoenixtv_hd
+凤凰资讯,http://154.201.80.186/mlTW588.php?id=phoenixinfo_hd
+凤凰香港,http://154.201.80.186/mlTW588.php?id=hkphoenix_twn
+TVB翡翠台,http://154.201.80.186/mlTW588.php?id=jade_twn
+TVB华丽台,http://154.201.80.186/mlTW588.php?id=Wlt
+TVBJ2台,http://154.201.80.186/mlTW588.php?id=j2_twn
+TVB明珠台,http://154.201.80.186/mlTW588.php?id=pearl_twn
+TVB星河台,http://154.201.80.186/mlTW588.php?id=Xinhe
+无线新闻台,http://154.201.80.186/mlTW588.php?id=inews_twn
+无线财经台,http://154.201.80.186/mlTW588.php?id=tvbcaijing_twn
+VIUTV,http://154.201.80.186/mlTW588.php?id=viu1_twn
+VIUTV,http://154.201.80.186/mlTW588.php?id=viutv69_hkdavid_twn
+VIUTV6,http://154.201.80.186/mlTW588.php?id=viusix_twn
+RHK31,http://154.201.80.186/mlTW588.php?id=rhk31_twn
+RHK32,http://154.201.80.186/mlTW588.php?id=rhk32_twn
+
 
 🇹🇼台湾频道,#genre#
 东森新闻,http://146.56.173.26:9000/live.m3u8?token=Npvs-u7y1&c=194
