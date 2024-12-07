@@ -29,41 +29,6 @@ RTHK34,https://live.hkdvb.com/hls/live/34.m3u8?token=815914873027890
 RTHK35,https://live.hkdvb.com/hls/live/35.m3u8?token=815914873027890
 RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=815914873027890
 
-🇭🇰香港临时,#genre#
-翡翠台,http://feng163.com:9000/bysid/1
-ViuTVsix,http://feng163.com:9000/bysid/96
-ViuTV,http://feng163.com:9000/bysid/99
-明珠台,http://feng163.com:9001/bysid/2
-J2台,http://feng163.com:9001/bysid/82
-無綫新聞台,http://feng163.com:9001/bysid/83
-無綫財經 體育 資訊台,http://feng163.com:9001/bysid/85
-港台電視 31,http://feng163.com:9002/bysid/31
-港台電視 32,http://feng163.com:9002/bysid/32
-港台電視 33,http://feng163.com:9002/bysid/33
-港台電視 34,http://feng163.com:9002/bysid/34
-HOY 國際財經台,http://feng163.com:9003/bysid/76
-HOY TV,http://feng163.com:9003/bysid/77
-HOY 資訊台,http://feng163.com:9003/bysid/78
-
-
-🇭🇰香港临2,#genre#
-凤凰卫视,http://154.201.80.186/mlTW588.php?id=phoenixtv_hd
-凤凰资讯,http://154.201.80.186/mlTW588.php?id=phoenixinfo_hd
-凤凰香港,http://154.201.80.186/mlTW588.php?id=hkphoenix_twn
-TVB翡翠台,http://154.201.80.186/mlTW588.php?id=jade_twn
-TVB华丽台,http://154.201.80.186/mlTW588.php?id=Wlt
-TVBJ2台,http://154.201.80.186/mlTW588.php?id=j2_twn
-TVB明珠台,http://154.201.80.186/mlTW588.php?id=pearl_twn
-TVB星河台,http://154.201.80.186/mlTW588.php?id=Xinhe
-无线新闻台,http://154.201.80.186/mlTW588.php?id=inews_twn
-无线财经台,http://154.201.80.186/mlTW588.php?id=tvbcaijing_twn
-VIUTV,http://154.201.80.186/mlTW588.php?id=viu1_twn
-VIUTV,http://154.201.80.186/mlTW588.php?id=viutv69_hkdavid_twn
-VIUTV6,http://154.201.80.186/mlTW588.php?id=viusix_twn
-RHK31,http://154.201.80.186/mlTW588.php?id=rhk31_twn
-RHK32,http://154.201.80.186/mlTW588.php?id=rhk32_twn
-
-
 🇹🇼台湾频道,#genre#
 东森新闻,http://146.56.173.26:9000/live.m3u8?token=Npvs-u7y1&c=194
 东森财经新闻,http://146.56.173.26:9000/live.m3u8?token=Gb14vwrHn&c=195
