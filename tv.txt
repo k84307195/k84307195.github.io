@@ -5,6 +5,7 @@
 鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=815914873069345
 珠江台,https://live.hkdvb.com/hls/live/502.m3u8?token=815914873069345
 广东体育,https://live.hkdvb.com/hls/live/503.m3u8?token=815914873069345
+CCM,https://live.hkdvb.com/hls/live/500.m3u8?token=815914873069345
 HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=815914873069345
 Popc,https://live.hkdvb.com/hls/live/206.m3u8?token=815914873069345
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=815914873069345
