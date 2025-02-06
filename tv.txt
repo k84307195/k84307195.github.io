@@ -2,7 +2,7 @@
 
 鳯凰資訊,https://live.hkdvb.com/hls/live/505.m3u8?token=815914873084372
 鳯凰中文,https://live.hkdvb.com/hls/live/504.m3u8?token=815914873084372
-鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=815914873084372
+鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=815914873084372
 CCM,https://live.hkdvb.com/hls/live/500.m3u8?token=815914873084372
 HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=815914873084372
 Popc,https://live.hkdvb.com/hls/live/206.m3u8?token=815914873084372
