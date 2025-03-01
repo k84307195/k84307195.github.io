@@ -151,6 +151,7 @@ CCTV-5+ 体育赛事,https://histar.zapi.us.kg/?id=cctv5plus
 🐟斗鱼轮播,#genre#
 电影频道
 贝爷影厅,http://epg.112114.xyz/douyu/252802
+欧美大片,http://epg.112114.xyz/douyu/428402
 欧美大片1,http://epg.112114.xyz/douyu/20415
 欧美大片2,http://epg.112114.xyz/douyu/2793084
 欧美大片3,http://epg.112114.xyz/douyu/9249162
