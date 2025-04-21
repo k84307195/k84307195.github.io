@@ -387,6 +387,7 @@ CCTV-5+ 体育赛事,https://histar.zapi.us.kg/?id=cctv5plus
 
 🐟斗鱼轮播,#genre#
 电影频道
+粤语电影,https://live.metshop.top/huya/10383963
 漫威君,http://epg.112114.xyz/douyu/1713615
 贝爷影厅,http://epg.112114.xyz/douyu/252802
 欧美大片,http://epg.112114.xyz/douyu/428402
