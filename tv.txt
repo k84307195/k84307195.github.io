@@ -102,6 +102,64 @@ HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 RHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
+
+🇭🇰香港地波1,#genre#
+翡翠台,https://jackmytv.946985.qzz.io/hls/fct/playlist.m3u8
+翡翠台(广电),https://jackcdn6.946985.qzz.io/live/fct/stream.m3u8
+翡翠台4K,https://jackcdn6.946985.qzz.io/live/fct4k/stream.m3u8
+翡翠台4K,https://jacko12.946985.qzz.io/hls/fct4k/playlist.m3u8
+无线新闻台,https://jackcdn6.946985.qzz.io/live/wxxw/stream.m3u8
+无线新闻台,https://jackjackv2h.946985.qzz.io/live/wxxw/stream.m3u8
+明珠台,https://jackcdn6.946985.qzz.io/live/mzt/stream.m3u8
+明珠台,https://jacko12.946985.qzz.io/hls/mzt/playlist.m3u8
+TVB PLUS,https://jackcdn6.946985.qzz.io/live/tvbp/stream.m3u8
+HOY TV,https://jackcdn6.946985.qzz.io/live/hoy/stream.m3u8
+HOY TV,https://jackcdn.946985.qzz.io/live/hoy/stream.m3u8
+ViuTV,https://jackcdn.946985.qzz.io/live/viu/stream.m3u8
+ViuTVSix,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=viusix_twn
+NOW新闻台,https://jackcdn.946985.qzz.io/live/now/stream.m3u8
+RTHK31,https://jackcdn.946985.qzz.io/live/rthk31/stream.m3u8
+RTHK32,https://jackcdn.946985.qzz.io/live/rthk32/stream.m3u8
+澳视澳门,https://jackcdn6.946985.qzz.io/live/asam/stream.m3u8
+澳视卫星,https://jackcdn6.946985.qzz.io/live/as/stream.m3u8
+凤凰中文,https://jackcdn6.946985.qzz.io/live/fhzw/stream.m3u8
+凤凰资讯,https://jackcdn6.946985.qzz.io/live/fhzx/stream.m3u8
+凤凰香港,https://jackcdn6.946985.qzz.io/live/fhhk/stream.m3u8
+CCTV1,https://jackcdn6.946985.qzz.io/live/cctv1/stream.m3u8
+CCTV13,https://jackcdn3.946985.qzz.io/live/cctv13/stream.m3u8
+广东珠江,https://jackcdn2.946985.qzz.io/live/gdzj/stream.m3u8
+广东体育,https://jackcdn2.946985.qzz.io/live/gdty/stream.m3u8
+五星体育,https://jackcdn3.946985.qzz.io/live/wxty/stream.m3u8
+深圳卫视4K,https://jackcdn3.946985.qzz.io/live/szws4k/stream.m3u8
+深圳财经生活,https://jackcdn3.946985.qzz.io/live/szcjsh/stream.m3u8
+第一财经,https://jackcdn3.946985.qzz.io/live/dycj/stream.m3u8
+重温经典,https://jackcdn6.946985.qzz.io/live/cwjd/stream.m3u8
+龙华电影,https://jackcdn8.946985.qzz.io/live/lhdy/stream.m3u8
+龙华经典,https://jackcdn8.946985.qzz.io/live/lhjd/stream.m3u8
+龙华卡通,https://jackcdn8.946985.qzz.io/live/lhkt/stream.m3u8
+龙华偶像,https://jackcdn8.946985.qzz.io/live/lhox/stream.m3u8
+龙华日韩,https://jackcdn8.946985.qzz.io/live/lhrh/stream.m3u8
+龙华戏剧,https://jackcdn8.946985.qzz.io/live/lhxj/stream.m3u8
+龙华洋片,https://jackcdn8.946985.qzz.io/live/lhyp/stream.m3u8
+TVB1,https://jackcdn6.946985.qzz.io/live/tvb1/stream.m3u8
+TVBJ1,https://jackcdn6.946985.qzz.io/live/j1/stream.m3u8
+TVB亚洲武侠,https://jackv2h.946985.qzz.io/live/yzwx/stream.m3u8
+TVB娱乐新闻台,https://jackv2h.946985.qzz.io/live/ylxw/stream.m3u8
+TVB娱乐新闻台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbentertainment
+TVB华丽翡翠台,https://jackv2h.946985.qzz.io/live/hlfct/stream.m3u8
+TVB华丽翡翠台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbjade
+TVB星河,https://jackv2h.946985.qzz.io/live/tvbxh/stream.m3u8
+TVB星河,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Xinhe
+翡翠剧集台,https://jackcdn6.946985.qzz.io/live/tvbd/stream.m3u8
+千禧经典台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbclassic
+美亚电影台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
+天映频道,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Celestial
+天映经典,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Celestial2
+爱奇艺,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Qiyi
+八度空间,https://jackcdn6.946985.qzz.io/live/8tv/stream.m3u8
+
+
+
 🇨🇳中央频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
