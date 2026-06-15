@@ -555,26 +555,6 @@ Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
 
 
 
-
-🇨🇳广东电视,#genre#
-广东珠江HD,http://61.145.208.119:9090/udp/239.77.0.1:5146
-广东体育HD,http://61.145.208.119:9090/udp/239.77.0.112:5146
-广东民生HD,http://61.145.208.119:9090/udp/239.77.0.225:5146
-广州综合HD,http://61.145.208.119:9090/udp/239.253.43.71:5146
-
-
-🇨🇳广州电视,#genre#
-✌️广东|广州综合,http://ddns.cyruslee.top:8888/rtp/239.253.43.66:5146
-✌️广东|广州综合,http://ddns.cyruslee.top:8888/rtp/239.253.43.71:5146
-✌️广东|广州新闻,http://ddns.cyruslee.top:8888/rtp/239.253.43.67:5146
-✌️广东|广州新闻,http://ddns.cyruslee.top:8888/rtp/239.253.43.72:5146
-✌️广东|广州影视,http://ddns.cyruslee.top:8888/rtp/239.253.43.68:5146
-✌️广东|广州影视,http://ddns.cyruslee.top:8888/rtp/239.253.43.73:5146
-✌️广东|广州法治,http://ddns.cyruslee.top:8888/rtp/239.253.43.69:5146
-✌️广东|广州法治,http://ddns.cyruslee.top:8888/rtp/239.253.43.74:5146
-✌️广东|广州竞赛,http://ddns.cyruslee.top:8888/rtp/239.253.43.70:5146
-✌️广东|广州竞赛,http://ddns.cyruslee.top:8888/rtp/239.253.43.75:5146
-
 ⚽️体育频道,#genre#
 CCTV-5 体育,https://histar.zapi.us.kg/?id=cctv5
 CCTV-5+ 体育赛事,https://histar.zapi.us.kg/?id=cctv5plus
